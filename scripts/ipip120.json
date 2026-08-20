@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "N1",
+    "dominio": "neuroticismo",
+    "faceta_en": "anxiety",
+    "alpha": 0.78,
+    "items": [
+      {
+        "texto_en": "Worry about things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Fear for the worst.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am afraid of many things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Get stressed out easily.",
+        "clave": 1
+      }
+    ]
+  },
+  {
+    "codigo": "N2",
+    "dominio": "neuroticismo",
+    "faceta_en": "anger",
+    "alpha": 0.87,
+    "items": [
+      {
+        "texto_en": "Get angry easily.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Get irritated easily.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Lose my temper.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not easily annoyed.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "N3",
+    "dominio": "neuroticismo",
+    "faceta_en": "depression",
+    "alpha": 0.85,
+    "items": [
+      {
+        "texto_en": "Often feel blue.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Dislike myself.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am often down in the dumps.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel comfortable with myself.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "N4",
+    "dominio": "neuroticismo",
+    "faceta_en": "self-consciousness",
+    "alpha": 0.7,
+    "items": [
+      {
+        "texto_en": "Find it difficult to approach others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am afraid to draw attention to myself.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Only feel comfortable with friends.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not bothered by difficult social situations.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "N5",
+    "dominio": "neuroticismo",
+    "faceta_en": "immoderation",
+    "alpha": 0.69,
+    "items": [
+      {
+        "texto_en": "Go on binges.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Rarely overindulge.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Easily resist temptations.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am able to control my cravings.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "N6",
+    "dominio": "neuroticismo",
+    "faceta_en": "vulnerability",
+    "alpha": 0.76,
+    "items": [
+      {
+        "texto_en": "Panic easily.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Become overwhelmed by events.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel that I'm unable to deal with things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Remain calm under pressure.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "E1",
+    "dominio": "extraversion",
+    "faceta_en": "friendliness",
+    "alpha": 0.81,
+    "items": [
+      {
+        "texto_en": "Make friends easily.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel comfortable around people.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Avoid contacts with others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Keep others at a distance.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "E2",
+    "dominio": "extraversion",
+    "faceta_en": "gregariousness",
+    "alpha": 0.79,
+    "items": [
+      {
+        "texto_en": "Love large parties.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Talk to a lot of different people at parties.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Prefer to be alone.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Avoid crowds.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "E3",
+    "dominio": "extraversion",
+    "faceta_en": "assertiveness",
+    "alpha": 0.85,
+    "items": [
+      {
+        "texto_en": "Take charge.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Try to lead others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Take control of things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Wait for others to lead the way.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "E4",
+    "dominio": "extraversion",
+    "faceta_en": "activity level",
+    "alpha": 0.69,
+    "items": [
+      {
+        "texto_en": "Am always busy.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am always on the go.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Do a lot in my spare time.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Like to take it easy.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "E5",
+    "dominio": "extraversion",
+    "faceta_en": "excitement-seeking",
+    "alpha": 0.73,
+    "items": [
+      {
+        "texto_en": "Love excitement.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Seek adventure.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Enjoy being reckless.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Act wild and crazy.",
+        "clave": 1
+      }
+    ]
+  },
+  {
+    "codigo": "E6",
+    "dominio": "extraversion",
+    "faceta_en": "cheerfulness",
+    "alpha": 0.79,
+    "items": [
+      {
+        "texto_en": "Radiate joy.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Have a lot of fun.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Love life.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Look at the bright side of life.",
+        "clave": 1
+      }
+    ]
+  },
+  {
+    "codigo": "O1",
+    "dominio": "apertura",
+    "faceta_en": "imagination",
+    "alpha": 0.74,
+    "items": [
+      {
+        "texto_en": "Have a vivid imagination.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Enjoy wild flights of fantasy.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Love to daydream.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Like to get lost in thought.",
+        "clave": 1
+      }
+    ]
+  },
+  {
+    "codigo": "O2",
+    "dominio": "apertura",
+    "faceta_en": "artistic interests",
+    "alpha": 0.74,
+    "items": [
+      {
+        "texto_en": "Believe in the importance of art.",
+        "clave": 1
+      },
+      {
+        "texto_en": "See beauty in things that others might not notice.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Do not like poetry.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Do not enjoy going to art museums.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "O3",
+    "dominio": "apertura",
+    "faceta_en": "emotionality",
+    "alpha": 0.65,
+    "items": [
+      {
+        "texto_en": "Experience my emotions intensely.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel others' emotions.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Rarely notice my emotional reactions.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Don't understand people who get emotional.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "O4",
+    "dominio": "apertura",
+    "faceta_en": "adventurousness",
+    "alpha": 0.7,
+    "items": [
+      {
+        "texto_en": "Prefer variety to routine.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Prefer to stick with things that I know.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Dislike changes.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am attached to conventional ways.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "O5",
+    "dominio": "apertura",
+    "faceta_en": "intellect",
+    "alpha": 0.73,
+    "items": [
+      {
+        "texto_en": "Love to read challenging material.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Avoid philosophical discussions.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have difficulty understanding abstract ideas.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am not interested in theoretical discussions.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "O6",
+    "dominio": "apertura",
+    "faceta_en": "liberalism",
+    "alpha": 0.63,
+    "items": [
+      {
+        "texto_en": "Tend to vote for liberal political candidates.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Believe that there is no absolute right and wrong.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Tend to vote for conservative political candidates.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Believe that we should be tough on crime.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A1",
+    "dominio": "amabilidad",
+    "faceta_en": "trust",
+    "alpha": 0.85,
+    "items": [
+      {
+        "texto_en": "Trust others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Believe that others have good intentions.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Trust what people say.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Distrust people.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A2",
+    "dominio": "amabilidad",
+    "faceta_en": "morality",
+    "alpha": 0.74,
+    "items": [
+      {
+        "texto_en": "Use others for my own ends.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Cheat to get ahead.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Take advantage of others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Obstruct others' plans.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A3",
+    "dominio": "amabilidad",
+    "faceta_en": "altruism",
+    "alpha": 0.73,
+    "items": [
+      {
+        "texto_en": "Am concerned about others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Love to help others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am indifferent to the feelings of others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Take no time for others.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A4",
+    "dominio": "amabilidad",
+    "faceta_en": "cooperation",
+    "alpha": 0.71,
+    "items": [
+      {
+        "texto_en": "Love a good fight.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Yell at people.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Insult people.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Get back at others.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A5",
+    "dominio": "amabilidad",
+    "faceta_en": "modesty",
+    "alpha": 0.73,
+    "items": [
+      {
+        "texto_en": "Believe that I am better than others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Think highly of myself.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have a high opinion of myself.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Boast about my virtues.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "A6",
+    "dominio": "amabilidad",
+    "faceta_en": "sympathy",
+    "alpha": 0.72,
+    "items": [
+      {
+        "texto_en": "Sympathize with the homeless.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel sympathy for those who are worse off than myself.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not interested in other people's problems.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Try not to think about the needy.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "C1",
+    "dominio": "responsabilidad",
+    "faceta_en": "self-efficacy",
+    "alpha": 0.77,
+    "items": [
+      {
+        "texto_en": "Complete tasks successfully.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Excel in what I do.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Handle tasks smoothly.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Know how to get things done.",
+        "clave": 1
+      }
+    ]
+  },
+  {
+    "codigo": "C2",
+    "dominio": "responsabilidad",
+    "faceta_en": "orderliness",
+    "alpha": 0.83,
+    "items": [
+      {
+        "texto_en": "Like to tidy up.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Often forget to put things back in their proper place.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Leave a mess in my room.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Leave my belongings around.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "C3",
+    "dominio": "responsabilidad",
+    "faceta_en": "dutifulness",
+    "alpha": 0.67,
+    "items": [
+      {
+        "texto_en": "Keep my promises.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Tell the truth.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Break rules.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Break my promises.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "C4",
+    "dominio": "responsabilidad",
+    "faceta_en": "achievement-striving",
+    "alpha": 0.79,
+    "items": [
+      {
+        "texto_en": "Do more than what's expected of me.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Work hard.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Put little time and effort into my work.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Do just enough work to get by.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "C5",
+    "dominio": "responsabilidad",
+    "faceta_en": "self-discipline",
+    "alpha": 0.71,
+    "items": [
+      {
+        "texto_en": "Am always prepared.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Carry out my plans.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Waste my time.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have difficulty starting tasks.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "C6",
+    "dominio": "responsabilidad",
+    "faceta_en": "cautiousness",
+    "alpha": 0.88,
+    "items": [
+      {
+        "texto_en": "Jump into things without thinking.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Make rash decisions.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Rush into things.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Act without thinking.",
+        "clave": -1
+      }
+    ]
+  }
+]

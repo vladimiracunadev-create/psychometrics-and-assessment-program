@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 Vladimir Acuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTA SOBRE LOS BANCOS DE ITEMS
+
+La licencia MIT cubre el codigo, la documentacion y los items de autoria propia
+de este repositorio. Los bancos de items de terceros conservan su propia
+situacion legal, declarada en el campo `procedencia.licencia` de cada archivo
+de `instruments/`:
+
+- IPIP-NEO-120 e IPIP-VIA-R: dominio publico (International Personality Item
+  Pool). Uso libre, comercial o academico, sin permiso ni pago.
+- O*NET Interest Profiler Short Form: dominio publico (obra del gobierno
+  federal de EE. UU., National Center for O*NET Development).
+- DISC Abierto y Valores de Spranger: items originales de este repositorio,
+  bajo la misma licencia MIT.
+
+Este repositorio NO contiene items de instrumentos comerciales protegidos
+(Everything DiSC, DiSC Classic, Thomas PPA, VIA-IS, NEO-PI-R, Study of Values).

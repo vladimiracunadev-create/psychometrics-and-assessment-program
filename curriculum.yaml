@@ -1,0 +1,316 @@
+# Curriculo del programa. Fuente unica de verdad sobre que clases existen
+# y cual es su estado real. scripts/validate_repository.py comprueba que
+# lo declarado aqui coincida con el arbol classes/.
+nombre: Psychometrics and Assessment Program
+version: 0.1.0
+idioma: es
+partes: 8
+clases: 40
+estados:
+  escrita: la clase tiene README, laboratorio ejecutable y bibliografia
+  planificada: el temario esta fijado, el contenido no esta escrito
+temario:
+  - id: "00"
+    slug: fundamentos-de-la-medicion
+    titulo: "Fundamentos de la medición psicológica"
+    nivel: fundamentos
+    semanas: "2-3"
+    descripcion: >-
+      Qué significa medir un atributo que no se puede observar directamente, y qué compromisos asume cualquiera que lo intente.
+    clases:
+      - id: "001"
+        numero: 1
+        titulo: "Qué significa medir lo que no se ve"
+        ruta: classes/part-00-fundamentos-de-la-medicion/001-que-significa-medir-lo-que-no-se-ve
+        horas_estimadas: 4
+        estado: escrita
+      - id: "002"
+        numero: 2
+        titulo: "Del constructo al ítem: cómo nace una pregunta"
+        ruta: classes/part-00-fundamentos-de-la-medicion/002-del-constructo-al-item
+        horas_estimadas: 4
+        estado: escrita
+      - id: "003"
+        numero: 3
+        titulo: "Escalas de medida y qué operaciones permiten"
+        ruta: classes/part-00-fundamentos-de-la-medicion/003-escalas-de-medida-y-sus-operaciones
+        horas_estimadas: 3
+        estado: escrita
+      - id: "004"
+        numero: 4
+        titulo: "Puntaje bruto, media por ítem y por qué no son lo mismo"
+        ruta: classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-item
+        horas_estimadas: 3
+        estado: escrita
+      - id: "005"
+        numero: 5
+        titulo: "Ítems invertidos y sesgo de aquiescencia"
+        ruta: classes/part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiescencia
+        horas_estimadas: 4
+        estado: escrita
+  - id: "01"
+    slug: construccion-de-instrumentos
+    titulo: "Construcción de instrumentos"
+    nivel: fundamentos
+    semanas: "3-4"
+    descripcion: >-
+      Del banco de ítems al cuestionario administrable: redacción, formato de respuesta, longitud y pilotaje.
+    clases:
+      - id: "006"
+        numero: 6
+        titulo: "Redacción de ítems: las reglas y por qué existen"
+        ruta: classes/part-01-construccion-de-instrumentos/006-redaccion-de-items
+        horas_estimadas: 4
+        estado: planificada
+      - id: "007"
+        numero: 7
+        titulo: "Formatos de respuesta: Likert, dicotómico, continuo"
+        ruta: classes/part-01-construccion-de-instrumentos/007-formatos-de-respuesta
+        horas_estimadas: 3
+        estado: planificada
+      - id: "008"
+        numero: 8
+        titulo: "Ipsativo frente a normativo: la trampa de la elección forzada"
+        ruta: classes/part-01-construccion-de-instrumentos/008-ipsativo-vs-normativo
+        horas_estimadas: 4
+        estado: planificada
+      - id: "009"
+        numero: 9
+        titulo: "Longitud del test: el intercambio entre precisión y abandono"
+        ruta: classes/part-01-construccion-de-instrumentos/009-longitud-y-costo-de-medida
+        horas_estimadas: 3
+        estado: planificada
+      - id: "010"
+        numero: 10
+        titulo: "Pilotaje y análisis clásico de ítems"
+        ruta: classes/part-01-construccion-de-instrumentos/010-pilotaje-y-analisis-de-items
+        horas_estimadas: 5
+        estado: planificada
+  - id: "02"
+    slug: fiabilidad
+    titulo: "Fiabilidad"
+    nivel: intermedio
+    semanas: "3-4"
+    descripcion: >-
+      Cuánto del puntaje es señal y cuánto es ruido, y las distintas formas de estimarlo según qué fuente de error preocupe.
+    clases:
+      - id: "011"
+        numero: 11
+        titulo: "La teoría clásica: puntaje verdadero y error"
+        ruta: classes/part-02-fiabilidad/011-teoria-clasica-del-error
+        horas_estimadas: 4
+        estado: planificada
+      - id: "012"
+        numero: 12
+        titulo: "Consistencia interna: alfa de Cronbach y sus abusos"
+        ruta: classes/part-02-fiabilidad/012-consistencia-interna-alfa
+        horas_estimadas: 5
+        estado: planificada
+      - id: "013"
+        numero: 13
+        titulo: "Omega de McDonald y por qué alfa se queda corto"
+        ruta: classes/part-02-fiabilidad/013-omega-y-alternativas-a-alfa
+        horas_estimadas: 4
+        estado: planificada
+      - id: "014"
+        numero: 14
+        titulo: "Test-retest: estabilidad frente a consistencia"
+        ruta: classes/part-02-fiabilidad/014-test-retest-y-estabilidad
+        horas_estimadas: 3
+        estado: planificada
+      - id: "015"
+        numero: 15
+        titulo: "Error típico de medida e intervalos de confianza del puntaje"
+        ruta: classes/part-02-fiabilidad/015-error-tipico-de-medida
+        horas_estimadas: 4
+        estado: planificada
+  - id: "03"
+    slug: validez
+    titulo: "Validez"
+    nivel: intermedio
+    semanas: "4-5"
+    descripcion: >-
+      La pregunta que de verdad importa: qué autoriza a interpretar un puntaje como aquello que se dice que mide.
+    clases:
+      - id: "016"
+        numero: 16
+        titulo: "La validez no es una propiedad del test, es un argumento"
+        ruta: classes/part-03-validez/016-validez-como-argumento
+        horas_estimadas: 4
+        estado: planificada
+      - id: "017"
+        numero: 17
+        titulo: "Validez de contenido y el juicio de expertos"
+        ruta: classes/part-03-validez/017-validez-de-contenido
+        horas_estimadas: 3
+        estado: planificada
+      - id: "018"
+        numero: 18
+        titulo: "Validez de constructo: convergente y discriminante"
+        ruta: classes/part-03-validez/018-validez-de-constructo
+        horas_estimadas: 5
+        estado: planificada
+      - id: "019"
+        numero: 19
+        titulo: "Validez de criterio y validez predictiva"
+        ruta: classes/part-03-validez/019-validez-de-criterio
+        horas_estimadas: 5
+        estado: planificada
+      - id: "020"
+        numero: 20
+        titulo: "La cara olvidada: consecuencias del uso del test"
+        ruta: classes/part-03-validez/020-consecuencias-del-uso
+        horas_estimadas: 4
+        estado: planificada
+  - id: "04"
+    slug: estructura-y-analisis-factorial
+    titulo: "Estructura y análisis factorial"
+    nivel: avanzado
+    semanas: "4-5"
+    descripcion: >-
+      Cómo se somete a prueba la estructura que un instrumento afirma tener, y qué significa que los datos la contradigan.
+    clases:
+      - id: "021"
+        numero: 21
+        titulo: "Correlación, matriz y lo que se puede leer en ella"
+        ruta: classes/part-04-estructura-y-analisis-factorial/021-correlacion-y-matriz
+        horas_estimadas: 4
+        estado: planificada
+      - id: "022"
+        numero: 22
+        titulo: "Análisis factorial exploratorio"
+        ruta: classes/part-04-estructura-y-analisis-factorial/022-analisis-factorial-exploratorio
+        horas_estimadas: 6
+        estado: planificada
+      - id: "023"
+        numero: 23
+        titulo: "Análisis factorial confirmatorio y ajuste"
+        ruta: classes/part-04-estructura-y-analisis-factorial/023-analisis-factorial-confirmatorio
+        horas_estimadas: 6
+        estado: planificada
+      - id: "024"
+        numero: 24
+        titulo: "Modelos circumplejos: el hexágono de Holland como predicción falsable"
+        ruta: classes/part-04-estructura-y-analisis-factorial/024-modelos-circumplejos
+        horas_estimadas: 5
+        estado: planificada
+      - id: "025"
+        numero: 25
+        titulo: "Invarianza de medida entre grupos"
+        ruta: classes/part-04-estructura-y-analisis-factorial/025-invarianza-de-medida
+        horas_estimadas: 6
+        estado: planificada
+  - id: "05"
+    slug: teoria-de-respuesta-al-item
+    titulo: "Teoría de respuesta al ítem"
+    nivel: avanzado
+    semanas: "4-5"
+    descripcion: >-
+      El cambio de paradigma: del puntaje total a la relación entre la persona, el ítem y el rasgo latente.
+    clases:
+      - id: "026"
+        numero: 26
+        titulo: "Los límites que hacen falta superar"
+        ruta: classes/part-05-teoria-de-respuesta-al-item/026-limites-de-la-teoria-clasica
+        horas_estimadas: 4
+        estado: planificada
+      - id: "027"
+        numero: 27
+        titulo: "El modelo de Rasch"
+        ruta: classes/part-05-teoria-de-respuesta-al-item/027-modelo-de-rasch
+        horas_estimadas: 6
+        estado: planificada
+      - id: "028"
+        numero: 28
+        titulo: "Modelos de dos y tres parámetros"
+        ruta: classes/part-05-teoria-de-respuesta-al-item/028-modelos-de-dos-y-tres-parametros
+        horas_estimadas: 6
+        estado: planificada
+      - id: "029"
+        numero: 29
+        titulo: "Función de información: dónde mide bien cada ítem"
+        ruta: classes/part-05-teoria-de-respuesta-al-item/029-informacion-del-item
+        horas_estimadas: 5
+        estado: planificada
+      - id: "030"
+        numero: 30
+        titulo: "Testing adaptativo informatizado"
+        ruta: classes/part-05-teoria-de-respuesta-al-item/030-testing-adaptativo
+        horas_estimadas: 6
+        estado: planificada
+  - id: "06"
+    slug: baremos-sesgo-y-equidad
+    titulo: "Baremos, sesgo y equidad"
+    nivel: avanzado
+    semanas: "3-4"
+    descripcion: >-
+      Qué convierte un puntaje bruto en un percentil, y cómo se detecta que un instrumento mide distinto según a quién se le aplique.
+    clases:
+      - id: "031"
+        numero: 31
+        titulo: "Baremos, percentiles y puntajes tipificados"
+        ruta: classes/part-06-baremos-sesgo-y-equidad/031-baremos-y-percentiles
+        horas_estimadas: 4
+        estado: planificada
+      - id: "032"
+        numero: 32
+        titulo: "La muestra normativa: a quién se compara la persona"
+        ruta: classes/part-06-baremos-sesgo-y-equidad/032-elegir-la-muestra-normativa
+        horas_estimadas: 4
+        estado: planificada
+      - id: "033"
+        numero: 33
+        titulo: "Funcionamiento diferencial del ítem (DIF)"
+        ruta: classes/part-06-baremos-sesgo-y-equidad/033-funcionamiento-diferencial-del-item
+        horas_estimadas: 6
+        estado: planificada
+      - id: "034"
+        numero: 34
+        titulo: "Sesgo predictivo y definiciones de equidad"
+        ruta: classes/part-06-baremos-sesgo-y-equidad/034-sesgo-predictivo-y-equidad
+        horas_estimadas: 5
+        estado: planificada
+      - id: "035"
+        numero: 35
+        titulo: "Adaptación transcultural y equivalencia"
+        ruta: classes/part-06-baremos-sesgo-y-equidad/035-adaptacion-transcultural
+        horas_estimadas: 5
+        estado: planificada
+  - id: "07"
+    slug: uso-responsable-y-certificacion
+    titulo: "Uso responsable y certificación"
+    nivel: profesional
+    semanas: "3-4"
+    descripcion: >-
+      Los estándares que rigen la práctica, qué exige certificarse y qué no se debe hacer nunca con un puntaje.
+    clases:
+      - id: "036"
+        numero: 36
+        titulo: "Los Standards de AERA, APA y NCME"
+        ruta: classes/part-07-uso-responsable-y-certificacion/036-estandares-aera-apa-ncme
+        horas_estimadas: 4
+        estado: planificada
+      - id: "037"
+        numero: 37
+        titulo: "Directrices de la International Test Commission"
+        ruta: classes/part-07-uso-responsable-y-certificacion/037-itc-y-normas-internacionales
+        horas_estimadas: 4
+        estado: planificada
+      - id: "038"
+        numero: 38
+        titulo: "El informe y la devolución de resultados a la persona"
+        ruta: classes/part-07-uso-responsable-y-certificacion/038-informe-y-devolucion
+        horas_estimadas: 4
+        estado: planificada
+      - id: "039"
+        numero: 39
+        titulo: "Uso en selección de personal: qué es defendible"
+        ruta: classes/part-07-uso-responsable-y-certificacion/039-seleccion-de-personal
+        horas_estimadas: 5
+        estado: planificada
+      - id: "040"
+        numero: 40
+        titulo: "Rutas de certificación profesional"
+        ruta: classes/part-07-uso-responsable-y-certificacion/040-certificacion-profesional
+        horas_estimadas: 3
+        estado: planificada

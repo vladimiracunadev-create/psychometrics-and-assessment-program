@@ -1,0 +1,758 @@
+# =========================================================================
+# IPIP-VIA-R - Fortalezas del carácter (24 escalas breves)
+#
+# Los 96 ítems en inglés son DOMINIO PÚBLICO (International Personality
+# Item Pool). El marco conceptual es la clasificación VIA de Peterson y
+# Seligman (2004); estos ítems son la operacionalización abierta de
+# Goldberg, revisada por Bluemke et al. (2021), NO el VIA-IS comercial.
+#
+# Cada fortaleza tiene 4 ítems con clave equilibrada: 2 directos y 2
+# invertidos. Ese equilibrio es lo que contiene el sesgo de aquiescencia,
+# y se verifica en tests/test_instrumentos.py.
+#
+# La traducción al español es de este repositorio y no está baremada.
+# Generado por scripts/build_ipip_via_r.py - no editar a mano.
+# =========================================================================
+codigo: ipip-via-r
+version: "1.0.0"
+nombre:
+  es: Inventario de fortalezas del carácter IPIP-VIA-R
+  en: IPIP-VIA-R Character Strengths Inventory
+descripcion:
+  es: >-
+    Mide las 24 fortalezas del carácter de la clasificación VIA,
+    agrupadas en 6 virtudes. No evalúa rendimiento ni patología:
+    describe qué cualidades del carácter están más presentes en la
+    persona. El resultado útil son las fortalezas de firma, es decir las
+    más altas del propio perfil, no la comparación escala por escala con
+    otras personas.
+  en: >-
+    Measures the 24 VIA character strengths grouped into 6 virtues.
+tipo_respuesta: likert
+ipsativo: false
+duracion_min: [12, 18]
+procedencia:
+  autores: Bluemke, M.; Partsch, M. V.; Saucier, G.; Lechner, C. M.; Goldberg, L. R.
+  anio: 2021
+  fuente: https://ipip.ori.org/IPIP-VIA-R_Key.html
+  licencia: dominio-publico
+  cita: >-
+    Bluemke, M., Partsch, M. V., Saucier, G., & Lechner, C. M. (2021).
+    Circumventing cultural bias in the assessment of character strengths:
+    IPIP-VIA-R short scales. Marco: Peterson, C., & Seligman, M. E. P.
+    (2004). Character Strengths and Virtues.
+  notas:
+    no_es_via_is: >-
+      Este NO es el VIA-IS del VIA Institute, que es propietario. Es la
+      medida abierta del IPIP sobre el mismo marco conceptual.
+    codigo_humor: >-
+      El código original de Humor es HUM y colisiona con el que este
+      archivo asigna a la virtud Humanidad; la fortaleza se declara
+      como HUM_H.
+    fiabilidad: >-
+      Los alfas de varias escalas rondan .50-.60. Con 4 ítems es lo
+      esperable y sirve para describir un perfil, no para decidir sobre
+      una persona. Ver docs/VALIDACION.md.
+opciones:
+  - valor: 1
+    etiqueta: {es: "Muy inexacto", en: "Very Inaccurate"}
+  - valor: 2
+    etiqueta: {es: "Moderadamente inexacto", en: "Moderately Inaccurate"}
+  - valor: 3
+    etiqueta: {es: "Ni inexacto ni exacto", en: "Neither Inaccurate nor Accurate"}
+  - valor: 4
+    etiqueta: {es: "Moderadamente exacto", en: "Moderately Accurate"}
+  - valor: 5
+    etiqueta: {es: "Muy exacto", en: "Very Accurate"}
+escalas:
+  - codigo: SAB
+    nombre: {es: "Sabiduría y conocimiento", en: "Wisdom and Knowledge"}
+    descripcion: {es: "Fortalezas cognitivas: adquirir y usar el conocimiento."}
+  - codigo: ORI
+    padre: SAB
+    nombre: {es: "Creatividad", en: "originality/creativity"}
+    descripcion: {es: "Pensar formas nuevas y productivas de hacer las cosas."}
+  - codigo: CUR
+    padre: SAB
+    nombre: {es: "Curiosidad", en: "curiosity"}
+    descripcion: {es: "Interés abierto por la experiencia y la novedad."}
+  - codigo: JUD
+    padre: SAB
+    nombre: {es: "Juicio crítico", en: "judgment/open-mindedness"}
+    descripcion: {es: "Pensar las cosas a fondo y examinarlas desde varios lados."}
+  - codigo: LOV
+    padre: SAB
+    nombre: {es: "Amor por aprender", en: "love of learning"}
+    descripcion: {es: "Dominar nuevas destrezas y cuerpos de conocimiento."}
+  - codigo: PER
+    padre: SAB
+    nombre: {es: "Perspectiva", en: "perspective/wisdom"}
+    descripcion: {es: "Ofrecer consejo sensato y ver el cuadro completo."}
+  - codigo: COR
+    nombre: {es: "Coraje", en: "Courage"}
+    descripcion: {es: "Fortalezas emocionales para perseguir metas frente a la oposición."}
+  - codigo: VAL
+    padre: COR
+    nombre: {es: "Valentía", en: "valor/bravery/courage"}
+    descripcion: {es: "No retroceder ante la amenaza, el reto o el dolor."}
+  - codigo: IND
+    padre: COR
+    nombre: {es: "Perseverancia", en: "industry/perseverance/persistence"}
+    descripcion: {es: "Terminar lo empezado pese a los obstáculos."}
+  - codigo: INT
+    padre: COR
+    nombre: {es: "Integridad", en: "integrity/honesty/authenticity"}
+    descripcion: {es: "Decir la verdad y presentarse de forma auténtica."}
+  - codigo: ZES
+    padre: COR
+    nombre: {es: "Vitalidad", en: "zest/enthusiasm/vitality"}
+    descripcion: {es: "Encarar la vida con energía y entusiasmo."}
+  - codigo: HUM
+    nombre: {es: "Humanidad", en: "Humanity"}
+    descripcion: {es: "Fortalezas interpersonales de cuidado y cercanía con otras personas."}
+  - codigo: CAP
+    padre: HUM
+    nombre: {es: "Capacidad de amar", en: "capacity for love"}
+    descripcion: {es: "Valorar y sostener vínculos afectivos cercanos."}
+  - codigo: KIN
+    padre: HUM
+    nombre: {es: "Amabilidad", en: "kindness/generosity"}
+    descripcion: {es: "Hacer favores y buenas obras sin que se los pidan."}
+  - codigo: SOC
+    padre: HUM
+    nombre: {es: "Inteligencia social", en: "social/personal/emotional intelligence"}
+    descripcion: {es: "Leer los motivos y sentimientos propios y ajenos."}
+  - codigo: JUS
+    nombre: {es: "Justicia", en: "Justice"}
+    descripcion: {es: "Fortalezas cívicas que sostienen una vida comunitaria sana."}
+  - codigo: CIT
+    padre: JUS
+    nombre: {es: "Trabajo en equipo", en: "citizenship/teamwork"}
+    descripcion: {es: "Lealtad y compromiso con el grupo del que se forma parte."}
+  - codigo: EQU
+    padre: JUS
+    nombre: {es: "Equidad", en: "equity/fairness"}
+    descripcion: {es: "Tratar a todas las personas según el mismo criterio."}
+  - codigo: LEA
+    padre: JUS
+    nombre: {es: "Liderazgo", en: "leadership"}
+    descripcion: {es: "Organizar actividades de grupo y lograr que ocurran."}
+  - codigo: TEM
+    nombre: {es: "Templanza", en: "Temperance"}
+    descripcion: {es: "Fortalezas que protegen contra el exceso."}
+  - codigo: FOR
+    padre: TEM
+    nombre: {es: "Perdón", en: "forgiveness/mercy"}
+    descripcion: {es: "Disposición a dar una segunda oportunidad."}
+  - codigo: MOD
+    padre: TEM
+    nombre: {es: "Modestia", en: "modesty/humility"}
+    descripcion: {es: "Dejar que los logros hablen por sí solos."}
+  - codigo: PRU
+    padre: TEM
+    nombre: {es: "Prudencia", en: "prudence"}
+    descripcion: {es: "Elegir con cuidado; no decir ni hacer lo que luego se lamenta."}
+  - codigo: SEL
+    padre: TEM
+    nombre: {es: "Autorregulación", en: "self-regulation/self-control"}
+    descripcion: {es: "Regular lo que se siente y lo que se hace."}
+  - codigo: TRA
+    nombre: {es: "Trascendencia", en: "Transcendence"}
+    descripcion: {es: "Fortalezas que conectan con algo más grande y dan sentido."}
+  - codigo: APP
+    padre: TRA
+    nombre: {es: "Apreciación de la belleza", en: "appreciation of beauty"}
+    descripcion: {es: "Notar y valorar la belleza y la excelencia."}
+  - codigo: GRA
+    padre: TRA
+    nombre: {es: "Gratitud", en: "gratitude"}
+    descripcion: {es: "Reconocer y agradecer lo bueno que se recibe."}
+  - codigo: HOP
+    padre: TRA
+    nombre: {es: "Esperanza", en: "hope/optimism"}
+    descripcion: {es: "Esperar lo mejor y trabajar para conseguirlo."}
+  - codigo: HUM_H
+    padre: TRA
+    nombre: {es: "Humor", en: "humor/playfulness"}
+    descripcion: {es: "Disposición al juego, la risa y aligerar el ambiente."}
+  - codigo: SPI
+    padre: TRA
+    nombre: {es: "Espiritualidad", en: "spirituality/religiousness"}
+    descripcion: {es: "Tener creencias coherentes sobre el propósito y el sentido."}
+items:
+  - id: v001
+    escala: ORI
+    clave: 1
+    texto:
+      es: "Se me ocurren formas nuevas de hacer las cosas."
+      en: "Come up with new ways to do things."
+  - id: v002
+    escala: ORI
+    clave: 1
+    texto:
+      es: "Pienso de forma original."
+      en: "Am an original thinker."
+  - id: v003
+    escala: ORI
+    clave: -1
+    texto:
+      es: "No se me considera alguien con ideas nuevas y distintas."
+      en: "Am not considered to have new and different ideas."
+  - id: v004
+    escala: ORI
+    clave: -1
+    texto:
+      es: "No siento una necesidad especial de hacer algo original."
+      en: "Have no special urge to do something original."
+  - id: v005
+    escala: CUR
+    clave: 1
+    texto:
+      es: "Me entusiasman actividades muy distintas entre sí."
+      en: "Am excited by many different activities."
+  - id: v006
+    escala: CUR
+    clave: 1
+    texto:
+      es: "Encuentro algo interesante en cualquier situación."
+      en: "Can find something of interest in any situation."
+  - id: v007
+    escala: CUR
+    clave: -1
+    texto:
+      es: "No soy tan curioso respecto del mundo."
+      en: "Am not all that curious about the world."
+  - id: v008
+    escala: CUR
+    clave: -1
+    texto:
+      es: "Tengo pocos intereses."
+      en: "Have few interests."
+  - id: v009
+    escala: JUD
+    clave: 1
+    texto:
+      es: "Sopeso los pros y los contras."
+      en: "Weigh the pro's and the con's."
+  - id: v010
+    escala: JUD
+    clave: 1
+    texto:
+      es: "Mis amigos valoran mi buen criterio."
+      en: "Am valued by my friends for my good judgment."
+  - id: v011
+    escala: JUD
+    clave: -1
+    texto:
+      es: "No suelo analizar las cosas con espíritu crítico."
+      en: "Don't tend to think things through critically."
+  - id: v012
+    escala: JUD
+    clave: -1
+    texto:
+      es: "No considero distintas posibilidades al tomar decisiones."
+      en: "Don't think about different possibilities when making decisions."
+  - id: v013
+    escala: LOV
+    clave: 1
+    texto:
+      es: "Soy alguien que aprende durante toda la vida."
+      en: "Am a true life-long learner."
+  - id: v014
+    escala: LOV
+    clave: 1
+    texto:
+      es: "Me emociona aprender algo nuevo."
+      en: "Am thrilled when I learn something new."
+  - id: v015
+    escala: LOV
+    clave: -1
+    texto:
+      es: "No me gusta aprender cosas nuevas."
+      en: "Don't like to learn new things."
+  - id: v016
+    escala: LOV
+    clave: -1
+    texto:
+      es: "No leo libros de no ficción por gusto."
+      en: "Don't read nonfiction books for fun."
+  - id: v017
+    escala: PER
+    clave: 1
+    texto:
+      es: "Tengo una visión madura de la vida."
+      en: "Have a mature view on life."
+  - id: v018
+    escala: PER
+    clave: 1
+    texto:
+      es: "Se me considera una persona sabia."
+      en: "Am considered to be a wise person."
+  - id: v019
+    escala: PER
+    clave: -1
+    texto:
+      es: "No se me da bien distinguir lo que de verdad importa."
+      en: "Am not good at figuring out what really matters."
+  - id: v020
+    escala: PER
+    clave: -1
+    texto:
+      es: "Rara vez me piden consejo."
+      en: "Am rarely consulted for advice by others."
+  - id: v021
+    escala: VAL
+    clave: 1
+    texto:
+      es: "He tomado postura muchas veces frente a una fuerte oposición."
+      en: "Have taken frequent stands in the face of strong opposition."
+  - id: v022
+    escala: VAL
+    clave: 1
+    texto:
+      es: "No dudo en expresar una opinión impopular."
+      en: "Don't hesitate to express an unpopular opinion."
+  - id: v023
+    escala: VAL
+    clave: -1
+    texto:
+      es: "No defiendo mis convicciones."
+      en: "Do not stand up for my beliefs."
+  - id: v024
+    escala: VAL
+    clave: -1
+    texto:
+      es: "No digo lo que pienso cuando podría traerme consecuencias negativas."
+      en: "Don't speak my mind freely when there might be negative results."
+  - id: v025
+    escala: IND
+    clave: 1
+    texto:
+      es: "No abandono una tarea antes de terminarla."
+      en: "Don't quit a task before it is finished."
+  - id: v026
+    escala: IND
+    clave: 1
+    texto:
+      es: "Termino las cosas a pesar de los obstáculos."
+      en: "Finish things despite obstacles in the way."
+  - id: v027
+    escala: IND
+    clave: -1
+    texto:
+      es: "No termino lo que empiezo."
+      en: "Don't finish what I start."
+  - id: v028
+    escala: IND
+    clave: -1
+    texto:
+      es: "Me rindo con facilidad."
+      en: "Give up easily."
+  - id: v029
+    escala: INT
+    clave: 1
+    texto:
+      es: "Confían en mí para guardar secretos."
+      en: "Am trusted to keep secrets."
+  - id: v030
+    escala: INT
+    clave: 1
+    texto:
+      es: "Cumplo mis promesas."
+      en: "Keep my promises."
+  - id: v031
+    escala: INT
+    clave: -1
+    texto:
+      es: "Miento para librarme de un problema."
+      en: "Lie to get myself out of trouble."
+  - id: v032
+    escala: INT
+    clave: -1
+    texto:
+      es: "Traiciono a quienes han confiado en mí."
+      en: "Cheat on people who have trusted me."
+  - id: v033
+    escala: ZES
+    clave: 1
+    texto:
+      es: "Despierto entusiasmado por lo que el día puede traer."
+      en: "Awaken with a sense of excitement about the day's possibilities."
+  - id: v034
+    escala: ZES
+    clave: 1
+    texto:
+      es: "Espero cada nuevo día con ganas."
+      en: "Look forward to each new day."
+  - id: v035
+    escala: ZES
+    clave: -1
+    texto:
+      es: "Me describen como gruñón."
+      en: "Am described as grumpy."
+  - id: v036
+    escala: ZES
+    clave: -1
+    texto:
+      es: "No tengo mucha energía."
+      en: "Don't have much energy."
+  - id: v037
+    escala: CAP
+    clave: 1
+    texto:
+      es: "Sé que hay personas en mi vida que me quieren tanto como a sí mismas."
+      en: "Know that there are people in my life who care as much for me as for themselves."
+  - id: v038
+    escala: CAP
+    clave: 1
+    texto:
+      es: "Soy capaz de expresarle amor a otra persona."
+      en: "Can express love to someone else."
+  - id: v039
+    escala: CAP
+    clave: -1
+    texto:
+      es: "No comparto fácilmente mis sentimientos con los demás."
+      en: "Do not easily share my feelings with others."
+  - id: v040
+    escala: CAP
+    clave: -1
+    texto:
+      es: "Me cuesta aceptar el cariño de cualquier persona."
+      en: "Have difficulty accepting love from anyone."
+  - id: v041
+    escala: KIN
+    clave: 1
+    texto:
+      es: "Nunca estoy demasiado ocupado para ayudar a un amigo."
+      en: "Am never too busy to help a friend."
+  - id: v042
+    escala: KIN
+    clave: 1
+    texto:
+      es: "Hago un esfuerzo por animar a quien veo decaído."
+      en: "Go out of my way to cheer up people who appear down."
+  - id: v043
+    escala: KIN
+    clave: -1
+    texto:
+      es: "Me impaciento cuando otros me hablan de sus problemas."
+      en: "Get impatient when others talk to me about their problems."
+  - id: v044
+    escala: KIN
+    clave: -1
+    texto:
+      es: "Solo soy amable con quienes han sido amables conmigo."
+      en: "Am only kind to others if they have been kind to me."
+  - id: v045
+    escala: SOC
+    clave: 1
+    texto:
+      es: "Se me da bien percibir lo que sienten los demás."
+      en: "Am good at sensing what others are feeling."
+  - id: v046
+    escala: SOC
+    clave: 1
+    texto:
+      es: "Sé qué decir para que la gente se sienta bien."
+      en: "Know what to say to make people feel good."
+  - id: v047
+    escala: SOC
+    clave: -1
+    texto:
+      es: "No sé cómo comportarme en una situación social nueva."
+      en: "Don't know how to handle myself in a new social situation."
+  - id: v048
+    escala: SOC
+    clave: -1
+    texto:
+      es: "Me cuesta anticipar cómo van a reaccionar los demás."
+      en: "Have trouble guessing how others will react."
+  - id: v049
+    escala: CIT
+    clave: 1
+    texto:
+      es: "Soy una persona extremadamente leal."
+      en: "Am an extremely loyal person."
+  - id: v050
+    escala: CIT
+    clave: 1
+    texto:
+      es: "Apoyo a mis compañeros de equipo o de grupo."
+      en: "Support my teammates or fellow group members."
+  - id: v051
+    escala: CIT
+    clave: -1
+    texto:
+      es: "No se me da bien trabajar en grupo."
+      en: "Am not good at working with a group."
+  - id: v052
+    escala: CIT
+    clave: -1
+    texto:
+      es: "Prefiero hacerlo todo solo."
+      en: "Prefer to do everything alone."
+  - id: v053
+    escala: EQU
+    clave: 1
+    texto:
+      es: "Trato a todas las personas por igual."
+      en: "Treat all people equally."
+  - id: v054
+    escala: EQU
+    clave: 1
+    texto:
+      es: "Creo que los derechos de todas las personas valen lo mismo."
+      en: "Believe that everyone's rights are equally important."
+  - id: v055
+    escala: EQU
+    clave: -1
+    texto:
+      es: "Me aprovecho de los demás."
+      en: "Take advantage of others."
+  - id: v056
+    escala: EQU
+    clave: -1
+    texto:
+      es: "Trato distinto a quienes no me caen bien."
+      en: "Treat others differently if I don't like them."
+  - id: v057
+    escala: LEA
+    clave: 1
+    texto:
+      es: "Se me da bien lograr que la gente trabaje bien junta."
+      en: "Am good at helping people work well together."
+  - id: v058
+    escala: LEA
+    clave: 1
+    texto:
+      es: "Me dicen que soy un líder firme pero justo."
+      en: "Am told that I am a strong but fair leader."
+  - id: v059
+    escala: LEA
+    clave: -1
+    texto:
+      es: "Me cuesta conseguir que los demás trabajen juntos."
+      en: "Have difficulty getting others to work together."
+  - id: v060
+    escala: LEA
+    clave: -1
+    texto:
+      es: "No se me da bien dirigir un grupo."
+      en: "Am not good at taking charge of a group."
+  - id: v061
+    escala: FOR
+    clave: 1
+    texto:
+      es: "Trato de responder con comprensión cuando alguien me trata mal."
+      en: "Try to respond with understanding when someone treats me badly."
+  - id: v062
+    escala: FOR
+    clave: 1
+    texto:
+      es: "Le doy a los demás la oportunidad de empezar de nuevo."
+      en: "Allow others to make a fresh start."
+  - id: v063
+    escala: FOR
+    clave: -1
+    texto:
+      es: "Guardo rencor."
+      en: "Hold grudges."
+  - id: v064
+    escala: FOR
+    clave: -1
+    texto:
+      es: "Me cuesta perdonar a los demás."
+      en: "Find it hard to forgive others."
+  - id: v065
+    escala: MOD
+    clave: 1
+    texto:
+      es: "No presumo de mis logros."
+      en: "Don't brag about my accomplishments."
+  - id: v066
+    escala: MOD
+    clave: 1
+    texto:
+      es: "Nadie me describiría como arrogante."
+      en: "Would never be described as arrogant."
+  - id: v067
+    escala: MOD
+    clave: -1
+    texto:
+      es: "Me gusta destacar entre la gente."
+      en: "Like to stand out in a crowd."
+  - id: v068
+    escala: MOD
+    clave: -1
+    texto:
+      es: "Me gusta hablar de mí mismo."
+      en: "Like to talk about myself."
+  - id: v069
+    escala: PRU
+    clave: 1
+    texto:
+      es: "Creo que siempre es mejor prevenir que lamentar."
+      en: "Believe it is always better to be safe than sorry."
+  - id: v070
+    escala: PRU
+    clave: 1
+    texto:
+      es: "Tomo decisiones con cuidado."
+      en: "Make careful choices."
+  - id: v071
+    escala: PRU
+    clave: -1
+    texto:
+      es: "Actúo antes de pensar en las consecuencias."
+      en: "Act before thinking through the consequences."
+  - id: v072
+    escala: PRU
+    clave: -1
+    texto:
+      es: "Me gusta correr riesgos."
+      en: "Like taking risks."
+  - id: v073
+    escala: SEL
+    clave: 1
+    texto:
+      es: "Soy una persona muy disciplinada."
+      en: "Am a highly disciplined person."
+  - id: v074
+    escala: SEL
+    clave: 1
+    texto:
+      es: "Renuncio a lo que me perjudica a largo plazo aunque a corto plazo me haga sentir bien."
+      en: "Forego things that are bad for me in the long run even if they make me feel good in the short run."
+  - id: v075
+    escala: SEL
+    clave: -1
+    texto:
+      es: "Dejo que me dominen las ganas de gastar o comer en exceso."
+      en: "Let myself be taken over by urges to spend or eat too much."
+  - id: v076
+    escala: SEL
+    clave: -1
+    texto:
+      es: "Cedo ante mis impulsos."
+      en: "Give in to my urges."
+  - id: v077
+    escala: APP
+    clave: 1
+    texto:
+      es: "Siento que es importante vivir en un mundo bello."
+      en: "Feel it's important to live in a world of beauty."
+  - id: v078
+    escala: APP
+    clave: 1
+    texto:
+      es: "Experimento emociones profundas cuando veo cosas bellas."
+      en: "Experience deep emotions when I see beautiful things."
+  - id: v079
+    escala: APP
+    clave: -1
+    texto:
+      es: "Rara vez reparo en la belleza natural del entorno."
+      en: "Am rarely aware of the natural beauty in the environment."
+  - id: v080
+    escala: APP
+    clave: -1
+    texto:
+      es: "No noto la belleza hasta que otros la comentan."
+      en: "Fail to notice beauty until others comment on it."
+  - id: v081
+    escala: GRA
+    clave: 1
+    texto:
+      es: "Le expreso mi agradecimiento a quienes se preocupan por mí."
+      en: "Express my thanks to those who care about me."
+  - id: v082
+    escala: GRA
+    clave: 1
+    texto:
+      es: "Soy una persona extremadamente agradecida."
+      en: "Am an extremely grateful person."
+  - id: v083
+    escala: GRA
+    clave: -1
+    texto:
+      es: "No siento gratitud hacia los demás."
+      en: "Feel no gratitude to others."
+  - id: v084
+    escala: GRA
+    clave: -1
+    texto:
+      es: "Encuentro pocas cosas que agradecer en mi vida."
+      en: "Find few things in my life to be grateful for."
+  - id: v085
+    escala: HOP
+    clave: 1
+    texto:
+      es: "Encuentro lo positivo en lo que a otros les parece negativo."
+      en: "Can find the positive in what seems negative to others."
+  - id: v086
+    escala: HOP
+    clave: 1
+    texto:
+      es: "Mantengo la esperanza a pesar de las dificultades."
+      en: "Remain hopeful despite challenges."
+  - id: v087
+    escala: HOP
+    clave: -1
+    texto:
+      es: "Espero lo peor."
+      en: "Expect the worst."
+  - id: v088
+    escala: HOP
+    clave: -1
+    texto:
+      es: "A menudo pienso en desenlaces malos que es poco probable que ocurran."
+      en: "Often think about the possibility of negative outcomes that are not likely to occur."
+  - id: v089
+    escala: HUM_H
+    clave: 1
+    texto:
+      es: "Uso la risa para alegrarle el día a los demás."
+      en: "Use laughter to brighten the days of others."
+  - id: v090
+    escala: HUM_H
+    clave: 1
+    texto:
+      es: "Conservo el sentido del humor incluso en situaciones sombrías."
+      en: "Keep my sense of humor even in gloomy situations."
+  - id: v091
+    escala: HUM_H
+    clave: -1
+    texto:
+      es: "No soy conocido por mi sentido del humor."
+      en: "Am not known for my sense of humor."
+  - id: v092
+    escala: HUM_H
+    clave: -1
+    texto:
+      es: "No soy una compañía divertida."
+      en: "Am not fun to be with."
+  - id: v093
+    escala: SPI
+    clave: 1
+    texto:
+      es: "Soy una persona espiritual."
+      en: "Am a spiritual person."
+  - id: v094
+    escala: SPI
+    clave: 1
+    texto:
+      es: "Creo que cada persona tiene un propósito en la vida."
+      en: "Believe that each person has a purpose in life."
+  - id: v095
+    escala: SPI
+    clave: -1
+    texto:
+      es: "Siento que la vida no tiene sentido."
+      en: "Feel that life has no meaning."
+  - id: v096
+    escala: SPI
+    clave: -1
+    texto:
+      es: "No creo en un poder universal ni en un Dios."
+      en: "Do not believe in a universal power or a God."

@@ -1,0 +1,65 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pruebas:
+    name: Pruebas (Python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Instalar
+        run: python -m pip install -e ".[dev]"
+      - name: Lint
+        run: python -m ruff check src tests scripts
+      - name: Pruebas
+        run: python -m pytest
+
+  catalogo:
+    name: Validar catalogo de instrumentos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -e .
+      - name: Validar instrumentos
+        run: python -m psychometrics.cli validar
+      - name: Coherencia entre lo que el repositorio afirma y lo que contiene
+        run: python scripts/validate_repository.py
+
+  reproducible:
+    name: Los instrumentos generados coinciden con su generador
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -e .
+      - name: Regenerar desde los bancos parseados
+        run: |
+          python scripts/build_ipip_neo_120.py
+          python scripts/build_ipip_via_r.py
+      - name: El arbol de trabajo debe quedar limpio
+        run: |
+          if ! git diff --exit-code -- instruments/; then
+            echo "::error::Los YAML generados no coinciden con su generador. Ejecuta 'make construir' y commitea el resultado."
+            exit 1
+          fi

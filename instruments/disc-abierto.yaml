@@ -1,0 +1,235 @@
+# =========================================================================
+# DISC Abierto - Estilos conductuales (D, I, S, C)
+#
+# ADVERTENCIA DE PROCEDENCIA - LEER ANTES DE USAR
+#
+# El MODELO DISC es de dominio público: William Moulton Marston lo describió en
+# "Emotions of Normal People" (1928) y nunca construyó ni registró un test.
+# Los instrumentos comerciales que hoy se venden bajo ese nombre (Everything
+# DiSC de Wiley, DiSC Classic, Thomas PPA y otros) SÍ están protegidos por
+# derechos de autor, y sus ítems NO aparecen aquí ni deben copiarse.
+#
+# Los 32 ítems de este archivo son de AUTORÍA PROPIA de este repositorio,
+# escritos desde cero sobre las cuatro dimensiones del modelo teórico. No son
+# una traducción, adaptación ni derivación de ningún instrumento comercial.
+#
+# ESTADO PSICOMÉTRICO: SIN VALIDAR.
+# No existe estudio de estructura factorial, fiabilidad ni validez de criterio
+# para este banco. Sirve para enseñar cómo se construye un instrumento y para
+# investigación propia. NO debe usarse para decidir sobre personas —selección,
+# promoción, despido— hasta que exista evidencia. Ver docs/VALIDACION.md.
+#
+# POR QUÉ ES NORMATIVO Y NO IPSATIVO
+# La mayoría de los DISC comerciales usan elección forzada, que produce
+# puntajes ipsativos: solo comparables dentro de la misma persona, y que violan
+# los supuestos del análisis factorial y de la correlación. Aquí se usa Likert
+# normativa a propósito, para que los puntajes sean comparables entre personas
+# y auditables estadísticamente. Ver classes/part-02.../ipsativo-vs-normativo.
+# =========================================================================
+codigo: disc-abierto
+version: "0.1.0"
+nombre:
+  es: DISC Abierto - Estilos conductuales
+  en: Open DISC - Behavioral Styles
+descripcion:
+  es: >-
+    Describe cuatro estilos de conducta observable en el trabajo: Dominancia,
+    Influencia, Estabilidad y Cumplimiento. No mide personalidad profunda ni
+    capacidad: describe cómo tiende a comportarse una persona, sobre todo bajo
+    presión y en equipo. Es el instrumento con menor respaldo empírico del
+    catálogo y está incluido para poder estudiar, precisamente, qué distingue a
+    un instrumento validado de uno que no lo está.
+  en: >-
+    Describes four observable behavioral styles at work, following Marston's
+    public-domain model. Original items, not psychometrically validated.
+tipo_respuesta: likert
+ipsativo: false
+duracion_min: [8, 12]
+procedencia:
+  autores: psychometrics-and-assessment-program (ítems propios)
+  anio: 2026
+  fuente: https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program
+  licencia: autoria-propia
+  cita: >-
+    Modelo teórico: Marston, W. M. (1928). Emotions of Normal People. Los ítems
+    son originales de este repositorio y se publican bajo la licencia MIT del
+    proyecto.
+  notas:
+    sin_validar: >-
+      Banco sin estudio de validación. No usar para decisiones sobre personas.
+    no_deriva_de_comerciales: >-
+      Ningún ítem procede de Everything DiSC, DiSC Classic, Thomas PPA ni de
+      ningún otro instrumento con derechos reservados.
+    evidencia_del_modelo: >-
+      El propio modelo DISC tiene respaldo psicométrico débil comparado con los
+      Cinco Grandes. Se incluye por su uso extendido en RR. HH., no por su
+      calidad de medida.
+opciones:
+  - valor: 1
+    etiqueta: {es: "Nada característico de mí", en: "Not at all like me"}
+  - valor: 2
+    etiqueta: {es: "Poco característico", en: "Slightly like me"}
+  - valor: 3
+    etiqueta: {es: "A veces", en: "Sometimes like me"}
+  - valor: 4
+    etiqueta: {es: "Bastante característico", en: "Mostly like me"}
+  - valor: 5
+    etiqueta: {es: "Muy característico de mí", en: "Very much like me"}
+escalas:
+  - codigo: D
+    nombre: {es: "Dominancia", en: "Dominance"}
+    descripcion:
+      {es: "Cómo se afronta el problema y el desafío: ritmo, franqueza, apetito de control."}
+    polo_bajo: {es: "Prudente al decidir, evita la confrontación, prefiere consultar antes de actuar."}
+    polo_alto: {es: "Decide rápido, va al grano y asume el mando ante la dificultad."}
+  - codigo: I
+    nombre: {es: "Influencia", en: "Influence"}
+    descripcion:
+      {es: "Cómo se relaciona y se persuade: expresividad, optimismo, orientación a la gente."}
+    polo_bajo: {es: "Reservado y sobrio; convence con datos antes que con entusiasmo."}
+    polo_alto: {es: "Expresivo y persuasivo; construye apoyo por la vía del vínculo."}
+  - codigo: S
+    nombre: {es: "Estabilidad", en: "Steadiness"}
+    descripcion:
+      {es: "Cómo se responde al ritmo y al cambio: constancia, paciencia, necesidad de previsibilidad."}
+    polo_bajo: {es: "Se mueve bien en la urgencia y el cambio; le pesa la rutina."}
+    polo_alto: {es: "Constante y paciente; rinde donde hay continuidad y reglas del juego estables."}
+  - codigo: C
+    nombre: {es: "Cumplimiento", en: "Conscientiousness"}
+    descripcion:
+      {es: "Cómo se responde a la norma y al detalle: precisión, análisis, apego al procedimiento."}
+    polo_bajo: {es: "Tolera la ambigüedad y el error; prioriza avanzar sobre afinar."}
+    polo_alto: {es: "Meticuloso y analítico; verifica antes de comprometerse."}
+items:
+  # --- Dominancia (4 directos, 4 invertidos) ----------------------------
+  - id: d01
+    escala: D
+    clave: 1
+    texto: {es: "Cuando algo se atasca, tomo yo la decisión.", en: "When things stall, I make the call."}
+  - id: d02
+    escala: D
+    clave: 1
+    texto: {es: "Digo lo que pienso aunque incomode.", en: "I say what I think even when it is uncomfortable."}
+  - id: d03
+    escala: D
+    clave: 1
+    texto: {es: "Me crecen las ganas cuando el objetivo es exigente.", en: "A demanding target energizes me."}
+  - id: d04
+    escala: D
+    clave: 1
+    texto: {es: "Prefiero equivocarme rápido antes que quedarme quieto.", en: "I would rather be wrong fast than stand still."}
+  - id: d05
+    escala: D
+    clave: -1
+    texto: {es: "Evito discutir aunque tenga argumentos.", en: "I avoid arguing even when I have a case."}
+  - id: d06
+    escala: D
+    clave: -1
+    texto: {es: "Espero a que otro tome la iniciativa.", en: "I wait for someone else to take the lead."}
+  - id: d07
+    escala: D
+    clave: -1
+    texto: {es: "Me incomoda tener que dar una orden.", en: "Giving an order makes me uncomfortable."}
+  - id: d08
+    escala: D
+    clave: -1
+    texto: {es: "Suavizo lo que quiero decir para no generar roce.", en: "I soften my point to avoid friction."}
+  # --- Influencia -------------------------------------------------------
+  - id: i01
+    escala: I
+    clave: 1
+    texto: {es: "Me resulta fácil entusiasmar a otros con una idea.", en: "I easily get others excited about an idea."}
+  - id: i02
+    escala: I
+    clave: 1
+    texto: {es: "Converso con desconocidos sin esfuerzo.", en: "I strike up conversations with strangers easily."}
+  - id: i03
+    escala: I
+    clave: 1
+    texto: {es: "Cuento con una red amplia de contactos a la que recurrir.", en: "I have a wide network I can call on."}
+  - id: i04
+    escala: I
+    clave: 1
+    texto: {es: "Transmito optimismo incluso cuando el panorama es malo.", en: "I project optimism even when the outlook is poor."}
+  - id: i05
+    escala: I
+    clave: -1
+    texto: {es: "Prefiero que mi trabajo hable por mí antes que exponerlo.", en: "I would rather my work spoke for me than present it."}
+  - id: i06
+    escala: I
+    clave: -1
+    texto: {es: "Las reuniones con mucha gente me agotan.", en: "Crowded meetings drain me."}
+  - id: i07
+    escala: I
+    clave: -1
+    texto: {es: "Me cuesta arrancar una conversación informal.", en: "I find small talk hard to start."}
+  - id: i08
+    escala: I
+    clave: -1
+    texto: {es: "Convenzo con datos, no con energía.", en: "I persuade with data, not with energy."}
+  # --- Estabilidad ------------------------------------------------------
+  - id: s01
+    escala: S
+    clave: 1
+    texto: {es: "Sostengo el mismo ritmo durante mucho tiempo.", en: "I keep the same pace over long stretches."}
+  - id: s02
+    escala: S
+    clave: 1
+    texto: {es: "Escucho hasta el final antes de responder.", en: "I listen all the way through before answering."}
+  - id: s03
+    escala: S
+    clave: 1
+    texto: {es: "Prefiero un plan conocido a uno nuevo y prometedor.", en: "I prefer a known plan over a promising new one."}
+  - id: s04
+    escala: S
+    clave: 1
+    texto: {es: "La gente acude a mí cuando necesita calma.", en: "People come to me when they need calm."}
+  - id: s05
+    escala: S
+    clave: -1
+    texto: {es: "Me aburro si el trabajo no cambia.", en: "I get bored when work does not change."}
+  - id: s06
+    escala: S
+    clave: -1
+    texto: {es: "Cambio de prioridad a mitad de camino sin problema.", en: "I switch priorities midway without trouble."}
+  - id: s07
+    escala: S
+    clave: -1
+    texto: {es: "Me impaciento cuando el proceso es lento.", en: "I get impatient when the process is slow."}
+  - id: s08
+    escala: S
+    clave: -1
+    texto: {es: "Interrumpo cuando ya sé a dónde va la conversación.", en: "I interrupt once I see where the conversation is going."}
+  # --- Cumplimiento -----------------------------------------------------
+  - id: c01
+    escala: C
+    clave: 1
+    texto: {es: "Reviso el detalle antes de dar algo por terminado.", en: "I check the details before calling something done."}
+  - id: c02
+    escala: C
+    clave: 1
+    texto: {es: "Necesito entender el criterio antes de aplicar una regla.", en: "I need to understand the rationale before applying a rule."}
+  - id: c03
+    escala: C
+    clave: 1
+    texto: {es: "Documento lo que hago para que quede trazable.", en: "I document my work so it can be traced."}
+  - id: c04
+    escala: C
+    clave: 1
+    texto: {es: "Un error de precisión me molesta aunque no tenga consecuencias.", en: "An inaccuracy bothers me even when it is harmless."}
+  - id: c05
+    escala: C
+    clave: -1
+    texto: {es: "Entrego aunque queden cabos sueltos.", en: "I ship even with loose ends."}
+  - id: c06
+    escala: C
+    clave: -1
+    texto: {es: "Los procedimientos formales me parecen una pérdida de tiempo.", en: "Formal procedures feel like wasted time."}
+  - id: c07
+    escala: C
+    clave: -1
+    texto: {es: "Trabajo bien sin instrucciones claras.", en: "I work well without clear instructions."}
+  - id: c08
+    escala: C
+    clave: -1
+    texto: {es: "Prefiero improvisar antes que seguir una lista de control.", en: "I would rather improvise than follow a checklist."}

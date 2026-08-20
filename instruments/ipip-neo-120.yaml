@@ -1,0 +1,955 @@
+# =========================================================================
+# IPIP-NEO-120 - Inventario de personalidad de los Cinco Grandes
+#
+# Los 120 ítems en inglés son DOMINIO PÚBLICO (International Personality
+# Item Pool). Pueden usarse y redistribuirse sin permiso ni pago, con
+# fines comerciales o académicos.
+#
+# La traducción al español es de este repositorio y NO está baremada: los
+# percentiles de Johnson (2014) se calcularon sobre la versión inglesa.
+# Usar el formulario en español para puntuación normativa exige un estudio
+# de validación propio. Ver docs/VALIDACION.md.
+#
+# Generado por scripts/build_ipip_neo_120.py - no editar a mano.
+# =========================================================================
+codigo: ipip-neo-120
+version: "1.0.0"
+nombre:
+  es: Inventario de personalidad IPIP-NEO-120
+  en: IPIP-NEO-120 Personality Inventory
+descripcion:
+  es: >-
+    Mide los cinco grandes factores de personalidad desglosados en 30
+    facetas, cuatro ítems por faceta. Es la versión de dominio público
+    más completa del modelo de los Cinco Grandes y el instrumento con
+    mejor respaldo empírico del catálogo.
+  en: >-
+    Measures the Five Factor Model across 30 facets with four items each.
+tipo_respuesta: likert
+ipsativo: false
+duracion_min: [20, 30]
+procedencia:
+  autores: Johnson, J. A.; International Personality Item Pool (Goldberg)
+  anio: 2014
+  fuente: https://ipip.ori.org/30FacetNEO-PI-RItems.htm
+  licencia: dominio-publico
+  cita: >-
+    Johnson, J. A. (2014). Measuring thirty facets of the Five Factor Model
+    with a 120-item public domain inventory: Development of the
+    IPIP-NEO-120. Journal of Research in Personality, 51, 78-89.
+  notas:
+    muestra: >-
+      Alfas de Cronbach calculados sobre una muestra de internet de
+      N = 619.150 personas.
+    traduccion: >-
+      El texto en español es traducción de trabajo de este repositorio,
+      sin estudio de equivalencia transcultural. No hereda los baremos
+      originales.
+opciones:
+  - valor: 1
+    etiqueta: {es: "Muy inexacto", en: "Very Inaccurate"}
+  - valor: 2
+    etiqueta: {es: "Moderadamente inexacto", en: "Moderately Inaccurate"}
+  - valor: 3
+    etiqueta: {es: "Ni inexacto ni exacto", en: "Neither Inaccurate nor Accurate"}
+  - valor: 4
+    etiqueta: {es: "Moderadamente exacto", en: "Moderately Accurate"}
+  - valor: 5
+    etiqueta: {es: "Muy exacto", en: "Very Accurate"}
+escalas:
+  - codigo: N
+    nombre: {es: "Neuroticismo", en: "Neuroticism"}
+    descripcion: {es: "Tendencia a experimentar emociones negativas: ansiedad, ira, tristeza y estrés."}
+    polo_bajo: {es: "Serena bajo presión, poco reactiva emocionalmente, rara vez se altera."}
+    polo_alto: {es: "Reacciona con intensidad ante la amenaza y el contratiempo; el estrés le pesa."}
+  - codigo: N1
+    padre: N
+    nombre: {es: "Ansiedad", en: "anxiety"}
+    descripcion: {es: "Nivel de preocupación, tensión y anticipación de amenazas."}
+    alfa: 0.78
+  - codigo: N2
+    padre: N
+    nombre: {es: "Ira", en: "anger"}
+    descripcion: {es: "Facilidad para sentir enfado y frustración ante la contrariedad."}
+    alfa: 0.87
+  - codigo: N3
+    padre: N
+    nombre: {es: "Depresión", en: "depression"}
+    descripcion: {es: "Tendencia al desánimo, la tristeza y el desaliento."}
+    alfa: 0.85
+  - codigo: N4
+    padre: N
+    nombre: {es: "Timidez social", en: "self-consciousness"}
+    descripcion: {es: "Incomodidad y vergüenza ante la mirada de los demás."}
+    alfa: 0.7
+  - codigo: N5
+    padre: N
+    nombre: {es: "Inmoderación", en: "immoderation"}
+    descripcion: {es: "Dificultad para resistir impulsos, antojos y excesos."}
+    alfa: 0.69
+  - codigo: N6
+    padre: N
+    nombre: {es: "Vulnerabilidad", en: "vulnerability"}
+    descripcion: {es: "Capacidad de sostenerse frente a la presión y la urgencia."}
+    alfa: 0.76
+  - codigo: E
+    nombre: {es: "Extraversión", en: "Extraversion"}
+    descripcion: {es: "Cantidad e intensidad de la interacción social y de la emoción positiva."}
+    polo_bajo: {es: "Reservada, prefiere entornos tranquilos, grupos pequeños o el trabajo a solas."}
+    polo_alto: {es: "Sociable, enérgica y expresiva; se recarga en compañía de otras personas."}
+  - codigo: E1
+    padre: E
+    nombre: {es: "Cordialidad", en: "friendliness"}
+    descripcion: {es: "Facilidad y calidez en el trato cercano con otras personas."}
+    alfa: 0.81
+  - codigo: E2
+    padre: E
+    nombre: {es: "Gregarismo", en: "gregariousness"}
+    descripcion: {es: "Preferencia por la compañía numerosa frente a la soledad."}
+    alfa: 0.79
+  - codigo: E3
+    padre: E
+    nombre: {es: "Asertividad", en: "assertiveness"}
+    descripcion: {es: "Tendencia a tomar la iniciativa, dirigir y hacerse oír."}
+    alfa: 0.85
+  - codigo: E4
+    padre: E
+    nombre: {es: "Nivel de actividad", en: "activity level"}
+    descripcion: {es: "Ritmo vital, ocupación y necesidad de estar en movimiento."}
+    alfa: 0.69
+  - codigo: E5
+    padre: E
+    nombre: {es: "Búsqueda de emociones", en: "excitement-seeking"}
+    descripcion: {es: "Necesidad de estimulación intensa, riesgo y novedad."}
+    alfa: 0.73
+  - codigo: E6
+    padre: E
+    nombre: {es: "Alegría", en: "cheerfulness"}
+    descripcion: {es: "Frecuencia e intensidad de la emoción positiva y el entusiasmo."}
+    alfa: 0.79
+  - codigo: O
+    nombre: {es: "Apertura a la experiencia", en: "Openness to Experience"}
+    descripcion: {es: "Amplitud, profundidad y originalidad de la vida mental y experiencial."}
+    polo_bajo: {es: "Práctica, concreta y convencional; prefiere lo probado a lo novedoso."}
+    polo_alto: {es: "Curiosa, imaginativa y receptiva a ideas, arte y formas de vida distintas."}
+  - codigo: O1
+    padre: O
+    nombre: {es: "Imaginación", en: "imagination"}
+    descripcion: {es: "Riqueza de la fantasía y de la vida interior."}
+    alfa: 0.74
+  - codigo: O2
+    padre: O
+    nombre: {es: "Intereses artísticos", en: "artistic interests"}
+    descripcion: {es: "Sensibilidad a la belleza, el arte y la forma."}
+    alfa: 0.74
+  - codigo: O3
+    padre: O
+    nombre: {es: "Emotividad", en: "emotionality"}
+    descripcion: {es: "Conciencia y valoración de las propias emociones y las ajenas."}
+    alfa: 0.65
+  - codigo: O4
+    padre: O
+    nombre: {es: "Espíritu aventurero", en: "adventurousness"}
+    descripcion: {es: "Disposición a probar lo nuevo y salir de la rutina."}
+    alfa: 0.7
+  - codigo: O5
+    padre: O
+    nombre: {es: "Intelecto", en: "intellect"}
+    descripcion: {es: "Gusto por las ideas abstractas, el debate y el desafío mental."}
+    alfa: 0.73
+  - codigo: O6
+    padre: O
+    nombre: {es: "Liberalismo", en: "liberalism"}
+    descripcion: {es: "Disposición a cuestionar la autoridad, la norma y la tradición."}
+    alfa: 0.63
+  - codigo: A
+    nombre: {es: "Amabilidad", en: "Agreeableness"}
+    descripcion: {es: "Orientación prosocial frente a antagonismo en el trato con los demás."}
+    polo_bajo: {es: "Competitiva, escéptica y directa; antepone su criterio al consenso."}
+    polo_alto: {es: "Cooperativa, confiada y considerada; busca la armonía."}
+  - codigo: A1
+    padre: A
+    nombre: {es: "Confianza", en: "trust"}
+    descripcion: {es: "Supuesto de buena fe en las intenciones de los demás."}
+    alfa: 0.85
+  - codigo: A2
+    padre: A
+    nombre: {es: "Honestidad", en: "morality"}
+    descripcion: {es: "Franqueza y rechazo a la manipulación en beneficio propio."}
+    alfa: 0.74
+  - codigo: A3
+    padre: A
+    nombre: {es: "Altruismo", en: "altruism"}
+    descripcion: {es: "Disposición activa a ayudar y ocuparse de los demás."}
+    alfa: 0.73
+  - codigo: A4
+    padre: A
+    nombre: {es: "Cooperación", en: "cooperation"}
+    descripcion: {es: "Preferencia por evitar el conflicto y ceder para acordar."}
+    alfa: 0.71
+  - codigo: A5
+    padre: A
+    nombre: {es: "Modestia", en: "modesty"}
+    descripcion: {es: "Tendencia a no exhibir ni sobrevalorar los propios méritos."}
+    alfa: 0.73
+  - codigo: A6
+    padre: A
+    nombre: {es: "Empatía", en: "sympathy"}
+    descripcion: {es: "Sensibilidad ante el sufrimiento y la desventaja ajena."}
+    alfa: 0.72
+  - codigo: C
+    nombre: {es: "Responsabilidad", en: "Conscientiousness"}
+    descripcion: {es: "Grado de organización, persistencia y control de impulsos dirigido a metas."}
+    polo_bajo: {es: "Espontánea y flexible; le cuesta la rutina y la planificación sostenida."}
+    polo_alto: {es: "Organizada, perseverante y fiable; planifica y termina lo que empieza."}
+  - codigo: C1
+    padre: C
+    nombre: {es: "Autoeficacia", en: "self-efficacy"}
+    descripcion: {es: "Confianza en la propia competencia para sacar el trabajo adelante."}
+    alfa: 0.77
+  - codigo: C2
+    padre: C
+    nombre: {es: "Orden", en: "orderliness"}
+    descripcion: {es: "Necesidad de estructura, limpieza y organización del entorno."}
+    alfa: 0.83
+  - codigo: C3
+    padre: C
+    nombre: {es: "Sentido del deber", en: "dutifulness"}
+    descripcion: {es: "Apego a los compromisos, las reglas y la palabra dada."}
+    alfa: 0.67
+  - codigo: C4
+    padre: C
+    nombre: {es: "Orientación al logro", en: "achievement-striving"}
+    descripcion: {es: "Ambición, esfuerzo y exigencia sobre el propio rendimiento."}
+    alfa: 0.79
+  - codigo: C5
+    padre: C
+    nombre: {es: "Autodisciplina", en: "self-discipline"}
+    descripcion: {es: "Capacidad de empezar y sostener una tarea hasta terminarla."}
+    alfa: 0.71
+  - codigo: C6
+    padre: C
+    nombre: {es: "Cautela", en: "cautiousness"}
+    descripcion: {es: "Deliberación previa a la acción; freno a la decisión impulsiva."}
+    alfa: 0.88
+items:
+  - id: q001
+    escala: N1
+    clave: 1
+    texto:
+      es: "Me preocupo por las cosas."
+      en: "Worry about things."
+  - id: q002
+    escala: N1
+    clave: 1
+    texto:
+      es: "Temo que ocurra lo peor."
+      en: "Fear for the worst."
+  - id: q003
+    escala: N1
+    clave: 1
+    texto:
+      es: "Le tengo miedo a muchas cosas."
+      en: "Am afraid of many things."
+  - id: q004
+    escala: N1
+    clave: 1
+    texto:
+      es: "Me estreso con facilidad."
+      en: "Get stressed out easily."
+  - id: q005
+    escala: N2
+    clave: 1
+    texto:
+      es: "Me enojo con facilidad."
+      en: "Get angry easily."
+  - id: q006
+    escala: N2
+    clave: 1
+    texto:
+      es: "Me irrito con facilidad."
+      en: "Get irritated easily."
+  - id: q007
+    escala: N2
+    clave: 1
+    texto:
+      es: "Pierdo los estribos."
+      en: "Lose my temper."
+  - id: q008
+    escala: N2
+    clave: -1
+    texto:
+      es: "No me molesto con facilidad."
+      en: "Am not easily annoyed."
+  - id: q009
+    escala: N3
+    clave: 1
+    texto:
+      es: "A menudo me siento decaído."
+      en: "Often feel blue."
+  - id: q010
+    escala: N3
+    clave: 1
+    texto:
+      es: "No me gusto a mí mismo."
+      en: "Dislike myself."
+  - id: q011
+    escala: N3
+    clave: 1
+    texto:
+      es: "A menudo ando por el suelo."
+      en: "Am often down in the dumps."
+  - id: q012
+    escala: N3
+    clave: -1
+    texto:
+      es: "Me siento a gusto conmigo mismo."
+      en: "Feel comfortable with myself."
+  - id: q013
+    escala: N4
+    clave: 1
+    texto:
+      es: "Me cuesta acercarme a los demás."
+      en: "Find it difficult to approach others."
+  - id: q014
+    escala: N4
+    clave: 1
+    texto:
+      es: "Me da miedo llamar la atención."
+      en: "Am afraid to draw attention to myself."
+  - id: q015
+    escala: N4
+    clave: 1
+    texto:
+      es: "Solo me siento cómodo con mis amigos."
+      en: "Only feel comfortable with friends."
+  - id: q016
+    escala: N4
+    clave: -1
+    texto:
+      es: "Las situaciones sociales difíciles no me incomodan."
+      en: "Am not bothered by difficult social situations."
+  - id: q017
+    escala: N5
+    clave: 1
+    texto:
+      es: "Caigo en excesos."
+      en: "Go on binges."
+  - id: q018
+    escala: N5
+    clave: -1
+    texto:
+      es: "Rara vez me excedo."
+      en: "Rarely overindulge."
+  - id: q019
+    escala: N5
+    clave: -1
+    texto:
+      es: "Resisto las tentaciones con facilidad."
+      en: "Easily resist temptations."
+  - id: q020
+    escala: N5
+    clave: -1
+    texto:
+      es: "Soy capaz de controlar mis antojos."
+      en: "Am able to control my cravings."
+  - id: q021
+    escala: N6
+    clave: 1
+    texto:
+      es: "Entro en pánico con facilidad."
+      en: "Panic easily."
+  - id: q022
+    escala: N6
+    clave: 1
+    texto:
+      es: "Los acontecimientos me sobrepasan."
+      en: "Become overwhelmed by events."
+  - id: q023
+    escala: N6
+    clave: 1
+    texto:
+      es: "Siento que no soy capaz de manejar las cosas."
+      en: "Feel that I'm unable to deal with things."
+  - id: q024
+    escala: N6
+    clave: -1
+    texto:
+      es: "Mantengo la calma bajo presión."
+      en: "Remain calm under pressure."
+  - id: q025
+    escala: E1
+    clave: 1
+    texto:
+      es: "Hago amigos con facilidad."
+      en: "Make friends easily."
+  - id: q026
+    escala: E1
+    clave: 1
+    texto:
+      es: "Me siento cómodo rodeado de gente."
+      en: "Feel comfortable around people."
+  - id: q027
+    escala: E1
+    clave: -1
+    texto:
+      es: "Evito el contacto con los demás."
+      en: "Avoid contacts with others."
+  - id: q028
+    escala: E1
+    clave: -1
+    texto:
+      es: "Mantengo a los demás a distancia."
+      en: "Keep others at a distance."
+  - id: q029
+    escala: E2
+    clave: 1
+    texto:
+      es: "Me encantan las fiestas multitudinarias."
+      en: "Love large parties."
+  - id: q030
+    escala: E2
+    clave: 1
+    texto:
+      es: "En las fiestas hablo con mucha gente distinta."
+      en: "Talk to a lot of different people at parties."
+  - id: q031
+    escala: E2
+    clave: -1
+    texto:
+      es: "Prefiero estar solo."
+      en: "Prefer to be alone."
+  - id: q032
+    escala: E2
+    clave: -1
+    texto:
+      es: "Evito las aglomeraciones."
+      en: "Avoid crowds."
+  - id: q033
+    escala: E3
+    clave: 1
+    texto:
+      es: "Tomo el mando."
+      en: "Take charge."
+  - id: q034
+    escala: E3
+    clave: 1
+    texto:
+      es: "Trato de liderar a los demás."
+      en: "Try to lead others."
+  - id: q035
+    escala: E3
+    clave: 1
+    texto:
+      es: "Tomo el control de las cosas."
+      en: "Take control of things."
+  - id: q036
+    escala: E3
+    clave: -1
+    texto:
+      es: "Espero a que otros marquen el camino."
+      en: "Wait for others to lead the way."
+  - id: q037
+    escala: E4
+    clave: 1
+    texto:
+      es: "Siempre estoy ocupado."
+      en: "Am always busy."
+  - id: q038
+    escala: E4
+    clave: 1
+    texto:
+      es: "Siempre estoy en movimiento."
+      en: "Am always on the go."
+  - id: q039
+    escala: E4
+    clave: 1
+    texto:
+      es: "Hago muchas cosas en mi tiempo libre."
+      en: "Do a lot in my spare time."
+  - id: q040
+    escala: E4
+    clave: -1
+    texto:
+      es: "Me gusta tomármelo con calma."
+      en: "Like to take it easy."
+  - id: q041
+    escala: E5
+    clave: 1
+    texto:
+      es: "Me encanta la emoción fuerte."
+      en: "Love excitement."
+  - id: q042
+    escala: E5
+    clave: 1
+    texto:
+      es: "Busco la aventura."
+      en: "Seek adventure."
+  - id: q043
+    escala: E5
+    clave: 1
+    texto:
+      es: "Disfruto siendo temerario."
+      en: "Enjoy being reckless."
+  - id: q044
+    escala: E5
+    clave: 1
+    texto:
+      es: "Me comporto de forma alocada."
+      en: "Act wild and crazy."
+  - id: q045
+    escala: E6
+    clave: 1
+    texto:
+      es: "Irradio alegría."
+      en: "Radiate joy."
+  - id: q046
+    escala: E6
+    clave: 1
+    texto:
+      es: "Me divierto mucho."
+      en: "Have a lot of fun."
+  - id: q047
+    escala: E6
+    clave: 1
+    texto:
+      es: "Amo la vida."
+      en: "Love life."
+  - id: q048
+    escala: E6
+    clave: 1
+    texto:
+      es: "Le veo el lado bueno a la vida."
+      en: "Look at the bright side of life."
+  - id: q049
+    escala: O1
+    clave: 1
+    texto:
+      es: "Tengo una imaginación vívida."
+      en: "Have a vivid imagination."
+  - id: q050
+    escala: O1
+    clave: 1
+    texto:
+      es: "Disfruto dejando volar la fantasía."
+      en: "Enjoy wild flights of fantasy."
+  - id: q051
+    escala: O1
+    clave: 1
+    texto:
+      es: "Me encanta soñar despierto."
+      en: "Love to daydream."
+  - id: q052
+    escala: O1
+    clave: 1
+    texto:
+      es: "Me gusta perderme en mis pensamientos."
+      en: "Like to get lost in thought."
+  - id: q053
+    escala: O2
+    clave: 1
+    texto:
+      es: "Creo en la importancia del arte."
+      en: "Believe in the importance of art."
+  - id: q054
+    escala: O2
+    clave: 1
+    texto:
+      es: "Veo belleza en cosas que otros no notarían."
+      en: "See beauty in things that others might not notice."
+  - id: q055
+    escala: O2
+    clave: -1
+    texto:
+      es: "No me gusta la poesía."
+      en: "Do not like poetry."
+  - id: q056
+    escala: O2
+    clave: -1
+    texto:
+      es: "No disfruto ir a museos de arte."
+      en: "Do not enjoy going to art museums."
+  - id: q057
+    escala: O3
+    clave: 1
+    texto:
+      es: "Vivo mis emociones con intensidad."
+      en: "Experience my emotions intensely."
+  - id: q058
+    escala: O3
+    clave: 1
+    texto:
+      es: "Siento las emociones de los demás."
+      en: "Feel others' emotions."
+  - id: q059
+    escala: O3
+    clave: -1
+    texto:
+      es: "Rara vez noto mis reacciones emocionales."
+      en: "Rarely notice my emotional reactions."
+  - id: q060
+    escala: O3
+    clave: -1
+    texto:
+      es: "No entiendo a la gente que se pone emotiva."
+      en: "Don't understand people who get emotional."
+  - id: q061
+    escala: O4
+    clave: 1
+    texto:
+      es: "Prefiero la variedad a la rutina."
+      en: "Prefer variety to routine."
+  - id: q062
+    escala: O4
+    clave: -1
+    texto:
+      es: "Prefiero quedarme con lo que ya conozco."
+      en: "Prefer to stick with things that I know."
+  - id: q063
+    escala: O4
+    clave: -1
+    texto:
+      es: "Me disgustan los cambios."
+      en: "Dislike changes."
+  - id: q064
+    escala: O4
+    clave: -1
+    texto:
+      es: "Soy apegado a las formas convencionales."
+      en: "Am attached to conventional ways."
+  - id: q065
+    escala: O5
+    clave: 1
+    texto:
+      es: "Me encanta leer material exigente."
+      en: "Love to read challenging material."
+  - id: q066
+    escala: O5
+    clave: -1
+    texto:
+      es: "Evito las discusiones filosóficas."
+      en: "Avoid philosophical discussions."
+  - id: q067
+    escala: O5
+    clave: -1
+    texto:
+      es: "Me cuesta entender las ideas abstractas."
+      en: "Have difficulty understanding abstract ideas."
+  - id: q068
+    escala: O5
+    clave: -1
+    texto:
+      es: "No me interesan las discusiones teóricas."
+      en: "Am not interested in theoretical discussions."
+  - id: q069
+    escala: O6
+    clave: 1
+    texto:
+      es: "Suelo votar por candidatos políticos progresistas."
+      en: "Tend to vote for liberal political candidates."
+  - id: q070
+    escala: O6
+    clave: 1
+    texto:
+      es: "Creo que no existe un bien y un mal absolutos."
+      en: "Believe that there is no absolute right and wrong."
+  - id: q071
+    escala: O6
+    clave: -1
+    texto:
+      es: "Suelo votar por candidatos políticos conservadores."
+      en: "Tend to vote for conservative political candidates."
+  - id: q072
+    escala: O6
+    clave: -1
+    texto:
+      es: "Creo que hay que ser duro con la delincuencia."
+      en: "Believe that we should be tough on crime."
+  - id: q073
+    escala: A1
+    clave: 1
+    texto:
+      es: "Confío en los demás."
+      en: "Trust others."
+  - id: q074
+    escala: A1
+    clave: 1
+    texto:
+      es: "Creo que los demás tienen buenas intenciones."
+      en: "Believe that others have good intentions."
+  - id: q075
+    escala: A1
+    clave: 1
+    texto:
+      es: "Confío en lo que dice la gente."
+      en: "Trust what people say."
+  - id: q076
+    escala: A1
+    clave: -1
+    texto:
+      es: "Desconfío de la gente."
+      en: "Distrust people."
+  - id: q077
+    escala: A2
+    clave: -1
+    texto:
+      es: "Uso a los demás para mis propios fines."
+      en: "Use others for my own ends."
+  - id: q078
+    escala: A2
+    clave: -1
+    texto:
+      es: "Hago trampa para salir adelante."
+      en: "Cheat to get ahead."
+  - id: q079
+    escala: A2
+    clave: -1
+    texto:
+      es: "Me aprovecho de los demás."
+      en: "Take advantage of others."
+  - id: q080
+    escala: A2
+    clave: -1
+    texto:
+      es: "Obstaculizo los planes de los demás."
+      en: "Obstruct others' plans."
+  - id: q081
+    escala: A3
+    clave: 1
+    texto:
+      es: "Me preocupo por los demás."
+      en: "Am concerned about others."
+  - id: q082
+    escala: A3
+    clave: 1
+    texto:
+      es: "Me encanta ayudar a los demás."
+      en: "Love to help others."
+  - id: q083
+    escala: A3
+    clave: -1
+    texto:
+      es: "Me son indiferentes los sentimientos de los demás."
+      en: "Am indifferent to the feelings of others."
+  - id: q084
+    escala: A3
+    clave: -1
+    texto:
+      es: "No dedico tiempo a los demás."
+      en: "Take no time for others."
+  - id: q085
+    escala: A4
+    clave: -1
+    texto:
+      es: "Me gusta una buena pelea."
+      en: "Love a good fight."
+  - id: q086
+    escala: A4
+    clave: -1
+    texto:
+      es: "Le grito a la gente."
+      en: "Yell at people."
+  - id: q087
+    escala: A4
+    clave: -1
+    texto:
+      es: "Insulto a la gente."
+      en: "Insult people."
+  - id: q088
+    escala: A4
+    clave: -1
+    texto:
+      es: "Me desquito con los demás."
+      en: "Get back at others."
+  - id: q089
+    escala: A5
+    clave: -1
+    texto:
+      es: "Creo que soy mejor que los demás."
+      en: "Believe that I am better than others."
+  - id: q090
+    escala: A5
+    clave: -1
+    texto:
+      es: "Tengo un alto concepto de mí mismo."
+      en: "Think highly of myself."
+  - id: q091
+    escala: A5
+    clave: -1
+    texto:
+      es: "Tengo una opinión muy buena de mí mismo."
+      en: "Have a high opinion of myself."
+  - id: q092
+    escala: A5
+    clave: -1
+    texto:
+      es: "Presumo de mis virtudes."
+      en: "Boast about my virtues."
+  - id: q093
+    escala: A6
+    clave: 1
+    texto:
+      es: "Me compadezco de las personas sin hogar."
+      en: "Sympathize with the homeless."
+  - id: q094
+    escala: A6
+    clave: 1
+    texto:
+      es: "Siento compasión por quienes están peor que yo."
+      en: "Feel sympathy for those who are worse off than myself."
+  - id: q095
+    escala: A6
+    clave: -1
+    texto:
+      es: "No me interesan los problemas de los demás."
+      en: "Am not interested in other people's problems."
+  - id: q096
+    escala: A6
+    clave: -1
+    texto:
+      es: "Trato de no pensar en los necesitados."
+      en: "Try not to think about the needy."
+  - id: q097
+    escala: C1
+    clave: 1
+    texto:
+      es: "Completo las tareas con éxito."
+      en: "Complete tasks successfully."
+  - id: q098
+    escala: C1
+    clave: 1
+    texto:
+      es: "Destaco en lo que hago."
+      en: "Excel in what I do."
+  - id: q099
+    escala: C1
+    clave: 1
+    texto:
+      es: "Manejo las tareas sin dificultad."
+      en: "Handle tasks smoothly."
+  - id: q100
+    escala: C1
+    clave: 1
+    texto:
+      es: "Sé cómo sacar las cosas adelante."
+      en: "Know how to get things done."
+  - id: q101
+    escala: C2
+    clave: 1
+    texto:
+      es: "Me gusta ordenar."
+      en: "Like to tidy up."
+  - id: q102
+    escala: C2
+    clave: -1
+    texto:
+      es: "A menudo olvido dejar las cosas en su lugar."
+      en: "Often forget to put things back in their proper place."
+  - id: q103
+    escala: C2
+    clave: -1
+    texto:
+      es: "Dejo mi habitación hecha un desorden."
+      en: "Leave a mess in my room."
+  - id: q104
+    escala: C2
+    clave: -1
+    texto:
+      es: "Dejo mis cosas tiradas por ahí."
+      en: "Leave my belongings around."
+  - id: q105
+    escala: C3
+    clave: 1
+    texto:
+      es: "Cumplo mis promesas."
+      en: "Keep my promises."
+  - id: q106
+    escala: C3
+    clave: 1
+    texto:
+      es: "Digo la verdad."
+      en: "Tell the truth."
+  - id: q107
+    escala: C3
+    clave: -1
+    texto:
+      es: "Rompo las reglas."
+      en: "Break rules."
+  - id: q108
+    escala: C3
+    clave: -1
+    texto:
+      es: "Incumplo mis promesas."
+      en: "Break my promises."
+  - id: q109
+    escala: C4
+    clave: 1
+    texto:
+      es: "Hago más de lo que se espera de mí."
+      en: "Do more than what's expected of me."
+  - id: q110
+    escala: C4
+    clave: 1
+    texto:
+      es: "Trabajo duro."
+      en: "Work hard."
+  - id: q111
+    escala: C4
+    clave: -1
+    texto:
+      es: "Dedico poco tiempo y esfuerzo a mi trabajo."
+      en: "Put little time and effort into my work."
+  - id: q112
+    escala: C4
+    clave: -1
+    texto:
+      es: "Hago solo lo justo para salir del paso."
+      en: "Do just enough work to get by."
+  - id: q113
+    escala: C5
+    clave: 1
+    texto:
+      es: "Siempre estoy preparado."
+      en: "Am always prepared."
+  - id: q114
+    escala: C5
+    clave: 1
+    texto:
+      es: "Llevo a cabo mis planes."
+      en: "Carry out my plans."
+  - id: q115
+    escala: C5
+    clave: -1
+    texto:
+      es: "Pierdo el tiempo."
+      en: "Waste my time."
+  - id: q116
+    escala: C5
+    clave: -1
+    texto:
+      es: "Me cuesta empezar las tareas."
+      en: "Have difficulty starting tasks."
+  - id: q117
+    escala: C6
+    clave: -1
+    texto:
+      es: "Me lanzo a las cosas sin pensar."
+      en: "Jump into things without thinking."
+  - id: q118
+    escala: C6
+    clave: -1
+    texto:
+      es: "Tomo decisiones precipitadas."
+      en: "Make rash decisions."
+  - id: q119
+    escala: C6
+    clave: -1
+    texto:
+      es: "Me precipito en las cosas."
+      en: "Rush into things."
+  - id: q120
+    escala: C6
+    clave: -1
+    texto:
+      es: "Actúo sin pensar."
+      en: "Act without thinking."

@@ -1,0 +1,351 @@
+# =========================================================================
+# O*NET Interest Profiler Short Form - Intereses vocacionales RIASEC
+#
+# Los 60 ítems son obra del National Center for O*NET Development, patrocinada
+# por el U.S. Department of Labor. Como obra del gobierno federal de EE. UU. son
+# DOMINIO PÚBLICO y pueden redistribuirse libremente.
+#
+# Texto en inglés transcrito del Apéndice B (página 35) de:
+#   https://www.onetcenter.org/dl_files/IPSF_PP.pdf
+#
+# La traducción al español es de este repositorio: adapta actividades laborales
+# al contexto hispanohablante y NO hereda los baremos originales. Ver
+# docs/VALIDACION.md.
+#
+# NOTA SOBRE EL FORMATO DE RESPUESTA
+# La versión lápiz-y-papel usa marcado binario (marca las que te gustaría
+# hacer). La versión web usa una Likert de 5 puntos. Aquí se implementa la
+# Likert de 5 puntos, que es la forma canónica del IP-SF y conserva más
+# información; el modo binario se obtiene dicotomizando en >= 4.
+# =========================================================================
+codigo: onet-riasec-sf
+version: "1.0.0"
+nombre:
+  es: Perfil de intereses vocacionales O*NET (forma breve)
+  en: O*NET Interest Profiler Short Form
+descripcion:
+  es: >-
+    Mide los seis tipos de interés vocacional del modelo de Holland (RIASEC) a
+    partir de 60 actividades laborales concretas. No evalúa aptitud ni
+    personalidad: mide qué tipo de trabajo resulta atractivo. Es el inventario
+    de intereses vocacionales más usado del mundo y la base del sistema de
+    exploración ocupacional del Departamento del Trabajo de EE. UU.
+  en: >-
+    Assesses vocational interests according to Holland's RIASEC types using 60
+    concrete work activities.
+tipo_respuesta: likert
+ipsativo: false
+duracion_min: [10, 15]
+procedencia:
+  autores: Rounds, J.; Su, R.; Lewis, P.; Rivkin, D.; National Center for O*NET Development
+  anio: 2010
+  fuente: https://www.onetcenter.org/dl_files/IPSF_PP.pdf
+  licencia: dominio-publico
+  cita: >-
+    Rounds, J., Su, R., Lewis, P., & Rivkin, D. (2010). O*NET Interest Profiler
+    Short Form Psychometric Characteristics: Summary. National Center for O*NET
+    Development. Marco teórico: Holland, J. L. (1997). Making Vocational
+    Choices (3.ª ed.).
+  notas:
+    marco: >-
+      Los seis tipos se ordenan en un hexágono: los adyacentes correlacionan
+      más que los opuestos. Esa estructura circumpleja es la predicción
+      falsable del modelo y se verifica en tests/test_riasec.py.
+    codigo_holland: >-
+      El resultado útil son las tres puntuaciones más altas en orden, el
+      "código Holland" de tres letras, no la puntuación aislada de cada escala.
+    traduccion: >-
+      Traducción de trabajo de este repositorio, sin estudio de equivalencia
+      transcultural.
+opciones:
+  - valor: 1
+    etiqueta: {es: "Me disgusta mucho", en: "Strongly Dislike"}
+  - valor: 2
+    etiqueta: {es: "Me disgusta", en: "Dislike"}
+  - valor: 3
+    etiqueta: {es: "Me da igual", en: "Unsure"}
+  - valor: 4
+    etiqueta: {es: "Me gusta", en: "Like"}
+  - valor: 5
+    etiqueta: {es: "Me gusta mucho", en: "Strongly Like"}
+escalas:
+  - codigo: R
+    nombre: {es: "Realista", en: "Realistic"}
+    descripcion:
+      {es: "Trabajo práctico y concreto: herramientas, máquinas, materiales, exterior."}
+    polo_bajo: {es: "Poco atractivo el trabajo manual, técnico o al aire libre."}
+    polo_alto:
+      {es: "Prefiere construir, reparar y operar cosas físicas antes que tratar con ideas o personas."}
+    alfa: 0.90
+  - codigo: I
+    nombre: {es: "Investigador", en: "Investigative"}
+    descripcion:
+      {es: "Trabajo de análisis: observar, investigar, experimentar, resolver problemas."}
+    polo_bajo: {es: "Poco interés por la indagación sistemática y el trabajo científico."}
+    polo_alto: {es: "Se orienta a entender por qué ocurren las cosas; disfruta el problema abierto."}
+    alfa: 0.93
+  - codigo: A
+    nombre: {es: "Artístico", en: "Artistic"}
+    descripcion:
+      {es: "Trabajo de creación y expresión: forma, lenguaje, sonido, imagen."}
+    polo_bajo: {es: "Prefiere marcos definidos a la creación libre y ambigua."}
+    polo_alto: {es: "Necesita crear y expresar; le pesa el trabajo repetitivo y pautado."}
+    alfa: 0.93
+  - codigo: S
+    nombre: {es: "Social", en: "Social"}
+    descripcion:
+      {es: "Trabajo con personas: enseñar, cuidar, orientar, ayudar."}
+    polo_bajo: {es: "Prefiere trabajar con datos u objetos antes que con personas."}
+    polo_alto: {es: "Se realiza acompañando el desarrollo o el bienestar de otros."}
+    alfa: 0.93
+  - codigo: E
+    nombre: {es: "Emprendedor", en: "Enterprising"}
+    descripcion:
+      {es: "Trabajo de influencia: liderar, vender, negociar, emprender."}
+    polo_bajo: {es: "Incómodo en roles de venta, negociación o mando."}
+    polo_alto: {es: "Busca dirigir, persuadir y asumir riesgo económico."}
+    alfa: 0.90
+  - codigo: C
+    nombre: {es: "Convencional", en: "Conventional"}
+    descripcion:
+      {es: "Trabajo de orden: datos, registros, procedimientos, precisión."}
+    polo_bajo: {es: "Le pesa el procedimiento estricto y el trabajo administrativo."}
+    polo_alto: {es: "Rinde donde hay reglas claras, registros exactos y rutina ordenada."}
+    alfa: 0.91
+items:
+  # --- Realista ---------------------------------------------------------
+  - id: r01
+    escala: R
+    texto: {es: "Fabricar muebles de cocina.", en: "Build kitchen cabinets"}
+  - id: r02
+    escala: R
+    texto:
+      es: "Conducir un camión repartiendo paquetes a oficinas y domicilios."
+      en: "Drive a truck to deliver packages to offices and homes"
+  - id: r03
+    escala: R
+    texto: {es: "Colocar ladrillos o cerámica.", en: "Lay brick or tile"}
+  - id: r04
+    escala: R
+    texto:
+      es: "Controlar la calidad de las piezas antes de despacharlas."
+      en: "Test the quality of parts before shipment"
+  - id: r05
+    escala: R
+    texto: {es: "Reparar electrodomésticos.", en: "Repair household appliances"}
+  - id: r06
+    escala: R
+    texto: {es: "Reparar e instalar cerraduras.", en: "Repair and install locks"}
+  - id: r07
+    escala: R
+    texto: {es: "Criar peces en una piscicultura.", en: "Raise fish in a fish hatchery"}
+  - id: r08
+    escala: R
+    texto:
+      es: "Poner en marcha y operar máquinas para fabricar productos."
+      en: "Set up and operate machines to make products"
+  - id: r09
+    escala: R
+    texto: {es: "Ensamblar componentes electrónicos.", en: "Assemble electronic parts"}
+  - id: r10
+    escala: R
+    texto: {es: "Apagar incendios forestales.", en: "Put out forest fires"}
+  # --- Investigador -----------------------------------------------------
+  - id: i01
+    escala: I
+    texto: {es: "Desarrollar un medicamento nuevo.", en: "Develop a new medicine"}
+  - id: i02
+    escala: I
+    texto: {es: "Investigar la causa de un incendio.", en: "Investigate the cause of a fire"}
+  - id: i03
+    escala: I
+    texto:
+      es: "Estudiar formas de reducir la contaminación del agua."
+      en: "Study ways to reduce water pollution"
+  - id: i04
+    escala: I
+    texto:
+      es: "Desarrollar un método para predecir mejor el clima."
+      en: "Develop a way to better predict the weather"
+  - id: i05
+    escala: I
+    texto: {es: "Realizar experimentos químicos.", en: "Conduct chemical experiments"}
+  - id: i06
+    escala: I
+    texto: {es: "Trabajar en un laboratorio de biología.", en: "Work in a biology lab"}
+  - id: i07
+    escala: I
+    texto: {es: "Estudiar el movimiento de los planetas.", en: "Study the movement of planets"}
+  - id: i08
+    escala: I
+    texto: {es: "Inventar un sustituto del azúcar.", en: "Invent a replacement for sugar"}
+  - id: i09
+    escala: I
+    texto:
+      es: "Examinar muestras de sangre con un microscopio."
+      en: "Examine blood samples using a microscope"
+  - id: i10
+    escala: I
+    texto:
+      es: "Hacer análisis de laboratorio para identificar enfermedades."
+      en: "Do laboratory tests to identify diseases"
+  # --- Artístico --------------------------------------------------------
+  - id: a01
+    escala: A
+    texto: {es: "Escribir libros u obras de teatro.", en: "Write books or plays"}
+  - id: a02
+    escala: A
+    texto: {es: "Pintar decorados para obras de teatro.", en: "Paint sets for plays"}
+  - id: a03
+    escala: A
+    texto: {es: "Tocar un instrumento musical.", en: "Play a musical instrument"}
+  - id: a04
+    escala: A
+    texto:
+      es: "Escribir guiones para cine o televisión."
+      en: "Write scripts for movies or television shows"
+  - id: a05
+    escala: A
+    texto: {es: "Componer o arreglar música.", en: "Compose or arrange music"}
+  - id: a06
+    escala: A
+    texto: {es: "Bailar jazz o claqué.", en: "Perform jazz or tap dance"}
+  - id: a07
+    escala: A
+    texto: {es: "Dibujar.", en: "Draw pictures"}
+  - id: a08
+    escala: A
+    texto: {es: "Cantar en una banda.", en: "Sing in a band"}
+  - id: a09
+    escala: A
+    texto:
+      es: "Crear efectos especiales para películas."
+      en: "Create special effects for movies"
+  - id: a10
+    escala: A
+    texto: {es: "Editar películas.", en: "Edit movies"}
+  # --- Social -----------------------------------------------------------
+  - id: s01
+    escala: S
+    texto:
+      es: "Enseñar a una persona una rutina de ejercicios."
+      en: "Teach an individual an exercise routine"
+  - id: s02
+    escala: S
+    texto:
+      es: "Enseñar a niños a practicar deportes."
+      en: "Teach children how to play sports"
+  - id: s03
+    escala: S
+    texto:
+      es: "Ayudar a personas con problemas personales o emocionales."
+      en: "Help people with personal or emotional problems"
+  - id: s04
+    escala: S
+    texto:
+      es: "Enseñar lengua de señas a personas sordas o con pérdida auditiva."
+      en: "Teach sign language to people who are deaf or hard of hearing"
+  - id: s05
+    escala: S
+    texto: {es: "Orientar a personas en su carrera.", en: "Give career guidance to people"}
+  - id: s06
+    escala: S
+    texto:
+      es: "Colaborar en la conducción de una terapia de grupo."
+      en: "Help conduct a group therapy session"
+  - id: s07
+    escala: S
+    texto: {es: "Realizar terapia de rehabilitación.", en: "Perform rehabilitation therapy"}
+  - id: s08
+    escala: S
+    texto:
+      es: "Cuidar niños en una sala cuna o jardín infantil."
+      en: "Take care of children at a day-care center"
+  - id: s09
+    escala: S
+    texto:
+      es: "Hacer voluntariado en una organización sin fines de lucro."
+      en: "Do volunteer work at a non-profit organization"
+  - id: s10
+    escala: S
+    texto: {es: "Hacer clases en un liceo o colegio.", en: "Teach a high-school class"}
+  # --- Emprendedor ------------------------------------------------------
+  - id: e01
+    escala: E
+    texto: {es: "Comprar y vender acciones y bonos.", en: "Buy and sell stocks and bonds"}
+  - id: e02
+    escala: E
+    texto: {es: "Negociar contratos comerciales.", en: "Negotiate business contracts"}
+  - id: e03
+    escala: E
+    texto: {es: "Administrar una tienda minorista.", en: "Manage a retail store"}
+  - id: e04
+    escala: E
+    texto: {es: "Representar a un cliente en un juicio.", en: "Represent a client in a lawsuit"}
+  - id: e05
+    escala: E
+    texto:
+      es: "Manejar un salón de belleza o una barbería."
+      en: "Operate a beauty salon or barber shop"
+  - id: e06
+    escala: E
+    texto: {es: "Lanzar al mercado una línea de ropa.", en: "Market a new line of clothing"}
+  - id: e07
+    escala: E
+    texto:
+      es: "Dirigir un departamento dentro de una gran empresa."
+      en: "Manage a department within a large company"
+  - id: e08
+    escala: E
+    texto:
+      es: "Vender productos en una tienda por departamentos."
+      en: "Sell merchandise at a department store"
+  - id: e09
+    escala: E
+    texto: {es: "Crear tu propia empresa.", en: "Start your own business"}
+  - id: e10
+    escala: E
+    texto: {es: "Administrar una tienda de ropa.", en: "Manage a clothing store"}
+  # --- Convencional -----------------------------------------------------
+  - id: c01
+    escala: C
+    texto:
+      es: "Construir una planilla de cálculo con software."
+      en: "Develop a spreadsheet using computer software"
+  - id: c02
+    escala: C
+    texto:
+      es: "Calcular las remuneraciones de los empleados."
+      en: "Calculate the wages of employees"
+  - id: c03
+    escala: C
+    texto: {es: "Revisar y corregir registros o formularios.", en: "Proofread records or forms"}
+  - id: c04
+    escala: C
+    texto:
+      es: "Inventariar suministros con un dispositivo portátil."
+      en: "Inventory supplies using a hand-held computer"
+  - id: c05
+    escala: C
+    texto:
+      es: "Instalar software en los equipos de una red grande."
+      en: "Install software across computers on a large network"
+  - id: c06
+    escala: C
+    texto: {es: "Registrar el pago de arriendos.", en: "Record rent payments"}
+  - id: c07
+    escala: C
+    texto: {es: "Operar una calculadora.", en: "Operate a calculator"}
+  - id: c08
+    escala: C
+    texto: {es: "Llevar registros de inventario.", en: "Keep inventory records"}
+  - id: c09
+    escala: C
+    texto:
+      es: "Llevar registros de despacho y recepción."
+      en: "Keep shipping and receiving records"
+  - id: c10
+    escala: C
+    texto:
+      es: "Timbrar, clasificar y repartir la correspondencia de una organización."
+      en: "Stamp, sort, and distribute mail for an organization"

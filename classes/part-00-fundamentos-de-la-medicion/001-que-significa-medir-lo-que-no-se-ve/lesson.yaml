@@ -1,0 +1,7 @@
+id: "001"
+numero: 1
+titulo: "Qué significa medir lo que no se ve"
+parte: "00"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

@@ -1,0 +1,554 @@
+[
+  {
+    "codigo": "APP",
+    "codigo_nuevo": null,
+    "fortaleza_en": "appreciation of beauty",
+    "items": [
+      {
+        "texto_en": "Feel it's important to live in a world of beauty.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Experience deep emotions when I see beautiful things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am rarely aware of the natural beauty in the environment.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Fail to notice beauty until others comment on it.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "CAP",
+    "codigo_nuevo": "LOV",
+    "fortaleza_en": "capacity for love",
+    "items": [
+      {
+        "texto_en": "Know that there are people in my life who care as much for me as for themselves.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Can express love to someone else.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Do not easily share my feelings with others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have difficulty accepting love from anyone.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "CIT",
+    "codigo_nuevo": "TEA",
+    "fortaleza_en": "citizenship/teamwork",
+    "items": [
+      {
+        "texto_en": "Am an extremely loyal person.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Support my teammates or fellow group members.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not good at working with a group.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Prefer to do everything alone.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "CUR",
+    "codigo_nuevo": null,
+    "fortaleza_en": "curiosity",
+    "items": [
+      {
+        "texto_en": "Am excited by many different activities.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Can find something of interest in any situation.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not all that curious about the world.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have few interests.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "EQU",
+    "codigo_nuevo": null,
+    "fortaleza_en": "equity/fairness",
+    "items": [
+      {
+        "texto_en": "Treat all people equally.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Believe that everyone's rights are equally important.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Take advantage of others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Treat others differently if I don't like them.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "FOR",
+    "codigo_nuevo": null,
+    "fortaleza_en": "forgiveness/mercy",
+    "items": [
+      {
+        "texto_en": "Try to respond with understanding when someone treats me badly.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Allow others to make a fresh start.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Hold grudges.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Find it hard to forgive others.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "GRA",
+    "codigo_nuevo": null,
+    "fortaleza_en": "gratitude",
+    "items": [
+      {
+        "texto_en": "Express my thanks to those who care about me.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am an extremely grateful person.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel no gratitude to others.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Find few things in my life to be grateful for.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "HOP",
+    "codigo_nuevo": null,
+    "fortaleza_en": "hope/optimism",
+    "items": [
+      {
+        "texto_en": "Can find the positive in what seems negative to others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Remain hopeful despite challenges.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Expect the worst.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Often think about the possibility of negative outcomes that are not likely to occur.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "HUM",
+    "codigo_nuevo": null,
+    "fortaleza_en": "humor/playfulness",
+    "items": [
+      {
+        "texto_en": "Use laughter to brighten the days of others.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Keep my sense of humor even in gloomy situations.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not known for my sense of humor.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am not fun to be with.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "IND",
+    "codigo_nuevo": "PEV",
+    "fortaleza_en": "industry/perseverance/persistence",
+    "items": [
+      {
+        "texto_en": "Don't quit a task before it is finished.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Finish things despite obstacles in the way.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Don't finish what I start.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Give up easily.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "INT",
+    "codigo_nuevo": null,
+    "fortaleza_en": "integrity/honesty/authenticity",
+    "items": [
+      {
+        "texto_en": "Am trusted to keep secrets.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Keep my promises.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Lie to get myself out of trouble.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Cheat on people who have trusted me.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "JUD",
+    "codigo_nuevo": null,
+    "fortaleza_en": "judgment/open-mindedness",
+    "items": [
+      {
+        "texto_en": "Weigh the pro's and the con's .",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am valued by my friends for my good judgment.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Don't tend to think things through critically.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Don't think about different possibilities when making decisions.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "KIN",
+    "codigo_nuevo": null,
+    "fortaleza_en": "kindness/generosity",
+    "items": [
+      {
+        "texto_en": "Am never too busy to help a friend.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Go out of my way to cheer up people who appear down.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Get impatient when others talk to me about their problems.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am only kind to others if they have been kind to me.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "LEA",
+    "codigo_nuevo": null,
+    "fortaleza_en": "leadership",
+    "items": [
+      {
+        "texto_en": "Am good at helping people work well together.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am told that I am a strong but fair leader.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Have difficulty getting others to work together.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am not good at taking charge of a group.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "LOV",
+    "codigo_nuevo": "LER",
+    "fortaleza_en": "love of learning",
+    "items": [
+      {
+        "texto_en": "Am a true life-long learner.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am thrilled when I learn something new.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Don't like to learn new things.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Don't read nonfiction books for fun.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "MOD",
+    "codigo_nuevo": null,
+    "fortaleza_en": "modesty/humility",
+    "items": [
+      {
+        "texto_en": "Don't brag about my accomplishments.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Would never be described as arrogant.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Like to stand out in a crowd.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Like to talk about myself.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "ORI",
+    "codigo_nuevo": null,
+    "fortaleza_en": "originality/creativity",
+    "items": [
+      {
+        "texto_en": "Come up with new ways to do things.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am an original thinker.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not considered to have new and different ideas.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have no special urge to do something original.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "PER",
+    "codigo_nuevo": null,
+    "fortaleza_en": "perspective/wisdom",
+    "items": [
+      {
+        "texto_en": "Have a mature view on life.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am considered to be a wise person.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am not good at figuring out what really matters.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Am rarely consulted for advice by others.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "PRU",
+    "codigo_nuevo": null,
+    "fortaleza_en": "prudence",
+    "items": [
+      {
+        "texto_en": "Believe it is always better to be safe than sorry.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Make careful choices.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Act before thinking through the consequences.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Like taking risks.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "SEL",
+    "codigo_nuevo": "REG",
+    "fortaleza_en": "self-regulation/self-control",
+    "items": [
+      {
+        "texto_en": "Am a highly disciplined person.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Forego things that are bad for me in the long run even if they make me feel good in the short run.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Let myself be taken over by urges to spend or eat too much.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Give in to my urges.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "SOC",
+    "codigo_nuevo": "SIQ",
+    "fortaleza_en": "social/personal/emotional intelligence",
+    "items": [
+      {
+        "texto_en": "Am good at sensing what others are feeling.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Know what to say to make people feel good.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Don't know how to handle myself in a new social situation.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Have trouble guessing how others will react.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "SPI",
+    "codigo_nuevo": null,
+    "fortaleza_en": "spirituality/religiousness",
+    "items": [
+      {
+        "texto_en": "Am a spiritual person.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Believe that each person has a purpose in life.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Feel that life has no meaning.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Do not believe in a universal power or a God.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "VAL",
+    "codigo_nuevo": null,
+    "fortaleza_en": "valor/bravery/courage",
+    "items": [
+      {
+        "texto_en": "Have taken frequent stands in the face of strong opposition.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Don't hesitate to express an unpopular opinion.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Do not stand up for my beliefs.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Don't speak my mind freely when there might be negative results.",
+        "clave": -1
+      }
+    ]
+  },
+  {
+    "codigo": "ZES",
+    "codigo_nuevo": null,
+    "fortaleza_en": "zest/enthusiasm/vitality",
+    "items": [
+      {
+        "texto_en": "Awaken with a sense of excitement about the day's possibilities.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Look forward to each new day.",
+        "clave": 1
+      },
+      {
+        "texto_en": "Am described as grumpy.",
+        "clave": -1
+      },
+      {
+        "texto_en": "Don't have much energy.",
+        "clave": -1
+      }
+    ]
+  }
+]

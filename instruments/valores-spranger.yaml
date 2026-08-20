@@ -1,0 +1,261 @@
+# =========================================================================
+# Valores de Spranger - Los seis valores rectores
+#
+# PROCEDENCIA
+# La TEORÍA es de dominio público: Eduard Spranger, "Lebensformen" (1914),
+# traducida como "Types of Men" (1928), describe seis tipos ideales según el
+# valor que ordena la vida de una persona. Allport, Vernon y Lindzey la
+# operacionalizaron en el "Study of Values" (1931; 3.ª ed. 1960; 4.ª ed. por
+# Kopelman, Rovenpor & Guan, 2003), que NO está en dominio público y cuyos
+# ítems no se reproducen aquí.
+#
+# Los 36 ítems de este archivo son de AUTORÍA PROPIA de este repositorio,
+# escritos sobre los seis valores del modelo teórico.
+#
+# ESTADO PSICOMÉTRICO: SIN VALIDAR. Ver docs/VALIDACION.md.
+#
+# NOTA SOBRE "RELIGIOSO"
+# En Spranger, el valor Religioso NO significa religiosidad ni fe declarada:
+# designa la búsqueda de unidad, sentido y trascendencia. Se conserva el nombre
+# histórico por fidelidad al modelo, y los ítems están escritos para no exigir
+# creencia en ninguna divinidad concreta. Esta ambigüedad del rótulo original
+# es, de hecho, un buen caso de estudio de validez de contenido.
+#
+# NORMATIVO, NO IPSATIVO
+# El Study of Values original reparte puntos entre alternativas: es ipsativo, y
+# por eso sus escalas suman una constante y correlacionan negativamente por
+# construcción. Aquí se usa Likert normativa para que las seis escalas sean
+# independientes y comparables entre personas.
+# =========================================================================
+codigo: valores-spranger
+version: "0.1.0"
+nombre:
+  es: Inventario de valores de Spranger
+  en: Spranger Values Inventory
+descripcion:
+  es: >-
+    Mide los seis valores que, según Spranger, ordenan las decisiones de una
+    persona: teórico, estético, económico, social, político y religioso. No
+    evalúa habilidades ni conducta, sino motivación: qué se considera valioso.
+    Ningún valor es mejor que otro. Predice satisfacción y permanencia en un
+    puesto mejor que rendimiento: explica por qué alguien renuncia a un trabajo
+    en el que le iba bien.
+  en: >-
+    Measures the six life-orienting values described by Spranger. Original
+    items, not psychometrically validated.
+tipo_respuesta: likert
+ipsativo: false
+duracion_min: [10, 15]
+procedencia:
+  autores: psychometrics-and-assessment-program (ítems propios)
+  anio: 2026
+  fuente: https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program
+  licencia: autoria-propia
+  cita: >-
+    Modelo teórico: Spranger, E. (1928). Types of Men (trad. de Lebensformen,
+    1914). Referencia de operacionalización histórica, no reproducida:
+    Allport, G. W., Vernon, P. E., & Lindzey, G. (1960). Study of Values (3.ª
+    ed.); Kopelman, R. E., Rovenpor, J. L., & Guan, M. (2003). The Study of
+    Values: Construction of the fourth edition. Journal of Vocational Behavior,
+    62, 203-220.
+  notas:
+    sin_validar: >-
+      Banco sin estudio de validación. No usar para decisiones sobre personas.
+    no_reproduce_sov: >-
+      Ningún ítem procede del Study of Values de Allport, Vernon y Lindzey.
+    rotulo_religioso: >-
+      "Religioso" designa búsqueda de sentido y unidad, no adhesión a una fe.
+      Los ítems evitan referirse a una divinidad concreta.
+opciones:
+  - valor: 1
+    etiqueta: {es: "Nada importante para mí", en: "Not important to me"}
+  - valor: 2
+    etiqueta: {es: "Poco importante", en: "Slightly important"}
+  - valor: 3
+    etiqueta: {es: "Moderadamente importante", en: "Moderately important"}
+  - valor: 4
+    etiqueta: {es: "Muy importante", en: "Very important"}
+  - valor: 5
+    etiqueta: {es: "Decisivo para mí", en: "Decisive for me"}
+escalas:
+  - codigo: TEO
+    nombre: {es: "Teórico", en: "Theoretical"}
+    descripcion: {es: "La verdad y el conocimiento como fin en sí mismos."}
+    polo_bajo: {es: "El conocimiento vale por lo que permite hacer, no por sí mismo."}
+    polo_alto: {es: "Necesita entender; investiga por el gusto de saber, sin exigirle utilidad."}
+  - codigo: EST
+    nombre: {es: "Estético", en: "Aesthetic"}
+    descripcion: {es: "La forma, la armonía y la experiencia como criterio rector."}
+    polo_bajo: {es: "La forma es secundaria: lo que importa es que funcione."}
+    polo_alto: {es: "No tolera lo mal hecho aunque funcione; la forma es parte del resultado."}
+  - codigo: ECO
+    nombre: {es: "Económico", en: "Economic"}
+    descripcion: {es: "Lo útil, lo eficiente y el retorno como criterio rector."}
+    polo_bajo: {es: "El rendimiento económico no ordena sus decisiones."}
+    polo_alto: {es: "Mide en costo, beneficio y eficiencia; lo improductivo le incomoda."}
+  - codigo: SOC
+    nombre: {es: "Social", en: "Social"}
+    descripcion: {es: "El bienestar ajeno como fin, no como medio."}
+    polo_bajo: {es: "Separa el vínculo personal del propósito del trabajo."}
+    polo_alto: {es: "Necesita que su trabajo mejore la vida de alguien concreto."}
+  - codigo: POL
+    nombre: {es: "Político", en: "Political"}
+    descripcion: {es: "La influencia, la autonomía y el poder de decidir."}
+    polo_bajo: {es: "Prefiere ejecutar bien a decidir; el poder no le atrae."}
+    polo_alto: {es: "Necesita incidir; la falta de autonomía le resulta insoportable."}
+  - codigo: REL
+    nombre: {es: "Religioso (sentido y unidad)", en: "Religious (meaning and unity)"}
+    descripcion: {es: "La coherencia, el propósito y la conexión con algo mayor."}
+    polo_bajo: {es: "No necesita un marco de sentido que unifique lo que hace."}
+    polo_alto: {es: "Requiere coherencia entre sus valores y su trabajo; sin propósito, se desengancha."}
+items:
+  # --- Teórico ----------------------------------------------------------
+  - id: t01
+    escala: TEO
+    clave: 1
+    texto: {es: "Entender cómo funciona algo, aunque no vaya a usarlo.", en: "Understanding how something works, even if I will never use it."}
+  - id: t02
+    escala: TEO
+    clave: 1
+    texto: {es: "Dedicar tiempo a leer sobre temas que no tienen aplicación inmediata.", en: "Spending time reading about topics with no immediate application."}
+  - id: t03
+    escala: TEO
+    clave: 1
+    texto: {es: "Que una explicación sea correcta antes que conveniente.", en: "That an explanation be correct rather than convenient."}
+  - id: t04
+    escala: TEO
+    clave: 1
+    texto: {es: "Poder cuestionar una afirmación y pedir la evidencia.", en: "Being able to question a claim and ask for the evidence."}
+  - id: t05
+    escala: TEO
+    clave: -1
+    texto: {es: "Que la teoría se quede fuera y vayamos a lo práctico.", en: "Leaving theory aside and getting practical."}
+  - id: t06
+    escala: TEO
+    clave: -1
+    texto: {es: "Que baste saber que funciona, sin averiguar por qué.", en: "Knowing that it works, without finding out why."}
+  # --- Estético ---------------------------------------------------------
+  - id: e01
+    escala: EST
+    clave: 1
+    texto: {es: "Que lo que produzco esté bien terminado, no solo completo.", en: "That what I make be well finished, not merely complete."}
+  - id: e02
+    escala: EST
+    clave: 1
+    texto: {es: "Trabajar en un entorno que resulte agradable a la vista.", en: "Working in a space that is pleasant to look at."}
+  - id: e03
+    escala: EST
+    clave: 1
+    texto: {es: "Que el diseño y la experiencia importen tanto como la función.", en: "That design and experience matter as much as function."}
+  - id: e04
+    escala: EST
+    clave: 1
+    texto: {es: "Reservar tiempo para el arte, la música o la creación.", en: "Setting aside time for art, music or making things."}
+  - id: e05
+    escala: EST
+    clave: -1
+    texto: {es: "Que la presentación no reste tiempo al contenido.", en: "Not letting presentation take time away from substance."}
+  - id: e06
+    escala: EST
+    clave: -1
+    texto: {es: "Entregar algo funcional aunque quede tosco.", en: "Delivering something functional even if it looks crude."}
+  # --- Económico --------------------------------------------------------
+  - id: n01
+    escala: ECO
+    clave: 1
+    texto: {es: "Que el esfuerzo invertido tenga un retorno medible.", en: "That effort invested show a measurable return."}
+  - id: n02
+    escala: ECO
+    clave: 1
+    texto: {es: "Elegir la opción más eficiente aunque sea menos elegante.", en: "Choosing the most efficient option even if less elegant."}
+  - id: n03
+    escala: ECO
+    clave: 1
+    texto: {es: "Que mi remuneración refleje lo que aporto.", en: "That my pay reflect what I contribute."}
+  - id: n04
+    escala: ECO
+    clave: 1
+    texto: {es: "Poder justificar una decisión en costo y beneficio.", en: "Being able to justify a decision in cost-benefit terms."}
+  - id: n05
+    escala: ECO
+    clave: -1
+    texto: {es: "Emprender algo valioso aunque nunca sea rentable.", en: "Pursuing something worthwhile even if it never pays off."}
+  - id: n06
+    escala: ECO
+    clave: -1
+    texto: {es: "Que el dinero no entre en la conversación sobre mi trabajo.", en: "Keeping money out of the conversation about my work."}
+  # --- Social -----------------------------------------------------------
+  - id: o01
+    escala: SOC
+    clave: 1
+    texto: {es: "Que mi trabajo mejore de forma directa la vida de alguien.", en: "That my work directly improve someone's life."}
+  - id: o02
+    escala: SOC
+    clave: 1
+    texto: {es: "Dedicar tiempo a que otra persona aprenda algo.", en: "Spending time helping someone else learn."}
+  - id: o03
+    escala: SOC
+    clave: 1
+    texto: {es: "Que el equipo esté bien, aunque cueste rendimiento.", en: "That the team be well, even at some cost to output."}
+  - id: o04
+    escala: SOC
+    clave: 1
+    texto: {es: "Que se tenga en cuenta a quien queda en desventaja.", en: "That whoever ends up worse off be taken into account."}
+  - id: o05
+    escala: SOC
+    clave: -1
+    texto: {es: "Mantener el trabajo separado de las relaciones personales.", en: "Keeping work separate from personal relationships."}
+  - id: o06
+    escala: SOC
+    clave: -1
+    texto: {es: "Que cada cual resuelva lo suyo sin depender de otros.", en: "That each person solve their own problems without relying on others."}
+  # --- Político ---------------------------------------------------------
+  - id: p01
+    escala: POL
+    clave: 1
+    texto: {es: "Tener voz en las decisiones que me afectan.", en: "Having a say in decisions that affect me."}
+  - id: p02
+    escala: POL
+    clave: 1
+    texto: {es: "Que se reconozca públicamente lo que he logrado.", en: "Being publicly recognized for what I have achieved."}
+  - id: p03
+    escala: POL
+    clave: 1
+    texto: {es: "Poder marcar el rumbo en lugar de seguirlo.", en: "Setting the direction rather than following it."}
+  - id: p04
+    escala: POL
+    clave: 1
+    texto: {es: "Trabajar con autonomía real, sin pedir permiso a cada paso.", en: "Working with real autonomy, without asking permission at every step."}
+  - id: p05
+    escala: POL
+    clave: -1
+    texto: {es: "Que otro se haga cargo de dirigir y yo ejecute bien.", en: "Letting someone else lead while I execute well."}
+  - id: p06
+    escala: POL
+    clave: -1
+    texto: {es: "Pasar desapercibido mientras el trabajo salga adelante.", en: "Going unnoticed as long as the work gets done."}
+  # --- Religioso (sentido y unidad) -------------------------------------
+  - id: r01
+    escala: REL
+    clave: 1
+    texto: {es: "Que lo que hago encaje con lo que creo.", en: "That what I do fit with what I believe."}
+  - id: r02
+    escala: REL
+    clave: 1
+    texto: {es: "Detenerme a pensar en el sentido de lo que estoy haciendo.", en: "Stopping to consider the meaning of what I am doing."}
+  - id: r03
+    escala: REL
+    clave: 1
+    texto: {es: "Sentir que formo parte de algo más grande que yo.", en: "Feeling part of something larger than myself."}
+  - id: r04
+    escala: REL
+    clave: 1
+    texto: {es: "Guiarme por principios que no negocio.", en: "Being guided by principles I do not negotiate."}
+  - id: r05
+    escala: REL
+    clave: -1
+    texto: {es: "Que un trabajo sea solo un trabajo.", en: "That a job be just a job."}
+  - id: r06
+    escala: REL
+    clave: -1
+    texto: {es: "Resolver lo concreto sin buscarle un propósito mayor.", en: "Handling the concrete task without seeking a larger purpose."}

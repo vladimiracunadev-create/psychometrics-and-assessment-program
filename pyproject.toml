@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "psychometrics-and-assessment-program"
+version = "0.1.0"
+description = "Programa de aprendizaje y motor ejecutable de psicometria: como se construye, puntua, valida y audita un instrumento de medicion"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Vladimir Acuna"}]
+keywords = ["psychometrics", "assessment", "education", "big-five", "riasec", "validity", "reliability"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Education",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Natural Language :: Spanish",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering",
+]
+dependencies = ["PyYAML>=6,<7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9", "ruff>=0.6"]
+analisis = ["numpy>=1.26", "scipy>=1.11"]
+
+[project.urls]
+Homepage = "https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program"
+Changelog = "https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program/blob/main/CHANGELOG.md"
+
+[project.scripts]
+psychometrics = "psychometrics.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4"]
+ignore = ["E501"]
