@@ -18,3 +18,4 @@ Thumbs.db
 site/generated/
 docs/pdf/*.pdf
 respuestas-*.json
+requirements-audit.txt

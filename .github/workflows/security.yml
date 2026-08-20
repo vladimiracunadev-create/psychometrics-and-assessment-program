@@ -22,23 +22,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python -m pip install pip-audit
-      - name: Derivar las dependencias declaradas desde pyproject.toml
-        # Se audita la lista de dependencias, no el entorno instalado. Auditar el
-        # entorno obliga a incluir el propio paquete, que no esta en PyPI: con
-        # --strict eso falla, y con --skip-editable tambien, porque --strict
-        # trata la omision como error. pyproject.toml es la unica fuente de
-        # verdad, asi que la lista se deriva de ahi y no se duplica a mano.
-        run: |
-          python - <<'PY' > requirements-audit.txt
-          import pathlib, tomllib
-          d = tomllib.loads(pathlib.Path("pyproject.toml").read_text(encoding="utf-8"))
-          deps = list(d["project"]["dependencies"])
-          for extra in d["project"].get("optional-dependencies", {}).values():
-              deps += extra
-          print("
-".join(sorted(set(deps))))
-          PY
-          cat requirements-audit.txt
+      - name: Derivar dependencias declaradas desde pyproject.toml
+        run: python scripts/export_requirements.py | tee requirements-audit.txt
       - name: pip-audit
         run: python -m pip_audit --strict --progress-spinner off -r requirements-audit.txt
 
