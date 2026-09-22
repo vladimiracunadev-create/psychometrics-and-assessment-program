@@ -9,7 +9,7 @@ Este documento responde a una sola pregunta, instrumento por instrumento:
 |---|---:|---|---|---|---|
 | `ipip-neo-120` | 120 | ✅ publicada | ✅ α .63–.88 por faceta | ✅ extensa | 🟡 en inglés y con baremo |
 | `ipip-via-r` | 96 | ✅ publicada | 🟡 α .42–.74 | ✅ publicada | 🟡 solo perfil descriptivo |
-| `onet-riasec-sf` | 60 | ✅ circumpleja | ✅ α .90–.93 | ✅ extensa | 🟡 orientación, no selección |
+| `onet-riasec-sf` | 60 | ✅ publicada en fuente inglesa | ✅ α .90–.93 en fuente | ✅ fuente inglesa | ❌ adaptación española no validada |
 | `disc-abierto` | 32 | ❌ ninguna | ❌ ninguna | ❌ ninguna | ❌ **no** |
 | `valores-spranger` | 36 | ❌ ninguna | ❌ ninguna | ❌ ninguna | ❌ **no** |
 
@@ -34,8 +34,9 @@ declare.
 
 **Ninguna traducción de este repositorio está baremada.**
 
-Los tres bancos públicos se publicaron y validaron en inglés. Sus coeficientes de
-fiabilidad y sus percentiles corresponden a esa versión. Traducir un instrumento
+Los dos bancos IPIP de dominio público y la fuente inglesa de O*NET fueron
+estudiados en inglés. Sus coeficientes de fiabilidad y sus percentiles
+corresponden a esas versiones. Traducir un instrumento
 no transfiere sus propiedades psicométricas: hace falta un estudio de
 equivalencia transcultural que demuestre que los ítems funcionan igual en la
 nueva población (invarianza de medida, parte 04, clase 25).
@@ -44,6 +45,12 @@ Consecuencia práctica: el texto en español sirve para administrar el
 instrumento y describir un perfil intraindividual — qué escalas son las más
 altas de esta persona — pero **no** para afirmar que alguien está en el
 percentil 80 de la población chilena.
+
+En O*NET la limitación también es jurídica: la O*NET Tools Developer License
+exige validar el contenido modificado antes de introducir el producto. La
+traducción incluida no satisface hoy esa condición. Consulte
+[`../INSTRUMENT_LICENSES.md`](../INSTRUMENT_LICENSES.md) y
+[`../DISCLAIMER.md`](../DISCLAIMER.md).
 
 ## Ausencia de baremos
 

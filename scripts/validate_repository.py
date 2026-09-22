@@ -81,6 +81,17 @@ def main() -> int:
             if "sin validar" not in notas and "sin estudio de validaci" not in notas:
                 fallos.append(f"{i.codigo}: autoria propia sin declarar falta de validacion")
 
+    # 4b. O*NET es una adaptacion licenciada, no un banco de dominio publico.
+    onet = next((i for i in ins if i.codigo == "onet-riasec-sf"), None)
+    if onet is None:
+        fallos.append("catalogo: falta onet-riasec-sf")
+    elif onet.procedencia.licencia is not Licencia.O_NET_TOOLS_DEVELOPER:
+        fallos.append("onet-riasec-sf: debe declarar O-NET-Tools-Developer")
+    else:
+        notas_onet = " ".join(onet.procedencia.notas.values()).lower()
+        if "validación exigido" not in notas_onet and "validacion exigido" not in notas_onet:
+            fallos.append("onet-riasec-sf: falta declarar la validacion de licencia pendiente")
+
     # 5. Los laboratorios declarados deben ejecutarse sin error.
     for clase in declaradas:
         if clase["estado"] != "escrita":

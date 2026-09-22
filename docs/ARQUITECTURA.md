@@ -48,7 +48,7 @@ regresión está fijada en `tests/test_estructura.py::test_claves_yaml_en_ascii`
 
 ## El flujo de ingesta
 
-Los tres bancos de dominio público no se transcriben a mano:
+Los dos bancos IPIP de dominio público no se transcriben a mano:
 
 ```
 fuente original (HTML o PDF)

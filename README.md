@@ -6,18 +6,19 @@
 
 **Programa de aprendizaje y motor ejecutable de psicometría: cómo se construye,
 se puntúa, se valida y se audita un instrumento de medición psicológica —
-con un catálogo real de tests de dominio público, no de juguete.**
+con bancos públicos, material propio y licencias trazables.**
 
 [![CI](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program/actions/workflows/ci.yml)
 [![Security](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/psychometrics-and-assessment-program/actions/workflows/security.yml)
 
 [![Version](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](CHANGELOG.md)
 [![Instrumentos](https://img.shields.io/badge/instrumentos-5%20·%20344%20ítems-7c5cff?style=for-the-badge)](instruments/)
-[![Dominio público](https://img.shields.io/badge/dominio%20público-276%20de%20344%20ítems-2e8b57?style=for-the-badge)](#-procedencia-y-licencias)
+[![Dominio público](https://img.shields.io/badge/dominio%20público-216%20de%20344%20ítems-2e8b57?style=for-the-badge)](#-procedencia-y-licencias)
 [![Clases](https://img.shields.io/badge/clases-5%20de%2040%20escritas-c9184a?style=for-the-badge)](classes/)
 [![Tests](https://img.shields.io/badge/tests-57%20en%20verde-3fb950?style=for-the-badge)](tests/)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=for-the-badge)](classes/)
-[![License](https://img.shields.io/badge/license-MIT-3fb950?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/code-MIT-3fb950?style=for-the-badge)](LICENSE)
+[![Content](https://img.shields.io/badge/docs-CC%20BY--NC--SA%204.0-7c5cff?style=for-the-badge)](LICENSE-CONTENT.md)
 
 [![Python](https://img.shields.io/badge/Python-3.11%20·%203.12%20·%203.13-3776AB?style=flat-square&logo=python&logoColor=white)](pyproject.toml)
 
@@ -45,14 +46,16 @@ con un catálogo real de tests de dominio público, no de juguete.**
 > cinco instrumentos llevan ítems propios **sin estudio de validación**, y así
 > se declaran en el archivo, en la CLI y en el informe. No se deben usar para
 > decidir sobre personas. Ver [`docs/VALIDACION.md`](docs/VALIDACION.md).
+> Además, la adaptación española de O*NET® tiene una obligación de validación
+> pendiente bajo su licencia. Ver [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ## ✅ Estado verificable
 
 | Superficie | Estado |
 |---|---|
 | Catálogo | ✅ 5/5 instrumentos cargan y validan (`make validar`) |
-| Ítems | ✅ 344 ítems, 276 de dominio público y 68 de autoría propia |
-| Bancos públicos | ✅ IPIP-NEO-120, IPIP-VIA-R y O*NET RIASEC reproducibles desde su fuente |
+| Ítems | ✅ 344 ítems: 216 IPIP de dominio público, 60 O*NET bajo licencia específica y 68 de autoría propia |
+| Bancos de terceros | ⚠️ IPIP-NEO-120 e IPIP-VIA-R son públicos; la adaptación O*NET tiene validación de licencia pendiente |
 | Motor | ✅ carga, valida, refleja clave invertida, agrega jerárquicamente y audita el protocolo |
 | CLI | ✅ `catalogo`, `ficha`, `rendir`, `puntuar`, `validar` |
 | Clases | 🟡 5 de 40 escritas; el temario de las 35 restantes está fijado en `curriculum.yaml` |
@@ -82,20 +85,22 @@ con un catálogo real de tests de dominio público, no de juguete.**
 | [`disc-abierto`](instruments/disc-abierto.yaml) | DISC Abierto - Estilos conductuales | 32 | 4 | ⚠️ autoría propia | **no** |
 | [`ipip-neo-120`](instruments/ipip-neo-120.yaml) | Inventario de personalidad IPIP-NEO-120 | 120 | 35 | ✅ dominio público | sí |
 | [`ipip-via-r`](instruments/ipip-via-r.yaml) | Inventario de fortalezas del carácter IPIP-VIA-R | 96 | 30 | ✅ dominio público | sí |
-| [`onet-riasec-sf`](instruments/onet-riasec-sf.yaml) | Perfil de intereses vocacionales O*NET (forma breve) | 60 | 6 | ✅ dominio público | sí |
+| [`onet-riasec-sf`](instruments/onet-riasec-sf.yaml) | Perfil de intereses vocacionales O*NET (forma breve) | 60 | 6 | ⚠️ O*NET Tools Developer License | adaptación no validada |
 | [`valores-spranger`](instruments/valores-spranger.yaml) | Inventario de valores de Spranger | 36 | 6 | ⚠️ autoría propia | **no** |
 
 ### 📜 Procedencia y licencias
 
-**276 de 344 ítems (80%) son de dominio público** y se
-redistribuyen íntegros:
+**216 de 344 ítems (63%) son de dominio público** y proceden de IPIP:
 
 - **IPIP-NEO-120** — [ipip.ori.org](https://ipip.ori.org/30FacetNEO-PI-RItems.htm).
   Johnson (2014). Dominio público explícito, sin permiso ni pago.
 - **IPIP-VIA-R** — [ipip.ori.org](https://ipip.ori.org/IPIP-VIA-R_Key.html).
   Bluemke, Partsch, Saucier & Lechner (2021). **No** es el VIA-IS comercial.
-- **O*NET Interest Profiler SF** — [onetcenter.org](https://www.onetcenter.org/dl_files/IPSF_PP.pdf).
-  Obra del gobierno federal de EE. UU.
+- **O*NET® Interest Profiler SF** — [fuente](https://www.onetcenter.org/dl_files/IPSF_PP.pdf)
+  y [licencia](https://www.onetcenter.org/license_toolsdev.html). Esta traducción
+  propia es material adaptado bajo O*NET Tools Developer License, no dominio
+  público. Falta el estudio de validación exigido para contenido modificado;
+  no debe usarse como producto validado ni para decisiones reales.
 
 Los 68 ítems restantes (DISC y Valores de Spranger) son **originales de este
 repositorio**, escritos sobre modelos teóricos de dominio público. Aquí **no hay
@@ -168,5 +173,12 @@ redistribuible. Ver [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## 📄 Licencia
 
-MIT para el código, la documentación y los ítems propios. Cada banco de terceros
-conserva su propia situación legal, declarada en su archivo. Ver [`LICENSE`](LICENSE).
+MIT para el código; CC BY-NC-SA 4.0 para la documentación educativa original
+actual, con exclusiones. Cada banco conserva su situación propia y los 68 ítems
+propios actuales mantienen los permisos MIT históricos ya concedidos; no se ha
+elegido automáticamente una licencia CC nueva para aportes futuros.
+
+Ver [`LICENSE`](LICENSE), [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md),
+[`INSTRUMENT_LICENSES.md`](INSTRUMENT_LICENSES.md),
+[`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) y
+[`DISCLAIMER.md`](DISCLAIMER.md).

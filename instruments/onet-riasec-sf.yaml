@@ -1,16 +1,20 @@
 # =========================================================================
 # O*NET Interest Profiler Short Form - Intereses vocacionales RIASEC
 #
-# Los 60 ítems son obra del National Center for O*NET Development, patrocinada
-# por el U.S. Department of Labor. Como obra del gobierno federal de EE. UU. son
-# DOMINIO PÚBLICO y pueden redistribuirse libremente.
+# Los 60 ítems proceden de O*NET Career Exploration Tools, patrocinado por el
+# U.S. Department of Labor/ETA y desarrollado por el National Center for O*NET
+# Development. NO se clasifican aquí como dominio público. La traducción y demás
+# cambios de esta versión se rigen por la O*NET Tools Developer License:
+#   https://www.onetcenter.org/license_toolsdev.html
 #
 # Texto en inglés transcrito del Apéndice B (página 35) de:
 #   https://www.onetcenter.org/dl_files/IPSF_PP.pdf
 #
 # La traducción al español es de este repositorio: adapta actividades laborales
-# al contexto hispanohablante y NO hereda los baremos originales. Ver
-# docs/VALIDACION.md.
+# al contexto hispanohablante y NO hereda los baremos originales. No existe el
+# estudio de validación que la licencia de desarrollador exige para contenido
+# modificado. No usar como producto O*NET validado. Ver DISCLAIMER.md,
+# THIRD_PARTY_NOTICES.md y docs/VALIDACION.md.
 #
 # NOTA SOBRE EL FORMATO DE RESPUESTA
 # La versión lápiz-y-papel usa marcado binario (marca las que te gustaría
@@ -40,13 +44,24 @@ procedencia:
   autores: Rounds, J.; Su, R.; Lewis, P.; Rivkin, D.; National Center for O*NET Development
   anio: 2010
   fuente: https://www.onetcenter.org/dl_files/IPSF_PP.pdf
-  licencia: dominio-publico
+  licencia: O-NET-Tools-Developer
   cita: >-
     Rounds, J., Su, R., Lewis, P., & Rivkin, D. (2010). O*NET Interest Profiler
     Short Form Psychometric Characteristics: Summary. National Center for O*NET
-    Development. Marco teórico: Holland, J. L. (1997). Making Vocational
-    Choices (3.ª ed.).
+    Development. Contenido usado bajo O*NET Tools Developer License:
+    https://www.onetcenter.org/license_toolsdev.html. O*NET® es marca de
+    USDOL/ETA. Este proyecto modificó parte de la información; USDOL/ETA no ha
+    aprobado, respaldado ni probado estas modificaciones.
   notas:
+    modificaciones_y_descargo: >-
+      Traducción española propia, estructura YAML, identificadores, glosas y
+      puntuación local. Psychometrics and Assessment Program modificó parte del
+      O*NET® Interest Profiler. USDOL/ETA no ha aprobado, respaldado ni probado
+      estas modificaciones y no responde por daños derivados de su uso o mal uso.
+    validacion_de_licencia_pendiente: >-
+      No existe el estudio de validación exigido por la sección 3(b) de la O*NET
+      Tools Developer License para contenido modificado. No introducir esta
+      adaptación como producto ni usarla para decisiones reales hasta resolverlo.
     marco: >-
       Los seis tipos se ordenan en un hexágono: los adyacentes correlacionan
       más que los opuestos. Esa estructura circumpleja es la predicción

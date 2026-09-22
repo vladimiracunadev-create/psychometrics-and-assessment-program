@@ -20,21 +20,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
+SCOPE NOTICE (not part of the MIT License text above)
 
-NOTA SOBRE LOS BANCOS DE ITEMS
-
-La licencia MIT cubre el codigo, la documentacion y los items de autoria propia
-de este repositorio. Los bancos de items de terceros conservan su propia
-situacion legal, declarada en el campo `procedencia.licencia` de cada archivo
-de `instruments/`:
-
-- IPIP-NEO-120 e IPIP-VIA-R: dominio publico (International Personality Item
-  Pool). Uso libre, comercial o academico, sin permiso ni pago.
-- O*NET Interest Profiler Short Form: dominio publico (obra del gobierno
-  federal de EE. UU., National Center for O*NET Development).
-- DISC Abierto y Valores de Spranger: items originales de este repositorio,
-  bajo la misma licencia MIT.
-
-Este repositorio NO contiene items de instrumentos comerciales protegidos
-(Everything DiSC, DiSC Classic, Thomas PPA, VIA-IS, NEO-PI-R, Study of Values).
+This file applies to the software implementation only. It does not relicense
+educational content, item banks, third-party instruments, trademarks, or other
+excluded material. See LICENSE-CONTENT.md, INSTRUMENT_LICENSES.md, and
+THIRD_PARTY_NOTICES.md for the repository's file-by-file licensing boundaries.

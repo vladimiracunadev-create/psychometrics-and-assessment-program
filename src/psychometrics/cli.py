@@ -26,6 +26,7 @@ from .motor import (
 )
 
 IDIOMA = "es"
+LICENCIA_ONET = "O-NET-Tools-Developer"
 
 
 def _salida_utf8() -> None:
@@ -40,7 +41,12 @@ def cmd_catalogo(_: argparse.Namespace) -> int:
     print(f"{len(instrumentos)} instrumentos en el catálogo\n")
     for i in instrumentos:
         dur = f"{i.duracion_min[0]}-{i.duracion_min[1]} min" if i.duracion_min else "-"
-        aviso = "" if i.procedencia.licencia.value != "autoria-propia" else "  [SIN VALIDAR]"
+        if i.procedencia.licencia.value == "autoria-propia":
+            aviso = "  [SIN VALIDAR]"
+        elif i.procedencia.licencia.value == LICENCIA_ONET:
+            aviso = "  [ADAPTACIÓN NO VALIDADA]"
+        else:
+            aviso = ""
         print(f"  {i.codigo:18} {len(i.items):3} ítems  {dur:>10}  "
               f"{i.procedencia.licencia.value:16}{aviso}")
         print(f"  {'':18} {i.nombre.get(IDIOMA, i.codigo)}")
@@ -90,6 +96,13 @@ def cmd_rendir(args: argparse.Namespace) -> int:
     print(f"\n{i.nombre.get(IDIOMA, i.codigo)}")
     print("=" * 72)
     print(i.descripcion.get(IDIOMA, "").strip())
+    if i.procedencia.licencia.value == LICENCIA_ONET:
+        print(
+            "\nAVISO O*NET®: esta adaptación fue modificada por el proyecto; "
+            "USDOL/ETA no la ha\naprobado, respaldado ni probado. Falta la "
+            "validación exigida por su licencia; no usar\npara decisiones reales. "
+            "Véase THIRD_PARTY_NOTICES.md."
+        )
     print("\nResponde con el número. Enter en blanco = omitir. 'x' = salir.\n")
     for o in i.opciones:
         print(f"  {o.valor} = {o.etiqueta.get(IDIOMA, o.valor)}")
@@ -182,6 +195,12 @@ def _imprimir(i: Instrumento, r: Resultado) -> None:
     if i.procedencia.licencia.value == "autoria-propia":
         print("\n  Este instrumento NO está validado. El resultado es orientativo y no "
               "debe usarse\n  para decidir sobre personas.")
+    elif i.procedencia.licencia.value == LICENCIA_ONET:
+        print(
+            "\n  ADAPTACIÓN O*NET® NO VALIDADA: este proyecto modificó el contenido. "
+            "USDOL/ETA no\n  lo ha aprobado, respaldado ni probado. No usar para "
+            "decisiones reales."
+        )
 
 
 def main(argv: list[str] | None = None) -> int:

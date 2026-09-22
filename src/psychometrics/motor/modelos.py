@@ -45,6 +45,7 @@ class Licencia(StrEnum):
 
     DOMINIO_PUBLICO = "dominio-publico"
     CC_BY_4_0 = "CC-BY-4.0"
+    O_NET_TOOLS_DEVELOPER = "O-NET-Tools-Developer"
     AUTORIA_PROPIA = "autoria-propia"
     PROPIETARIA = "propietaria"
     """Solo para catalogar instrumentos de terceros. NUNCA se incluyen sus ítems."""
