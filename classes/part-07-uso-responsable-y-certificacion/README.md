@@ -1,22 +1,44 @@
 # Parte 07 — Uso responsable y certificación
 
-**Nivel:** profesional · **Duración estimada:** 3-4 semanas
+**Nivel:** profesional · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
-Los estándares que rigen la práctica, qué exige certificarse y qué no se debe hacer nunca con un puntaje.
+## De qué trata
 
-## Clases
+Los estándares que rigen la práctica, la protección de datos personales en Chile, el informe y la devolución de resultados, y los usos que no se deben hacer de un puntaje.
 
-| # | Clase | Horas | Estado |
-|---|---|---|---|
-| 036 | [Los Standards de AERA, APA y NCME](036-estandares-aera-apa-ncme/README.md) | 4 | ✅ escrita |
-| 037 | [Directrices de la International Test Commission](037-itc-y-normas-internacionales/README.md) | 4 | ✅ escrita |
-| 038 | [El informe y la devolución de resultados a la persona](038-informe-y-devolucion/README.md) | 4 | ✅ escrita |
-| 039 | [Uso en selección de personal: qué es defendible](039-seleccion-de-personal/README.md) | 5 | ✅ escrita |
-| 040 | [Rutas de certificación profesional](040-certificacion-profesional/README.md) | 3 | ✅ escrita |
-| 076 | [Ley 19.628 y Ley 21.719: datos personales en evaluación](076-ley-19-628-y-ley-21-719/README.md) | 4 | ✅ escrita |
-| 077 | [Consentimiento informado y confidencialidad](077-consentimiento-informado-y-confidencialidad/README.md) | 4 | ✅ escrita |
-| 078 | [Retención, anonimización y eliminación de datos](078-retencion-anonimizacion-y-eliminacion-de-datos/README.md) | 4 | ✅ escrita |
-| 079 | [Decisiones automatizadas y derecho a explicación](079-decisiones-automatizadas-y-derecho-a-explicacion/README.md) | 4 | ✅ escrita |
-| 080 | [Seguridad de bancos de ítems y de resultados](080-seguridad-de-bancos-de-items-y-de/README.md) | 4 | ✅ escrita |
+## Por qué importa
 
-[← Volver al índice del programa](../../README.md)
+Medir bien no basta; también importa cómo se informa, a quién y para qué. Es la parte que protege a las personas evaluadas.
+
+## Según tu papel
+
+- **Si construyes o aplicas instrumentos:** Estándares AERA/APA/NCME, directrices ITC, consentimiento, retención de datos y seguridad de bancos.
+- **Si eres evaluado o recibes resultados:** Conocerás tus derechos: ser informado, consentir, acceder a tus resultados y pedir explicación de decisiones automatizadas.
+
+## Al terminar esta parte podrás
+
+- Redactar un informe y una devolución comprensibles.
+- Aplicar criterios básicos de consentimiento y protección de datos.
+
+## Cómo estudiarla
+
+Puede leerse en paralelo con cualquier otra parte. Las referencias legales deben contrastarse con la norma vigente; no es asesoría jurídica.
+
+## Clases en orden de estudio
+
+El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+
+| Orden | ID | Clase | Qué aprenderás | Formato | Horas |
+|---:|---|---|---|---|---:|
+| 1 | 036 | [Los Standards de AERA, APA y NCME](036-estandares-aera-apa-ncme/README.md) | Describir la estructura y el espíritu de los *Standards*. | 🟡 compacto | 4 |
+| 2 | 037 | [Directrices de la International Test Commission](037-itc-y-normas-internacionales/README.md) | Reconocer las directrices ITC sobre uso, traducción/adaptación y evaluación por computador e internet. | 🟡 compacto | 4 |
+| 3 | 038 | [El informe y la devolución de resultados a la persona](038-informe-y-devolucion/README.md) | Redactar un informe en lenguaje claro que comunique incertidumbre. | 🟡 compacto | 4 |
+| 4 | 039 | [Uso en selección de personal: qué es defendible](039-seleccion-de-personal/README.md) | Evaluar un proceso de selección por su diseño, no por la sofisticación de una prueba. | 🟡 compacto | 5 |
+| 5 | 040 | [Rutas de certificación profesional](040-certificacion-profesional/README.md) | Establecer un punto de corte con un procedimiento Angoff modificado. | 🟡 compacto | 3 |
+| 6 | 076 | [Ley 19.628 y Ley 21.719: datos personales en evaluación](076-ley-19-628-y-ley-21-719/README.md) | Ubicar el marco chileno de protección de datos personales y su estado de vigencia. | 🟡 compacto | 4 |
+| 7 | 077 | [Consentimiento informado y confidencialidad](077-consentimiento-informado-y-confidencialidad/README.md) | Describir los elementos de un consentimiento informado válido. | 🟡 compacto | 4 |
+| 8 | 078 | [Retención, anonimización y eliminación de datos](078-retencion-anonimizacion-y-eliminacion-de-datos/README.md) | Explicar por qué quitar el nombre no anonimiza. | 🟡 compacto | 4 |
+| 9 | 079 | [Decisiones automatizadas y derecho a explicación](079-decisiones-automatizadas-y-derecho-a-explicacion/README.md) | Distinguir un modelo transparente de uno opaco para decisiones sobre personas. | 🟡 compacto | 4 |
+| 10 | 080 | [Seguridad de bancos de ítems y de resultados](080-seguridad-de-bancos-de-items-y-de/README.md) | Detectar la filtración de ítems con evidencia estadística. | 🟡 compacto | 4 |
+
+[← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

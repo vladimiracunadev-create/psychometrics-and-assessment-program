@@ -1,22 +1,43 @@
 # Parte 19 — Aplicaciones avanzadas y proyectos integradores
 
-**Nivel:** avanzado · **Duración estimada:** 5-6 semanas
+**Nivel:** avanzado · **Duración estimada:** 5-6 semanas · **Clases:** 10
+
+## De qué trata
 
 Proyectos que integran las partes anteriores con datos sintéticos y decisiones responsables.
 
-## Clases
+## Por qué importa
 
-| # | Clase | Horas | Estado |
-|---|---|---|---|
-| 191 | [Proyecto: batería educativa de cribado con datos sintéticos](191-proyecto-bateria-educativa-de-cribado-con-datos/README.md) | 4 | ✅ escrita |
-| 192 | [Proyecto: batería laboral con ajuste justificado](192-proyecto-bateria-laboral-con-ajuste-justificado/README.md) | 4 | ✅ escrita |
-| 193 | [Proyecto: adaptación de un instrumento abierto](193-proyecto-adaptacion-de-un-instrumento-abierto/README.md) | 4 | ✅ escrita |
-| 194 | [Proyecto: informe para familias y docentes](194-proyecto-informe-para-familias-y-docentes/README.md) | 4 | ✅ escrita |
-| 195 | [Proyecto: informe para una organización](195-proyecto-informe-para-una-organizacion/README.md) | 4 | ✅ escrita |
-| 196 | [Proyecto: estudio de validación simulado de extremo a extremo](196-proyecto-estudio-de-validacion-simulado-de-extremo/README.md) | 4 | ✅ escrita |
-| 197 | [Proyecto: auditoría ética de un instrumento](197-proyecto-auditoria-etica-de-un-instrumento/README.md) | 4 | ✅ escrita |
-| 198 | [Proyecto: tablero de seguimiento longitudinal](198-proyecto-tablero-de-seguimiento-longitudinal/README.md) | 4 | ✅ escrita |
-| 199 | [Proyecto: instrumento original con protocolo de validación](199-proyecto-instrumento-original-con-protocolo-de-validacion/README.md) | 4 | ✅ escrita |
-| 200 | [Defensa final y plan de desarrollo profesional](200-defensa-final-y-plan-de-desarrollo-profesional/README.md) | 4 | ✅ escrita |
+Integrar es donde se ve si se aprendió: cada proyecto obliga a decidir y a declarar límites.
 
-[← Volver al índice del programa](../../README.md)
+## Según tu papel
+
+- **Si construyes o aplicas instrumentos:** Cribados, baterías, adaptaciones, informes, auditorías y un borrador de instrumento original.
+- **Si eres evaluado o recibes resultados:** Muestra cómo debería ser un buen proceso de evaluación de principio a fin.
+
+## Al terminar esta parte podrás
+
+- Completar un proyecto y defenderlo con evidencia y límites.
+
+## Cómo estudiarla
+
+Al final del recorrido. Elige uno o dos proyectos y hazlos con calma.
+
+## Clases en orden de estudio
+
+El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+
+| Orden | ID | Clase | Qué aprenderás | Formato | Horas |
+|---:|---|---|---|---|---:|
+| 1 | 191 | [Proyecto: batería educativa de cribado con datos sintéticos](191-proyecto-bateria-educativa-de-cribado-con-datos/README.md) | Diseñar un cribado en dos etapas. | 🟡 compacto | 4 |
+| 2 | 192 | [Proyecto: batería laboral con ajuste justificado](192-proyecto-bateria-laboral-con-ajuste-justificado/README.md) | Traducir un perfil de cargo a requisitos evaluables. | 🟡 compacto | 4 |
+| 3 | 193 | [Proyecto: adaptación de un instrumento abierto](193-proyecto-adaptacion-de-un-instrumento-abierto/README.md) | Ordenar la adaptación en etapas con compuertas. | 🟡 compacto | 4 |
+| 4 | 194 | [Proyecto: informe para familias y docentes](194-proyecto-informe-para-familias-y-docentes/README.md) | Comunicar resultados con incertidumbre. | 🟡 compacto | 4 |
+| 5 | 195 | [Proyecto: informe para una organización](195-proyecto-informe-para-una-organizacion/README.md) | Resumir una encuesta por equipo con intervalos de Wilson. | 🟡 compacto | 4 |
+| 6 | 196 | [Proyecto: estudio de validación simulado de extremo a extremo](196-proyecto-estudio-de-validacion-simulado-de-extremo/README.md) | Integrar diseño, datos, fiabilidad, validez e informe. | 🟡 compacto | 4 |
+| 7 | 197 | [Proyecto: auditoría ética de un instrumento](197-proyecto-auditoria-etica-de-un-instrumento/README.md) | Auditar fichas e instrumentos con una lista de control. | 🟡 compacto | 4 |
+| 8 | 198 | [Proyecto: tablero de seguimiento longitudinal](198-proyecto-tablero-de-seguimiento-longitudinal/README.md) | Mostrar trayectorias con su banda de error. | 🟡 compacto | 4 |
+| 9 | 199 | [Proyecto: instrumento original con protocolo de validación](199-proyecto-instrumento-original-con-protocolo-de-validacion/README.md) | Redactar un banco de ítems originales. | 🟡 compacto | 4 |
+| 10 | 200 | [Defensa final y plan de desarrollo profesional](200-defensa-final-y-plan-de-desarrollo-profesional/README.md) | Defender un proyecto con evidencia y límites. | 🟡 compacto | 4 |
+
+[← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

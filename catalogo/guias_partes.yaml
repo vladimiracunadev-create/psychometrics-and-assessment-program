@@ -1,0 +1,192 @@
+# Guias de las 20 partes. Se muestran ANTES de la lista de clases (scripts/sync_indices.py).
+# Cada guia responde: de que trata, por que importa, que cambia segun seas quien construye el
+# instrumento o quien es evaluado, que sabras hacer al terminar y como conviene estudiarla.
+'00':
+  de_que_trata: "Qué significa medir algo que no se ve (la inteligencia, la motivación, el estrés) y qué compromisos asume cualquiera que lo intente. Se parte de la idea de constructo, se revisan los tipos de escala y de test, y se aprenden las herramientas estadísticas mínimas para leer un puntaje."
+  por_que_importa: "Todo el resto del programa se apoya en estas ideas. Quien no distingue un constructo de su definición operacional, o una escala ordinal de una de intervalo, termina interpretando números que no significan lo que parecen."
+  si_construyes: "Aprenderás a partir de una definición clara del atributo, a decidir qué tipo de prueba corresponde (rendimiento máximo o desempeño típico) y a resumir datos sin engañarte."
+  si_eres_evaluado: "Entenderás qué significa realmente un puntaje, por qué no es una medida exacta como la de una regla y qué preguntas puedes hacer antes de aceptar un resultado."
+  al_terminar:
+    - "Explicar con tus palabras qué es un constructo y cómo se vuelve observable."
+    - "Distinguir los cuatro niveles de medida y las operaciones que permite cada uno."
+    - "Calcular e interpretar un puntaje bruto, una media por ítem y un ítem invertido."
+    - "Reconocer cuándo una prueba mide velocidad y cuándo potencia."
+  como_estudiarla: "Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente."
+'01':
+  de_que_trata: "Cómo se pasa de una idea a un cuestionario o prueba administrable. Redacción de ítems, formatos de respuesta, longitud del test, ítems de opción múltiple y abiertos, juicio de expertos, pilotaje y bancos de ítems."
+  por_que_importa: "Un instrumento mal construido no se rescata con buena estadística. La mayoría de los problemas de medición nacen en la redacción del ítem y en el formato, mucho antes de calcular nada."
+  si_construyes: "Es la parte más práctica: reglas de redacción, tabla de especificaciones, análisis de distractores, rúbricas y control de versiones."
+  si_eres_evaluado: "Te permite reconocer ítems ambiguos, dobles preguntas o formatos que te fuerzan a responder de una manera, y entender por qué algunos tests parecen «trampas»."
+  al_terminar:
+    - "Redactar ítems claros y evitar los errores clásicos."
+    - "Elegir un formato de respuesta y justificar la longitud del test."
+    - "Construir una tabla de especificaciones y analizar distractores."
+    - "Planificar un pilotaje y llevar el control de cambios de un banco."
+  como_estudiarla: "Conviene haber visto la parte 00. Haz los ejercicios de redacción con un instrumento propio; el laboratorio sirve para ver el efecto de cada decisión."
+'02':
+  de_que_trata: "Cuánto del puntaje es señal y cuánto es ruido, y las formas de estimarlo según la fuente de error que preocupe (los ítems, el momento, los evaluadores)."
+  por_que_importa: "Sin fiabilidad no hay forma de saber si una diferencia entre dos personas, o entre dos momentos, significa algo. Es el requisito mínimo para tomar cualquier decisión con un puntaje."
+  si_construyes: "Calcularás alfa, omega, KR-20, test-retest y acuerdo entre evaluadores, y sabrás cuál usar y cuándo desconfiar de cada uno."
+  si_eres_evaluado: "Podrás pedir el margen de error de tu puntaje y entender por qué un resultado cercano a un corte no es concluyente."
+  al_terminar:
+    - "Explicar la teoría clásica (observado = verdadero + error)."
+    - "Calcular e interpretar alfa, omega, KR-20 y kappa."
+    - "Obtener el error típico de medida y un intervalo para un puntaje individual."
+  como_estudiarla: "Empieza por la clase 011, que es la base de toda la parte. Luego sigue el orden indicado; las clases 051 a 055 amplían lo anterior con correlación, KR-20, acuerdo entre evaluadores e intervalos."
+'03':
+  de_que_trata: "La pregunta que realmente importa: qué autoriza a interpretar un puntaje como aquello que se dice que mide. Validez de contenido, de constructo, de criterio, consecuencias del uso y amenazas."
+  por_que_importa: "Un test puede ser muy fiable y medir otra cosa. La validez no es una propiedad del test sino de la interpretación y el uso que se hace de sus puntajes."
+  si_construyes: "Aprenderás a reunir evidencia por distintas vías y a decir, para quién y para qué, un instrumento es válido."
+  si_eres_evaluado: "Entenderás por qué un test usado para un fin distinto del original pierde respaldo y cómo cuestionar un uso indebido."
+  al_terminar:
+    - "Distinguir tipos de evidencia de validez y sus límites."
+    - "Leer una matriz multirrasgo-multimétodo."
+    - "Reconocer amenazas como el falseamiento y la deseabilidad social."
+  como_estudiarla: "Después de la parte 02. Lee la clase 016 primero: reordena la forma de pensar el resto."
+'04':
+  de_que_trata: "Cómo se somete a prueba la estructura que un instrumento afirma tener (cuántas dimensiones, qué ítems pertenecen a cuál) y qué significa que los datos la contradigan."
+  por_que_importa: "Las escalas se interpretan según su estructura. Si los ítems no se agrupan como se supone, los puntajes por escala pierden sentido."
+  si_construyes: "Análisis factorial exploratorio y confirmatorio, rotaciones, ajuste, bifactor, redes, datos ordinales e invarianza."
+  si_eres_evaluado: "Te ayuda a entender por qué un informe entrega perfiles por dimensiones y cuánta confianza darles."
+  al_terminar:
+    - "Interpretar cargas factoriales y criterios de retención."
+    - "Leer índices de ajuste con cautela."
+    - "Explicar por qué se comprueba la invarianza antes de comparar grupos."
+  como_estudiarla: "Es la parte más matemática de las primeras. Se puede avanzar sin dominar el álgebra si se trabaja con los laboratorios."
+'05':
+  de_que_trata: "El cambio de paradigma que pasa del puntaje total a la relación entre la persona, el ítem y el rasgo latente. Rasch, modelos de dos y tres parámetros, información, pruebas adaptativas y equiparación."
+  por_que_importa: "Permite medir con la misma escala en pruebas distintas y ajustar la prueba a la persona, base de las evaluaciones adaptativas."
+  si_construyes: "Estimación de parámetros, curvas de información, diseño de bancos y equiparación de formas."
+  si_eres_evaluado: "Explica por qué dos personas pueden recibir preguntas distintas y aun así obtener puntajes comparables."
+  al_terminar:
+    - "Leer una curva característica del ítem."
+    - "Explicar por qué un test mide mejor en cierto rango."
+    - "Describir cómo funciona una prueba adaptativa."
+  como_estudiarla: "Requiere haber visto las partes 02 y 04. Ejecuta los laboratorios para ver las curvas."
+'06':
+  de_que_trata: "Qué convierte un puntaje bruto en un percentil o un puntaje estándar, y cómo se detecta que un instrumento mide distinto según a quién se aplica."
+  por_que_importa: "Un puntaje sin norma no dice si es alto o bajo, y una norma de otro grupo puede perjudicar a quien se evalúa."
+  si_construyes: "Muestras normativas, puntajes z y T, normas por edad, DIF, sesgo predictivo, acomodaciones y adaptación transcultural."
+  si_eres_evaluado: "Te permite preguntar con qué grupo te compararon y si esa comparación es justa."
+  al_terminar:
+    - "Construir y leer un baremo."
+    - "Detectar funcionamiento diferencial de un ítem."
+    - "Discutir distintas definiciones de equidad y sus conflictos."
+  como_estudiarla: "Cierra el bloque técnico central. Lee con calma las clases de equidad: no existe una definición única."
+'07':
+  de_que_trata: "Los estándares que rigen la práctica, la protección de datos personales en Chile, el informe y la devolución de resultados, y los usos que no se deben hacer de un puntaje."
+  por_que_importa: "Medir bien no basta; también importa cómo se informa, a quién y para qué. Es la parte que protege a las personas evaluadas."
+  si_construyes: "Estándares AERA/APA/NCME, directrices ITC, consentimiento, retención de datos y seguridad de bancos."
+  si_eres_evaluado: "Conocerás tus derechos: ser informado, consentir, acceder a tus resultados y pedir explicación de decisiones automatizadas."
+  al_terminar:
+    - "Redactar un informe y una devolución comprensibles."
+    - "Aplicar criterios básicos de consentimiento y protección de datos."
+  como_estudiarla: "Puede leerse en paralelo con cualquier otra parte. Las referencias legales deben contrastarse con la norma vigente; no es asesoría jurídica."
+'08':
+  de_que_trata: "Modelos de la inteligencia y cómo se evalúan las capacidades cognitivas (razonamiento, aptitudes, velocidad), con sus límites."
+  por_que_importa: "Las pruebas cognitivas son de las más usadas y de las más malinterpretadas; entender qué miden evita usos abusivos."
+  si_construyes: "Tipos de tareas de razonamiento, aptitudes primarias y familias de evaluación individual."
+  si_eres_evaluado: "Aclara qué significa un resultado cognitivo y qué no dice sobre tu potencial."
+  al_terminar:
+    - "Comparar modelos de inteligencia."
+    - "Describir qué mide cada tipo de tarea."
+    - "Reconocer los límites de interpretar un solo puntaje."
+  como_estudiarla: "Después de las partes 02 y 03. Los instrumentos cognitivos comerciales se estudian como fichas documentales, no se reproducen."
+'09':
+  de_que_trata: "Tareas experimentales de atención, memoria y control ejecutivo y su traducción a pruebas."
+  por_que_importa: "Muchas decisiones educativas y clínicas se apoyan en estas tareas, con medidas de menor fiabilidad de lo que se cree."
+  si_construyes: "Cómo se miden tiempos de reacción, memoria de trabajo, flexibilidad e inhibición, y cómo se programan estas tareas."
+  si_eres_evaluado: "Entenderás por qué el cansancio, el dispositivo o el ruido afectan estos resultados."
+  al_terminar:
+    - "Describir las tareas clásicas (Stroop, Go/No-Go, n-back)."
+    - "Interpretar tiempos de respuesta con cautela."
+  como_estudiarla: "Parte de aplicación; los laboratorios simulan tareas, no las reemplazan."
+'10':
+  de_que_trata: "Modelos de rasgos, tipologías y estilos conductuales, con su evidencia y sus usos indebidos."
+  por_que_importa: "La personalidad es el terreno de más mitos y de más instrumentos sin respaldo. Aquí se aprende a separar evidencia de moda."
+  si_construyes: "Estructura de cinco factores, banco IPIP, críticas a las tipologías, DISC, motivación, valores y falseamiento."
+  si_eres_evaluado: "Te permite evaluar con criterio un informe de personalidad y saber cuándo no debe usarse para decidir sobre ti."
+  al_terminar:
+    - "Explicar el modelo de cinco factores."
+    - "Criticar una tipología con argumentos empíricos."
+  como_estudiarla: "Aquí están los instrumentos ejecutables del repositorio (IPIP-NEO-120, IPIP-VIA-R, DISC y valores). Pruébalos desde la CLI."
+'11':
+  de_que_trata: "Evaluación en contextos de trabajo: análisis de puestos, predicción del desempeño, pruebas de instrucciones, juicio situacional y ajuste persona-puesto."
+  por_que_importa: "Las decisiones de selección afectan oportunidades de vida; deben ser defendibles y no discriminar."
+  si_construyes: "Cómo se justifica un instrumento para un puesto y cómo se mide el impacto adverso."
+  si_eres_evaluado: "Qué puede y qué no puede decir una evaluación sobre tus posibilidades en un cargo."
+  al_terminar:
+    - "Justificar una batería a partir de un análisis de puesto."
+    - "Reconocer los límites de los instrumentos de selección."
+  como_estudiarla: "Después de las partes 02, 03 y 06. Los 15 instrumentos laborales del catálogo se tratan como fichas, sin inventar su contenido."
+'12':
+  de_que_trata: "Evaluación del liderazgo, el trabajo en equipo y las relaciones sociales en grupos (sociometría, redes, clima, evaluación 360)."
+  por_que_importa: "Estas evaluaciones tienen efectos directos en personas concretas dentro de grupos pequeños."
+  si_construyes: "Cómo medir con rigor sin exponer a nadie, y con qué sesgos hay que contar."
+  si_eres_evaluado: "Qué se mide cuando te evalúan en un equipo y cómo se protege tu identidad."
+  al_terminar:
+    - "Construir un sociograma y leerlo con cautela."
+    - "Explicar los sesgos de una evaluación 360."
+  como_estudiarla: "Parte aplicada; los datos de los laboratorios son sintéticos."
+'13':
+  de_que_trata: "Evaluación en la infancia: hitos del desarrollo, lenguaje, observación sistemática, cribado frente a diagnóstico y trabajo con la familia."
+  por_que_importa: "En la infancia el error de interpretación tiene consecuencias mayores y los rangos normales son amplios."
+  si_construyes: "Observación, cribado y entrevista con familias, con ética reforzada."
+  si_eres_evaluado: "Para familias: qué significan las señales de alerta y qué preguntar a los profesionales."
+  al_terminar:
+    - "Distinguir cribado de diagnóstico."
+    - "Explicar los rangos normales del desarrollo."
+  como_estudiarla: "Material de formación; no reemplaza a un profesional de la salud o la educación."
+'14':
+  de_que_trata: "Lectura, escritura, matemática y dificultades de aprendizaje desde una óptica pedagógica."
+  por_que_importa: "Detectar a tiempo y apoyar bien cambia trayectorias escolares; etiquetar mal también las cambia."
+  si_construyes: "Evaluación de comprensión, fluidez, escritura y razonamiento, con rúbricas."
+  si_eres_evaluado: "Para estudiantes y familias: qué se evalúa y cómo se usa el resultado para apoyar."
+  al_terminar:
+    - "Evaluar comprensión lectora por niveles."
+    - "Explicar qué es y qué no es un cribado de dificultades."
+  como_estudiarla: "Después de la parte 13."
+'15':
+  de_que_trata: "Intereses, valores y competencias para la orientación académica y profesional."
+  por_que_importa: "Una orientación basada en evidencia ayuda a decidir; una basada en un test aislado puede empujar a decisiones mal fundadas."
+  si_construyes: "Teoría de Holland, perfiles de intereses, valores, portafolios y diseño de programas."
+  si_eres_evaluado: "Cómo leer tu perfil sin tomarlo como destino."
+  al_terminar:
+    - "Interpretar un perfil de intereses."
+    - "Diseñar un programa de orientación."
+  como_estudiarla: "Aquí se usa el instrumento O*NET Interest Profiler del repositorio; revisa su aviso de licencia."
+'16':
+  de_que_trata: "Medición de bienestar y habilidades socioemocionales, con protocolos de protección y derivación."
+  por_que_importa: "Medir bienestar toca temas sensibles; hay límites claros sobre lo que un cuestionario puede y no puede decir."
+  si_construyes: "Cómo diseñar, aplicar y comunicar estas medidas, y cuándo derivar."
+  si_eres_evaluado: "Qué esperar de una evaluación así y qué hacer si algo te inquieta."
+  al_terminar:
+    - "Aplicar un protocolo de derivación."
+    - "Explicar por qué una escala de síntomas no diagnostica."
+  como_estudiarla: "Lee primero las clases 167 y 168. Material educativo, no clínico; ante riesgo se acude a un profesional."
+'17':
+  de_que_trata: "Cómo se diseña un estudio de validación, se simula, se analiza y se informa de forma reproducible."
+  por_que_importa: "Una buena idea de instrumento sólo se vuelve confiable con un estudio bien hecho."
+  si_construyes: "Tamaño muestral, datos faltantes, bootstrap, DIF, preregistro y meta-análisis."
+  si_eres_evaluado: "Te permite juzgar si el estudio que respalda un instrumento merece confianza."
+  al_terminar:
+    - "Planificar un estudio de validación."
+    - "Redactar un informe que cualifique cada afirmación."
+  como_estudiarla: "Requiere las partes 02 a 06."
+'18':
+  de_que_trata: "Arquitectura, accesibilidad y seguridad de plataformas de evaluación digital."
+  por_que_importa: "Muchos errores de medición hoy son errores de software, accesibilidad o privacidad."
+  si_construyes: "Motor declarativo, esquemas versionados, baterías, auditoría de cálculo y exportación."
+  si_eres_evaluado: "Qué debe garantizar una plataforma sobre tus datos y tu acceso."
+  al_terminar:
+    - "Explicar cómo se agrega un instrumento solo con datos."
+    - "Aplicar controles básicos de accesibilidad y privacidad."
+  como_estudiarla: "Se apoya en el código de `src/psychometrics`. Las clases 181 a 183 usan el motor real."
+'19':
+  de_que_trata: "Proyectos que integran las partes anteriores con datos sintéticos y decisiones responsables."
+  por_que_importa: "Integrar es donde se ve si se aprendió: cada proyecto obliga a decidir y a declarar límites."
+  si_construyes: "Cribados, baterías, adaptaciones, informes, auditorías y un borrador de instrumento original."
+  si_eres_evaluado: "Muestra cómo debería ser un buen proceso de evaluación de principio a fin."
+  al_terminar:
+    - "Completar un proyecto y defenderlo con evidencia y límites."
+  como_estudiarla: "Al final del recorrido. Elige uno o dos proyectos y hazlos con calma."

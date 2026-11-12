@@ -10,6 +10,12 @@
 
 Imagina que una persona obtiene 62 puntos en una prueba de comprensión lectora y otra obtiene 58. ¿La primera lee mejor? Si repitieras la prueba mañana, ¿saldría igual? Esta clase responde a una pregunta que está debajo de cualquier puntaje: **¿cuánto de lo que veo es la persona y cuánto es ruido?** Sin esa respuesta no se puede decidir si una diferencia de cuatro puntos significa algo o es un accidente del día.
 
+## Al terminar esta clase podrás
+
+- Explicar con tus palabras que todo puntaje es una parte verdadera más una parte de error.
+- Calcular la fiabilidad y el error típico de medida a partir de varianzas.
+- Decidir si una diferencia pequeña entre dos puntajes es o no concluyente.
+
 ## La idea en palabras simples
 
 Piensa en pesar un objeto en una balanza que tiembla un poco. Cada vez que lo pesas, marca un número algo distinto: 500,2 g; 499,6 g; 500,5 g. Nadie diría que el objeto cambió de peso: la balanza tiene **error**. Si pesaras el objeto cien veces y promediaras, obtendrías un valor muy estable. A ese promedio imaginario lo llamamos **puntaje verdadero**.

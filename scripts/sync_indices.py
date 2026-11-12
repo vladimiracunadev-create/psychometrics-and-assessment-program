@@ -39,20 +39,65 @@ def tabla_programa(partes: list[dict]) -> str:
     return "\n".join(filas)
 
 
+def guias() -> dict:
+    return yaml.safe_load((RAIZ / "catalogo" / "guias_partes.yaml").read_text(encoding="utf-8"))
+
+
+def formato(c: dict) -> str:
+    """Pedagogico = tiene el formato completo (con 'Para que te sirve esto'); compacto = formato inicial."""
+    ruta = RAIZ / c["ruta"] / "README.md"
+    if ruta.is_file() and "## ¿Para qué te sirve esto?" in ruta.read_text(encoding="utf-8"):
+        return "✅ pedagógico"
+    return "🟡 compacto"
+
+
+def primer_objetivo(c: dict) -> str:
+    """Primer resultado de aprendizaje de la clase (lo que se aprendera), tomado de su README."""
+    ruta = RAIZ / c["ruta"] / "README.md"
+    if not ruta.is_file():
+        return ""
+    m = re.search(r"## (?:Objetivos|Resultados de aprendizaje|Al terminar esta clase podrás)\s+(?:1\.\s+|- )(.+)", ruta.read_text(encoding="utf-8"))
+    return m.group(1).strip() if m else ""
+
+
 def readme_parte(p: dict) -> str:
+    g = guias().get(p["id"], {})
     sal = [f"# Parte {p['id']} — {p['titulo']}", "",
-           f"**Nivel:** {p['nivel']} · **Duración estimada:** {p['semanas']} semanas", "",
-           p["descripcion"].strip(), "", "## Clases", "",
-           "| # | Clase | Horas | Estado |", "|---|---|---|---|"]
-    for c in p["clases"]:
+           f"**Nivel:** {p['nivel']} · **Duración estimada:** {p['semanas']} semanas · **Clases:** {len(p['clases'])}", ""]
+    if g:
+        sal += ["## De qué trata", "", g["de_que_trata"], "", "## Por qué importa", "", g["por_que_importa"], "",
+                "## Según tu papel", "",
+                f"- **Si construyes o aplicas instrumentos:** {g['si_construyes']}",
+                f"- **Si eres evaluado o recibes resultados:** {g['si_eres_evaluado']}", "",
+                "## Al terminar esta parte podrás", ""] + [f"- {x}" for x in g["al_terminar"]]
+        sal += ["", "## Cómo estudiarla", "", g["como_estudiarla"], ""]
+    else:
+        sal += [p["descripcion"].strip(), ""]
+    sal += ["## Clases en orden de estudio", "",
+            "El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. "
+            "Sigue la columna **Orden**.", "",
+            "| Orden | ID | Clase | Qué aprenderás | Formato | Horas |", "|---:|---|---|---|---|---:|"]
+    for i, c in enumerate(p["clases"], 1):
         carpeta = pathlib.PurePosixPath(c["ruta"]).name
-        if c["estado"] == "escrita":
-            titulo, estado = f"[{c['titulo']}]({carpeta}/README.md)", "✅ escrita"
-        else:
-            titulo, estado = c["titulo"], "⬜ planificada"
-        sal.append(f"| {c['id']} | {titulo} | {c['horas_estimadas']} | {estado} |")
-    sal += ["", "[← Volver al índice del programa](../../README.md)", ""]
+        titulo = f"[{c['titulo']}]({carpeta}/README.md)" if c["estado"] == "escrita" else f"{c['titulo']} (planificada)"
+        sal.append(f"| {i} | {c['id']} | {titulo} | {primer_objetivo(c)} | {formato(c)} | {c['horas_estimadas']} |")
+    sal += ["", "[← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)", ""]
     return "\n".join(sal)
+
+
+def indice_numerico(partes: list[dict]) -> str:
+    sal = ["# Índice numérico de las clases", "",
+           "Todas las clases ordenadas por número (001 a 200). Para estudiar usa el **orden de estudio** de cada parte; "
+           "el número es un identificador permanente.", "",
+           "| ID | Clase | Parte | Orden en la parte |", "|---|---|---|---:|"]
+    filas = []
+    for p in partes:
+        for i, c in enumerate(p["clases"], 1):
+            carpeta = pathlib.PurePosixPath(c["ruta"]).name
+            filas.append((int(c["id"]), f"| {c['id']} | [{c['titulo']}](classes/{dir_parte(p)}/{carpeta}/README.md) | "
+                                         f"[{p['id']} — {p['titulo']}](classes/{dir_parte(p)}/README.md) | {i} |"))
+    sal += [f for _, f in sorted(filas)]
+    return "\n".join(sal) + "\n"
 
 
 def main() -> int:
@@ -87,6 +132,7 @@ def main() -> int:
     aplica(RAIZ / "README.md", nuevo)
     for p in partes:
         aplica(RAIZ / "classes" / dir_parte(p) / "README.md", readme_parte(p))
+    aplica(RAIZ / "PROGRAMA.md", indice_numerico(partes))
 
     if desfasados:
         print(("DESFASADOS" if check else "ACTUALIZADOS") + ": " + ", ".join(desfasados))
