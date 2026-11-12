@@ -7,75 +7,123 @@
 <!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 5 h · Estado `escrita`
+**Pensada para:** quien usa pruebas para seleccionar o predecir, y quien es evaluado con ellas.
 **Prerrequisitos:** clases 031 y 027.
 
-## Objetivos
+## ¿Para qué te sirve esto?
 
-1. Distinguir validez concurrente de predictiva.
-2. Explicar la restricción de rango y aplicar la corrección de Thorndike (Caso II).
-3. Traducir un coeficiente de validez a una tasa de acierto de selección.
+Si una prueba se usa para **predecir** algo (desempeño en un cargo, notas en el primer año), la pregunta es cuánto lo predice. Pero hay una trampa: el desempeño solo se observa en quienes **fueron seleccionados**, y eso hace que la relación parezca más débil de lo que es. Esta clase te enseña a calcular la validez de criterio, a corregir la restricción de rango y a traducir un coeficiente a algo que se entienda: cuántas decisiones acertadas se obtienen.
 
-## Fundamentos
+## Al terminar esta clase podrás
 
-La validez de criterio es la relación entre el puntaje y una variable externa (desempeño, notas). **Concurrente:** ambas se miden al mismo tiempo. **Predictiva:** el criterio se mide después.
+- Distinguir validez concurrente de predictiva.
+- Explicar la restricción de rango y aplicar la corrección de Thorndike (Caso II).
+- Traducir un coeficiente de validez a una tasa de acierto de selección.
+- Leer críticamente un estudio de validez de un test de selección.
 
-Problema típico: el desempeño solo se observa en quienes fueron seleccionados. La correlación en esa muestra restringida subestima la de la población de postulantes. Para restricción directa en el predictor (Caso II de Thorndike; Sackett y Yang, 2000):
+## La idea en palabras simples
+
+La **validez de criterio** es la relación entre el puntaje y una variable externa (el «criterio»): desempeño, notas, etc.
+
+- **Concurrente:** ambas se miden al mismo tiempo.
+- **Predictiva:** el criterio se mide después (el test hoy, las notas en seis meses).
+
+**La trampa:** si solo contratas al 30 % con mejor puntaje, solo ves el desempeño de esos. Entre ellos la variación del test es pequeña, y por eso la relación observada **se ve más débil** que la real.
+
+## Cómo funciona, paso a paso
+
+**1. Corrección de Thorndike (Caso II)** para restricción directa en el predictor (Sackett & Yang, 2000):
 
 ```
-r_corr = r·u / √(1 + r²(u² − 1))        u = DE sin restringir / DE restringida
+r_corregida = r·u / √(1 + r²·(u² − 1))        u = DE sin restringir / DE restringida
 ```
 
-Laboratorio (validez verdadera 0,40; se contrata al 30 % superior):
+**2. Ejemplo.** r observada 0,25 y u = 1,5: r_corregida = 0,25 · 1,5 / √(1 + 0,0625 · 1,25) = 0,375 / 1,0384 = **0,361**.
 
-- correlación observada solo en contratados: **0,216**;
-- corregida (u = 1,94): **0,395**.
+**3. Traducir a decisiones.** Un coeficiente de 0,40 no se entiende solo: se convierte en tasa de buen desempeño entre los contratados.
 
-Tasa de buen desempeño entre los contratados según la validez del test:
+![Curva de tasa de buen desempeño según la validez: 0,50 sin validez, 0,79 con r = 0,6](figura-1.svg)
 
-| Validez | Tasa |
+*Figura 1.* Sin validez, seleccionar rinde lo que el azar (0,50); con 0,40 hay mejora real pero acotada.
+
+**4. Supuestos de la corrección.** Exige que la selección haya sido solo por el predictor; con otras vías de selección el ajuste es otro.
+
+## Si construyes el instrumento
+
+- Estudia la validez con un criterio fiable y relevante; un criterio ruidoso reduce la validez observada.
+- Informa la correlación observada y la corregida, y declara qué corrección usaste.
+- Traduce los coeficientes a decisiones (tasa de acierto, ganancia en desempeño).
+- No transfieras automáticamente valores de validez de la literatura (por ejemplo, de Schmidt & Hunter, 1998) a un puesto específico: son promedios metaanalíticos.
+
+## Si eres evaluado
+
+- Si un test se usa para seleccionarte, pregunta qué relación tiene con el desempeño en el puesto **concreto**.
+- Un test con validez moderada mejora las decisiones en promedio, pero **se equivoca** en muchos casos individuales.
+- Un puntaje bajo en un test de selección no demuestra que serías mal desempeñante.
+
+## Qué muestra el laboratorio
+
+`lab.py` simula una validez verdadera de 0,40 en postulantes y contrata al 30 % superior.
+
+| Resultado | Valor |
+|---|---:|
+| Correlación observada solo en contratados | 0,216 |
+| Corregida (u = 1,94) | 0,395 |
+
+| Validez del test | Tasa de buen desempeño entre contratados |
 |---:|---:|
 | 0,0 | 0,498 |
 | 0,2 | 0,592 |
 | 0,4 | 0,685 |
 | 0,6 | 0,793 |
 
-Sin validez, la selección rinde azar (0,50). Con 0,40, la mejora es real pero acotada.
+**Análisis.** (1) La correlación observada (0,216) subestima la real (0,40); la corrección la recupera (0,395). (2) Sin validez, la selección rinde azar (≈ 0,50). (3) Incluso con r = 0,40 la mejora es real pero acotada: casi tres de cada diez contratados rendirán mal. (4) La fórmula corrige un supuesto: que la selección fue solo por el predictor.
 
-## Ejemplo resuelto
-
-r observada 0,25 y u = 1,5: r_corr = 0,25·1,5 / √(1 + 0,0625·1,25) = 0,375/1,0384 = 0,361.
-
-## Errores y límites
+## Errores frecuentes
 
 - Usar la validez observada en contratados como si fuera la de los postulantes.
-- Aplicar la corrección cuando la selección no fue por el predictor (otro caso, otra fórmula).
-- Ignorar la fiabilidad del criterio: un criterio ruidoso reduce la validez observada.
-- Los valores de validez de la literatura de selección (p. ej. Schmidt y Hunter, 1998) son promedios metaanalíticos; no se transfieren automáticamente a un puesto específico.
+- Aplicar la corrección cuando la selección no fue por el predictor.
+- Ignorar la fiabilidad del criterio.
+- Transferir sin análisis la validez promedio de la literatura a un puesto específico.
+
+## Lo mínimo que debes llevarte
+
+1. Concurrente: criterio al mismo tiempo; predictiva: después.
+2. La restricción de rango hace parecer débil la validez.
+3. Se puede corregir con supuestos explícitos.
+4. Traduce r a tasas de acierto para entender el efecto real.
 
 ## Ejercicios
 
-- **Inicial.** ¿Qué tipo de validez de criterio es un estudio donde se aplica el test y 6 meses después se obtienen notas?
-- **Intermedio.** r = 0,20, u = 2: r_corr = 0,4/√(1+0,04·3) = 0,378.
+- **Inicial.** ¿Qué tipo de validez de criterio es un estudio donde se aplica el test y 6 meses después se obtienen notas? *Solución: predictiva.*
+- **Intermedio.** r = 0,20, u = 2: calcula r corregida. *Solución: 0,4 / √(1 + 0,04 · 3) = 0,378.*
 - **Avanzado.** En `lab.py` contrata solo al 10 % superior y compara la r observada con la corregida.
+- **Aplicación.** Lee un estudio de validez de un test de selección y señala si corrigió la restricción de rango.
+
+## Glosario
+
+- **Criterio:** variable externa que el test pretende predecir o reflejar.
+- **Validez concurrente / predictiva:** criterio medido a la vez / después.
+- **Restricción de rango:** reducción de variabilidad por seleccionar a un subgrupo.
+- **Corrección de Thorndike:** ajuste que estima la correlación en la población sin restricción.
 
 ## Laboratorio
 
 ```bash
 python classes/part-03-validez/034-validez-de-criterio/lab.py
+python classes/part-03-validez/figuras.py
 ```
 
 ## Autoevaluación y criterios
 
 1. ¿Por qué la validez observada subestima? 2. ¿Qué supuesto exige la corrección? 3. ¿Qué cambia si el criterio es poco fiable?
-Se logra si el estudiante aplica la corrección y traduce la validez a decisiones.
+Se logra la clase si puedes aplicar la corrección y traducir la validez a decisiones.
 
 ## Bibliografía
 
-- Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded typology. *Journal of Applied Psychology*, 85(1), 112-118. ✅ [DOI](https://doi.org/10.1037/0021-9010.85.1.112)
-- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.2.262)
-- Thorndike, R. L. (1949). *Personnel Selection*. Wiley. ⚠️ existe, pero Crossref registra 2015 (¿otra edición?; [DOI](https://doi.org/10.1002/9781118785317.weom050103))
-
-Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+- Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded typology. *Journal of Applied Psychology*, 85(1), 112-118.
+- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings. *Psychological Bulletin*, 124(2), 262-274.
+- Thorndike, R. L. (1949). *Personnel Selection: Test and Measurement Techniques*. Wiley.
 
 ---
 
