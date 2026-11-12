@@ -7,19 +7,53 @@
 <!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 5 h · Estado `escrita`
+**Pensada para:** quien usa o decide sobre pruebas de cribado, y familias que reciben un resultado de «riesgo».
 **Prerrequisitos:** clases 100 y 131.
 
-## Objetivos
+> Datos sintéticos. Un cribado no es un diagnóstico.
 
-1. Distinguir el propósito de un cribado del de un diagnóstico.
-2. Interpretar una curva ROC y elegir un punto de corte.
-3. Calcular cuántos niños se derivan por cada caso verdadero.
+## ¿Para qué te sirve esto?
 
-## Fundamentos
+«El test salió en riesgo.» Esa frase asusta, pero un **cribado** no dice que haya un problema: dice que **conviene mirar con más detalle**. La diferencia entre cribado y diagnóstico es central, y tiene una sorpresa numérica: aun con un cribado razonable, **la mayoría de los derivados no tiene la condición** cuando esta es poco frecuente. Esta clase te enseña a leer sensibilidad, especificidad y valor predictivo, a elegir un corte según la capacidad del servicio y a **comunicar riesgo con honestidad**.
 
-El **cribado** identifica riesgo en una población aparentemente sana, con pruebas breves; el **diagnóstico** es un proceso profesional, individual y más amplio (Glascoe, 2005; Lipkin y Macias, 2020). Un cribado se evalúa con sensibilidad, especificidad, valor predictivo y el área bajo la curva ROC (Hanley y McNeil, 1982). El corte «óptimo» (Youden) puede no ser el viable si la red de derivación es limitada.
+## Al terminar esta clase podrás
 
-Laboratorio (prevalencia 5 %; puntaje de casos ~N(0; 1) y de no casos ~N(1,5; 1); AUC ≈ 0,86):
+- Distinguir el propósito de un cribado del de un diagnóstico.
+- Interpretar una curva ROC y elegir un punto de corte.
+- Calcular cuántos niños se derivan por cada caso verdadero.
+
+## La idea en palabras simples
+
+El **cribado** identifica riesgo en una población aparentemente sana con pruebas breves; el **diagnóstico** es un proceso profesional, individual y más amplio (Glascoe, 2005; Lipkin y Macias, 2020). Un cribado se evalúa con **sensibilidad**, **especificidad**, **valor predictivo positivo (VPP)** y el **AUC** de la curva ROC (Hanley y McNeil, 1982). El **índice de Youden** (sensibilidad + especificidad − 1) sugiere un corte, pero el corte real se elige según cuántos niños se pueden evaluar después y cuánto cuesta no detectar un caso.
+
+## Cómo funciona, paso a paso
+
+**1. Simular** una prevalencia del 5 %; los casos puntúan ~N(0, 1) y los no casos ~N(1,5, 1).
+
+**2. Calcular** sensibilidad, especificidad, VPP y derivados por cada 100 para varios cortes.
+
+**3. Elegir** el corte según capacidad y costos.
+
+**Ejemplo resuelto.** Con corte 0,75, por cada 100 niños se derivan 25; ≈ 3,9 son casos (77 % de 5) y ≈ 21 no lo son: 6,6 derivados por caso.
+
+![Líneas de sensibilidad, especificidad y VPP según el corte](figura-1.svg)
+
+*Figura 1.* Bajar la exigencia gana sensibilidad pero deriva a muchos más niños sanos.
+
+## Si construyes el instrumento
+
+- Declara el propósito: cribado, no diagnóstico.
+- Elige el corte según capacidad de evaluación posterior y costo de no detectar.
+- Comunica «riesgo» con lenguaje claro, nunca «diagnóstico».
+- Ofrece apoyo mientras se espera la evaluación y un seguimiento para los no derivados.
+
+## Si eres evaluado (o eres la familia)
+
+- «En riesgo» significa «hay que evaluar mejor», no «tiene un problema».
+- Pregunta cuál fue el propósito del test y qué sigue.
+- Con una condición poco frecuente, la mayoría de los derivados no la tiene.
+
+## Qué muestra el laboratorio
 
 | Corte | Sens. | Espec. | VPP | Derivar por cada 100 | Derivados por caso |
 |---:|---:|---:|---:|---:|---:|
@@ -27,41 +61,55 @@ Laboratorio (prevalencia 5 %; puntaje de casos ~N(0; 1) y de no casos ~N(1,5; 1)
 | 0,75 (Youden) | 0,77 | 0,77 | 0,15 | 25,3 | 6,6 |
 | 1,50 | 0,93 | 0,50 | 0,09 | 52,1 | 11,2 |
 
-## Ejemplo resuelto
+AUC ≈ 0,86; corte de Youden = 0,75.
 
-Con corte 0,75, por cada 100 niños se derivan 25; ≈ 3,9 son casos (77 % de 5) y ≈ 21 no lo son: 6,6 derivados por caso.
+**Análisis.** (1) Aun con un cribado razonable y 5 % de prevalencia, la mayoría de los derivados no tiene la condición (VPP bajo). (2) Un cribado reparte la atención: el corte se elige según capacidad y costo. (3) El resultado positivo se llama «riesgo», nunca «diagnóstico». (4) El diagnóstico es un proceso profesional.
 
-## Errores y límites
+## Errores frecuentes
 
 - Llamar «diagnóstico» a un resultado de cribado.
 - Elegir el corte por estadística sin considerar capacidad y costos.
 - No ofrecer apoyo mientras se espera la evaluación.
-- Datos sintéticos.
+- Ignorar la baja prevalencia al interpretar un resultado positivo.
+
+## Lo mínimo que debes llevarte
+
+1. Cribado detecta riesgo; el diagnóstico es un proceso.
+2. Sensibilidad y especificidad se compensan.
+3. El VPP depende de la prevalencia.
+4. El corte se elige con criterios prácticos y éticos.
 
 ## Ejercicios
 
-- **Inicial.** ¿Qué es el índice de Youden?
-- **Intermedio.** Sens. 0,6 y esp. 0,9 → Youden 0,5.
+- **Inicial.** ¿Qué es el índice de Youden? *Solución: sensibilidad + especificidad − 1.*
+- **Intermedio.** Sens. 0,6 y esp. 0,9. *Solución: Youden 0,5.*
 - **Avanzado.** Cambia la prevalencia a 15 % en `lab.py` y observa el VPP.
+- **Aplicación.** Redacta cómo comunicarías un resultado de «riesgo» a una familia.
+
+## Glosario
+
+- **Cribado (screening):** prueba breve para detectar riesgo en población general.
+- **Diagnóstico:** evaluación profesional individual y amplia.
+- **VPP:** proporción de positivos que realmente tienen la condición.
+- **Curva ROC:** gráfico de sensibilidad frente a 1 − especificidad según el corte.
 
 ## Laboratorio
 
 ```bash
 python classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/135-cribado-frente-a-diagnostico-en-la-infancia/lab.py
+python classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/figuras.py
 ```
 
 ## Autoevaluación y criterios
 
 1. ¿Qué capacidad de derivación tiene tu servicio? 2. ¿Cómo comunicas «riesgo»? 3. ¿Qué seguimiento propones para los no derivados?
-Se logra si el estudiante elige un corte justificado y comunica con lenguaje de riesgo.
+Se logra la clase si eliges un corte justificado y comunicas con lenguaje de riesgo.
 
 ## Bibliografía
 
-- Glascoe, F. P. (2005). Screening for developmental and behavioral problems. *Mental Retardation and Developmental Disabilities Research Reviews*, 11(3), 173-179. ✅ [DOI](https://doi.org/10.1002/mrdd.20068)
-- Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver operating characteristic (ROC) curve. *Radiology*, 143(1), 29-36. ✅ [DOI](https://doi.org/10.1148/radiology.143.1.7063747)
-- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatrics*, 145(1), e20193449. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
-
-Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+- Glascoe, F. P. (2005). Screening for developmental and behavioral problems. *Mental Retardation and Developmental Disabilities Research Reviews*, 11(3), 173-179. [DOI](https://doi.org/10.1002/mrdd.20068)
+- Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver operating characteristic (ROC) curve. *Radiology*, 143(1), 29-36. [DOI](https://doi.org/10.1148/radiology.143.1.7063747)
+- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development: Identifying infants and young children with developmental disorders through developmental surveillance and screening. *Pediatrics*, 145(1), e20193449.
 
 ---
 
