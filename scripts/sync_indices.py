@@ -8,6 +8,7 @@ Con --check no escribe: falla si algo esta desincronizado (lo usa el CI).
 from __future__ import annotations
 
 import pathlib
+import re
 import sys
 
 import yaml
@@ -72,7 +73,18 @@ def main() -> int:
         return 1
     antes, resto = readme.split(INICIO, 1)
     _, despues = resto.split(FIN, 1)
-    aplica(RAIZ / "README.md", f"{antes}{INICIO}\n{tabla_programa(partes)}\n{FIN}{despues}")
+    nuevo = f"{antes}{INICIO}\n{tabla_programa(partes)}\n{FIN}{despues}"
+    clases = [c for p in partes for c in p["clases"]]
+    esc = sum(c["estado"] == "escrita" for c in clases)
+    labs = sum(1 for c in clases
+               if c["estado"] == "escrita" and (RAIZ / c["ruta"] / "lab.py").is_file())
+    n = len(clases)
+    nuevo = re.sub(r"clases-\d+%20de%20\d+%20escritas", f"clases-{esc}%20de%20{n}%20escritas", nuevo)
+    nuevo = re.sub(r"(\| \*\*\d+\*\* \| \*\*\d+\*\* \| \*\*\d+\*\* \| )\*\*\d+ / \d+\*\* \| \*\*\d+\*\*",
+                   rf"\g<1>**{esc} / {n}** | **{labs}**", nuevo)
+    nuevo = re.sub(r"🟡 \d+ de \d+ escritas; las \d+ restantes",
+                   f"🟡 {esc} de {n} escritas; las {n - esc} restantes", nuevo)
+    aplica(RAIZ / "README.md", nuevo)
     for p in partes:
         aplica(RAIZ / "classes" / dir_parte(p) / "README.md", readme_parte(p))
 

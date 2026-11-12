@@ -3,5 +3,5 @@ numero: 58
 titulo: "Evidencia basada en procesos de respuesta"
 parte: "03"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

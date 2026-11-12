@@ -161,61 +161,61 @@ temario:
     titulo: 'La teoría clásica: puntaje verdadero y error'
     ruta: classes/part-02-fiabilidad/011-teoria-clasica-del-error
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '012'
     numero: 12
     titulo: 'Consistencia interna: alfa de Cronbach y sus abusos'
     ruta: classes/part-02-fiabilidad/012-consistencia-interna-alfa
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '013'
     numero: 13
     titulo: Omega de McDonald y por qué alfa se queda corto
     ruta: classes/part-02-fiabilidad/013-omega-y-alternativas-a-alfa
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '014'
     numero: 14
     titulo: 'Test-retest: estabilidad frente a consistencia'
     ruta: classes/part-02-fiabilidad/014-test-retest-y-estabilidad
     horas_estimadas: 3
-    estado: planificada
+    estado: escrita
   - id: '015'
     numero: 15
     titulo: Error típico de medida e intervalos de confianza del puntaje
     ruta: classes/part-02-fiabilidad/015-error-tipico-de-medida
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '051'
     numero: 51
     titulo: Estadística descriptiva aplicada a puntajes
     ruta: classes/part-02-fiabilidad/051-estadistica-descriptiva-aplicada-a-puntajes
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '052'
     numero: 52
     titulo: Correlación de Pearson, Spearman y sus supuestos
     ruta: classes/part-02-fiabilidad/052-correlacion-de-pearson-spearman-y-sus-supuestos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '053'
     numero: 53
     titulo: 'Fiabilidad de pruebas dicotómicas: KR-20'
     ruta: classes/part-02-fiabilidad/053-fiabilidad-de-pruebas-dicotomicas-kr-20
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '054'
     numero: 54
     titulo: 'Fiabilidad entre evaluadores: kappa y CCI'
     ruta: classes/part-02-fiabilidad/054-fiabilidad-entre-evaluadores-kappa-y-cci
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '055'
     numero: 55
     titulo: Intervalos de confianza para puntajes individuales
     ruta: classes/part-02-fiabilidad/055-intervalos-de-confianza-para-puntajes-individuales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '03'
   slug: validez
   titulo: Validez
@@ -229,61 +229,61 @@ temario:
     titulo: La validez no es una propiedad del test, es un argumento
     ruta: classes/part-03-validez/016-validez-como-argumento
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '017'
     numero: 17
     titulo: Validez de contenido y el juicio de expertos
     ruta: classes/part-03-validez/017-validez-de-contenido
     horas_estimadas: 3
-    estado: planificada
+    estado: escrita
   - id: 018
     numero: 18
     titulo: 'Validez de constructo: convergente y discriminante'
     ruta: classes/part-03-validez/018-validez-de-constructo
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: 019
     numero: 19
     titulo: Validez de criterio y validez predictiva
     ruta: classes/part-03-validez/019-validez-de-criterio
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '020'
     numero: 20
     titulo: 'La cara olvidada: consecuencias del uso del test'
     ruta: classes/part-03-validez/020-consecuencias-del-uso
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '056'
     numero: 56
     titulo: 'Validez convergente y discriminante: matriz multirrasgo-multimétodo'
     ruta: classes/part-03-validez/056-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '057'
     numero: 57
     titulo: Validez ecológica y generalización
     ruta: classes/part-03-validez/057-validez-ecologica-y-generalizacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 058
     numero: 58
     titulo: Evidencia basada en procesos de respuesta
     ruta: classes/part-03-validez/058-evidencia-basada-en-procesos-de-respuesta
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 059
     numero: 59
     titulo: Metaanálisis de validez y corrección por atenuación
     ruta: classes/part-03-validez/059-metaanalisis-de-validez-y-correccion-por-atenuacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '060'
     numero: 60
     titulo: 'Amenazas a la validez: falseamiento y deseabilidad social'
     ruta: classes/part-03-validez/060-amenazas-a-la-validez-falseamiento-y-deseabilidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '04'
   slug: estructura-y-analisis-factorial
   titulo: Estructura y análisis factorial

@@ -8,7 +8,8 @@ falta y en qué orden.
 - [x] Currículo de 20 partes y 200 clases (estructura; 190 clases sin redactar).
 - [x] 140 fichas documentales en 8 familias, con estados diferenciados.
 - [x] Clases 006-010 (parte 01) escritas con laboratorio.
-- [ ] Redactar clases 011-200 con laboratorio reproducible.
+- [x] Clases 011-020 y 051-060 (partes 02 y 03) escritas.
+- [ ] Redactar el resto (partes 04-19) con laboratorio reproducible.
 - [ ] Contrastar cada ficha con su fuente primaria y pasar a `verificado: true`.
 - [ ] Extensión del esquema para ítems de rendimiento (clave, tiempo, adaptativo) con tests propios.
 - [ ] Instrumentos ejecutables nuevos con bancos abiertos u originales.
