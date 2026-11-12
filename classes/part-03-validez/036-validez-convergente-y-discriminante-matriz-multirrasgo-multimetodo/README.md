@@ -2,7 +2,9 @@
 
 ![Portada de la clase 036](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 035 — La cara olvidada: consecuencias del uso del t…](../035-consecuencias-del-uso/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [037 — Validez ecológica y generalización →](../037-validez-ecologica-y-generalizacion/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 033 y 027.
@@ -63,3 +65,11 @@ Se logra si el estudiante lee una MRMM y diagnostica el método.
 - Podsakoff, P. M., et al. (2003). Common method biases in behavioral research. *Journal of Applied Psychology*, 88(5), 879-903. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 035 — La cara olvidada: consecuencias del uso del t…](../035-consecuencias-del-uso/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[037 — Validez ecológica y generalización →](../037-validez-ecologica-y-generalizacion/README.md)
+<!-- /NAV -->

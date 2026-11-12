@@ -2,7 +2,9 @@
 
 ![Portada de la clase 131](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 130 — Gestión de conflictos y toma de decisiones](../../part-12-liderazgo-equipos-y-sociometria/130-gestion-de-conflictos-y-toma-de-decisiones/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [132 — Desarrollo cognitivo infantil: Piaget y Vygot… →](../132-desarrollo-cognitivo-infantil-piaget-y-vygotsky/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 061 y 100.
@@ -59,3 +61,11 @@ Se logra si el estudiante interpreta hitos como rangos y calcula el efecto de re
 - Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development: Identifying infants and young children with developmental disorders through developmental surveillance and screening. *Pediatrics*, 145(1), e20193449. ✅ [DOI](https://doi.org/10.1542/9781610025034-part03-promoting)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 130 — Gestión de conflictos y toma de decisiones](../../part-12-liderazgo-equipos-y-sociometria/130-gestion-de-conflictos-y-toma-de-decisiones/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[132 — Desarrollo cognitivo infantil: Piaget y Vygot… →](../132-desarrollo-cognitivo-infantil-piaget-y-vygotsky/README.md)
+<!-- /NAV -->

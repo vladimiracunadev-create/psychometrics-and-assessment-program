@@ -2,7 +2,9 @@
 
 ![Portada de la clase 025](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../024-test-retest-y-estabilidad/README.md) · [Siguiente](../../part-03-validez/031-validez-como-argumento/README.md)
+<!-- NAV -->
+[← 024 — Test-retest: estabilidad frente a consistencia](../024-test-retest-y-estabilidad/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [026 — Estadística descriptiva aplicada a puntajes →](../026-estadistica-descriptiva-aplicada-a-puntajes/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 024.
@@ -64,3 +66,11 @@ Se logra si el estudiante calcula ETM e intervalos y rechaza conclusiones que ca
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 024 — Test-retest: estabilidad frente a consistencia](../024-test-retest-y-estabilidad/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[026 — Estadística descriptiva aplicada a puntajes →](../026-estadistica-descriptiva-aplicada-a-puntajes/README.md)
+<!-- /NAV -->

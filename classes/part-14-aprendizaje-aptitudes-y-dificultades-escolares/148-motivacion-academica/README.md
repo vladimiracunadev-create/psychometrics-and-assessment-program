@@ -2,7 +2,9 @@
 
 ![Portada de la clase 148](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 147 — Estrategias metacognitivas y autorregulación…](../147-estrategias-metacognitivas-y-autorregulacion-del-aprendizaje/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [149 — Habilidades digitales del estudiantado →](../149-habilidades-digitales-del-estudiantado/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 175.
@@ -61,3 +63,11 @@ Se logra si el estudiante identifica el sesgo por error de medida en un modelo c
 - Hamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. *Psychological Methods*, 20(1), 102-116. ✅ [DOI](https://doi.org/10.1037/a0038889)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 147 — Estrategias metacognitivas y autorregulación…](../147-estrategias-metacognitivas-y-autorregulacion-del-aprendizaje/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[149 — Habilidades digitales del estudiantado →](../149-habilidades-digitales-del-estudiantado/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 050](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 049 — Análisis de redes psicométricas](../049-analisis-de-redes-psicometricas/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [051 — Los límites que hacen falta superar →](../../part-05-teoria-de-respuesta-al-item/051-limites-de-la-teoria-clasica/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 012 y 027.
@@ -64,3 +66,11 @@ Se logra si el estudiante elige el coeficiente según categorías y asimetría.
 - Bonett, D. G., & Price, R. M. (2005). Inferential methods for the tetrachoric correlation coefficient. *Journal of Educational and Behavioral Statistics*, 30(2), 213-225. ✅ [DOI](https://doi.org/10.3102/10769986030002213)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 049 — Análisis de redes psicométricas](../049-analisis-de-redes-psicometricas/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[051 — Los límites que hacen falta superar →](../../part-05-teoria-de-respuesta-al-item/051-limites-de-la-teoria-clasica/README.md)
+<!-- /NAV -->

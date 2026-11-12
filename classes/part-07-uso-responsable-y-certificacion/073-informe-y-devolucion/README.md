@@ -2,7 +2,9 @@
 
 ![Portada de la clase 073](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 072 — Directrices de la International Test Commissi…](../072-itc-y-normas-internacionales/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [074 — Uso en selección de personal: qué es defendib… →](../074-seleccion-de-personal/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 025 y 030.
@@ -59,3 +61,11 @@ Se logra si el estudiante redacta un informe que cumple las cuatro reglas.
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 072 — Directrices de la International Test Commissi…](../072-itc-y-normas-internacionales/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[074 — Uso en selección de personal: qué es defendib… →](../074-seleccion-de-personal/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 165](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 164 — Regulación emocional](../164-regulacion-emocional/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [166 — Satisfacción académica y laboral →](../166-satisfaccion-academica-y-laboral/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 045 y 083.
@@ -58,3 +60,11 @@ Se logra si el estudiante corrige el sesgo y distingue qué mide cada tipo de in
 - Wagner, H. L. (1993). On measuring performance in category judgment studies of nonverbal behavior. *Journal of Nonverbal Behavior*, 17(1), 3-28. ✅ [DOI](https://doi.org/10.1007/bf00987006)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 164 — Regulación emocional](../164-regulacion-emocional/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[166 — Satisfacción académica y laboral →](../166-satisfaccion-academica-y-laboral/README.md)
+<!-- /NAV -->

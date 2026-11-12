@@ -2,7 +2,9 @@
 
 ![Portada de la clase 035](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../034-validez-de-criterio/README.md)
+<!-- NAV -->
+[← 034 — Validez de criterio y validez predictiva](../034-validez-de-criterio/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [036 — Validez convergente y discriminante: matriz m… →](../036-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 031 y 034.
@@ -64,3 +66,11 @@ Se logra si el estudiante calcula tasas y razones y redacta una evaluación de c
 - Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 034 — Validez de criterio y validez predictiva](../034-validez-de-criterio/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[036 — Validez convergente y discriminante: matriz m… →](../036-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md)
+<!-- /NAV -->

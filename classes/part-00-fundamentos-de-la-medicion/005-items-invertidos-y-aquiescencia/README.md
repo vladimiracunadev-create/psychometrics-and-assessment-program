@@ -2,7 +2,9 @@
 
 ![Portada de la clase 005](portada.svg)
 
-> [Clase anterior](../004-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../011-*/README.md)
+<!-- NAV -->
+[← 004 — Puntaje bruto, media por ítem y por qué no so…](../004-puntaje-bruto-y-media-por-item/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [006 — Historia de la psicometría: de Galton a la me… →](../006-historia-de-la-psicometria-de-galton-a/README.md)
+<!-- /NAV -->
 
 **Parte:** 00 — Fundamentos de la medición psicológica
 **Horas estimadas:** 4 · **Estado:** `escrita`
@@ -111,3 +113,11 @@ python classes/part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiesc
 - Bluemke, M., et al. (2021). IPIP-VIA-R short scales. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 004 — Puntaje bruto, media por ítem y por qué no so…](../004-puntaje-bruto-y-media-por-item/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[006 — Historia de la psicometría: de Galton a la me… →](../006-historia-de-la-psicometria-de-galton-a/README.md)
+<!-- /NAV -->

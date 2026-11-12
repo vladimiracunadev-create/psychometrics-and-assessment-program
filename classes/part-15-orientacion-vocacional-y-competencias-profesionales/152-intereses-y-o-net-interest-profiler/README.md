@@ -2,7 +2,9 @@
 
 ![Portada de la clase 152](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 151 — Teoría de intereses de Holland](../151-teoria-de-intereses-de-holland/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [153 — Valores laborales y de vida →](../153-valores-laborales-y-de-vida/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 151.
@@ -59,3 +61,11 @@ Se logra si el estudiante audita la licencia y presenta resultados como opciones
 - `instruments/onet-riasec-sf.yaml` y `DISCLAIMER.md` del repositorio. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 151 — Teoría de intereses de Holland](../151-teoria-de-intereses-de-holland/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[153 — Valores laborales y de vida →](../153-valores-laborales-y-de-vida/README.md)
+<!-- /NAV -->

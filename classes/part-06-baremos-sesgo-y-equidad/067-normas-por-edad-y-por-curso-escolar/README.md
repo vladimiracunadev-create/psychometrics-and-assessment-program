@@ -2,7 +2,9 @@
 
 ![Portada de la clase 067](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 066 — Puntajes estándar: z, T y estaninos](../066-puntajes-estandar-z-t-y-estaninos/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [068 — Equidad en evaluaciones de alto impacto →](../068-equidad-en-evaluaciones-de-alto-impacto/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 061 y 066.
@@ -60,3 +62,11 @@ Se logra si el estudiante construye y compara ambas normas.
 - Oosterhuis, H. E. M., van der Ark, L. A., & Sijtsma, K. (2016). Sample size requirements for traditional and regression-based norms. *Assessment*, 23(2), 191-202. ✅ [DOI](https://doi.org/10.1177/1073191115580638)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 066 — Puntajes estándar: z, T y estaninos](../066-puntajes-estandar-z-t-y-estaninos/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[068 — Equidad en evaluaciones de alto impacto →](../068-equidad-en-evaluaciones-de-alto-impacto/README.md)
+<!-- /NAV -->

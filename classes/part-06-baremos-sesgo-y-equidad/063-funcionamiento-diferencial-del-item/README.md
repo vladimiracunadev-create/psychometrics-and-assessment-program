@@ -2,7 +2,9 @@
 
 ![Portada de la clase 063](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../062-elegir-la-muestra-normativa/README.md) · [Siguiente](../064-sesgo-predictivo-y-equidad/README.md)
+<!-- NAV -->
+[← 062 — La muestra normativa: a quién se compara la p…](../062-elegir-la-muestra-normativa/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [064 — Sesgo predictivo y definiciones de equidad →](../064-sesgo-predictivo-y-equidad/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 015 y 052.
@@ -68,3 +70,11 @@ Se logra si el estudiante distingue impacto de DIF y decide con criterio sustant
 - Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Procedures*. ETS Research Report RR-12-08. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 062 — La muestra normativa: a quién se compara la p…](../062-elegir-la-muestra-normativa/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[064 — Sesgo predictivo y definiciones de equidad →](../064-sesgo-predictivo-y-equidad/README.md)
+<!-- /NAV -->

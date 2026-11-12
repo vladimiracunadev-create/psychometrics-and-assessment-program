@@ -2,7 +2,9 @@
 
 ![Portada de la clase 018](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 017 — Ítems de opción múltiple: distractores y clave](../017-items-de-opcion-multiple-distractores-y-clave/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [019 — Juicio de expertos y revisión cognitiva de ít… →](../019-juicio-de-expertos-y-revision-cognitiva-de/README.md)
+<!-- /NAV -->
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 017.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 017 — Ítems de opción múltiple: distractores y clave](../017-items-de-opcion-multiple-distractores-y-clave/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[019 — Juicio de expertos y revisión cognitiva de ít… →](../019-juicio-de-expertos-y-revision-cognitiva-de/README.md)
+<!-- /NAV -->

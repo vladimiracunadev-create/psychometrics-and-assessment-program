@@ -2,7 +2,9 @@
 
 ![Portada de la clase 128](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 127 — Cohesión, aislamiento y liderazgo informal](../127-cohesion-aislamiento-y-liderazgo-informal/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [129 — Evaluación 360 y sesgos de los evaluadores →](../129-evaluacion-360-y-sesgos-de-los-evaluadores/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 122 y 078.
@@ -63,3 +65,11 @@ Se logra si el estudiante calcula ICC y aplica una regla de supresión justifica
 - Bliese, P. D. (2000). Within-group agreement, non-independence, and reliability. En K. J. Klein & S. W. J. Kozlowski (Eds.), *Multilevel Theory, Research, and Methods in Organizations*. Jossey-Bass. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 127 — Cohesión, aislamiento y liderazgo informal](../127-cohesion-aislamiento-y-liderazgo-informal/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[129 — Evaluación 360 y sesgos de los evaluadores →](../129-evaluacion-360-y-sesgos-de-los-evaluadores/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 034](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../033-validez-de-constructo/README.md) · [Siguiente](../035-consecuencias-del-uso/README.md)
+<!-- NAV -->
+[← 033 — Validez de constructo: convergente y discrimi…](../033-validez-de-constructo/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [035 — La cara olvidada: consecuencias del uso del t… →](../035-consecuencias-del-uso/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 031 y 027.
@@ -74,3 +76,11 @@ Se logra si el estudiante aplica la corrección y traduce la validez a decisione
 - Thorndike, R. L. (1949). *Personnel Selection*. Wiley. ⚠️ existe, pero Crossref registra 2015 (¿otra edición?; [DOI](https://doi.org/10.1002/9781118785317.weom050103))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 033 — Validez de constructo: convergente y discrimi…](../033-validez-de-constructo/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[035 — La cara olvidada: consecuencias del uso del t… →](../035-consecuencias-del-uso/README.md)
+<!-- /NAV -->

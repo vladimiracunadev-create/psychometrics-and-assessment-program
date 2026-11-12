@@ -2,7 +2,9 @@
 
 ![Portada de la clase 134](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 133 — Desarrollo del lenguaje](../133-desarrollo-del-lenguaje/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [135 — Cribado frente a diagnóstico en la infancia →](../135-cribado-frente-a-diagnostico-en-la-infancia/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 029 y 111.
@@ -63,3 +65,11 @@ Se logra si el estudiante diseña una observación con tiempos y acuerdo justifi
 - Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37-46. ✅ [DOI](https://doi.org/10.1177/001316446002000104)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 133 — Desarrollo del lenguaje](../133-desarrollo-del-lenguaje/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[135 — Cribado frente a diagnóstico en la infancia →](../135-cribado-frente-a-diagnostico-en-la-infancia/README.md)
+<!-- /NAV -->

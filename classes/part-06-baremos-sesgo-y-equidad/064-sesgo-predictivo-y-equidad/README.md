@@ -2,7 +2,9 @@
 
 ![Portada de la clase 064](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../063-funcionamiento-diferencial-del-item/README.md) · [Siguiente](../065-adaptacion-transcultural/README.md)
+<!-- NAV -->
+[← 063 — Funcionamiento diferencial del ítem (DIF)](../063-funcionamiento-diferencial-del-item/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [065 — Adaptación transcultural y equivalencia →](../065-adaptacion-transcultural/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 034 y 035.
@@ -63,3 +65,11 @@ Se logra si el estudiante evalúa sesgo predictivo y discute definiciones de equ
 - Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 063 — Funcionamiento diferencial del ítem (DIF)](../063-funcionamiento-diferencial-del-item/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[065 — Adaptación transcultural y equivalencia →](../065-adaptacion-transcultural/README.md)
+<!-- /NAV -->

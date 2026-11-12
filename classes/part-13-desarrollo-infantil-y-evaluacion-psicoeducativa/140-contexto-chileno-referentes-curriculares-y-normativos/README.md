@@ -2,7 +2,9 @@
 
 ![Portada de la clase 140](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 139 — Cribado del neurodesarrollo: alcances y deriv…](../139-cribado-del-neurodesarrollo-alcances-y-derivacion/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [141 — Comprensión lectora: niveles y evaluación →](../../part-14-aprendizaje-aptitudes-y-dificultades-escolares/141-comprension-lectora-niveles-y-evaluacion/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 062, 065 y 076.
@@ -63,3 +65,11 @@ Se logra si el estudiante vincula normas con decisiones de evaluación y verific
 - Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.4324/9781410611758)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 139 — Cribado del neurodesarrollo: alcances y deriv…](../139-cribado-del-neurodesarrollo-alcances-y-derivacion/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[141 — Comprensión lectora: niveles y evaluación →](../../part-14-aprendizaje-aptitudes-y-dificultades-escolares/141-comprension-lectora-niveles-y-evaluacion/README.md)
+<!-- /NAV -->

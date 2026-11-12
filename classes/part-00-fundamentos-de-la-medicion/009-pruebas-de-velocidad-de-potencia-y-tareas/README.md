@@ -2,7 +2,9 @@
 
 ![Portada de la clase 009](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 008 — Tipos de test: rendimiento máximo frente a de…](../008-tipos-de-test-rendimiento-maximo-frente-a/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [010 — Introducción a la estadística descriptiva par… →](../010-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md)
+<!-- /NAV -->
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 008.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 008 — Tipos de test: rendimiento máximo frente a de…](../008-tipos-de-test-rendimiento-maximo-frente-a/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[010 — Introducción a la estadística descriptiva par… →](../010-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md)
+<!-- /NAV -->

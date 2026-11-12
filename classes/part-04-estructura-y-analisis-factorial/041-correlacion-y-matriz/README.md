@@ -2,7 +2,9 @@
 
 ![Portada de la clase 041](portada.svg)
 
-> [Índice de la parte](../README.md) · [Siguiente](../042-analisis-factorial-exploratorio/README.md)
+<!-- NAV -->
+[← 040 — Amenazas a la validez: falseamiento y deseabi…](../../part-03-validez/040-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [042 — Análisis factorial exploratorio →](../042-analisis-factorial-exploratorio/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 027 y 022.
@@ -64,3 +66,11 @@ Se logra si el estudiante lee la estructura de una matriz y decide si procede fa
 - Brown, T. A. (2015). *Confirmatory Factor Analysis for Applied Research* (2.ª ed.). Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 040 — Amenazas a la validez: falseamiento y deseabi…](../../part-03-validez/040-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[042 — Análisis factorial exploratorio →](../042-analisis-factorial-exploratorio/README.md)
+<!-- /NAV -->

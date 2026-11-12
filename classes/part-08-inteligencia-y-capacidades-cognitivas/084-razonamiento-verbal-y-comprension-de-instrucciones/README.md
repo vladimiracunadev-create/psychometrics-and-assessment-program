@@ -2,7 +2,9 @@
 
 ![Portada de la clase 084](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 083 — Razonamiento abstracto: matrices y series](../083-razonamiento-abstracto-matrices-y-series/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [085 — Razonamiento numérico →](../085-razonamiento-numerico/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 031 y 011.
@@ -66,3 +68,11 @@ Se logra si el estudiante evalúa legibilidad y decide si la complejidad es pert
 - Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*, 32(3), 221-233. ✅ [DOI](https://doi.org/10.1037/h0057532)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 083 — Razonamiento abstracto: matrices y series](../083-razonamiento-abstracto-matrices-y-series/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[085 — Razonamiento numérico →](../085-razonamiento-numerico/README.md)
+<!-- /NAV -->

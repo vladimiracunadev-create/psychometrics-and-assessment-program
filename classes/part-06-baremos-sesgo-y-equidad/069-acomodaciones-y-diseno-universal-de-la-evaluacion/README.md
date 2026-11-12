@@ -2,7 +2,9 @@
 
 ![Portada de la clase 069](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 068 — Equidad en evaluaciones de alto impacto](../068-equidad-en-evaluaciones-de-alto-impacto/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [070 — Estudios de invarianza entre grupos →](../070-estudios-de-invarianza-entre-grupos/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 009 y 068.
@@ -62,3 +64,11 @@ Se logra si el estudiante evalúa una acomodación frente al constructo.
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 068 — Equidad en evaluaciones de alto impacto](../068-equidad-en-evaluaciones-de-alto-impacto/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[070 — Estudios de invarianza entre grupos →](../070-estudios-de-invarianza-entre-grupos/README.md)
+<!-- /NAV -->

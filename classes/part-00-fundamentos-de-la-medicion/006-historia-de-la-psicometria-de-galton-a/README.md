@@ -2,7 +2,9 @@
 
 ![Portada de la clase 006](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 005 — Ítems invertidos y sesgo de aquiescencia](../005-items-invertidos-y-aquiescencia/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [007 — Constructos, variables latentes y definicione… →](../007-constructos-variables-latentes-y-definiciones-operacionales/README.md)
+<!-- /NAV -->
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 001.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - Spearman, C. (1904). «General intelligence» objectively determined and measured. *American Journal of Psychology*, 15(2), 201-292. ✅ [DOI](https://doi.org/10.2307/1412107)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 005 — Ítems invertidos y sesgo de aquiescencia](../005-items-invertidos-y-aquiescencia/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[007 — Constructos, variables latentes y definicione… →](../007-constructos-variables-latentes-y-definiciones-operacionales/README.md)
+<!-- /NAV -->

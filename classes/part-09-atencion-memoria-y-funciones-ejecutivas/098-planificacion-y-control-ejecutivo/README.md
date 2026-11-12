@@ -2,7 +2,9 @@
 
 ![Portada de la clase 098](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 097 — Flexibilidad cognitiva e inhibición](../097-flexibilidad-cognitiva-e-inhibicion/README.md) · [📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [099 — Tareas clásicas: Stroop, Go/No-Go, n-back →](../099-tareas-clasicas-stroop-go-no-go-n/README.md)
+<!-- /NAV -->
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 083 y 097.
@@ -61,3 +63,11 @@ Se logra si el estudiante calcula dificultades objetivas y las usa para diseñar
 - Hinz, A., & Klavžar, S. (2013). *The Tower of Hanoi — Myths and Maths*. Birkhäuser. ✅ [DOI](https://doi.org/10.1007/978-3-0348-0237-6)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 097 — Flexibilidad cognitiva e inhibición](../097-flexibilidad-cognitiva-e-inhibicion/README.md)  
+[📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[099 — Tareas clásicas: Stroop, Go/No-Go, n-back →](../099-tareas-clasicas-stroop-go-no-go-n/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 175](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 174 — Datos faltantes en instrumentos](../174-datos-faltantes-en-instrumentos/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [176 — Estimación de incertidumbre y bootstrap →](../176-estimacion-de-incertidumbre-y-bootstrap/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 025 y 162.
@@ -61,3 +63,11 @@ Se logra si el estudiante corrige por práctica y no sobreinterpreta.
 - Hageman, W. J. J. M., & Arrindell, W. A. (1999). Establishing clinically significant change. *Behaviour Research and Therapy*, 37(12), 1169-1193. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 174 — Datos faltantes en instrumentos](../174-datos-faltantes-en-instrumentos/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[176 — Estimación de incertidumbre y bootstrap →](../176-estimacion-de-incertidumbre-y-bootstrap/README.md)
+<!-- /NAV -->

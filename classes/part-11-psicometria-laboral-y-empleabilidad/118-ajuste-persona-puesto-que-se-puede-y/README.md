@@ -2,7 +2,9 @@
 
 ![Portada de la clase 118](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 117 — Percepción y prevención de riesgos laborales](../117-percepcion-y-prevencion-de-riesgos-laborales/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [119 — Dominio del inglés laboral: evaluación de idi… →](../119-dominio-del-ingles-laboral-evaluacion-de-idioma/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 031, 074 y 112.
@@ -61,3 +63,11 @@ Se logra si el estudiante muestra la dependencia del índice y propone un inform
 - Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of individuals' fit at work. *Personnel Psychology*, 58(2), 281-342. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 117 — Percepción y prevención de riesgos laborales](../117-percepcion-y-prevencion-de-riesgos-laborales/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[119 — Dominio del inglés laboral: evaluación de idi… →](../119-dominio-del-ingles-laboral-evaluacion-de-idioma/README.md)
+<!-- /NAV -->

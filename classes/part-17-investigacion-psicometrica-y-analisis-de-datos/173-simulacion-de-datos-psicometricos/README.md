@@ -2,7 +2,9 @@
 
 ![Portada de la clase 173](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 172 — Tamaño muestral y potencia](../172-tamano-muestral-y-potencia/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [174 — Datos faltantes en instrumentos →](../174-datos-faltantes-en-instrumentos/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 172 y 027.
@@ -59,3 +61,11 @@ Se logra si el estudiante mide cobertura bajo varias condiciones y concluye con 
 - Fisher, R. A. (1915). Frequency distribution of the values of the correlation coefficient in samples from an indefinitely large population. *Biometrika*, 10(4), 507-521. ✅ [DOI](https://doi.org/10.2307/2331838)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 172 — Tamaño muestral y potencia](../172-tamano-muestral-y-potencia/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[174 — Datos faltantes en instrumentos →](../174-datos-faltantes-en-instrumentos/README.md)
+<!-- /NAV -->

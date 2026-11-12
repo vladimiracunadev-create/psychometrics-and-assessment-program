@@ -2,7 +2,9 @@
 
 ![Portada de la clase 121](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 120 — Impacto adverso y defensa legal de una decisi…](../../part-11-psicometria-laboral-y-empleabilidad/120-impacto-adverso-y-defensa-legal-de-una/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [122 — Evaluación de la efectividad del liderazgo →](../122-evaluacion-de-la-efectividad-del-liderazgo/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 024 y 103.
@@ -60,3 +62,11 @@ Se logra si el estudiante cuantifica la estabilidad de una clasificación y la i
 - Judge, T. A., Piccolo, R. F., & Ilies, R. (2004). The forgotten ones? The validity of consideration and initiating structure in leadership research. *Journal of Applied Psychology*, 89(1), 36-51. ✅ [DOI](https://doi.org/10.1037/0021-9010.89.1.36)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 120 — Impacto adverso y defensa legal de una decisi…](../../part-11-psicometria-laboral-y-empleabilidad/120-impacto-adverso-y-defensa-legal-de-una/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[122 — Evaluación de la efectividad del liderazgo →](../122-evaluacion-de-la-efectividad-del-liderazgo/README.md)
+<!-- /NAV -->

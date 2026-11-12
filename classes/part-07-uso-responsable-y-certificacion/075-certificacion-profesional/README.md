@@ -2,7 +2,9 @@
 
 ![Portada de la clase 075](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 074 — Uso en selección de personal: qué es defendib…](../074-seleccion-de-personal/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [076 — Ley 19.628 y Ley 21.719: datos personales en… →](../076-ley-19-628-y-ley-21-719/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 025, 061 y 059.
@@ -62,3 +64,11 @@ Se logra si el estudiante fija un corte, estima su error y lo documenta.
 - Livingston, S. A., & Lewis, C. (1995). Estimating the consistency and accuracy of classifications based on test scores. *Journal of Educational Measurement*, 32(2), 179-197. ✅ [DOI](https://doi.org/10.1111/j.1745-3984.1995.tb00462.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 074 — Uso en selección de personal: qué es defendib…](../074-seleccion-de-personal/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[076 — Ley 19.628 y Ley 21.719: datos personales en… →](../076-ley-19-628-y-ley-21-719/README.md)
+<!-- /NAV -->

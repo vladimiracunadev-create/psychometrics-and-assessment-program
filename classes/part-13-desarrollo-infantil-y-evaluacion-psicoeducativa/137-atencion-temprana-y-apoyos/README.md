@@ -2,7 +2,9 @@
 
 ![Portada de la clase 137](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 136 — Evaluar con la familia: entrevista y devoluci…](../136-evaluar-con-la-familia-entrevista-y-devolucion/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [138 — Evaluación en educación parvularia →](../138-evaluacion-en-educacion-parvularia/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 087 y 134.
@@ -61,3 +63,11 @@ Se logra si el estudiante analiza un caso único y declara la debilidad del dise
 - Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*. What Works Clearinghouse. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 136 — Evaluar con la familia: entrevista y devoluci…](../136-evaluar-con-la-familia-entrevista-y-devolucion/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[138 — Evaluación en educación parvularia →](../138-evaluacion-en-educacion-parvularia/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 037](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 036 — Validez convergente y discriminante: matriz m…](../036-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [038 — Evidencia basada en procesos de respuesta →](../038-evidencia-basada-en-procesos-de-respuesta/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 031.
@@ -69,3 +71,11 @@ Se logra si el estudiante estima G y decide el número de tareas.
 - Brennan, R. L. (2001). *Generalizability Theory*. Springer. ✅ [DOI](https://doi.org/10.1007/978-1-4757-3456-0)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 036 — Validez convergente y discriminante: matriz m…](../036-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[038 — Evidencia basada en procesos de respuesta →](../038-evidencia-basada-en-procesos-de-respuesta/README.md)
+<!-- /NAV -->

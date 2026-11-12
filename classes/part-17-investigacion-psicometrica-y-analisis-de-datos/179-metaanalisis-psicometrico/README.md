@@ -2,7 +2,9 @@
 
 ![Portada de la clase 179](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 178 — Reproducibilidad: preregistro, datos y código](../178-reproducibilidad-preregistro-datos-y-codigo/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [180 — Redacción y revisión de un informe de validac… →](../180-redaccion-y-revision-de-un-informe-de/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 039 y 176.
@@ -62,3 +64,11 @@ Se logra si el estudiante agrupa fiabilidades e informa heterogeneidad y predicc
 - IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for routinely presenting prediction intervals in meta-analysis. *BMJ Open*, 6, e010247. ✅ [DOI](https://doi.org/10.1136/bmjopen-2015-010247)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 178 — Reproducibilidad: preregistro, datos y código](../178-reproducibilidad-preregistro-datos-y-codigo/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[180 — Redacción y revisión de un informe de validac… →](../180-redaccion-y-revision-de-un-informe-de/README.md)
+<!-- /NAV -->

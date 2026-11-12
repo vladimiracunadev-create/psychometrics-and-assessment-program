@@ -2,7 +2,9 @@
 
 ![Portada de la clase 056](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 055 — Testing adaptativo informatizado](../055-testing-adaptativo/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [057 — Curvas características e información del test →](../057-curvas-caracteristicas-e-informacion-del-test/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 052 a 054.
@@ -63,3 +65,11 @@ Se logra si el estudiante compara estimadores y declara el sesgo elegido.
 - Baker, F. B., & Kim, S.-H. (2004). *Item Response Theory: Parameter Estimation Techniques* (2.ª ed.). CRC Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 055 — Testing adaptativo informatizado](../055-testing-adaptativo/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[057 — Curvas características e información del test →](../057-curvas-caracteristicas-e-informacion-del-test/README.md)
+<!-- /NAV -->

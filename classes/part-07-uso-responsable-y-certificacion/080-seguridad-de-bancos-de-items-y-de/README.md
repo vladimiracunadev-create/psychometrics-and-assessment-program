@@ -2,7 +2,9 @@
 
 ![Portada de la clase 080](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 079 — Decisiones automatizadas y derecho a explicac…](../079-decisiones-automatizadas-y-derecho-a-explicacion/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [081 — Modelos de la inteligencia: Spearman, Thursto… →](../../part-08-inteligencia-y-capacidades-cognitivas/081-modelos-de-la-inteligencia-spearman-thurstone-chc/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 060 y 077.
@@ -62,3 +64,11 @@ Se logra si el estudiante detecta anomalías y propone un plan de seguridad por 
 - Way, W. D. (1998). Protecting the integrity of computerized testing item pools. *Educational Measurement: Issues and Practice*, 17(4), 17-27. ✅ [DOI](https://doi.org/10.1111/j.1745-3992.1998.tb00632.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 079 — Decisiones automatizadas y derecho a explicac…](../079-decisiones-automatizadas-y-derecho-a-explicacion/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[081 — Modelos de la inteligencia: Spearman, Thursto… →](../../part-08-inteligencia-y-capacidades-cognitivas/081-modelos-de-la-inteligencia-spearman-thurstone-chc/README.md)
+<!-- /NAV -->

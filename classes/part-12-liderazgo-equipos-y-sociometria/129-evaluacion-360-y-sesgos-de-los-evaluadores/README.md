@@ -2,7 +2,9 @@
 
 ![Portada de la clase 129](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 128 — Clima organizacional y escolar](../128-clima-organizacional-y-escolar/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [130 — Gestión de conflictos y toma de decisiones →](../130-gestion-de-conflictos-y-toma-de-decisiones/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 114 y 122.
@@ -63,3 +65,11 @@ Se logra si el estudiante estima fiabilidad y propone un uso para el desarrollo,
 - Murphy, K. R., & Cleveland, J. N. (1995). *Understanding Performance Appraisal*. Sage. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 128 — Clima organizacional y escolar](../128-clima-organizacional-y-escolar/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[130 — Gestión de conflictos y toma de decisiones →](../130-gestion-de-conflictos-y-toma-de-decisiones/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 020](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 019 — Juicio de expertos y revisión cognitiva de ít…](../019-juicio-de-expertos-y-revision-cognitiva-de/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [021 — La teoría clásica: puntaje verdadero y error →](../../part-02-fiabilidad/021-teoria-clasica-del-error/README.md)
+<!-- /NAV -->
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 019.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - Kolen, M. J., & Brennan, R. L. (2014). *Test Equating, Scaling, and Linking* (3.ª ed.). Springer. ✅ [DOI](https://doi.org/10.1007/978-1-4939-0317-7)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 019 — Juicio de expertos y revisión cognitiva de ít…](../019-juicio-de-expertos-y-revision-cognitiva-de/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[021 — La teoría clásica: puntaje verdadero y error →](../../part-02-fiabilidad/021-teoria-clasica-del-error/README.md)
+<!-- /NAV -->

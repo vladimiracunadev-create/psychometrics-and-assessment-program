@@ -2,7 +2,9 @@
 
 ![Portada de la clase 090](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 089 — Velocidad de procesamiento](../089-velocidad-de-procesamiento/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [091 — Atención sostenida y vigilancia →](../../part-09-atencion-memoria-y-funciones-ejecutivas/091-atencion-sostenida-y-vigilancia/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 072 y 088.
@@ -62,3 +64,11 @@ Se logra si el estudiante distingue usos, calcula la fiabilidad de un compuesto 
 - International Test Commission (2013). *ITC Guidelines on Test Use*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 089 — Velocidad de procesamiento](../089-velocidad-de-procesamiento/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[091 — Atención sostenida y vigilancia →](../../part-09-atencion-memoria-y-funciones-ejecutivas/091-atencion-sostenida-y-vigilancia/README.md)
+<!-- /NAV -->

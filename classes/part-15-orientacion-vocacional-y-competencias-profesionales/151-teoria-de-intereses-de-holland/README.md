@@ -2,7 +2,9 @@
 
 ![Portada de la clase 151](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 150 — Evaluación de apoyos educativos y evaluación…](../../part-14-aprendizaje-aptitudes-y-dificultades-escolares/150-evaluacion-de-apoyos-educativos-y-evaluacion-inclusiva/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [152 — Intereses y O*NET Interest Profiler →](../152-intereses-y-o-net-interest-profiler/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 044 y 107.
@@ -62,3 +64,11 @@ Se logra si el estudiante usa el motor, cuantifica la estabilidad y matiza el us
 - Nauta, M. M. (2010). The development, evolution, and status of Holland's theory of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22. ✅ [DOI](https://doi.org/10.1037/a0018213)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 150 — Evaluación de apoyos educativos y evaluación…](../../part-14-aprendizaje-aptitudes-y-dificultades-escolares/150-evaluacion-de-apoyos-educativos-y-evaluacion-inclusiva/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[152 — Intereses y O*NET Interest Profiler →](../152-intereses-y-o-net-interest-profiler/README.md)
+<!-- /NAV -->

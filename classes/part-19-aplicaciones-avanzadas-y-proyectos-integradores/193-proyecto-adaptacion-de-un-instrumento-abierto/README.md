@@ -2,7 +2,9 @@
 
 ![Portada de la clase 193](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 192 — Proyecto: batería laboral con ajuste justific…](../192-proyecto-bateria-laboral-con-ajuste-justificado/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [194 — Proyecto: informe para familias y docentes →](../194-proyecto-informe-para-familias-y-docentes/README.md)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 180.
@@ -53,3 +55,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - International Test Commission (2017). *ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ✅ [DOI](https://doi.org/10.1080/15305058.2017.1398166)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 192 — Proyecto: batería laboral con ajuste justific…](../192-proyecto-bateria-laboral-con-ajuste-justificado/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[194 — Proyecto: informe para familias y docentes →](../194-proyecto-informe-para-familias-y-docentes/README.md)
+<!-- /NAV -->

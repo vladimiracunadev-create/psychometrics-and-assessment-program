@@ -2,7 +2,9 @@
 
 ![Portada de la clase 130](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 129 — Evaluación 360 y sesgos de los evaluadores](../129-evaluacion-360-y-sesgos-de-los-evaluadores/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [131 — Hitos del desarrollo y sus rangos normales →](../../part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/131-hitos-del-desarrollo-y-sus-rangos-normales/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 122 y 124.
@@ -68,3 +70,11 @@ Se logra si el estudiante verifica el teorema y diseña un procedimiento que con
 - Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method to the use of experts. *Management Science*, 9(3), 458-467. ✅ [DOI](https://doi.org/10.1287/mnsc.9.3.458)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 129 — Evaluación 360 y sesgos de los evaluadores](../129-evaluacion-360-y-sesgos-de-los-evaluadores/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[131 — Hitos del desarrollo y sus rangos normales →](../../part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/131-hitos-del-desarrollo-y-sus-rangos-normales/README.md)
+<!-- /NAV -->

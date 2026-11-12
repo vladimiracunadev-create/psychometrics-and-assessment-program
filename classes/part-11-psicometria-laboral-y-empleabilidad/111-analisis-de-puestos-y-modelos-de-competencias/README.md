@@ -2,7 +2,9 @@
 
 ![Portada de la clase 111](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 110 — Falseamiento, deseabilidad social y escalas d…](../../part-10-personalidad-temperamento-y-conducta/110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [112 — Validez predictiva de los métodos de selección →](../112-validez-predictiva-de-los-metodos-de-seleccion/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 032 y 029.
@@ -61,3 +63,11 @@ Se logra si el estudiante construye y justifica un modelo desde un análisis doc
 - Sanchez, J. I., & Levine, E. L. (2012). The rise and fall of job analysis and the future of work analysis. *Annual Review of Psychology*, 63, 397-425. ✅ [DOI](https://doi.org/10.1146/annurev-psych-120710-100401)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 110 — Falseamiento, deseabilidad social y escalas d…](../../part-10-personalidad-temperamento-y-conducta/110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[112 — Validez predictiva de los métodos de selección →](../112-validez-predictiva-de-los-metodos-de-seleccion/README.md)
+<!-- /NAV -->

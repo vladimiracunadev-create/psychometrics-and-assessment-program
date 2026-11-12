@@ -2,7 +2,9 @@
 
 ![Portada de la clase 157](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 156 — Portafolios de evidencias](../156-portafolios-de-evidencias/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [158 — Orientación en educación superior y transició… →](../158-orientacion-en-educacion-superior-y-transicion-laboral/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 032 y 111.
@@ -61,3 +63,11 @@ Se logra si el estudiante mide el alineamiento y propone ajustes evaluativos.
 - Porter, A. C. (2002). Measuring the content of instruction: Uses in research and practice. *Educational Researcher*, 31(7), 3-14. ✅ [DOI](https://doi.org/10.3102/0013189x031007003)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 156 — Portafolios de evidencias](../156-portafolios-de-evidencias/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[158 — Orientación en educación superior y transició… →](../158-orientacion-en-educacion-superior-y-transicion-laboral/README.md)
+<!-- /NAV -->

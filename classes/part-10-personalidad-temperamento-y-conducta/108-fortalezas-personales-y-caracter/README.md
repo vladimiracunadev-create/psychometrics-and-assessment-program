@@ -2,7 +2,9 @@
 
 ![Portada de la clase 108](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 107 — Motivación, valores y preferencias](../107-motivacion-valores-y-preferencias/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [109 — Estados frente a rasgos de personalidad →](../109-estados-frente-a-rasgos-de-personalidad/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 014 y 102.
@@ -60,3 +62,11 @@ Se logra si el estudiante cuantifica la inestabilidad y matiza la interpretació
 - Goldberg, L. R., et al. (2006). The International Personality Item Pool and the future of public-domain personality measures. *Journal of Research in Personality*, 40(1), 84-96. ✅ [DOI](https://doi.org/10.1016/j.jrp.2005.08.007)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 107 — Motivación, valores y preferencias](../107-motivacion-valores-y-preferencias/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[109 — Estados frente a rasgos de personalidad →](../109-estados-frente-a-rasgos-de-personalidad/README.md)
+<!-- /NAV -->

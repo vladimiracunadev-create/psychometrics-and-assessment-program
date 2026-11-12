@@ -2,7 +2,9 @@
 
 ![Portada de la clase 032](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../031-validez-como-argumento/README.md) · [Siguiente](../033-validez-de-constructo/README.md)
+<!-- NAV -->
+[← 031 — La validez no es una propiedad del test, es u…](../031-validez-como-argumento/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [033 — Validez de constructo: convergente y discrimi… →](../033-validez-de-constructo/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 011 y 031.
@@ -69,3 +71,11 @@ Se logra si el estudiante calcula los índices y propone cómo revisar la cobert
 - Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you know what's being reported? *Research in Nursing & Health*, 29(5), 489-497. ✅ [DOI](https://doi.org/10.1002/nur.20147)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 031 — La validez no es una propiedad del test, es u…](../031-validez-como-argumento/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[033 — Validez de constructo: convergente y discrimi… →](../033-validez-de-constructo/README.md)
+<!-- /NAV -->

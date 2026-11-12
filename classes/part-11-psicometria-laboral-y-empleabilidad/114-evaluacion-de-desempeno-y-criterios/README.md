@@ -2,7 +2,9 @@
 
 ![Portada de la clase 114](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 113 — Pruebas de comprensión de instrucciones escri…](../113-pruebas-de-comprension-de-instrucciones-escritas/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [115 — Juicio situacional →](../115-juicio-situacional/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 029 y 111.
@@ -62,3 +64,11 @@ Se logra si el estudiante cuantifica errores del evaluador y propone medidas.
 - Woehr, D. J., & Huffcutt, A. I. (1994). Rater training for performance appraisal: A quantitative review. *Journal of Occupational and Organizational Psychology*, 67(3), 189-205. ✅ [DOI](https://doi.org/10.1111/j.2044-8325.1994.tb00562.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 113 — Pruebas de comprensión de instrucciones escri…](../113-pruebas-de-comprension-de-instrucciones-escritas/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[115 — Juicio situacional →](../115-juicio-situacional/README.md)
+<!-- /NAV -->

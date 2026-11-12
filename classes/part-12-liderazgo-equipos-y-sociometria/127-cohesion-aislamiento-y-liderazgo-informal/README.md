@@ -2,7 +2,9 @@
 
 ![Portada de la clase 127](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 126 — Análisis de redes sociométricas](../126-analisis-de-redes-sociometricas/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [128 — Clima organizacional y escolar →](../128-clima-organizacional-y-escolar/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 125 y 126.
@@ -62,3 +64,11 @@ Se logra si el estudiante diseña un protocolo de confirmación y apoyo respetuo
 - Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin et al. (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 126 — Análisis de redes sociométricas](../126-analisis-de-redes-sociometricas/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[128 — Clima organizacional y escolar →](../128-clima-organizacional-y-escolar/README.md)
+<!-- /NAV -->

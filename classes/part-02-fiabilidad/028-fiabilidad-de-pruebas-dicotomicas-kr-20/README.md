@@ -2,7 +2,9 @@
 
 ![Portada de la clase 028](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 027 — Correlación de Pearson, Spearman y sus supues…](../027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [029 — Fiabilidad entre evaluadores: kappa y CCI →](../029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 3 h · Estado `escrita`
 **Prerrequisitos:** clases 015 y 022.
@@ -66,3 +68,11 @@ Se logra si el estudiante calcula KR-20 y relaciona la dificultad con la precisi
 - Cronbach, L. J. (1951). Coefficient alpha and the internal structure of tests. *Psychometrika*, 16, 297-334. ✅ [DOI](https://doi.org/10.1007/bf02310555)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 027 — Correlación de Pearson, Spearman y sus supues…](../027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[029 — Fiabilidad entre evaluadores: kappa y CCI →](../029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md)
+<!-- /NAV -->

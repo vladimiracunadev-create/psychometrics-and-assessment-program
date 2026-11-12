@@ -2,7 +2,9 @@
 
 ![Portada de la clase 089](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 088 — Aptitudes mentales primarias](../088-aptitudes-mentales-primarias/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [090 — Familias de evaluación cognitiva individual… →](../090-familias-de-evaluacion-cognitiva-individual-uso-restricciones/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 086 y 093.
@@ -63,3 +65,11 @@ Se logra si el estudiante separa estrategia y capacidad al interpretar tiempos.
 - Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review*, 103(3), 403-428. ✅ [DOI](https://doi.org/10.1037/0033-295x.103.3.403)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 088 — Aptitudes mentales primarias](../088-aptitudes-mentales-primarias/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[090 — Familias de evaluación cognitiva individual… →](../090-familias-de-evaluacion-cognitiva-individual-uso-restricciones/README.md)
+<!-- /NAV -->

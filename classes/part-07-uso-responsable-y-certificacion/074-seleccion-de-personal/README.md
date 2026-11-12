@@ -2,7 +2,9 @@
 
 ![Portada de la clase 074](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 073 — El informe y la devolución de resultados a la…](../073-informe-y-devolucion/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [075 — Rutas de certificación profesional →](../075-certificacion-profesional/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 034, 035, 039 y 068.
@@ -58,3 +60,11 @@ Se logra si el estudiante evalúa y mejora un proceso de selección.
 - Society for Industrial and Organizational Psychology (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.). SIOP. ✅ [DOI](https://doi.org/10.1017/iop.2018.195)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 073 — El informe y la devolución de resultados a la…](../073-informe-y-devolucion/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[075 — Rutas de certificación profesional →](../075-certificacion-profesional/README.md)
+<!-- /NAV -->

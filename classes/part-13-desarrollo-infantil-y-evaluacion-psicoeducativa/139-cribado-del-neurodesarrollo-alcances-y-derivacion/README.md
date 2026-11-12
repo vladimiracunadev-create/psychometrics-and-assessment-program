@@ -2,7 +2,9 @@
 
 ![Portada de la clase 139](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 138 — Evaluación en educación parvularia](../138-evaluacion-en-educacion-parvularia/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [140 — Contexto chileno: referentes curriculares y n… →](../140-contexto-chileno-referentes-curriculares-y-normativos/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 100 y 135.
@@ -60,3 +62,11 @@ Se logra si el estudiante evalúa una secuencia de cribado con supuestos explíc
 - Streiner, D. L., & Norman, G. R. (2008). *Health Measurement Scales* (4.ª ed.). Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780199231881.001.0001)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 138 — Evaluación en educación parvularia](../138-evaluacion-en-educacion-parvularia/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[140 — Contexto chileno: referentes curriculares y n… →](../140-contexto-chileno-referentes-curriculares-y-normativos/README.md)
+<!-- /NAV -->

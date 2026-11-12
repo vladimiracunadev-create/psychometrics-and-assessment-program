@@ -2,7 +2,9 @@
 
 ![Portada de la clase 039](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 038 — Evidencia basada en procesos de respuesta](../038-evidencia-basada-en-procesos-de-respuesta/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [040 — Amenazas a la validez: falseamiento y deseabi… →](../040-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021, 034 y 027.
@@ -69,3 +71,11 @@ Se logra si el estudiante calcula r̄, descompone varianza y comunica las limita
 - Spearman, C. (1904). The proof and measurement of association between two things. *American Journal of Psychology*, 15(1), 72-101. ✅ [DOI](https://doi.org/10.2307/1412159)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 038 — Evidencia basada en procesos de respuesta](../038-evidencia-basada-en-procesos-de-respuesta/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[040 — Amenazas a la validez: falseamiento y deseabi… →](../040-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 192](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 191 — Proyecto: batería educativa de cribado con da…](../191-proyecto-bateria-educativa-de-cribado-con-datos/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [193 — Proyecto: adaptación de un instrumento abierto →](../193-proyecto-adaptacion-de-un-instrumento-abierto/README.md)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 119.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - Society for Industrial and Organizational Psychology (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.). ✅ [DOI](https://doi.org/10.1017/iop.2018.195)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 191 — Proyecto: batería educativa de cribado con da…](../191-proyecto-bateria-educativa-de-cribado-con-datos/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[193 — Proyecto: adaptación de un instrumento abierto →](../193-proyecto-adaptacion-de-un-instrumento-abierto/README.md)
+<!-- /NAV -->

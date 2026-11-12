@@ -2,7 +2,9 @@
 
 ![Portada de la clase 086](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 085 — Razonamiento numérico](../085-razonamiento-numerico/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [087 — Resolución de problemas y aprendizaje →](../087-resolucion-de-problemas-y-aprendizaje/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 027 y 081.
@@ -62,3 +64,11 @@ Se logra si el estudiante estima pendiente e intercepto y reporta su fiabilidad.
 - Linn, M. C., & Petersen, A. C. (1985). Emergence and characterization of sex differences in spatial ability: A meta-analysis. *Child Development*, 56(6), 1479-1498. ✅ [DOI](https://doi.org/10.2307/1130467)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 085 — Razonamiento numérico](../085-razonamiento-numerico/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[087 — Resolución de problemas y aprendizaje →](../087-resolucion-de-problemas-y-aprendizaje/README.md)
+<!-- /NAV -->

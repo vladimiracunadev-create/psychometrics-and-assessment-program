@@ -2,7 +2,9 @@
 
 ![Portada de la clase 169](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 168 — Protocolo de derivación y de riesgo](../168-protocolo-de-derivacion-y-de-riesgo/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [170 — Intervenciones: recomendaciones, intervención… →](../170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 128 y 168.
@@ -62,3 +64,11 @@ Se logra si el estudiante compara reglas y propone un uso de apoyo con confidenc
 - Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42. ✅ [DOI](https://doi.org/10.1080/13632752.2015.1120051)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 168 — Protocolo de derivación y de riesgo](../168-protocolo-de-derivacion-y-de-riesgo/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[170 — Intervenciones: recomendaciones, intervención… →](../170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento/README.md)
+<!-- /NAV -->

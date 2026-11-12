@@ -2,7 +2,9 @@
 
 ![Portada de la clase 040](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 039 — Metaanálisis de validez y corrección por aten…](../039-metaanalisis-de-validez-y-correccion-por-atenuacion/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [041 — Correlación, matriz y lo que se puede leer en… →](../../part-04-estructura-y-analisis-factorial/041-correlacion-y-matriz/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 013, 034 y 035.
@@ -63,3 +65,11 @@ Se logra si el estudiante cuantifica el efecto y declara el límite al informar.
 - Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780195387476.001.0001)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 039 — Metaanálisis de validez y corrección por aten…](../039-metaanalisis-de-validez-y-correccion-por-atenuacion/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[041 — Correlación, matriz y lo que se puede leer en… →](../../part-04-estructura-y-analisis-factorial/041-correlacion-y-matriz/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 077](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 076 — Ley 19.628 y Ley 21.719: datos personales en…](../076-ley-19-628-y-ley-21-719/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [078 — Retención, anonimización y eliminación de dat… →](../078-retencion-anonimizacion-y-eliminacion-de-datos/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 076.
@@ -61,3 +63,11 @@ Se logra si el estudiante diseña un consentimiento específico y un registro au
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 076 — Ley 19.628 y Ley 21.719: datos personales en…](../076-ley-19-628-y-ley-21-719/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[078 — Retención, anonimización y eliminación de dat… →](../078-retencion-anonimizacion-y-eliminacion-de-datos/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 171](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 170 — Intervenciones: recomendaciones, intervención…](../../part-16-evaluacion-socioemocional-y-bienestar/170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [172 — Tamaño muestral y potencia →](../172-tamano-muestral-y-potencia/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 031 a 035 y 039.
@@ -65,3 +67,11 @@ Se logra si el estudiante produce un plan con hipótesis, análisis y N justific
 - Boateng, G. O., et al. (2018). Best practices for developing and validating scales for health, social, and behavioral research: A primer. *Frontiers in Public Health*, 6, 149. ✅ [DOI](https://doi.org/10.3389/fpubh.2018.00149)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 170 — Intervenciones: recomendaciones, intervención…](../../part-16-evaluacion-socioemocional-y-bienestar/170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[172 — Tamaño muestral y potencia →](../172-tamano-muestral-y-potencia/README.md)
+<!-- /NAV -->

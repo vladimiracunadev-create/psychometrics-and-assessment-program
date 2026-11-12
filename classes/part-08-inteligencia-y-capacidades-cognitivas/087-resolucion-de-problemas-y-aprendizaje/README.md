@@ -2,7 +2,9 @@
 
 ![Portada de la clase 087](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 086 — Razonamiento espacial](../086-razonamiento-espacial/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [088 — Aptitudes mentales primarias →](../088-aptitudes-mentales-primarias/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 025.
@@ -66,3 +68,11 @@ Se logra si el estudiante calcula la fiabilidad de una ganancia y la interpreta 
 - Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. *Psychological Bulletin*, 124(1), 75-111. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.1.75)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 086 — Razonamiento espacial](../086-razonamiento-espacial/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[088 — Aptitudes mentales primarias →](../088-aptitudes-mentales-primarias/README.md)
+<!-- /NAV -->

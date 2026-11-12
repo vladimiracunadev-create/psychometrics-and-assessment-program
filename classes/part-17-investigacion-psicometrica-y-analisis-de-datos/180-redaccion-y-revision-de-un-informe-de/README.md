@@ -2,7 +2,9 @@
 
 ![Portada de la clase 180](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 179 — Metaanálisis psicométrico](../179-metaanalisis-psicometrico/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [181 — Arquitectura de un motor de evaluación declar… →](../../part-18-ingenieria-de-sistemas-de-evaluacion-digital/181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 031, 171 y 178.
@@ -62,3 +64,11 @@ Se logra si el estudiante redacta un informe cualificado y lo somete a revisión
 - Appelbaum, M., et al. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist*, 73(1), 3-25. ✅ [DOI](https://doi.org/10.1037/amp0000191)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 179 — Metaanálisis psicométrico](../179-metaanalisis-psicometrico/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[181 — Arquitectura de un motor de evaluación declar… →](../../part-18-ingenieria-de-sistemas-de-evaluacion-digital/181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md)
+<!-- /NAV -->

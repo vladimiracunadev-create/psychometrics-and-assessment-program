@@ -2,7 +2,9 @@
 
 ![Portada de la clase 078](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 077 — Consentimiento informado y confidencialidad](../077-consentimiento-informado-y-confidencialidad/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [079 — Decisiones automatizadas y derecho a explicac… →](../079-decisiones-automatizadas-y-derecho-a-explicacion/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 076 y 077.
@@ -61,3 +63,11 @@ Se logra si el estudiante mide riesgo de reidentificación y propone generalizac
 - Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). Estimating the success of re-identifications in incomplete datasets using generative models. *Nature Communications*, 10, 3069. ✅ [DOI](https://doi.org/10.1038/s41467-019-10933-3)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 077 — Consentimiento informado y confidencialidad](../077-consentimiento-informado-y-confidencialidad/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[079 — Decisiones automatizadas y derecho a explicac… →](../079-decisiones-automatizadas-y-derecho-a-explicacion/README.md)
+<!-- /NAV -->

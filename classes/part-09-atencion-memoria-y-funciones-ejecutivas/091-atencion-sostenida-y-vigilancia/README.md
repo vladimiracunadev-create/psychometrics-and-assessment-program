@@ -2,7 +2,9 @@
 
 ![Portada de la clase 091](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 090 — Familias de evaluación cognitiva individual…](../../part-08-inteligencia-y-capacidades-cognitivas/090-familias-de-evaluacion-cognitiva-individual-uso-restricciones/README.md) · [📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [092 — Atención selectiva y dividida →](../092-atencion-selectiva-y-dividida/README.md)
+<!-- /NAV -->
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 027 y 089.
@@ -62,3 +64,11 @@ Se logra si el estudiante separa d′ y c al interpretar una tarea.
 - Warm, J. S., Parasuraman, R., & Matthews, G. (2008). Vigilance requires hard mental work and is stressful. *Human Factors*, 50(3), 433-441. ✅ [DOI](https://doi.org/10.1518/001872008x312152)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 090 — Familias de evaluación cognitiva individual…](../../part-08-inteligencia-y-capacidades-cognitivas/090-familias-de-evaluacion-cognitiva-individual-uso-restricciones/README.md)  
+[📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[092 — Atención selectiva y dividida →](../092-atencion-selectiva-y-dividida/README.md)
+<!-- /NAV -->

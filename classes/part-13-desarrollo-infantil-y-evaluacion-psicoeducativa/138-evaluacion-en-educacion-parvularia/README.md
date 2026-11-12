@@ -2,7 +2,9 @@
 
 ![Portada de la clase 138](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 137 — Atención temprana y apoyos](../137-atencion-temprana-y-apoyos/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [139 — Cribado del neurodesarrollo: alcances y deriv… →](../139-cribado-del-neurodesarrollo-alcances-y-derivacion/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 029 y 134.
@@ -59,3 +61,11 @@ Se logra si el estudiante mejora una rúbrica y mide el acuerdo.
 - Ministerio de Educación de Chile. *Bases Curriculares de la Educación Parvularia* (versión vigente: verificar en mineduc.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 137 — Atención temprana y apoyos](../137-atencion-temprana-y-apoyos/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[139 — Cribado del neurodesarrollo: alcances y deriv… →](../139-cribado-del-neurodesarrollo-alcances-y-derivacion/README.md)
+<!-- /NAV -->

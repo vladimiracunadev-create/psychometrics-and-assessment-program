@@ -2,7 +2,9 @@
 
 ![Portada de la clase 068](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 067 — Normas por edad y por curso escolar](../067-normas-por-edad-y-por-curso-escolar/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [069 — Acomodaciones y diseño universal de la evalua… →](../069-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 034, 035 y 064.
@@ -67,3 +69,11 @@ Se logra si el estudiante calcula el compromiso y declara los supuestos y valore
 - Ployhart, R. E., & Holtz, B. C. (2008). The diversity-validity dilemma: Strategies for reducing racioethnic and sex subgroup differences and adverse impact in selection. *Personnel Psychology*, 61(1), 153-172. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.2008.00109.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 067 — Normas por edad y por curso escolar](../067-normas-por-edad-y-por-curso-escolar/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[069 — Acomodaciones y diseño universal de la evalua… →](../069-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md)
+<!-- /NAV -->

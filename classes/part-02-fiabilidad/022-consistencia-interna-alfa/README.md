@@ -2,7 +2,9 @@
 
 ![Portada de la clase 022](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../021-teoria-clasica-del-error/README.md) · [Siguiente](../023-omega-y-alternativas-a-alfa/README.md)
+<!-- NAV -->
+[← 021 — La teoría clásica: puntaje verdadero y error](../021-teoria-clasica-del-error/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [023 — Omega de McDonald y por qué alfa se queda cor… →](../023-omega-y-alternativas-a-alfa/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 014 y 021.
@@ -71,3 +73,11 @@ Se logra si el estudiante calcula e interpreta alfa y redacta un reporte con sus
 - Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha. *International Journal of Medical Education*, 2, 53-55. ✅ [DOI](https://doi.org/10.5116/ijme.4dfb.8dfd)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 021 — La teoría clásica: puntaje verdadero y error](../021-teoria-clasica-del-error/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[023 — Omega de McDonald y por qué alfa se queda cor… →](../023-omega-y-alternativas-a-alfa/README.md)
+<!-- /NAV -->

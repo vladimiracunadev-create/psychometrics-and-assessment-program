@@ -2,7 +2,9 @@
 
 ![Portada de la clase 119](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 118 — Ajuste persona-puesto: qué se puede y qué no…](../118-ajuste-persona-puesto-que-se-puede-y/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [120 — Impacto adverso y defensa legal de una decisi… →](../120-impacto-adverso-y-defensa-legal-de-una/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 075 y 056.
@@ -62,3 +64,11 @@ Se logra si el estudiante evalúa la clasificación y recomienda cómo informarl
 - Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting*. Sage. ✅ [DOI](https://doi.org/10.4135/9781412985918)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 118 — Ajuste persona-puesto: qué se puede y qué no…](../118-ajuste-persona-puesto-que-se-puede-y/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[120 — Impacto adverso y defensa legal de una decisi… →](../120-impacto-adverso-y-defensa-legal-de-una/README.md)
+<!-- /NAV -->

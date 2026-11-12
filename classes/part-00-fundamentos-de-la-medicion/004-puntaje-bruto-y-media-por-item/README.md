@@ -2,7 +2,9 @@
 
 ![Portada de la clase 004](portada.svg)
 
-> [Clase anterior](../003-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../005-*/README.md)
+<!-- NAV -->
+[← 003 — Escalas de medida y qué operaciones permiten](../003-escalas-de-medida-y-sus-operaciones/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [005 — Ítems invertidos y sesgo de aquiescencia →](../005-items-invertidos-y-aquiescencia/README.md)
+<!-- /NAV -->
 
 **Parte:** 00 — Fundamentos de la medición psicológica
 **Horas estimadas:** 3 · **Estado:** `escrita`
@@ -111,3 +113,11 @@ python classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-
 - Johnson, J. A. (2014). IPIP-NEO-120. *Journal of Research in Personality*, 51. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 003 — Escalas de medida y qué operaciones permiten](../003-escalas-de-medida-y-sus-operaciones/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[005 — Ítems invertidos y sesgo de aquiescencia →](../005-items-invertidos-y-aquiescencia/README.md)
+<!-- /NAV -->

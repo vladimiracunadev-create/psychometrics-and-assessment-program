@@ -2,7 +2,9 @@
 
 ![Portada de la clase 043](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../042-analisis-factorial-exploratorio/README.md) · [Siguiente](../044-modelos-circumplejos/README.md)
+<!-- NAV -->
+[← 042 — Análisis factorial exploratorio](../042-analisis-factorial-exploratorio/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [044 — Modelos circumplejos: el hexágono de Holland… →](../044-modelos-circumplejos/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 042 y 023.
@@ -58,3 +60,11 @@ Se logra si el estudiante fija un modelo de antemano y evalúa su ajuste con res
 - Brown, T. A. (2015). *Confirmatory Factor Analysis for Applied Research* (2.ª ed.). Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 042 — Análisis factorial exploratorio](../042-analisis-factorial-exploratorio/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[044 — Modelos circumplejos: el hexágono de Holland… →](../044-modelos-circumplejos/README.md)
+<!-- /NAV -->

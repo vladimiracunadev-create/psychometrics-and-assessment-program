@@ -2,7 +2,9 @@
 
 ![Portada de la clase 010](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 009 — Pruebas de velocidad, de potencia y tareas cr…](../009-pruebas-de-velocidad-de-potencia-y-tareas/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [011 — Redacción de ítems: las reglas y por qué exis… →](../../part-01-construccion-de-instrumentos/011-redaccion-de-items/README.md)
+<!-- /NAV -->
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 004.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - Wilcox, R. R. (2012). *Introduction to Robust Estimation and Hypothesis Testing* (3.ª ed.). Academic Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 009 — Pruebas de velocidad, de potencia y tareas cr…](../009-pruebas-de-velocidad-de-potencia-y-tareas/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[011 — Redacción de ítems: las reglas y por qué exis… →](../../part-01-construccion-de-instrumentos/011-redaccion-de-items/README.md)
+<!-- /NAV -->

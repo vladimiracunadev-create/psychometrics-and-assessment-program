@@ -2,7 +2,9 @@
 
 ![Portada de la clase 164](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 163 — Resiliencia y autoeficacia](../163-resiliencia-y-autoeficacia/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [165 — Habilidades sociales y empatía →](../165-habilidades-sociales-y-empatia/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 109 y 027.
@@ -60,3 +62,11 @@ Se logra si el estudiante separa los niveles de análisis.
 - Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review. *Clinical Psychology Review*, 30(2), 217-237. ✅ [DOI](https://doi.org/10.1016/j.cpr.2009.11.004)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 163 — Resiliencia y autoeficacia](../163-resiliencia-y-autoeficacia/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[165 — Habilidades sociales y empatía →](../165-habilidades-sociales-y-empatia/README.md)
+<!-- /NAV -->

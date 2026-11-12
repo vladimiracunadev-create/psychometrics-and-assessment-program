@@ -2,7 +2,9 @@
 
 ![Portada de la clase 185](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 184 — Telemetría de interacción y tiempos de respue…](../184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md) · [📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [186 — Accesibilidad de evaluaciones digitales →](../186-accesibilidad-de-evaluaciones-digitales/README.md)
+<!-- /NAV -->
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 184.
@@ -52,3 +54,11 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 - Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 184 — Telemetría de interacción y tiempos de respue…](../184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md)  
+[📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[186 — Accesibilidad de evaluaciones digitales →](../186-accesibilidad-de-evaluaciones-digitales/README.md)
+<!-- /NAV -->

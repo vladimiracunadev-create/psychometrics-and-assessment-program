@@ -2,7 +2,9 @@
 
 ![Portada de la clase 200](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 199 — Proyecto: instrumento original con protocolo…](../199-proyecto-instrumento-original-con-protocolo-de-validacion/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · (fin del programa)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 199.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - International Test Commission (2013). *ITC Guidelines on Test Use*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 199 — Proyecto: instrumento original con protocolo…](../199-proyecto-instrumento-original-con-protocolo-de-validacion/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+(fin del programa)
+<!-- /NAV -->

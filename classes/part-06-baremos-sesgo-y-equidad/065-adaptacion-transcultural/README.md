@@ -2,7 +2,9 @@
 
 ![Portada de la clase 065](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../064-sesgo-predictivo-y-equidad/README.md)
+<!-- NAV -->
+[← 064 — Sesgo predictivo y definiciones de equidad](../064-sesgo-predictivo-y-equidad/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [066 — Puntajes estándar: z, T y estaninos →](../066-puntajes-estandar-z-t-y-estaninos/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 045 y 063.
@@ -61,3 +63,11 @@ Se logra si el estudiante diseña un plan de adaptación y evaluación de equiva
 - Lorenzo-Seva, U., & ten Berge, J. M. F. (2006). Tucker's congruence coefficient as a meaningful index of factor similarity. *Methodology*, 2(2), 57-64. ✅ [DOI](https://doi.org/10.1027/1614-2241.2.2.57)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 064 — Sesgo predictivo y definiciones de equidad](../064-sesgo-predictivo-y-equidad/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[066 — Puntajes estándar: z, T y estaninos →](../066-puntajes-estandar-z-t-y-estaninos/README.md)
+<!-- /NAV -->

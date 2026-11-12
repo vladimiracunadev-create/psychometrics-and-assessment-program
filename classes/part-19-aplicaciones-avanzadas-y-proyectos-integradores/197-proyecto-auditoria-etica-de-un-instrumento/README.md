@@ -2,7 +2,9 @@
 
 ![Portada de la clase 197](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 196 — Proyecto: estudio de validación simulado de e…](../196-proyecto-estudio-de-validacion-simulado-de-extremo/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [198 — Proyecto: tablero de seguimiento longitudinal →](../198-proyecto-tablero-de-seguimiento-longitudinal/README.md)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 078.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 196 — Proyecto: estudio de validación simulado de e…](../196-proyecto-estudio-de-validacion-simulado-de-extremo/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[198 — Proyecto: tablero de seguimiento longitudinal →](../198-proyecto-tablero-de-seguimiento-longitudinal/README.md)
+<!-- /NAV -->

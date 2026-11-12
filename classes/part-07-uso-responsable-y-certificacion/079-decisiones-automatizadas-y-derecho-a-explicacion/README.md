@@ -2,7 +2,9 @@
 
 ![Portada de la clase 079](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 078 — Retención, anonimización y eliminación de dat…](../078-retencion-anonimizacion-y-eliminacion-de-datos/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [080 — Seguridad de bancos de ítems y de resultados →](../080-seguridad-de-bancos-de-items-y-de/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 064, 074 y 076.
@@ -63,3 +65,11 @@ Se logra si el estudiante diseña una decisión explicable con intervención hum
 - Rudin, C. (2019). Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. *Nature Machine Intelligence*, 1, 206-215. ✅ [DOI](https://doi.org/10.1038/s42256-019-0048-x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 078 — Retención, anonimización y eliminación de dat…](../078-retencion-anonimizacion-y-eliminacion-de-datos/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[080 — Seguridad de bancos de ítems y de resultados →](../080-seguridad-de-bancos-de-items-y-de/README.md)
+<!-- /NAV -->

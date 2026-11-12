@@ -2,7 +2,9 @@
 
 ![Portada de la clase 182](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 181 — Arquitectura de un motor de evaluación declar…](../181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md) · [📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [183 — Baterías de evaluación y sesiones reanudables →](../183-baterias-de-evaluacion-y-sesiones-reanudables/README.md)
+<!-- /NAV -->
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 181.
@@ -52,3 +54,11 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 181 — Arquitectura de un motor de evaluación declar…](../181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md)  
+[📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[183 — Baterías de evaluación y sesiones reanudables →](../183-baterias-de-evaluacion-y-sesiones-reanudables/README.md)
+<!-- /NAV -->

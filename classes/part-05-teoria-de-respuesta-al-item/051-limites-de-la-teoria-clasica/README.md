@@ -2,7 +2,9 @@
 
 ![Portada de la clase 051](portada.svg)
 
-> [Índice de la parte](../README.md) · [Siguiente](../052-modelo-de-rasch/README.md)
+<!-- NAV -->
+[← 050 — Datos ordinales y correlaciones policóricas](../../part-04-estructura-y-analisis-factorial/050-datos-ordinales-y-correlaciones-policoricas/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [052 — El modelo de Rasch →](../052-modelo-de-rasch/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 015, 021 y 025.
@@ -61,3 +63,11 @@ Se logra si el estudiante contrasta p y b entre grupos y declara la condición d
 - Lord, F. M. (1980). *Applications of Item Response Theory to Practical Testing Problems*. Lawrence Erlbaum. ⚠️ existe, pero Crossref registra 2012 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203056615))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 050 — Datos ordinales y correlaciones policóricas](../../part-04-estructura-y-analisis-factorial/050-datos-ordinales-y-correlaciones-policoricas/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[052 — El modelo de Rasch →](../052-modelo-de-rasch/README.md)
+<!-- /NAV -->

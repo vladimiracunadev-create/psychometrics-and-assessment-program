@@ -2,7 +2,9 @@
 
 ![Portada de la clase 061](portada.svg)
 
-> [Índice de la parte](../README.md) · [Siguiente](../062-elegir-la-muestra-normativa/README.md)
+<!-- NAV -->
+[← 060 — Diseño de bancos para pruebas adaptativas](../../part-05-teoria-de-respuesta-al-item/060-diseno-de-bancos-para-pruebas-adaptativas/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [062 — La muestra normativa: a quién se compara la p… →](../062-elegir-la-muestra-normativa/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 004, 025 y 026.
@@ -63,3 +65,11 @@ Se logra si el estudiante transforma puntajes y reporta la incertidumbre del bar
 - Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart & Winston. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 060 — Diseño de bancos para pruebas adaptativas](../../part-05-teoria-de-respuesta-al-item/060-diseno-de-bancos-para-pruebas-adaptativas/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[062 — La muestra normativa: a quién se compara la p… →](../062-elegir-la-muestra-normativa/README.md)
+<!-- /NAV -->

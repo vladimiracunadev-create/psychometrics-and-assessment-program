@@ -2,7 +2,9 @@
 
 ![Portada de la clase 021](portada.svg)
 
-> [Índice de la parte](../README.md) · [Siguiente](../022-consistencia-interna-alfa/README.md)
+<!-- NAV -->
+[← 020 — Bancos de ítems, versiones y control de cambi…](../../part-01-construccion-de-instrumentos/020-bancos-de-items-versiones-y-control-de/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [022 — Consistencia interna: alfa de Cronbach y sus… →](../022-consistencia-interna-alfa/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Pensada para:** quien construye un test, quien lo interpreta (psicólogo, docente, selector de personal) y quien es evaluado.
@@ -146,3 +148,11 @@ Estado de verificación en [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/V
 - Lord, F. M., & Novick, M. R. (1968). *Statistical Theories of Mental Test Scores*. Addison-Wesley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 020 — Bancos de ítems, versiones y control de cambi…](../../part-01-construccion-de-instrumentos/020-bancos-de-items-versiones-y-control-de/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[022 — Consistencia interna: alfa de Cronbach y sus… →](../022-consistencia-interna-alfa/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 026](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 025 — Error típico de medida e intervalos de confia…](../025-error-tipico-de-medida/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [027 — Correlación de Pearson, Spearman y sus supues… →](../027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 004 y 021.
@@ -63,3 +65,11 @@ Se logra si el estudiante describe una distribución real y propone una acción 
 - Terwee, C. B., et al. (2007). Quality criteria were proposed for measurement properties of health status questionnaires. *Journal of Clinical Epidemiology*, 60(1), 34-42. ✅ [DOI](https://doi.org/10.1016/j.jclinepi.2006.03.012)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 025 — Error típico de medida e intervalos de confia…](../025-error-tipico-de-medida/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[027 — Correlación de Pearson, Spearman y sus supues… →](../027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md)
+<!-- /NAV -->

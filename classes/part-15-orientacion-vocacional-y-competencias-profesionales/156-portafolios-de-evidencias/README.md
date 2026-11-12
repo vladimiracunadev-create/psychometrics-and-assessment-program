@@ -2,7 +2,9 @@
 
 ![Portada de la clase 156](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 155 — Competencias transversales y empleabilidad](../155-competencias-transversales-y-empleabilidad/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [157 — Orientación en educación media técnico-profes… →](../157-orientacion-en-educacion-media-tecnico-profesional/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 143 y 155.
@@ -61,3 +63,11 @@ Se logra si el estudiante calcula las características de una regla y justifica 
 - Koretz, D. (1998). Large-scale portfolio assessments in the US: Evidence pertaining to the quality of measurement. *Assessment in Education*, 5(3), 309-334. ✅ [DOI](https://doi.org/10.1080/0969595980050302)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 155 — Competencias transversales y empleabilidad](../155-competencias-transversales-y-empleabilidad/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[157 — Orientación en educación media técnico-profes… →](../157-orientacion-en-educacion-media-tecnico-profesional/README.md)
+<!-- /NAV -->

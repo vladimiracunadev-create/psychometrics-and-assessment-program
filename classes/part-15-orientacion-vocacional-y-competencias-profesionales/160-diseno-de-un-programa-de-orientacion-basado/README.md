@@ -2,7 +2,9 @@
 
 ![Portada de la clase 160](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 159 — Formación continua y reconversión laboral](../159-formacion-continua-y-reconversion-laboral/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [161 — Bienestar subjetivo y calidad de vida →](../../part-16-evaluacion-socioemocional-y-bienestar/161-bienestar-subjetivo-y-calidad-de-vida/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 172 y 155.
@@ -62,3 +64,11 @@ Se logra si el estudiante diseña una evaluación del programa con tamaño muest
 - Whiston, S. C., Brecheisen, B. K., & Stephens, J. (2003). Does treatment modality affect career counseling effectiveness? *Journal of Vocational Behavior*, 62(3), 390-410. ✅ [DOI](https://doi.org/10.1016/s0001-8791(02)00050-7)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 159 — Formación continua y reconversión laboral](../159-formacion-continua-y-reconversion-laboral/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[161 — Bienestar subjetivo y calidad de vida →](../../part-16-evaluacion-socioemocional-y-bienestar/161-bienestar-subjetivo-y-calidad-de-vida/README.md)
+<!-- /NAV -->

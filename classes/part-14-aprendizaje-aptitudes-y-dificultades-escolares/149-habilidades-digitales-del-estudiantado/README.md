@@ -2,7 +2,9 @@
 
 ![Portada de la clase 149](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 148 — Motivación académica](../148-motivacion-academica/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [150 — Evaluación de apoyos educativos y evaluación… →](../150-evaluacion-de-apoyos-educativos-y-evaluacion-inclusiva/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 045 y 141.
@@ -62,3 +64,11 @@ Se logra si el estudiante contrasta ambas medidas y evita atribuir brechas a la 
 - Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social Science Computer Review*, 23(3), 371-379. ✅ [DOI](https://doi.org/10.1177/0894439305275911)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 148 — Motivación académica](../148-motivacion-academica/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[150 — Evaluación de apoyos educativos y evaluación… →](../150-evaluacion-de-apoyos-educativos-y-evaluacion-inclusiva/README.md)
+<!-- /NAV -->

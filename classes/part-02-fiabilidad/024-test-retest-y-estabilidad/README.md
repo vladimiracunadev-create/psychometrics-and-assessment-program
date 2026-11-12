@@ -2,7 +2,9 @@
 
 ![Portada de la clase 024](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../023-omega-y-alternativas-a-alfa/README.md) · [Siguiente](../025-error-tipico-de-medida/README.md)
+<!-- NAV -->
+[← 023 — Omega de McDonald y por qué alfa se queda cor…](../023-omega-y-alternativas-a-alfa/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [025 — Error típico de medida e intervalos de confia… →](../025-error-tipico-de-medida/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 3 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 022.
@@ -66,3 +68,11 @@ Se logra si el estudiante reporta correlación, diferencia de medias y su limita
 - Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. *Journal of Chiropractic Medicine*, 15(2), 155-163. ✅ [DOI](https://doi.org/10.1016/j.jcm.2016.02.012)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 023 — Omega de McDonald y por qué alfa se queda cor…](../023-omega-y-alternativas-a-alfa/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[025 — Error típico de medida e intervalos de confia… →](../025-error-tipico-de-medida/README.md)
+<!-- /NAV -->

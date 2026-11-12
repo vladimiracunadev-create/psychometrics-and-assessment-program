@@ -2,7 +2,9 @@
 
 ![Portada de la clase 058](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 057 — Curvas características e información del test](../057-curvas-caracteristicas-e-informacion-del-test/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [059 — Equiparación y vinculación de puntajes →](../059-equiparacion-y-vinculacion-de-puntajes/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 012 y 053.
@@ -60,3 +62,11 @@ Se logra si el estudiante calcula probabilidades y diagnostica categorías.
 - Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 057 — Curvas características e información del test](../057-curvas-caracteristicas-e-informacion-del-test/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[059 — Equiparación y vinculación de puntajes →](../059-equiparacion-y-vinculacion-de-puntajes/README.md)
+<!-- /NAV -->

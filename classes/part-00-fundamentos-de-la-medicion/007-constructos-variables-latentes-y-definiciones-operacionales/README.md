@@ -2,7 +2,9 @@
 
 ![Portada de la clase 007](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 006 — Historia de la psicometría: de Galton a la me…](../006-historia-de-la-psicometria-de-galton-a/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [008 — Tipos de test: rendimiento máximo frente a de… →](../008-tipos-de-test-rendimiento-maximo-frente-a/README.md)
+<!-- /NAV -->
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 001.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin*, 52(4), 281-302. ✅ [DOI](https://doi.org/10.1037/h0040957)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 006 — Historia de la psicometría: de Galton a la me…](../006-historia-de-la-psicometria-de-galton-a/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[008 — Tipos de test: rendimiento máximo frente a de… →](../008-tipos-de-test-rendimiento-maximo-frente-a/README.md)
+<!-- /NAV -->

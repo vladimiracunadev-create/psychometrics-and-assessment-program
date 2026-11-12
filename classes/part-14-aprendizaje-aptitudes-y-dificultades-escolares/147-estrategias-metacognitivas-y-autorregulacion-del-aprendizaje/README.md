@@ -2,7 +2,9 @@
 
 ![Portada de la clase 147](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 146 — Hábitos de estudio y técnicas de estudio](../146-habitos-de-estudio-y-tecnicas-de-estudio/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [148 — Motivación académica →](../148-motivacion-academica/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 146.
@@ -63,3 +65,11 @@ Se logra si el estudiante distingue sesgo real de artefacto estadístico.
 - Schraw, G. (2009). A conceptual analysis of five measures of metacognitive monitoring. *Metacognition and Learning*, 4(1), 33-45. ✅ [DOI](https://doi.org/10.1007/s11409-008-9031-3)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 146 — Hábitos de estudio y técnicas de estudio](../146-habitos-de-estudio-y-tecnicas-de-estudio/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[148 — Motivación académica →](../148-motivacion-academica/README.md)
+<!-- /NAV -->

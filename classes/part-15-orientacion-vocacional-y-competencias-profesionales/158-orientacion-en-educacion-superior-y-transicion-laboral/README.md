@@ -2,7 +2,9 @@
 
 ![Portada de la clase 158](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 157 — Orientación en educación media técnico-profes…](../157-orientacion-en-educacion-media-tecnico-profesional/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [159 — Formación continua y reconversión laboral →](../159-formacion-continua-y-reconversion-laboral/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 064, 100 y 135.
@@ -66,3 +68,11 @@ Se logra si el estudiante evalúa un modelo de alerta, lo audita por grupo y def
 - Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 157 — Orientación en educación media técnico-profes…](../157-orientacion-en-educacion-media-tecnico-profesional/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[159 — Formación continua y reconversión laboral →](../159-formacion-continua-y-reconversion-laboral/README.md)
+<!-- /NAV -->

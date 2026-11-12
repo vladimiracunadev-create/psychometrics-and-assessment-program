@@ -2,7 +2,9 @@
 
 ![Portada de la clase 001](portada.svg)
 
-> Inicio del programa · [Índice de la parte](../README.md) · [Clase siguiente](../002-del-constructo-al-item/README.md)
+<!-- NAV -->
+← (inicio del programa) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [002 — Del constructo al ítem: cómo nace una pregunta →](../002-del-constructo-al-item/README.md)
+<!-- /NAV -->
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
 **Pensada para:** quien construye un instrumento, quien lo interpreta y quien es evaluado.
@@ -130,3 +132,11 @@ Se logra la clase si puedes explicar la cadena de inferencia a alguien sin forma
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar automáticamente (norma).
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes; ⚠️ año o edición distinta; 🔎 pendiente de comprobar a mano. Confirmar la existencia de una fuente no prueba que respalde cada afirmación de la clase. Estado general en [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
+
+---
+
+<!-- NAV -->
+← (inicio del programa)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[002 — Del constructo al ítem: cómo nace una pregunta →](../002-del-constructo-al-item/README.md)
+<!-- /NAV -->

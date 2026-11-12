@@ -2,7 +2,9 @@
 
 ![Portada de la clase 066](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 065 — Adaptación transcultural y equivalencia](../065-adaptacion-transcultural/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [067 — Normas por edad y por curso escolar →](../067-normas-por-edad-y-por-curso-escolar/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 3 h · Estado `escrita`
 **Prerrequisitos:** clase 061.
@@ -64,3 +66,11 @@ Se logra si el estudiante transforma y justifica la elección.
 - Anastasi, A., & Urbina, S. (1997). *Psychological Testing* (7.ª ed.). Prentice Hall. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 065 — Adaptación transcultural y equivalencia](../065-adaptacion-transcultural/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[067 — Normas por edad y por curso escolar →](../067-normas-por-edad-y-por-curso-escolar/README.md)
+<!-- /NAV -->

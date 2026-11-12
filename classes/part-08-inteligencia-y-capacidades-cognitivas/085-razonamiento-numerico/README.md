@@ -2,7 +2,9 @@
 
 ![Portada de la clase 085](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 084 — Razonamiento verbal y comprensión de instrucc…](../084-razonamiento-verbal-y-comprension-de-instrucciones/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [086 — Razonamiento espacial →](../086-razonamiento-espacial/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 015 y 083.
@@ -60,3 +62,11 @@ Se logra si el estudiante diseña distractores con justificación y analiza su f
 - Haladyna, T. M., & Rodriguez, M. C. (2013). *Developing and Validating Test Items*. Routledge. ✅ [DOI](https://doi.org/10.4324/9780203850381)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 084 — Razonamiento verbal y comprensión de instrucc…](../084-razonamiento-verbal-y-comprension-de-instrucciones/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[086 — Razonamiento espacial →](../086-razonamiento-espacial/README.md)
+<!-- /NAV -->

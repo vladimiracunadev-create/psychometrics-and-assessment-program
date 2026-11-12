@@ -2,7 +2,9 @@
 
 ![Portada de la clase 031](portada.svg)
 
-> [Índice de la parte](../README.md) · [Siguiente](../032-validez-de-contenido/README.md)
+<!-- NAV -->
+[← 030 — Intervalos de confianza para puntajes individ…](../../part-02-fiabilidad/030-intervalos-de-confianza-para-puntajes-individuales/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [032 — Validez de contenido y el juicio de expertos →](../032-validez-de-contenido/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 025.
@@ -63,3 +65,11 @@ Se logra si el estudiante redacta un argumento con inferencias y evidencia falta
 - Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement*, 50(1), 1-73. ✅ [DOI](https://doi.org/10.1111/jedm.12000)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 030 — Intervalos de confianza para puntajes individ…](../../part-02-fiabilidad/030-intervalos-de-confianza-para-puntajes-individuales/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[032 — Validez de contenido y el juicio de expertos →](../032-validez-de-contenido/README.md)
+<!-- /NAV -->

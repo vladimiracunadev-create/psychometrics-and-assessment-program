@@ -2,7 +2,9 @@
 
 ![Portada de la clase 117](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 116 — Personalidad de vendedores y evaluación comer…](../116-personalidad-de-vendedores-y-evaluacion-comercial/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [118 — Ajuste persona-puesto: qué se puede y qué no… →](../118-ajuste-persona-puesto-que-se-puede-y/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 091 y 112.
@@ -62,3 +64,11 @@ Se logra si el estudiante elige criterios viables y ubica la evaluación en un e
 - Macmillan, N. A., & Creelman, C. D. (2005). *Detection Theory: A User's Guide* (2.ª ed.). Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 116 — Personalidad de vendedores y evaluación comer…](../116-personalidad-de-vendedores-y-evaluacion-comercial/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[118 — Ajuste persona-puesto: qué se puede y qué no… →](../118-ajuste-persona-puesto-que-se-puede-y/README.md)
+<!-- /NAV -->

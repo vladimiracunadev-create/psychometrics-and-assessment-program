@@ -2,7 +2,9 @@
 
 ![Portada de la clase 102](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 101 — Modelo de los cinco factores y sus facetas](../101-modelo-de-los-cinco-factores-y-sus/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [103 — Tipologías frente a rasgos: crítica a MBTI →](../103-tipologias-frente-a-rasgos-critica-a-mbti/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 005 y 101.
@@ -64,3 +66,11 @@ Se logra si el estudiante audita la clave y distingue lo abierto de lo validado.
 - Johnson, J. A. (2014). Measuring thirty facets of the Five Factor Model with a 120-item public domain inventory: Development of the IPIP-NEO-120. *Journal of Research in Personality*, 51, 78-89. ✅ [DOI](https://doi.org/10.1016/j.jrp.2014.05.003)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 101 — Modelo de los cinco factores y sus facetas](../101-modelo-de-los-cinco-factores-y-sus/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[103 — Tipologías frente a rasgos: crítica a MBTI →](../103-tipologias-frente-a-rasgos-critica-a-mbti/README.md)
+<!-- /NAV -->

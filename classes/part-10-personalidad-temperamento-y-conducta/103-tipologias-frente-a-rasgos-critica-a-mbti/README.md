@@ -2,7 +2,9 @@
 
 ![Portada de la clase 103](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 102 — Banco IPIP: historia y uso abierto](../102-banco-ipip-historia-y-uso-abierto/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [104 — Modelos de estilos conductuales: DISC y sus l… →](../104-modelos-de-estilos-conductuales-disc-y-sus/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 024 y 101.
@@ -64,3 +66,11 @@ Se logra si el estudiante evalúa un modelo de tipos con evidencia.
 - Gardner, W. L., & Martinko, M. J. (1996). Using the Myers-Briggs Type Indicator to study managers. *Journal of Management*, 22(1), 45-83. ✅ [DOI](https://doi.org/10.1177/014920639602200103)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 102 — Banco IPIP: historia y uso abierto](../102-banco-ipip-historia-y-uso-abierto/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[104 — Modelos de estilos conductuales: DISC y sus l… →](../104-modelos-de-estilos-conductuales-disc-y-sus/README.md)
+<!-- /NAV -->

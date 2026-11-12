@@ -2,7 +2,9 @@
 
 ![Portada de la clase 012](portada.svg)
 
-> [Clase anterior](../011-redaccion-de-items/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../013-ipsativo-vs-normativo/README.md)
+<!-- NAV -->
+[← 011 — Redacción de ítems: las reglas y por qué exis…](../011-redaccion-de-items/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [013 — Ipsativo frente a normativo: la trampa de la… →](../013-ipsativo-vs-normativo/README.md)
+<!-- /NAV -->
 
 **Parte:** 01 — Construcción de instrumentos
 **Nivel:** fundamentos · **Horas estimadas:** 3 · **Estado:** `escrita`
@@ -104,3 +106,11 @@ El estudiante elige y defiende un formato citando fidelidad, carga de respuesta 
 - Lozano, L. M., García-Cueto, E., & Muñiz, J. (2008). Effect of the number of response categories on the reliability and validity of rating scales. *Methodology*, 4(2), 73-79. ✅ [DOI](https://doi.org/10.1027/1614-2241.4.2.73)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 011 — Redacción de ítems: las reglas y por qué exis…](../011-redaccion-de-items/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[013 — Ipsativo frente a normativo: la trampa de la… →](../013-ipsativo-vs-normativo/README.md)
+<!-- /NAV -->

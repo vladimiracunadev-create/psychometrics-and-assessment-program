@@ -2,7 +2,9 @@
 
 ![Portada de la clase 070](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 069 — Acomodaciones y diseño universal de la evalua…](../069-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md) · [📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [071 — Los Standards de AERA, APA y NCME →](../../part-07-uso-responsable-y-certificacion/071-estandares-aera-apa-ncme/README.md)
+<!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 045 y 047.
@@ -64,3 +66,11 @@ Se logra si el estudiante planifica la secuencia y estima el sesgo de comparaci�
 - Putnick, D. L., & Bornstein, M. H. (2016). Measurement invariance conventions and reporting. *Developmental Review*, 41, 71-90. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 069 — Acomodaciones y diseño universal de la evalua…](../069-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md)  
+[📚 Parte 06](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[071 — Los Standards de AERA, APA y NCME →](../../part-07-uso-responsable-y-certificacion/071-estandares-aera-apa-ncme/README.md)
+<!-- /NAV -->

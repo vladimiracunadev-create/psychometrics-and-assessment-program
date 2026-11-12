@@ -2,7 +2,9 @@
 
 ![Portada de la clase 076](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 075 — Rutas de certificación profesional](../075-certificacion-profesional/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [077 — Consentimiento informado y confidencialidad →](../077-consentimiento-informado-y-confidencialidad/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 071 y 073.
@@ -59,3 +61,11 @@ Se logra si el estudiante inventaría datos y justifica minimización con base e
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing* (privacidad y confidencialidad). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 075 — Rutas de certificación profesional](../075-certificacion-profesional/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[077 — Consentimiento informado y confidencialidad →](../077-consentimiento-informado-y-confidencialidad/README.md)
+<!-- /NAV -->

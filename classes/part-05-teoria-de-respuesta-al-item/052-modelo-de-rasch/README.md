@@ -2,7 +2,9 @@
 
 ![Portada de la clase 052](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../051-limites-de-la-teoria-clasica/README.md) · [Siguiente](../053-modelos-de-dos-y-tres-parametros/README.md)
+<!-- NAV -->
+[← 051 — Los límites que hacen falta superar](../051-limites-de-la-teoria-clasica/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [053 — Modelos de dos y tres parámetros →](../053-modelos-de-dos-y-tres-parametros/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 051.
@@ -66,3 +68,11 @@ Se logra si el estudiante estima parámetros y discute los supuestos.
 - Andrich, D. (1988). *Rasch Models for Measurement*. Sage. ✅ [DOI](https://doi.org/10.4135/9781412985598)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 051 — Los límites que hacen falta superar](../051-limites-de-la-teoria-clasica/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[053 — Modelos de dos y tres parámetros →](../053-modelos-de-dos-y-tres-parametros/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 072](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 071 — Los Standards de AERA, APA y NCME](../071-estandares-aera-apa-ncme/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [073 — El informe y la devolución de resultados a la… →](../073-informe-y-devolucion/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 071.
@@ -61,3 +63,11 @@ Se logra si el estudiante audita un catálogo con estados diferenciados.
 - International Test Commission (2006). International guidelines on computer-based and internet-delivered testing. *International Journal of Testing*, 6(2), 143-171. ✅ [DOI](https://doi.org/10.1207/s15327574ijt0602_4)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 071 — Los Standards de AERA, APA y NCME](../071-estandares-aera-apa-ncme/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[073 — El informe y la devolución de resultados a la… →](../073-informe-y-devolucion/README.md)
+<!-- /NAV -->

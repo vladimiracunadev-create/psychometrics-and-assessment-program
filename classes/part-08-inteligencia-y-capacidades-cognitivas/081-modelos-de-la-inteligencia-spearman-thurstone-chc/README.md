@@ -2,7 +2,9 @@
 
 ![Portada de la clase 081](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 080 — Seguridad de bancos de ítems y de resultados](../../part-07-uso-responsable-y-certificacion/080-seguridad-de-bancos-de-items-y-de/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [082 — Inteligencia fluida y cristalizada →](../082-inteligencia-fluida-y-cristalizada/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 042 y 048.
@@ -61,3 +63,11 @@ Se logra si el estudiante calcula tetradas y discute el alcance de cada modelo.
 - McGrew, K. S. (2009). CHC theory and the human cognitive abilities project. *Intelligence*, 37(1), 1-10. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 080 — Seguridad de bancos de ítems y de resultados](../../part-07-uso-responsable-y-certificacion/080-seguridad-de-bancos-de-items-y-de/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[082 — Inteligencia fluida y cristalizada →](../082-inteligencia-fluida-y-cristalizada/README.md)
+<!-- /NAV -->

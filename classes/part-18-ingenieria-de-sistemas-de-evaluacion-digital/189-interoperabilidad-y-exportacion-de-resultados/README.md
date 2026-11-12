@@ -2,7 +2,9 @@
 
 ![Portada de la clase 189](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 188 — Seguridad y privacidad por diseño](../188-seguridad-y-privacidad-por-diseno/README.md) · [📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [190 — Herramientas abiertas: jsPsych, PsychoPy, lab… →](../190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md)
+<!-- /NAV -->
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 188.
@@ -52,3 +54,11 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 - Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles. *Scientific Data*, 3, 160018. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 188 — Seguridad y privacidad por diseño](../188-seguridad-y-privacidad-por-diseno/README.md)  
+[📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[190 — Herramientas abiertas: jsPsych, PsychoPy, lab… →](../190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md)
+<!-- /NAV -->

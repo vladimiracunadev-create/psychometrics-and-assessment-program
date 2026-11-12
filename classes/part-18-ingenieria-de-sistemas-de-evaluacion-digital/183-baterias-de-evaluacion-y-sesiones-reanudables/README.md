@@ -2,7 +2,9 @@
 
 ![Portada de la clase 183](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 182 — Modelos de ítems y esquemas versionados](../182-modelos-de-items-y-esquemas-versionados/README.md) · [📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [184 — Telemetría de interacción y tiempos de respue… →](../184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md)
+<!-- /NAV -->
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 182.
@@ -52,3 +54,11 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 - Ley 19.628 y Ley 21.719 (Chile), sobre protección de datos: verificar el texto vigente en la fuente oficial. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 182 — Modelos de ítems y esquemas versionados](../182-modelos-de-items-y-esquemas-versionados/README.md)  
+[📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[184 — Telemetría de interacción y tiempos de respue… →](../184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md)
+<!-- /NAV -->

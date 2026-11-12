@@ -2,7 +2,9 @@
 
 ![Portada de la clase 003](portada.svg)
 
-> [Clase anterior](../002-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../004-*/README.md)
+<!-- NAV -->
+[← 002 — Del constructo al ítem: cómo nace una pregunta](../002-del-constructo-al-item/README.md) · [📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [004 — Puntaje bruto, media por ítem y por qué no so… →](../004-puntaje-bruto-y-media-por-item/README.md)
+<!-- /NAV -->
 
 **Parte:** 00 — Fundamentos de la medición psicológica
 **Horas estimadas:** 3 · **Estado:** `escrita`
@@ -103,3 +105,11 @@ python classes/part-00-fundamentos-de-la-medicion/003-escalas-de-medida-y-sus-op
   statistics. *Advances in Health Sciences Education*, 15(5), 625-632.
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 002 — Del constructo al ítem: cómo nace una pregunta](../002-del-constructo-al-item/README.md)  
+[📚 Parte 00](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[004 — Puntaje bruto, media por ítem y por qué no so… →](../004-puntaje-bruto-y-media-por-item/README.md)
+<!-- /NAV -->

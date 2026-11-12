@@ -2,7 +2,9 @@
 
 ![Portada de la clase 150](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 149 — Habilidades digitales del estudiantado](../149-habilidades-digitales-del-estudiantado/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [151 — Teoría de intereses de Holland →](../../part-15-orientacion-vocacional-y-competencias-profesionales/151-teoria-de-intereses-de-holland/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 069 y 137.
@@ -66,3 +68,11 @@ Se logra si el estudiante redacta metas medibles y calcula e interpreta el T con
 - CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 149 — Habilidades digitales del estudiantado](../149-habilidades-digitales-del-estudiantado/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[151 — Teoría de intereses de Holland →](../../part-15-orientacion-vocacional-y-competencias-profesionales/151-teoria-de-intereses-de-holland/README.md)
+<!-- /NAV -->

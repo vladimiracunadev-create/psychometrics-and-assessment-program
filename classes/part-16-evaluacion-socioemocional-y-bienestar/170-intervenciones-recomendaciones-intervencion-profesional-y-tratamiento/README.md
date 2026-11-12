@@ -2,7 +2,9 @@
 
 ![Portada de la clase 170](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 169 — Evaluación socioemocional escolar](../169-evaluacion-socioemocional-escolar/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [171 — Diseño de un estudio de validación →](../../part-17-investigacion-psicometrica-y-analisis-de-datos/171-diseno-de-un-estudio-de-validacion/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 039 y 160.
@@ -65,3 +67,11 @@ Se logra si el estudiante clasifica correctamente y rechaza promesas sin respald
 - Melby-Lervåg, M., Redick, T. S., & Hulme, C. (2016). Working memory training does not improve performance on measures of intelligence or other measures of "far transfer". *Perspectives on Psychological Science*, 11(4), 512-534. ✅ [DOI](https://doi.org/10.1177/1745691616635612)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 169 — Evaluación socioemocional escolar](../169-evaluacion-socioemocional-escolar/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[171 — Diseño de un estudio de validación →](../../part-17-investigacion-psicometrica-y-analisis-de-datos/171-diseno-de-un-estudio-de-validacion/README.md)
+<!-- /NAV -->

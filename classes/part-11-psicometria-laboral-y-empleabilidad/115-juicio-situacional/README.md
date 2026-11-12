@@ -2,7 +2,9 @@
 
 ![Portada de la clase 115](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 114 — Evaluación de desempeño y criterios](../114-evaluacion-de-desempeno-y-criterios/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [116 — Personalidad de vendedores y evaluación comer… →](../116-personalidad-de-vendedores-y-evaluacion-comercial/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 022 y 111.
@@ -63,3 +65,11 @@ Se logra si el estudiante construye una clave y la evalúa.
 - Christian, M. S., Edwards, B. D., & Bradley, J. C. (2010). Situational judgment tests: Constructs assessed and a meta-analysis of their criterion-related validities. *Personnel Psychology*, 63(1), 83-117. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.2009.01163.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 114 — Evaluación de desempeño y criterios](../114-evaluacion-de-desempeno-y-criterios/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[116 — Personalidad de vendedores y evaluación comer… →](../116-personalidad-de-vendedores-y-evaluacion-comercial/README.md)
+<!-- /NAV -->

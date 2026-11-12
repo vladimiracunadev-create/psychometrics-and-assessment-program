@@ -2,7 +2,9 @@
 
 ![Portada de la clase 033](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../032-validez-de-contenido/README.md) · [Siguiente](../034-validez-de-criterio/README.md)
+<!-- NAV -->
+[← 032 — Validez de contenido y el juicio de expertos](../032-validez-de-contenido/README.md) · [📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [034 — Validez de criterio y validez predictiva →](../034-validez-de-criterio/README.md)
+<!-- /NAV -->
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 031 y 027.
@@ -60,3 +62,11 @@ Se logra si el estudiante plantea predicciones y las contrasta con un patrón.
 - Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. *Psychological Bulletin*, 56(2), 81-105. ✅ [DOI](https://doi.org/10.1037/h0046016)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 032 — Validez de contenido y el juicio de expertos](../032-validez-de-contenido/README.md)  
+[📚 Parte 03](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[034 — Validez de criterio y validez predictiva →](../034-validez-de-criterio/README.md)
+<!-- /NAV -->

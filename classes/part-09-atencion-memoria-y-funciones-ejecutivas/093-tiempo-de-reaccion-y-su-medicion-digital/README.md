@@ -2,7 +2,9 @@
 
 ![Portada de la clase 093](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 092 — Atención selectiva y dividida](../092-atencion-selectiva-y-dividida/README.md) · [📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [094 — Memoria visual y auditiva →](../094-memoria-visual-y-auditiva/README.md)
+<!-- /NAV -->
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 026 y 089.
@@ -61,3 +63,11 @@ Se logra si el estudiante elige y justifica un resumen y declara el efecto del d
 - Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2021). Realistic precision and accuracy of online experiment platforms, web browsers, and devices. *Behavior Research Methods*, 53, 1407-1425. ✅ [DOI](https://doi.org/10.3758/s13428-020-01501-5)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 092 — Atención selectiva y dividida](../092-atencion-selectiva-y-dividida/README.md)  
+[📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[094 — Memoria visual y auditiva →](../094-memoria-visual-y-auditiva/README.md)
+<!-- /NAV -->

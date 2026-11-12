@@ -2,7 +2,9 @@
 
 ![Portada de la clase 013](portada.svg)
 
-> [Clase anterior](../012-formatos-de-respuesta/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../014-longitud-y-costo-de-medida/README.md)
+<!-- NAV -->
+[← 012 — Formatos de respuesta: Likert, dicotómico, co…](../012-formatos-de-respuesta/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [014 — Longitud del test: el intercambio entre preci… →](../014-longitud-y-costo-de-medida/README.md)
+<!-- /NAV -->
 
 **Parte:** 01 — Construcción de instrumentos
 **Nivel:** fundamentos · **Horas estimadas:** 4 · **Estado:** `escrita`
@@ -98,3 +100,11 @@ rechaza usos de comparación entre personas con datos ipsativos.
 - Brown, A., & Maydeu-Olivares, A. (2011). Item response modeling of forced-choice questionnaires. *Educational and Psychological Measurement*, 71(3), 460-502. ✅ [DOI](https://doi.org/10.1177/0013164410375112)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 012 — Formatos de respuesta: Likert, dicotómico, co…](../012-formatos-de-respuesta/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[014 — Longitud del test: el intercambio entre preci… →](../014-longitud-y-costo-de-medida/README.md)
+<!-- /NAV -->

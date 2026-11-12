@@ -2,7 +2,9 @@
 
 ![Portada de la clase 017](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 016 — Especificaciones de test y tablas de contenido](../016-especificaciones-de-test-y-tablas-de-contenido/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [018 — Ítems abiertos, rúbricas y acuerdo entre juec… →](../018-items-abiertos-rubricas-y-acuerdo-entre-jueces/README.md)
+<!-- /NAV -->
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 016.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 016 — Especificaciones de test y tablas de contenido](../016-especificaciones-de-test-y-tablas-de-contenido/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[018 — Ítems abiertos, rúbricas y acuerdo entre juec… →](../018-items-abiertos-rubricas-y-acuerdo-entre-jueces/README.md)
+<!-- /NAV -->

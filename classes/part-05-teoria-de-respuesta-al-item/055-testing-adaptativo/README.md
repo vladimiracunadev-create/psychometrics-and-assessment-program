@@ -2,7 +2,9 @@
 
 ![Portada de la clase 055](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../054-informacion-del-item/README.md)
+<!-- NAV -->
+[← 054 — Función de información: dónde mide bien cada…](../054-informacion-del-item/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [056 — Estimación de parámetros y de habilidad →](../056-estimacion-de-parametros-y-de-habilidad/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 053 y 054.
@@ -61,3 +63,11 @@ Se logra si el estudiante implementa o simula el ciclo y compara con un test fij
 - van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer. ✅ [DOI](https://doi.org/10.1007/978-0-387-85461-8)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 054 — Función de información: dónde mide bien cada…](../054-informacion-del-item/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[056 — Estimación de parámetros y de habilidad →](../056-estimacion-de-parametros-y-de-habilidad/README.md)
+<!-- /NAV -->

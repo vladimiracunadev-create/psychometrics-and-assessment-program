@@ -2,7 +2,9 @@
 
 ![Portada de la clase 092](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 091 — Atención sostenida y vigilancia](../091-atencion-sostenida-y-vigilancia/README.md) · [📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [093 — Tiempo de reacción y su medición digital →](../093-tiempo-de-reaccion-y-su-medicion-digital/README.md)
+<!-- /NAV -->
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 091.
@@ -60,3 +62,11 @@ Se logra si el estudiante vincula cada indicador con un tipo de atención.
 - Wickens, C. D. (2002). Multiple resources and performance prediction. *Theoretical Issues in Ergonomics Science*, 3(2), 159-177. ✅ [DOI](https://doi.org/10.1080/14639220210123806)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 091 — Atención sostenida y vigilancia](../091-atencion-sostenida-y-vigilancia/README.md)  
+[📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[093 — Tiempo de reacción y su medición digital →](../093-tiempo-de-reaccion-y-su-medicion-digital/README.md)
+<!-- /NAV -->

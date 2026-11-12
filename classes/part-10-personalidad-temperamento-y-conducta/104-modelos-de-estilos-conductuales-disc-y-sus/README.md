@@ -2,7 +2,9 @@
 
 ![Portada de la clase 104](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 103 — Tipologías frente a rasgos: crítica a MBTI](../103-tipologias-frente-a-rasgos-critica-a-mbti/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [105 — Temperamento y desarrollo →](../105-temperamento-y-desarrollo/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 013 y 103.
@@ -61,3 +63,11 @@ Se logra si el estudiante cuantifica la estabilidad y limita las conclusiones.
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 103 — Tipologías frente a rasgos: crítica a MBTI](../103-tipologias-frente-a-rasgos-critica-a-mbti/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[105 — Temperamento y desarrollo →](../105-temperamento-y-desarrollo/README.md)
+<!-- /NAV -->

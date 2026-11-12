@@ -2,7 +2,9 @@
 
 ![Portada de la clase 095](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 094 — Memoria visual y auditiva](../094-memoria-visual-y-auditiva/README.md) · [📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [096 — Memoria verbal y aprendizaje de listas →](../096-memoria-verbal-y-aprendizaje-de-listas/README.md)
+<!-- /NAV -->
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 094.
@@ -61,3 +63,11 @@ Se logra si el estudiante compara reglas con evidencia de fiabilidad y validez.
 - Conway, A. R. A., Kane, M. J., Bunting, M. F., Hambrick, D. Z., Wilhelm, O., & Engle, R. W. (2005). Working memory span tasks: A methodological review and user's guide. *Psychonomic Bulletin & Review*, 12(5), 769-786. ✅ [DOI](https://doi.org/10.3758/bf03196772)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 094 — Memoria visual y auditiva](../094-memoria-visual-y-auditiva/README.md)  
+[📚 Parte 09](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[096 — Memoria verbal y aprendizaje de listas →](../096-memoria-verbal-y-aprendizaje-de-listas/README.md)
+<!-- /NAV -->

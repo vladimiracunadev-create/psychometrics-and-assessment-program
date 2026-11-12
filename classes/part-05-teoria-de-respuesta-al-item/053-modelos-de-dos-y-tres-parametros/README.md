@@ -2,7 +2,9 @@
 
 ![Portada de la clase 053](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../052-modelo-de-rasch/README.md) · [Siguiente](../054-informacion-del-item/README.md)
+<!-- NAV -->
+[← 052 — El modelo de Rasch](../052-modelo-de-rasch/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [054 — Función de información: dónde mide bien cada… →](../054-informacion-del-item/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 052.
@@ -66,3 +68,11 @@ Se logra si el estudiante interpreta los parámetros y justifica el modelo.
 - Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 052 — El modelo de Rasch](../052-modelo-de-rasch/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[054 — Función de información: dónde mide bien cada… →](../054-informacion-del-item/README.md)
+<!-- /NAV -->

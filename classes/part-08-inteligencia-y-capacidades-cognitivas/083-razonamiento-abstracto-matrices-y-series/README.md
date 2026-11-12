@@ -2,7 +2,9 @@
 
 ![Portada de la clase 083](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 082 — Inteligencia fluida y cristalizada](../082-inteligencia-fluida-y-cristalizada/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [084 — Razonamiento verbal y comprensión de instrucc… →](../084-razonamiento-verbal-y-comprension-de-instrucciones/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 015 y 081.
@@ -61,3 +63,11 @@ Se logra si el estudiante genera ítems originales y los verifica.
 - Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation*. Routledge. ✅ [DOI](https://doi.org/10.4324/9780203803912)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 082 — Inteligencia fluida y cristalizada](../082-inteligencia-fluida-y-cristalizada/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[084 — Razonamiento verbal y comprensión de instrucc… →](../084-razonamiento-verbal-y-comprension-de-instrucciones/README.md)
+<!-- /NAV -->

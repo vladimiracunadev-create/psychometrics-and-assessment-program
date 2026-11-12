@@ -2,7 +2,9 @@
 
 ![Portada de la clase 154](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 153 — Valores laborales y de vida](../153-valores-laborales-y-de-vida/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [155 — Competencias transversales y empleabilidad →](../155-competencias-transversales-y-empleabilidad/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 151 y 153.
@@ -63,3 +65,11 @@ Se logra si el estudiante modela una decisión y explica su sensibilidad.
 - Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 153 — Valores laborales y de vida](../153-valores-laborales-y-de-vida/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[155 — Competencias transversales y empleabilidad →](../155-competencias-transversales-y-empleabilidad/README.md)
+<!-- /NAV -->

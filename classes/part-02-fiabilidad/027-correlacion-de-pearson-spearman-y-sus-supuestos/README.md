@@ -2,7 +2,9 @@
 
 ![Portada de la clase 027](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 026 — Estadística descriptiva aplicada a puntajes](../026-estadistica-descriptiva-aplicada-a-puntajes/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [028 — Fiabilidad de pruebas dicotómicas: KR-20 →](../028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 003, 021 y 026.
@@ -66,3 +68,11 @@ Se logra si el estudiante elige coeficiente con razones y justifica pedir el gr�
 - Bishara, A. J., & Hittner, J. B. (2012). Testing the significance of a correlation with nonnormal data. *Psychological Methods*, 17(3), 399-417. ✅ [DOI](https://doi.org/10.1037/a0028087)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 026 — Estadística descriptiva aplicada a puntajes](../026-estadistica-descriptiva-aplicada-a-puntajes/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[028 — Fiabilidad de pruebas dicotómicas: KR-20 →](../028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md)
+<!-- /NAV -->

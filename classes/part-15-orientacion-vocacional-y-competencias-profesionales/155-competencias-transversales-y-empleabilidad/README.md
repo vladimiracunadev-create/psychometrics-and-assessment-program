@@ -2,7 +2,9 @@
 
 ![Portada de la clase 155](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 154 — Madurez y toma de decisiones vocacionales](../154-madurez-y-toma-de-decisiones-vocacionales/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [156 — Portafolios de evidencias →](../156-portafolios-de-evidencias/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 111 y 115.
@@ -61,3 +63,11 @@ Se logra si el estudiante modela evidencia acumulada y define un criterio de dec
 - Almond, R. G., Mislevy, R. J., Steinberg, L. S., Yan, D., & Williamson, D. M. (2015). *Bayesian Networks in Educational Assessment*. Springer. ✅ [DOI](https://doi.org/10.1007/978-1-4939-2125-6)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 154 — Madurez y toma de decisiones vocacionales](../154-madurez-y-toma-de-decisiones-vocacionales/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[156 — Portafolios de evidencias →](../156-portafolios-de-evidencias/README.md)
+<!-- /NAV -->

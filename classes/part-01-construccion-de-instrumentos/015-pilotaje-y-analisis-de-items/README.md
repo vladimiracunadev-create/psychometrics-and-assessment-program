@@ -2,7 +2,9 @@
 
 ![Portada de la clase 015](portada.svg)
 
-> [Clase anterior](../014-longitud-y-costo-de-medida/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../../part-02-fiabilidad/021-teoria-clasica-del-error/README.md)
+<!-- NAV -->
+[← 014 — Longitud del test: el intercambio entre preci…](../014-longitud-y-costo-de-medida/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [016 — Especificaciones de test y tablas de contenido →](../016-especificaciones-de-test-y-tablas-de-contenido/README.md)
+<!-- /NAV -->
 
 **Parte:** 01 — Construcción de instrumentos
 **Nivel:** fundamentos · **Horas estimadas:** 4 · **Estado:** `escrita`
@@ -101,3 +103,11 @@ El estudiante calcula los índices, detecta defectos sembrados y redacta una dec
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 014 — Longitud del test: el intercambio entre preci…](../014-longitud-y-costo-de-medida/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[016 — Especificaciones de test y tablas de contenido →](../016-especificaciones-de-test-y-tablas-de-contenido/README.md)
+<!-- /NAV -->

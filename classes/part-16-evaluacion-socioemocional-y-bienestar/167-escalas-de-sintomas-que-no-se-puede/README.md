@@ -2,7 +2,9 @@
 
 ![Portada de la clase 167](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 166 — Satisfacción académica y laboral](../166-satisfaccion-academica-y-laboral/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [168 — Protocolo de derivación y de riesgo →](../168-protocolo-de-derivacion-y-de-riesgo/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 100 y 135.
@@ -65,3 +67,11 @@ Se logra si el estudiante calcula el VPP y diseña una regla de seguridad verifi
 - Ministerio de Salud de Chile: orientaciones de prevención del suicidio y canales de ayuda (versión vigente: verificar en minsal.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 166 — Satisfacción académica y laboral](../166-satisfaccion-academica-y-laboral/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[168 — Protocolo de derivación y de riesgo →](../168-protocolo-de-derivacion-y-de-riesgo/README.md)
+<!-- /NAV -->

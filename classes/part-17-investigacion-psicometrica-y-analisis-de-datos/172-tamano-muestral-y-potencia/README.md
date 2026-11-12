@@ -2,7 +2,9 @@
 
 ![Portada de la clase 172](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 171 — Diseño de un estudio de validación](../171-diseno-de-un-estudio-de-validacion/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [173 — Simulación de datos psicométricos →](../173-simulacion-de-datos-psicometricos/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 042 y 171.
@@ -64,3 +66,11 @@ Se logra si el estudiante justifica el N por simulación y no por una regla fija
 - van Zyl, J. M., Neudecker, H., & Nel, D. G. (2000). On the distribution of the maximum likelihood estimator of Cronbach's alpha. *Psychometrika*, 65(3), 271-280. ✅ [DOI](https://doi.org/10.1007/bf02296146)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 171 — Diseño de un estudio de validación](../171-diseno-de-un-estudio-de-validacion/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[173 — Simulación de datos psicométricos →](../173-simulacion-de-datos-psicometricos/README.md)
+<!-- /NAV -->

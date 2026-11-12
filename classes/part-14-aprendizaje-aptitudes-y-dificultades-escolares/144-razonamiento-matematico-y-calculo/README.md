@@ -2,7 +2,9 @@
 
 ![Portada de la clase 144](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 143 — Escritura y producción textual con rúbricas](../143-escritura-y-produccion-textual-con-rubricas/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [145 — Dificultades específicas de aprendizaje: crib… →](../145-dificultades-especificas-de-aprendizaje-cribado-y-derivacion/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 083 y 085.
@@ -62,3 +64,11 @@ Se logra si el estudiante genera ítems con dificultad explicada y usa errores c
 - Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15. ✅ [DOI](https://doi.org/10.1177/00222194040370010201)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 143 — Escritura y producción textual con rúbricas](../143-escritura-y-produccion-textual-con-rubricas/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[145 — Dificultades específicas de aprendizaje: crib… →](../145-dificultades-especificas-de-aprendizaje-cribado-y-derivacion/README.md)
+<!-- /NAV -->

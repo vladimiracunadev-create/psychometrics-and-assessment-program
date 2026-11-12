@@ -2,7 +2,9 @@
 
 ![Portada de la clase 112](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 111 — Análisis de puestos y modelos de competencias](../111-analisis-de-puestos-y-modelos-de-competencias/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [113 — Pruebas de comprensión de instrucciones escri… →](../113-pruebas-de-comprension-de-instrucciones-escritas/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 034, 039 y 111.
@@ -70,3 +72,11 @@ Se logra si el estudiante calcula compuestos y utilidades y declara supuestos.
 - Cronbach, L. J., & Gleser, G. C. (1965). *Psychological Tests and Personnel Decisions* (2.ª ed.). University of Illinois Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 111 — Análisis de puestos y modelos de competencias](../111-analisis-de-puestos-y-modelos-de-competencias/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[113 — Pruebas de comprensión de instrucciones escri… →](../113-pruebas-de-comprension-de-instrucciones-escritas/README.md)
+<!-- /NAV -->

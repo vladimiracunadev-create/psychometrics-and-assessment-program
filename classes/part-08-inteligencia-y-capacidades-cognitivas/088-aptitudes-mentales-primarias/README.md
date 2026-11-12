@@ -2,7 +2,9 @@
 
 ![Portada de la clase 088](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 087 — Resolución de problemas y aprendizaje](../087-resolucion-de-problemas-y-aprendizaje/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [089 — Velocidad de procesamiento →](../089-velocidad-de-procesamiento/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 025 y 081.
@@ -64,3 +66,11 @@ Se logra si el estudiante calcula umbrales de diferencia fiable y limita la inte
 - AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 087 — Resolución de problemas y aprendizaje](../087-resolucion-de-problemas-y-aprendizaje/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[089 — Velocidad de procesamiento →](../089-velocidad-de-procesamiento/README.md)
+<!-- /NAV -->

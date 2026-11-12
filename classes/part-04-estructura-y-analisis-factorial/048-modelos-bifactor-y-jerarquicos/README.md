@@ -2,7 +2,9 @@
 
 ![Portada de la clase 048](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 047 — Ajuste en modelos de ecuaciones estructurales](../047-ajuste-en-modelos-de-ecuaciones-estructurales/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [049 — Análisis de redes psicométricas →](../049-analisis-de-redes-psicometricas/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 023 y 043.
@@ -68,3 +70,11 @@ Se logra si el estudiante calcula los tres índices y decide cómo reportar el p
 - Rodriguez, A., Reise, S. P., & Haviland, M. G. (2016). Evaluating bifactor models: Calculating and interpreting statistical indices. *Psychological Methods*, 21(2), 137-150. ✅ [DOI](https://doi.org/10.1037/met0000045)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 047 — Ajuste en modelos de ecuaciones estructurales](../047-ajuste-en-modelos-de-ecuaciones-estructurales/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[049 — Análisis de redes psicométricas →](../049-analisis-de-redes-psicometricas/README.md)
+<!-- /NAV -->

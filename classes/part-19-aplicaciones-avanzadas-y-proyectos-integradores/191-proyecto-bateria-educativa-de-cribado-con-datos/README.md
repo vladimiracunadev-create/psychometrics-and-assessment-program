@@ -2,7 +2,9 @@
 
 ![Portada de la clase 191](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 190 — Herramientas abiertas: jsPsych, PsychoPy, lab…](../../part-18-ingenieria-de-sistemas-de-evaluacion-digital/190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [192 — Proyecto: batería laboral con ajuste justific… →](../192-proyecto-bateria-laboral-con-ajuste-justificado/README.md)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 145.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - Jenkins, J. R., Hudson, R. F., & Johnson, E. S. (2007). Screening for at-risk readers in a response to intervention framework. *School Psychology Review*, 36(4), 582-600. ✅ [DOI](https://doi.org/10.1080/02796015.2007.12087919)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 190 — Herramientas abiertas: jsPsych, PsychoPy, lab…](../../part-18-ingenieria-de-sistemas-de-evaluacion-digital/190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[192 — Proyecto: batería laboral con ajuste justific… →](../192-proyecto-bateria-laboral-con-ajuste-justificado/README.md)
+<!-- /NAV -->

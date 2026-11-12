@@ -2,7 +2,9 @@
 
 ![Portada de la clase 110](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 109 — Estados frente a rasgos de personalidad](../109-estados-frente-a-rasgos-de-personalidad/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [111 — Análisis de puestos y modelos de competencias →](../../part-11-psicometria-laboral-y-empleabilidad/111-analisis-de-puestos-y-modelos-de-competencias/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 040 y 100.
@@ -62,3 +64,11 @@ Se logra si el estudiante evalúa una escala de validez con sus costos de error.
 - Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780195387476.001.0001)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 109 — Estados frente a rasgos de personalidad](../109-estados-frente-a-rasgos-de-personalidad/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[111 — Análisis de puestos y modelos de competencias →](../../part-11-psicometria-laboral-y-empleabilidad/111-analisis-de-puestos-y-modelos-de-competencias/README.md)
+<!-- /NAV -->

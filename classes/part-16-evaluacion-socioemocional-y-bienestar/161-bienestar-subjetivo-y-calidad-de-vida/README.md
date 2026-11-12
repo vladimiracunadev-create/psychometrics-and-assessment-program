@@ -2,7 +2,9 @@
 
 ![Portada de la clase 161](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 160 — Diseño de un programa de orientación basado e…](../../part-15-orientacion-vocacional-y-competencias-profesionales/160-diseno-de-un-programa-de-orientacion-basado/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [162 — Estrés percibido →](../162-estres-percibido/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 014 y 039.
@@ -61,3 +63,11 @@ Se logra si el estudiante elige una medida según el propósito y calcula su cos
 - Diener, E., Oishi, S., & Tay, L. (2018). Advances in subjective well-being research. *Nature Human Behaviour*, 2, 253-260. ✅ [DOI](https://doi.org/10.1038/s41562-018-0307-6)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 160 — Diseño de un programa de orientación basado e…](../../part-15-orientacion-vocacional-y-competencias-profesionales/160-diseno-de-un-programa-de-orientacion-basado/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[162 — Estrés percibido →](../162-estres-percibido/README.md)
+<!-- /NAV -->

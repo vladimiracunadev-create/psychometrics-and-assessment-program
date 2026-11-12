@@ -2,7 +2,9 @@
 
 ![Portada de la clase 047](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 046 — Rotaciones y criterios de retención de factor…](../046-rotaciones-y-criterios-de-retencion-de-factores/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [048 — Modelos bifactor y jerárquicos →](../048-modelos-bifactor-y-jerarquicos/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 043.
@@ -69,3 +71,11 @@ Se logra si el estudiante calcula los índices y discute el desajuste concreto.
 - Kline, R. B. (2016). *Principles and Practice of Structural Equation Modeling* (4.ª ed.). Guilford. ⚠️ existe, pero Crossref registra 2012 (¿otra edición?; [DOI](https://doi.org/10.1080/10705511.2012.687667))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 046 — Rotaciones y criterios de retención de factor…](../046-rotaciones-y-criterios-de-retencion-de-factores/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[048 — Modelos bifactor y jerárquicos →](../048-modelos-bifactor-y-jerarquicos/README.md)
+<!-- /NAV -->

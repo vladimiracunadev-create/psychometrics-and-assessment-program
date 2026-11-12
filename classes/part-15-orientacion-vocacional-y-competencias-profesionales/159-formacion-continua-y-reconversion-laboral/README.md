@@ -2,7 +2,9 @@
 
 ![Portada de la clase 159](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 158 — Orientación en educación superior y transició…](../158-orientacion-en-educacion-superior-y-transicion-laboral/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [160 — Diseño de un programa de orientación basado e… →](../160-diseno-de-un-programa-de-orientacion-basado/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 111 y 155.
@@ -61,3 +63,11 @@ Se logra si el estudiante calcula brechas, incorpora incertidumbre y planifica u
 - Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 158 — Orientación en educación superior y transició…](../158-orientacion-en-educacion-superior-y-transicion-laboral/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[160 — Diseño de un programa de orientación basado e… →](../160-diseno-de-un-programa-de-orientacion-basado/README.md)
+<!-- /NAV -->

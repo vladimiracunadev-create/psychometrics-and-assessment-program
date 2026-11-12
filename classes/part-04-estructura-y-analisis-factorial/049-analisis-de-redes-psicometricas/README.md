@@ -2,7 +2,9 @@
 
 ![Portada de la clase 049](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 048 — Modelos bifactor y jerárquicos](../048-modelos-bifactor-y-jerarquicos/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [050 — Datos ordinales y correlaciones policóricas →](../050-datos-ordinales-y-correlaciones-policoricas/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 041 y 027.
@@ -65,3 +67,11 @@ Se logra si el estudiante calcula parciales e interpreta la red con cautela caus
 - Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychological networks and their accuracy. *Behavior Research Methods*, 50(1), 195-212. ✅ [DOI](https://doi.org/10.3758/s13428-017-0862-1)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 048 — Modelos bifactor y jerárquicos](../048-modelos-bifactor-y-jerarquicos/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[050 — Datos ordinales y correlaciones policóricas →](../050-datos-ordinales-y-correlaciones-policoricas/README.md)
+<!-- /NAV -->

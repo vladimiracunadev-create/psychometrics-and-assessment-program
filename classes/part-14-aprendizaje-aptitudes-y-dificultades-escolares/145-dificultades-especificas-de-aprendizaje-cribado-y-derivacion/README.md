@@ -2,7 +2,9 @@
 
 ![Portada de la clase 145](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 144 — Razonamiento matemático y cálculo](../144-razonamiento-matematico-y-calculo/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [146 — Hábitos de estudio y técnicas de estudio →](../146-habitos-de-estudio-y-tecnicas-de-estudio/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 135, 142 y 175.
@@ -64,3 +66,11 @@ Se logra si el estudiante diseña un cribado escalonado y justifica la duración
 - Christ, T. J. (2006). Short-term estimates of growth using curriculum-based measurement of oral reading fluency. *School Psychology Review*, 35(1), 128-133. ✅ [DOI](https://doi.org/10.1080/02796015.2006.12088006)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 144 — Razonamiento matemático y cálculo](../144-razonamiento-matematico-y-calculo/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[146 — Hábitos de estudio y técnicas de estudio →](../146-habitos-de-estudio-y-tecnicas-de-estudio/README.md)
+<!-- /NAV -->

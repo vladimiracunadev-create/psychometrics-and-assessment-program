@@ -2,7 +2,9 @@
 
 ![Portada de la clase 071](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 070 — Estudios de invarianza entre grupos](../../part-06-baremos-sesgo-y-equidad/070-estudios-de-invarianza-entre-grupos/README.md) · [📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [072 — Directrices de la International Test Commissi… →](../072-itc-y-normas-internacionales/README.md)
+<!-- /NAV -->
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 031 a 035.
@@ -59,3 +61,11 @@ Se logra si el estudiante audita documentación y distingue lo declarado de lo d
 - American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA. ⚠️ existe, pero Crossref registra 2002 (¿otra edición?; [DOI](https://doi.org/10.1037/e300672004-001))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 070 — Estudios de invarianza entre grupos](../../part-06-baremos-sesgo-y-equidad/070-estudios-de-invarianza-entre-grupos/README.md)  
+[📚 Parte 07](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[072 — Directrices de la International Test Commissi… →](../072-itc-y-normas-internacionales/README.md)
+<!-- /NAV -->

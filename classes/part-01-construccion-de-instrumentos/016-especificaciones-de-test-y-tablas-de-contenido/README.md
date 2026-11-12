@@ -2,7 +2,9 @@
 
 ![Portada de la clase 016](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 015 — Pilotaje y análisis clásico de ítems](../015-pilotaje-y-analisis-de-items/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [017 — Ítems de opción múltiple: distractores y clave →](../017-items-de-opcion-multiple-distractores-y-clave/README.md)
+<!-- /NAV -->
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 011.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 - Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*. Erlbaum. ⚠️ existe, pero Crossref registra 2011 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203874776))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 015 — Pilotaje y análisis clásico de ítems](../015-pilotaje-y-analisis-de-items/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[017 — Ítems de opción múltiple: distractores y clave →](../017-items-de-opcion-multiple-distractores-y-clave/README.md)
+<!-- /NAV -->

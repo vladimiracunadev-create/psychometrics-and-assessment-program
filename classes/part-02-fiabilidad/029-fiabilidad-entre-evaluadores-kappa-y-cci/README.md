@@ -2,7 +2,9 @@
 
 ![Portada de la clase 029](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 028 — Fiabilidad de pruebas dicotómicas: KR-20](../028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [030 — Intervalos de confianza para puntajes individ… →](../030-intervalos-de-confianza-para-puntajes-individuales/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021, 024 y 027.
@@ -62,3 +64,11 @@ Se logra si el estudiante elige y reporta el índice según la decisión.
 - Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics*, 33(1), 159-174. ✅ [DOI](https://doi.org/10.2307/2529310)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 028 — Fiabilidad de pruebas dicotómicas: KR-20](../028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[030 — Intervalos de confianza para puntajes individ… →](../030-intervalos-de-confianza-para-puntajes-individuales/README.md)
+<!-- /NAV -->

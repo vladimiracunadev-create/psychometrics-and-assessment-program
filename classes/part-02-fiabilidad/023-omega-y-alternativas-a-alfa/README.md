@@ -2,7 +2,9 @@
 
 ![Portada de la clase 023](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../022-consistencia-interna-alfa/README.md) · [Siguiente](../024-test-retest-y-estabilidad/README.md)
+<!-- NAV -->
+[← 022 — Consistencia interna: alfa de Cronbach y sus…](../022-consistencia-interna-alfa/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [024 — Test-retest: estabilidad frente a consistencia →](../024-test-retest-y-estabilidad/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 022 (se anticipa el modelo factorial de la parte 04).
@@ -68,3 +70,11 @@ Se logra si el estudiante calcula ω, anticipa la brecha y declara la dependenci
 - Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. *Communication Methods and Measures*, 14(1), 1-24. ✅ [DOI](https://doi.org/10.1080/19312458.2020.1718629)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 022 — Consistencia interna: alfa de Cronbach y sus…](../022-consistencia-interna-alfa/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[024 — Test-retest: estabilidad frente a consistencia →](../024-test-retest-y-estabilidad/README.md)
+<!-- /NAV -->

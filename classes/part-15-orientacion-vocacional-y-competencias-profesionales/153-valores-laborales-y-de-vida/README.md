@@ -2,7 +2,9 @@
 
 ![Portada de la clase 153](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 152 — Intereses y O*NET Interest Profiler](../152-intereses-y-o-net-interest-profiler/README.md) · [📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [154 — Madurez y toma de decisiones vocacionales →](../154-madurez-y-toma-de-decisiones-vocacionales/README.md)
+<!-- /NAV -->
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 107 y 108.
@@ -65,3 +67,11 @@ Se logra si el estudiante estima una escala por pares y comunica un orden con su
 - Super, D. E. (1970). *Work Values Inventory*. Houghton Mifflin. ✅ [DOI](https://doi.org/10.1037/t01584-000)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 152 — Intereses y O*NET Interest Profiler](../152-intereses-y-o-net-interest-profiler/README.md)  
+[📚 Parte 15](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[154 — Madurez y toma de decisiones vocacionales →](../154-madurez-y-toma-de-decisiones-vocacionales/README.md)
+<!-- /NAV -->

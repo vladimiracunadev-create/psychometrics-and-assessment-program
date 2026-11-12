@@ -2,7 +2,9 @@
 
 ![Portada de la clase 199](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 198 — Proyecto: tablero de seguimiento longitudinal](../198-proyecto-tablero-de-seguimiento-longitudinal/README.md) · [📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [200 — Defensa final y plan de desarrollo profesional →](../200-defensa-final-y-plan-de-desarrollo-profesional/README.md)
+<!-- /NAV -->
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 193.
@@ -52,3 +54,11 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 - Boateng, G. O., et al. (2018). Best practices for developing and validating scales. *Frontiers in Public Health*, 6, 149. ✅ [DOI](https://doi.org/10.3389/fpubh.2018.00149)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 198 — Proyecto: tablero de seguimiento longitudinal](../198-proyecto-tablero-de-seguimiento-longitudinal/README.md)  
+[📚 Parte 19](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[200 — Defensa final y plan de desarrollo profesional →](../200-defensa-final-y-plan-de-desarrollo-profesional/README.md)
+<!-- /NAV -->

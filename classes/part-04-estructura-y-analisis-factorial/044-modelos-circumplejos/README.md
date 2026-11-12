@@ -2,7 +2,9 @@
 
 ![Portada de la clase 044](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../043-analisis-factorial-confirmatorio/README.md) · [Siguiente](../045-invarianza-de-medida/README.md)
+<!-- NAV -->
+[← 043 — Análisis factorial confirmatorio y ajuste](../043-analisis-factorial-confirmatorio/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [045 — Invarianza de medida entre grupos →](../045-invarianza-de-medida/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 041 y 033.
@@ -60,3 +62,11 @@ Se logra si el estudiante calcula el índice y discute su alcance.
 - Tracey, T. J., & Rounds, J. (1993). Evaluating Holland's and Gati's vocational-interest models: A structural meta-analysis. *Psychological Bulletin*, 113(2), 229-246. ✅ [DOI](https://doi.org/10.1037/0033-2909.113.2.229)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 043 — Análisis factorial confirmatorio y ajuste](../043-analisis-factorial-confirmatorio/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[045 — Invarianza de medida entre grupos →](../045-invarianza-de-medida/README.md)
+<!-- /NAV -->

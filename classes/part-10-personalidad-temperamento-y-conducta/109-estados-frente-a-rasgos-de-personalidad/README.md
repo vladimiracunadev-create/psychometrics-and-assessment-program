@@ -2,7 +2,9 @@
 
 ![Portada de la clase 109](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 108 — Fortalezas personales y carácter](../108-fortalezas-personales-y-caracter/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [110 — Falseamiento, deseabilidad social y escalas d… →](../110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 029 y 024.
@@ -59,3 +61,11 @@ Se logra si el estudiante calcula CCI y decide el marco temporal.
 - Bolger, N., & Laurenceau, J.-P. (2013). *Intensive Longitudinal Methods*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 108 — Fortalezas personales y carácter](../108-fortalezas-personales-y-caracter/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[110 — Falseamiento, deseabilidad social y escalas d… →](../110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md)
+<!-- /NAV -->

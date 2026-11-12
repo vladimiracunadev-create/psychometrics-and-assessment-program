@@ -2,7 +2,9 @@
 
 ![Portada de la clase 146](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 145 — Dificultades específicas de aprendizaje: crib…](../145-dificultades-especificas-de-aprendizaje-cribado-y-derivacion/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [147 — Estrategias metacognitivas y autorregulación… →](../147-estrategias-metacognitivas-y-autorregulacion-del-aprendizaje/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 094 y 096.
@@ -63,3 +65,11 @@ Se logra si el estudiante recomienda técnicas con respaldo y declara los límit
 - Ebbinghaus, H. (1885). *Über das Gedächtnis*. Duncker & Humblot. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 145 — Dificultades específicas de aprendizaje: crib…](../145-dificultades-especificas-de-aprendizaje-cribado-y-derivacion/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[147 — Estrategias metacognitivas y autorregulación… →](../147-estrategias-metacognitivas-y-autorregulacion-del-aprendizaje/README.md)
+<!-- /NAV -->

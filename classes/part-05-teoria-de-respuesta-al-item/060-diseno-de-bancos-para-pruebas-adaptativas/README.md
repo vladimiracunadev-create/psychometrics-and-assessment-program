@@ -2,7 +2,9 @@
 
 ![Portada de la clase 060](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 059 — Equiparación y vinculación de puntajes](../059-equiparacion-y-vinculacion-de-puntajes/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [061 — Baremos, percentiles y puntajes tipificados →](../../part-06-baremos-sesgo-y-equidad/061-baremos-y-percentiles/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 055 y 057.
@@ -62,3 +64,11 @@ Se logra si el estudiante diseña un banco y justifica la regla de exposición.
 - van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer. ✅ [DOI](https://doi.org/10.1007/978-0-387-85461-8)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 059 — Equiparación y vinculación de puntajes](../059-equiparacion-y-vinculacion-de-puntajes/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[061 — Baremos, percentiles y puntajes tipificados →](../../part-06-baremos-sesgo-y-equidad/061-baremos-y-percentiles/README.md)
+<!-- /NAV -->

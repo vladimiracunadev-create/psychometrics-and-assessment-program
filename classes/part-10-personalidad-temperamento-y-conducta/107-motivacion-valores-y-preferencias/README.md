@@ -2,7 +2,9 @@
 
 ![Portada de la clase 107](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 106 — Autorregulación e impulsividad](../106-autorregulacion-e-impulsividad/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [108 — Fortalezas personales y carácter →](../108-fortalezas-personales-y-caracter/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 005, 013 y 044.
@@ -59,3 +61,11 @@ Se logra si el estudiante corrige por estilo y explica el costo.
 - Spranger, E. (1928). *Types of Men*. Niemeyer. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 106 — Autorregulación e impulsividad](../106-autorregulacion-e-impulsividad/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[108 — Fortalezas personales y carácter →](../108-fortalezas-personales-y-caracter/README.md)
+<!-- /NAV -->

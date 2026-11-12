@@ -2,7 +2,9 @@
 
 ![Portada de la clase 101](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 100 — Límites de la evaluación neuropsicológica no…](../../part-09-atencion-memoria-y-funciones-ejecutivas/100-limites-de-la-evaluacion-neuropsicologica-no-clinica/README.md) · [📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [102 — Banco IPIP: historia y uso abierto →](../102-banco-ipip-historia-y-uso-abierto/README.md)
+<!-- /NAV -->
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 042 y 048.
@@ -62,3 +64,11 @@ Se logra si el estudiante elige el nivel de medida según el criterio.
 - Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539. ✅ [DOI](https://doi.org/10.1037/0022-3514.81.3.524)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 100 — Límites de la evaluación neuropsicológica no…](../../part-09-atencion-memoria-y-funciones-ejecutivas/100-limites-de-la-evaluacion-neuropsicologica-no-clinica/README.md)  
+[📚 Parte 10](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[102 — Banco IPIP: historia y uso abierto →](../102-banco-ipip-historia-y-uso-abierto/README.md)
+<!-- /NAV -->

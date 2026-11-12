@@ -2,7 +2,9 @@
 
 ![Portada de la clase 082](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 081 — Modelos de la inteligencia: Spearman, Thursto…](../081-modelos-de-la-inteligencia-spearman-thurstone-chc/README.md) · [📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [083 — Razonamiento abstracto: matrices y series →](../083-razonamiento-abstracto-matrices-y-series/README.md)
+<!-- /NAV -->
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 081.
@@ -62,3 +64,11 @@ Se logra si el estudiante interpreta comparaciones de edad con las amenazas expl
 - Flynn, J. R. (1987). Massive IQ gains in 14 nations. *Psychological Bulletin*, 101(2), 171-191. ✅ [DOI](https://doi.org/10.1037/0033-2909.101.2.171)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 081 — Modelos de la inteligencia: Spearman, Thursto…](../081-modelos-de-la-inteligencia-spearman-thurstone-chc/README.md)  
+[📚 Parte 08](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[083 — Razonamiento abstracto: matrices y series →](../083-razonamiento-abstracto-matrices-y-series/README.md)
+<!-- /NAV -->

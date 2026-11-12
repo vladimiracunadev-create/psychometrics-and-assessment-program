@@ -2,7 +2,9 @@
 
 ![Portada de la clase 042](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../041-correlacion-y-matriz/README.md) · [Siguiente](../043-analisis-factorial-confirmatorio/README.md)
+<!-- NAV -->
+[← 041 — Correlación, matriz y lo que se puede leer en…](../041-correlacion-y-matriz/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [043 — Análisis factorial confirmatorio y ajuste →](../043-analisis-factorial-confirmatorio/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 041.
@@ -63,3 +65,11 @@ Se logra si el estudiante decide el número de factores con más de un criterio.
 - Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating the use of exploratory factor analysis in psychological research. *Psychological Methods*, 4(3), 272-299. ✅ [DOI](https://doi.org/10.1037/1082-989x.4.3.272)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 041 — Correlación, matriz y lo que se puede leer en…](../041-correlacion-y-matriz/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[043 — Análisis factorial confirmatorio y ajuste →](../043-analisis-factorial-confirmatorio/README.md)
+<!-- /NAV -->

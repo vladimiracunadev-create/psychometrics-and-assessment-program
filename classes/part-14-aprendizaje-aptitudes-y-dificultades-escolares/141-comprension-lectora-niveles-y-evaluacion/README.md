@@ -2,7 +2,9 @@
 
 ![Portada de la clase 141](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 140 — Contexto chileno: referentes curriculares y n…](../../part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/140-contexto-chileno-referentes-curriculares-y-normativos/README.md) · [📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [142 — Fluidez y precisión lectora →](../142-fluidez-y-precision-lectora/README.md)
+<!-- /NAV -->
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 084 y 088.
@@ -62,3 +64,11 @@ Se logra si el estudiante verifica la jerarquía y decide con criterio qué repo
 - Snow, C. E. (2002). *Reading for Understanding: Toward an R&D Program in Reading Comprehension*. RAND. ✅ [DOI](https://doi.org/10.7249/mr1465.0)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 140 — Contexto chileno: referentes curriculares y n…](../../part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/140-contexto-chileno-referentes-curriculares-y-normativos/README.md)  
+[📚 Parte 14](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[142 — Fluidez y precisión lectora →](../142-fluidez-y-precision-lectora/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 177](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 176 — Estimación de incertidumbre y bootstrap](../176-estimacion-de-incertidumbre-y-bootstrap/README.md) · [📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [178 — Reproducibilidad: preregistro, datos y código →](../178-reproducibilidad-preregistro-datos-y-codigo/README.md)
+<!-- /NAV -->
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 063 y 053.
@@ -60,3 +62,11 @@ Se logra si el estudiante selecciona el método según el DIF y distingue signif
 - Zumbo, B. D. (1999). *A Handbook on the Theory and Methods of Differential Item Functioning (DIF)*. National Defense Headquarters, Ottawa. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 176 — Estimación de incertidumbre y bootstrap](../176-estimacion-de-incertidumbre-y-bootstrap/README.md)  
+[📚 Parte 17](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[178 — Reproducibilidad: preregistro, datos y código →](../178-reproducibilidad-preregistro-datos-y-codigo/README.md)
+<!-- /NAV -->

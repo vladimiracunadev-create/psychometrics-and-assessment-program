@@ -18,6 +18,7 @@ import visuales  # noqa: E402
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 INICIO, FIN = "<!-- PROGRAMA:INICIO -->", "<!-- PROGRAMA:FIN -->"
+NAV_I, NAV_F = "<!-- NAV -->", "<!-- /NAV -->"
 
 
 def cargar() -> list[dict]:
@@ -88,6 +89,24 @@ def readme_parte(p: dict) -> str:
     return "\n".join(sal)
 
 
+def barra_nav(partes: list[dict], p: dict, i: int, abajo: bool) -> str:
+    """Barra de navegacion entre clases (anterior, indice de la parte, siguiente), tambien entre partes."""
+    todas = [(q, c) for q in partes for c in q["clases"]]
+    k = next(j for j, (_, c) in enumerate(todas) if c["id"] == p["clases"][i]["id"])
+
+    def enlace(q: dict, c: dict, pre: str, post: str) -> str:
+        destino = pathlib.PurePosixPath(c["ruta"]).name
+        destino = f"../../{dir_parte(q)}/{destino}" if q["id"] != p["id"] else f"../{destino}"
+        t = c["titulo"] if len(c["titulo"]) <= 46 else c["titulo"][:45].rstrip(" ,:;") + "…"
+        return f"[{pre}{c['id']} — {t}{post}]({destino}/README.md)"
+
+    ant = enlace(*todas[k - 1], "← ", "") if k > 0 else "← (inicio del programa)"
+    sig = enlace(*todas[k + 1], "", " →") if k < len(todas) - 1 else "(fin del programa)"
+    centro = f"[📚 Parte {p['id']}](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)"
+    cuerpo = f"{ant}  \n{centro}  \n{sig}" if abajo else f"{ant} · {centro} · {sig}"
+    return f"{NAV_I}\n{cuerpo}\n{NAV_F}"
+
+
 def indice_numerico(partes: list[dict]) -> str:
     sal = ["# Índice numérico de las clases", "",
            "Las 200 clases en orden consecutivo (001 a 200). El número es también el orden de estudio.", "",
@@ -148,10 +167,15 @@ def main() -> int:
             rd = carpeta / "README.md"
             if rd.is_file():
                 t = rd.read_text(encoding="utf-8").replace("\r\n", "\n")
-                if "](portada.svg)" not in t:
-                    lineas = t.split("\n", 1)
-                    t = lineas[0] + f"\n\n![Portada de la clase {c['id']}](portada.svg)\n" + (lineas[1] if len(lineas) > 1 else "")
-                    aplica(rd, t)
+                t = re.sub(r"<!-- NAV -->.*?<!-- /NAV -->\n*", "", t, flags=re.S)
+                t = re.sub(r"^> .*Índice de la parte.*\n", "", t, flags=re.M)
+                t = re.sub(r"\n*!\[Portada de la clase[^\n]*\n", "\n", t)
+                t = re.sub(r"(\n+---)+\s*$", "\n", t)
+                cab, _, resto = t.partition("\n")
+                i = p["clases"].index(c)
+                t = (cab + f"\n\n![Portada de la clase {c['id']}](portada.svg)\n\n" + barra_nav(partes, p, i, False)
+                     + "\n\n" + resto.lstrip("\n").rstrip("\n") + "\n\n---\n\n" + barra_nav(partes, p, i, True) + "\n")
+                aplica(rd, t)
     aplica(RAIZ / "docs" / "mapa-del-programa.svg", visuales.mapa_programa(partes))
 
     if desfasados:

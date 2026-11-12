@@ -2,7 +2,9 @@
 
 ![Portada de la clase 135](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 134 — Observación sistemática y registros anecdótic…](../134-observacion-sistematica-y-registros-anecdoticos/README.md) · [📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [136 — Evaluar con la familia: entrevista y devoluci… →](../136-evaluar-con-la-familia-entrevista-y-devolucion/README.md)
+<!-- /NAV -->
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clases 100 y 131.
@@ -60,3 +62,11 @@ Se logra si el estudiante elige un corte justificado y comunica con lenguaje de 
 - Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatrics*, 145(1), e20193449. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 134 — Observación sistemática y registros anecdótic…](../134-observacion-sistematica-y-registros-anecdoticos/README.md)  
+[📚 Parte 13](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[136 — Evaluar con la familia: entrevista y devoluci… →](../136-evaluar-con-la-familia-entrevista-y-devolucion/README.md)
+<!-- /NAV -->

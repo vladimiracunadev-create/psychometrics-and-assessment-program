@@ -2,7 +2,9 @@
 
 ![Portada de la clase 046](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 045 — Invarianza de medida entre grupos](../045-invarianza-de-medida/README.md) · [📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [047 — Ajuste en modelos de ecuaciones estructurales →](../047-ajuste-en-modelos-de-ecuaciones-estructurales/README.md)
+<!-- /NAV -->
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 042.
@@ -61,3 +63,11 @@ Se logra si el estudiante rota, verifica la invarianza de la comunalidad y justi
 - Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis. *Practical Assessment, Research & Evaluation*, 10(7). ⚠️ existe, pero Crossref registra 2008 (¿otra edición?; [DOI](https://doi.org/10.4135/9781412995627.d8))
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 045 — Invarianza de medida entre grupos](../045-invarianza-de-medida/README.md)  
+[📚 Parte 04](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[047 — Ajuste en modelos de ecuaciones estructurales →](../047-ajuste-en-modelos-de-ecuaciones-estructurales/README.md)
+<!-- /NAV -->

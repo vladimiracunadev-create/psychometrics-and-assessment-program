@@ -2,7 +2,9 @@
 
 ![Portada de la clase 054](portada.svg)
 
-> [Índice de la parte](../README.md) · [Anterior](../053-modelos-de-dos-y-tres-parametros/README.md) · [Siguiente](../055-testing-adaptativo/README.md)
+<!-- NAV -->
+[← 053 — Modelos de dos y tres parámetros](../053-modelos-de-dos-y-tres-parametros/README.md) · [📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [055 — Testing adaptativo informatizado →](../055-testing-adaptativo/README.md)
+<!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clase 053.
@@ -69,3 +71,11 @@ Se logra si el estudiante calcula la información y elige ítems para un rango.
 - Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 053 — Modelos de dos y tres parámetros](../053-modelos-de-dos-y-tres-parametros/README.md)  
+[📚 Parte 05](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[055 — Testing adaptativo informatizado →](../055-testing-adaptativo/README.md)
+<!-- /NAV -->

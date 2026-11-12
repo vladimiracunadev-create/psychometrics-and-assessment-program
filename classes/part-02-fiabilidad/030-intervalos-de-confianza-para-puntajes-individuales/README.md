@@ -2,7 +2,9 @@
 
 ![Portada de la clase 030](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 029 — Fiabilidad entre evaluadores: kappa y CCI](../029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md) · [📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [031 — La validez no es una propiedad del test, es u… →](../../part-03-validez/031-validez-como-argumento/README.md)
+<!-- /NAV -->
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 021 y 025.
@@ -70,3 +72,11 @@ Se logra si el estudiante construye ambos intervalos y comunica la incertidumbre
 - Harvill, L. M. (1991). Standard error of measurement. *Educational Measurement: Issues and Practice*, 10(2), 33-41. ✅ [DOI](https://doi.org/10.1111/j.1745-3992.1991.tb00195.x)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 029 — Fiabilidad entre evaluadores: kappa y CCI](../029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md)  
+[📚 Parte 02](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[031 — La validez no es una propiedad del test, es u… →](../../part-03-validez/031-validez-como-argumento/README.md)
+<!-- /NAV -->

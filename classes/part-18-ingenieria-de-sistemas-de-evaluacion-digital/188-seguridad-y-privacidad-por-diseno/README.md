@@ -2,7 +2,9 @@
 
 ![Portada de la clase 188](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 187 — Auditoría de cálculo y trazabilidad](../187-auditoria-de-calculo-y-trazabilidad/README.md) · [📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [189 — Interoperabilidad y exportación de resultados →](../189-interoperabilidad-y-exportacion-de-resultados/README.md)
+<!-- /NAV -->
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`
 **Prerrequisitos:** clase 187.
@@ -52,3 +54,11 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 - Ley 19.628 y Ley 21.719 (Chile): verificar en bcn.cl. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 187 — Auditoría de cálculo y trazabilidad](../187-auditoria-de-calculo-y-trazabilidad/README.md)  
+[📚 Parte 18](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[189 — Interoperabilidad y exportación de resultados →](../189-interoperabilidad-y-exportacion-de-resultados/README.md)
+<!-- /NAV -->

@@ -2,7 +2,9 @@
 
 ![Portada de la clase 116](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 115 — Juicio situacional](../115-juicio-situacional/README.md) · [📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [117 — Percepción y prevención de riesgos laborales →](../117-percepcion-y-prevencion-de-riesgos-laborales/README.md)
+<!-- /NAV -->
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 034, 101 y 114.
@@ -63,3 +65,11 @@ Se logra si el estudiante examina linealidad y calidad del criterio.
 - Le, H., Oh, I.-S., Robbins, S. B., Ilies, R., Holland, E., & Westrick, P. (2011). Too much of a good thing: Curvilinear relationships between personality traits and job performance. *Journal of Applied Psychology*, 96(1), 113-133. ✅ [DOI](https://doi.org/10.1037/a0021016)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 115 — Juicio situacional](../115-juicio-situacional/README.md)  
+[📚 Parte 11](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[117 — Percepción y prevención de riesgos laborales →](../117-percepcion-y-prevencion-de-riesgos-laborales/README.md)
+<!-- /NAV -->

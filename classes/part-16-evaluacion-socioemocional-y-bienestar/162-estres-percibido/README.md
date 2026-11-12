@@ -2,7 +2,9 @@
 
 ![Portada de la clase 162](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 161 — Bienestar subjetivo y calidad de vida](../161-bienestar-subjetivo-y-calidad-de-vida/README.md) · [📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [163 — Resiliencia y autoeficacia →](../163-resiliencia-y-autoeficacia/README.md)
+<!-- /NAV -->
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 025 y 030.
@@ -60,3 +62,11 @@ Se logra si el estudiante calcula umbrales y evita sobreinterpretar cambios pequ
 - Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statistical approach to defining meaningful change in psychotherapy research. *Journal of Consulting and Clinical Psychology*, 59(1), 12-19. ✅ [DOI](https://doi.org/10.1037/0022-006x.59.1.12)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 161 — Bienestar subjetivo y calidad de vida](../161-bienestar-subjetivo-y-calidad-de-vida/README.md)  
+[📚 Parte 16](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[163 — Resiliencia y autoeficacia →](../163-resiliencia-y-autoeficacia/README.md)
+<!-- /NAV -->

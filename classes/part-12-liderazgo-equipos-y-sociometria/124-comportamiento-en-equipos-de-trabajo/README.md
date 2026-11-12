@@ -2,7 +2,9 @@
 
 ![Portada de la clase 124](portada.svg)
 
-> [Índice de la parte](../README.md)
+<!-- NAV -->
+[← 123 — Roles en equipos: modelo Belbin y su evidencia](../123-roles-en-equipos-modelo-belbin-y-su/README.md) · [📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [125 — Sociometría: elecciones y rechazos →](../125-sociometria-elecciones-y-rechazos/README.md)
+<!-- /NAV -->
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
 **Prerrequisitos:** clases 122 y 123.
@@ -63,3 +65,11 @@ Se logra si el estudiante estima e interpreta un efecto indirecto con cautela.
 - Mathieu, J., Maynard, M. T., Rapp, T., & Gilson, L. (2008). Team effectiveness 1997–2007. *Journal of Management*, 34(3), 410-476. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 123 — Roles en equipos: modelo Belbin y su evidencia](../123-roles-en-equipos-modelo-belbin-y-su/README.md)  
+[📚 Parte 12](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[125 — Sociometría: elecciones y rechazos →](../125-sociometria-elecciones-y-rechazos/README.md)
+<!-- /NAV -->

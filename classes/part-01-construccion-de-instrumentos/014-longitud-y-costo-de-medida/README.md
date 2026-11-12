@@ -2,7 +2,9 @@
 
 ![Portada de la clase 014](portada.svg)
 
-> [Clase anterior](../013-ipsativo-vs-normativo/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../015-pilotaje-y-analisis-de-items/README.md)
+<!-- NAV -->
+[← 013 — Ipsativo frente a normativo: la trampa de la…](../013-ipsativo-vs-normativo/README.md) · [📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md) · [015 — Pilotaje y análisis clásico de ítems →](../015-pilotaje-y-analisis-de-items/README.md)
+<!-- /NAV -->
 
 **Parte:** 01 — Construcción de instrumentos
 **Nivel:** fundamentos · **Horas estimadas:** 3 · **Estado:** `escrita`
@@ -100,3 +102,11 @@ El estudiante calcula longitudes objetivo y justifica el equilibrio fiabilidad-c
 - Rammstedt, B., & John, O. P. (2007). Measuring personality in one minute or less. *Journal of Research in Personality*, 41(1), 203-212. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
 
 Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+
+---
+
+<!-- NAV -->
+[← 013 — Ipsativo frente a normativo: la trampa de la…](../013-ipsativo-vs-normativo/README.md)  
+[📚 Parte 01](../README.md) · [🗺️ Índice 001–200](../../../PROGRAMA.md)  
+[015 — Pilotaje y análisis clásico de ítems →](../015-pilotaje-y-analisis-de-items/README.md)
+<!-- /NAV -->
