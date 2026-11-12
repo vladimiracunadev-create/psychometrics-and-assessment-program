@@ -45,7 +45,7 @@ def main() -> None:
     print()
     print("Lectura: con fiabilidad 0.90, que es alta, un puntaje se mueve +/- 9 puntos")
     print("solo por error. Una diferencia de 10 puntos entre dos aplicaciones NO es")
-    print("evidencia de cambio: ocurre en una de cada cinco personas sin cambio alguno.")
+    print("evidencia de cambio: ocurre en cerca de una de cada siete personas sin cambio alguno.")
     print("Nota: este intervalo centrado en el observado es una aproximacion; el")
     print("intervalo sobre el puntaje verdadero estimado se centra en el valor regresado.")
 

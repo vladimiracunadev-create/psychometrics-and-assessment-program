@@ -38,14 +38,14 @@ Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estu
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
 | 1 | 021 | [La teoría clásica: puntaje verdadero y error](021-teoria-clasica-del-error/README.md) | Explicar con tus palabras que todo puntaje es una parte verdadera más una parte de error. | ✅ pedagógico | 4 |
-| 2 | 022 | [Consistencia interna: alfa de Cronbach y sus abusos](022-consistencia-interna-alfa/README.md) | Calcular alfa desde varianzas de ítems y del total. | 🟡 compacto | 5 |
-| 3 | 023 | [Omega de McDonald y por qué alfa se queda corto](023-omega-y-alternativas-a-alfa/README.md) | Explicar la tau-equivalencia y cuándo falla. | 🟡 compacto | 4 |
-| 4 | 024 | [Test-retest: estabilidad frente a consistencia](024-test-retest-y-estabilidad/README.md) | Diseñar un estudio test-retest y justificar el intervalo. | 🟡 compacto | 3 |
-| 5 | 025 | [Error típico de medida e intervalos de confianza del puntaje](025-error-tipico-de-medida/README.md) | Calcular el error típico de medida (ETM) desde DE y fiabilidad. | 🟡 compacto | 4 |
-| 6 | 026 | [Estadística descriptiva aplicada a puntajes](026-estadistica-descriptiva-aplicada-a-puntajes/README.md) | Describir un puntaje total con media, DE, asimetría, curtosis y efectos de suelo y techo. | 🟡 compacto | 4 |
-| 7 | 027 | [Correlación de Pearson, Spearman y sus supuestos](027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md) | Calcular e interpretar Pearson y Spearman. | 🟡 compacto | 4 |
-| 8 | 028 | [Fiabilidad de pruebas dicotómicas: KR-20](028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md) | Calcular KR-20 desde las proporciones de acierto. | 🟡 compacto | 4 |
-| 9 | 029 | [Fiabilidad entre evaluadores: kappa y CCI](029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md) | Calcular el kappa de Cohen y explicar por qué descuenta el azar. | 🟡 compacto | 4 |
-| 10 | 030 | [Intervalos de confianza para puntajes individuales](030-intervalos-de-confianza-para-puntajes-individuales/README.md) | Construir los dos intervalos habituales para un puntaje individual. | 🟡 compacto | 4 |
+| 2 | 022 | [Consistencia interna: alfa de Cronbach y sus abusos](022-consistencia-interna-alfa/README.md) | Calcular alfa desde las varianzas de los ítems y del total. | ✅ pedagógico | 5 |
+| 3 | 023 | [Omega de McDonald y por qué alfa se queda corto](023-omega-y-alternativas-a-alfa/README.md) | Explicar la tau-equivalencia y cuándo falla. | ✅ pedagógico | 4 |
+| 4 | 024 | [Test-retest: estabilidad frente a consistencia](024-test-retest-y-estabilidad/README.md) | Diseñar un estudio test-retest y justificar el intervalo entre aplicaciones. | ✅ pedagógico | 3 |
+| 5 | 025 | [Error típico de medida e intervalos de confianza del puntaje](025-error-tipico-de-medida/README.md) | Calcular el ETM desde la desviación típica y la fiabilidad. | ✅ pedagógico | 4 |
+| 6 | 026 | [Estadística descriptiva aplicada a puntajes](026-estadistica-descriptiva-aplicada-a-puntajes/README.md) | Describir un puntaje total con media, DE, asimetría, curtosis y efectos de suelo y techo. | ✅ pedagógico | 4 |
+| 7 | 027 | [Correlación de Pearson, Spearman y sus supuestos](027-correlacion-de-pearson-spearman-y-sus-supuestos/README.md) | Calcular e interpretar Pearson y Spearman. | ✅ pedagógico | 4 |
+| 8 | 028 | [Fiabilidad de pruebas dicotómicas: KR-20](028-fiabilidad-de-pruebas-dicotomicas-kr-20/README.md) | Calcular KR-20 desde las proporciones de acierto. | ✅ pedagógico | 4 |
+| 9 | 029 | [Fiabilidad entre evaluadores: kappa y CCI](029-fiabilidad-entre-evaluadores-kappa-y-cci/README.md) | Calcular el kappa de Cohen y explicar por qué descuenta el azar. | ✅ pedagógico | 4 |
+| 10 | 030 | [Intervalos de confianza para puntajes individuales](030-intervalos-de-confianza-para-puntajes-individuales/README.md) | Construir los dos intervalos habituales para un puntaje individual. | ✅ pedagógico | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)
