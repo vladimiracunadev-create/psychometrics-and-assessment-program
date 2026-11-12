@@ -297,61 +297,61 @@ temario:
     titulo: Correlación, matriz y lo que se puede leer en ella
     ruta: classes/part-04-estructura-y-analisis-factorial/021-correlacion-y-matriz
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '022'
     numero: 22
     titulo: Análisis factorial exploratorio
     ruta: classes/part-04-estructura-y-analisis-factorial/022-analisis-factorial-exploratorio
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: '023'
     numero: 23
     titulo: Análisis factorial confirmatorio y ajuste
     ruta: classes/part-04-estructura-y-analisis-factorial/023-analisis-factorial-confirmatorio
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: '024'
     numero: 24
     titulo: 'Modelos circumplejos: el hexágono de Holland como predicción falsable'
     ruta: classes/part-04-estructura-y-analisis-factorial/024-modelos-circumplejos
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '025'
     numero: 25
     titulo: Invarianza de medida entre grupos
     ruta: classes/part-04-estructura-y-analisis-factorial/025-invarianza-de-medida
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: '061'
     numero: 61
     titulo: Rotaciones y criterios de retención de factores
     ruta: classes/part-04-estructura-y-analisis-factorial/061-rotaciones-y-criterios-de-retencion-de-factores
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '062'
     numero: 62
     titulo: Ajuste en modelos de ecuaciones estructurales
     ruta: classes/part-04-estructura-y-analisis-factorial/062-ajuste-en-modelos-de-ecuaciones-estructurales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '063'
     numero: 63
     titulo: Modelos bifactor y jerárquicos
     ruta: classes/part-04-estructura-y-analisis-factorial/063-modelos-bifactor-y-jerarquicos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '064'
     numero: 64
     titulo: Análisis de redes psicométricas
     ruta: classes/part-04-estructura-y-analisis-factorial/064-analisis-de-redes-psicometricas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '065'
     numero: 65
     titulo: Datos ordinales y correlaciones policóricas
     ruta: classes/part-04-estructura-y-analisis-factorial/065-datos-ordinales-y-correlaciones-policoricas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '05'
   slug: teoria-de-respuesta-al-item
   titulo: Teoría de respuesta al ítem
@@ -365,61 +365,61 @@ temario:
     titulo: Los límites que hacen falta superar
     ruta: classes/part-05-teoria-de-respuesta-al-item/026-limites-de-la-teoria-clasica
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '027'
     numero: 27
     titulo: El modelo de Rasch
     ruta: classes/part-05-teoria-de-respuesta-al-item/027-modelo-de-rasch
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: 028
     numero: 28
     titulo: Modelos de dos y tres parámetros
     ruta: classes/part-05-teoria-de-respuesta-al-item/028-modelos-de-dos-y-tres-parametros
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: 029
     numero: 29
     titulo: 'Función de información: dónde mide bien cada ítem'
     ruta: classes/part-05-teoria-de-respuesta-al-item/029-informacion-del-item
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '030'
     numero: 30
     titulo: Testing adaptativo informatizado
     ruta: classes/part-05-teoria-de-respuesta-al-item/030-testing-adaptativo
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: '066'
     numero: 66
     titulo: Estimación de parámetros y de habilidad
     ruta: classes/part-05-teoria-de-respuesta-al-item/066-estimacion-de-parametros-y-de-habilidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '067'
     numero: 67
     titulo: Curvas características e información del test
     ruta: classes/part-05-teoria-de-respuesta-al-item/067-curvas-caracteristicas-e-informacion-del-test
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 068
     numero: 68
     titulo: Modelos de respuesta graduada
     ruta: classes/part-05-teoria-de-respuesta-al-item/068-modelos-de-respuesta-graduada
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 069
     numero: 69
     titulo: Equiparación y vinculación de puntajes
     ruta: classes/part-05-teoria-de-respuesta-al-item/069-equiparacion-y-vinculacion-de-puntajes
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '070'
     numero: 70
     titulo: Diseño de bancos para pruebas adaptativas
     ruta: classes/part-05-teoria-de-respuesta-al-item/070-diseno-de-bancos-para-pruebas-adaptativas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '06'
   slug: baremos-sesgo-y-equidad
   titulo: Baremos, sesgo y equidad
@@ -433,61 +433,61 @@ temario:
     titulo: Baremos, percentiles y puntajes tipificados
     ruta: classes/part-06-baremos-sesgo-y-equidad/031-baremos-y-percentiles
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '032'
     numero: 32
     titulo: 'La muestra normativa: a quién se compara la persona'
     ruta: classes/part-06-baremos-sesgo-y-equidad/032-elegir-la-muestra-normativa
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '033'
     numero: 33
     titulo: Funcionamiento diferencial del ítem (DIF)
     ruta: classes/part-06-baremos-sesgo-y-equidad/033-funcionamiento-diferencial-del-item
     horas_estimadas: 6
-    estado: planificada
+    estado: escrita
   - id: '034'
     numero: 34
     titulo: Sesgo predictivo y definiciones de equidad
     ruta: classes/part-06-baremos-sesgo-y-equidad/034-sesgo-predictivo-y-equidad
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '035'
     numero: 35
     titulo: Adaptación transcultural y equivalencia
     ruta: classes/part-06-baremos-sesgo-y-equidad/035-adaptacion-transcultural
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '071'
     numero: 71
     titulo: 'Puntajes estándar: z, T y estaninos'
     ruta: classes/part-06-baremos-sesgo-y-equidad/071-puntajes-estandar-z-t-y-estaninos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '072'
     numero: 72
     titulo: Normas por edad y por curso escolar
     ruta: classes/part-06-baremos-sesgo-y-equidad/072-normas-por-edad-y-por-curso-escolar
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '073'
     numero: 73
     titulo: Equidad en evaluaciones de alto impacto
     ruta: classes/part-06-baremos-sesgo-y-equidad/073-equidad-en-evaluaciones-de-alto-impacto
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '074'
     numero: 74
     titulo: Acomodaciones y diseño universal de la evaluación
     ruta: classes/part-06-baremos-sesgo-y-equidad/074-acomodaciones-y-diseno-universal-de-la-evaluacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '075'
     numero: 75
     titulo: Estudios de invarianza entre grupos
     ruta: classes/part-06-baremos-sesgo-y-equidad/075-estudios-de-invarianza-entre-grupos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '07'
   slug: uso-responsable-y-certificacion
   titulo: Uso responsable y certificación

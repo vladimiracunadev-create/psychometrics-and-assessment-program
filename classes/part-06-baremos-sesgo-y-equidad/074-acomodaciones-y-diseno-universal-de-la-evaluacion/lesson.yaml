@@ -3,5 +3,5 @@ numero: 74
 titulo: "Acomodaciones y diseño universal de la evaluación"
 parte: "06"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

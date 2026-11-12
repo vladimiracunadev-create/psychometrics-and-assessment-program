@@ -3,5 +3,5 @@ numero: 75
 titulo: "Estudios de invarianza entre grupos"
 parte: "06"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -3,5 +3,5 @@ numero: 26
 titulo: "Los límites que hacen falta superar"
 parte: "05"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -16,6 +16,7 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
   salvo los 5 instrumentos implementados; ninguna validada.
 - Módulo `psychometrics.fichas` con validación de estados, licencias y
   consistencia con `instruments/`, y pruebas (`test_fichas.py`, `test_curriculo.py`).
+- **Clases 011-035 y 051-075 escritas** (partes 02 a 06 completas: fiabilidad, validez, estructura factorial, TRI, baremos y equidad), cada una con README, laboratorio determinista solo con biblioteca estandar y bibliografia.
 - **Clases 006-010 escritas** (parte 01) con README, laboratorio ejecutable y bibliografía.
 - `docs/AUDITORIA_INICIAL.md` y `docs/COBERTURA_CURRICULAR.md`.
 

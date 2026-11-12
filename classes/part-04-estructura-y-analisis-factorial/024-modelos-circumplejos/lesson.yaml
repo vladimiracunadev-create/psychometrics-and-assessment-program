@@ -3,5 +3,5 @@ numero: 24
 titulo: "Modelos circumplejos: el hexágono de Holland como predicción falsable"
 parte: "04"
 horas_estimadas: 5
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

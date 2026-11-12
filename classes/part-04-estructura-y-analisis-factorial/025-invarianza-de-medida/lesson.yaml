@@ -3,5 +3,5 @@ numero: 25
 titulo: "Invarianza de medida entre grupos"
 parte: "04"
 horas_estimadas: 6
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

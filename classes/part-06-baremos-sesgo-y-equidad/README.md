@@ -8,15 +8,15 @@ Qué convierte un puntaje bruto en un percentil, y cómo se detecta que un instr
 
 | # | Clase | Horas | Estado |
 |---|---|---|---|
-| 031 | Baremos, percentiles y puntajes tipificados | 4 | ⬜ planificada |
-| 032 | La muestra normativa: a quién se compara la persona | 4 | ⬜ planificada |
-| 033 | Funcionamiento diferencial del ítem (DIF) | 6 | ⬜ planificada |
-| 034 | Sesgo predictivo y definiciones de equidad | 5 | ⬜ planificada |
-| 035 | Adaptación transcultural y equivalencia | 5 | ⬜ planificada |
-| 071 | Puntajes estándar: z, T y estaninos | 4 | ⬜ planificada |
-| 072 | Normas por edad y por curso escolar | 4 | ⬜ planificada |
-| 073 | Equidad en evaluaciones de alto impacto | 4 | ⬜ planificada |
-| 074 | Acomodaciones y diseño universal de la evaluación | 4 | ⬜ planificada |
-| 075 | Estudios de invarianza entre grupos | 4 | ⬜ planificada |
+| 031 | [Baremos, percentiles y puntajes tipificados](031-baremos-y-percentiles/README.md) | 4 | ✅ escrita |
+| 032 | [La muestra normativa: a quién se compara la persona](032-elegir-la-muestra-normativa/README.md) | 4 | ✅ escrita |
+| 033 | [Funcionamiento diferencial del ítem (DIF)](033-funcionamiento-diferencial-del-item/README.md) | 6 | ✅ escrita |
+| 034 | [Sesgo predictivo y definiciones de equidad](034-sesgo-predictivo-y-equidad/README.md) | 5 | ✅ escrita |
+| 035 | [Adaptación transcultural y equivalencia](035-adaptacion-transcultural/README.md) | 5 | ✅ escrita |
+| 071 | [Puntajes estándar: z, T y estaninos](071-puntajes-estandar-z-t-y-estaninos/README.md) | 4 | ✅ escrita |
+| 072 | [Normas por edad y por curso escolar](072-normas-por-edad-y-por-curso-escolar/README.md) | 4 | ✅ escrita |
+| 073 | [Equidad en evaluaciones de alto impacto](073-equidad-en-evaluaciones-de-alto-impacto/README.md) | 4 | ✅ escrita |
+| 074 | [Acomodaciones y diseño universal de la evaluación](074-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md) | 4 | ✅ escrita |
+| 075 | [Estudios de invarianza entre grupos](075-estudios-de-invarianza-entre-grupos/README.md) | 4 | ✅ escrita |
 
 [← Volver al índice del programa](../../README.md)

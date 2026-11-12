@@ -3,5 +3,5 @@ numero: 63
 titulo: "Modelos bifactor y jerárquicos"
 parte: "04"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

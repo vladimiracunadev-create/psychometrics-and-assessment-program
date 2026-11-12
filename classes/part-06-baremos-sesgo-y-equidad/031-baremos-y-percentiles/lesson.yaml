@@ -3,5 +3,5 @@ numero: 31
 titulo: "Baremos, percentiles y puntajes tipificados"
 parte: "06"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
