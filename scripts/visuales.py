@@ -139,7 +139,7 @@ def mapa_programa(partes: list[dict]) -> str:
         for j, ln in enumerate(_lineas(p["titulo"], 22, 3)):
             cuerpo.append(f'<text x="{x + 10}" y="{y + 66 + j * 14}" font-size="12" font-weight="bold" fill="#fff">{_e(ln)}</text>')
     lx = 24
-    for k, (c, nombre) in SECCION.items():
+    for c, nombre in SECCION.values():
         cuerpo.append(f'<rect x="{lx}" y="{h - 34}" width="14" height="14" rx="3" fill="{c}"/><text x="{lx + 20}" y="{h - 22}" font-size="11" fill="#333">{_e(nombre)}</text>')
         lx += 20 + 7 * len(nombre) + 14
     return _marco(w, h, "Mapa del programa", "Veinte partes agrupadas en siete secciones, con su rango de clases.", "".join(cuerpo))
