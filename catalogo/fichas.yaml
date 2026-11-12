@@ -162,7 +162,7 @@ fichas:
   - {id: satisfaccion-academica, nombre: "Satisfaccion academica (familia)", familia: G, uso: [educativo], licencia: no-aplica}
   - {id: habilidades-sociales, nombre: "Escalas de habilidades sociales (familia)", familia: G, uso: [educativo, clinico], licencia: no-aplica}
   # ---- Tecnicas digitales ----
-  - {id: cat, nombre: "Testing adaptativo informatizado (CAT)", familia: H, uso: [educativo, investigacion], licencia: no-aplica, nota: "Requiere banco calibrado con IRT; ver clase 030."}
+  - {id: cat, nombre: "Testing adaptativo informatizado (CAT)", familia: H, uso: [educativo, investigacion], licencia: no-aplica, nota: "Requiere banco calibrado con IRT; ver clase 055."}
   - {id: gamificada, nombre: "Evaluaciones gamificadas", familia: H, uso: [laboral, educativo], licencia: no-aplica, nota: "La evidencia de validez es heterogenea; cada juego exige su propio estudio."}
   - {id: simulaciones, nombre: "Tareas de simulacion", familia: H, uso: [laboral, educativo], licencia: no-aplica}
   - {id: cuestionario-digital, nombre: "Cuestionarios y escalas informatizadas", familia: H, uso: [educativo, laboral, investigacion], licencia: no-aplica}

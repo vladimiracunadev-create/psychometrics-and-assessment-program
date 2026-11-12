@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 051 y 089.
+**Prerrequisitos:** clases 026 y 089.
 
 ## Objetivos
 

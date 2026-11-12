@@ -2,7 +2,7 @@
 
 Prueba de 40 items 2PL. Los niveles corresponden a intervalos de la habilidad theta con cortes
 fijados (aqui: A2 < -0.5 <= B1 < 0.7 <= B2; los cortes los fija un panel con un procedimiento de
-establecimiento de estandares, clase 040). Se estima theta con EAP y se calcula la matriz de
+establecimiento de estandares, clase 075). Se estima theta con EAP y se calcula la matriz de
 clasificacion (nivel verdadero vs asignado) y la exactitud, que cae cerca de los cortes.
 Los niveles se nombran por analogia con marcos de referencia; este test NO es un examen
 oficial ni esta equiparado a un marco.

@@ -78,7 +78,7 @@ def main() -> None:
     print("Lectura: el modelo no usa el grupo y tiene TPR y FPR parecidas en ambos, pero alerta a mas")
     print("estudiantes del grupo con desercion basal mayor, y en los dos grupos detecta solo ~4 de cada 10")
     print("desertores. Un sistema de alerta temprana se usa para OFRECER apoyo, no para etiquetar; se audita por")
-    print("grupo (clase 034), se informa su limite y se acompana de intervenciones con evidencia.")
+    print("grupo (clase 064), se informa su limite y se acompana de intervenciones con evidencia.")
 
 
 if __name__ == "__main__":

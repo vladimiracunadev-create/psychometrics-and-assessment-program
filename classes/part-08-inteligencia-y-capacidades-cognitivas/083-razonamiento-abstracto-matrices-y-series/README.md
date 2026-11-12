@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 5 h · Estado `escrita`
-**Prerrequisitos:** clases 010 y 081.
+**Prerrequisitos:** clases 015 y 081.
 
 ## Objetivos
 
@@ -33,7 +33,7 @@ Serie 7, 8, 10, 13, 17, 22: diferencias 1, 2, 3, 4, 5 → la siguiente diferenci
 - Declarar «difícil» un ítem por intuición: la dificultad se estima con datos.
 - Ítems con dos explicaciones válidas.
 - La serie geométrica puede aparecer duplicada con la semilla; un banco real se deduplica.
-- Un banco generado no está validado: necesita piloto y análisis de ítems (clase 010).
+- Un banco generado no está validado: necesita piloto y análisis de ítems (clase 015).
 
 ## Ejercicios
 

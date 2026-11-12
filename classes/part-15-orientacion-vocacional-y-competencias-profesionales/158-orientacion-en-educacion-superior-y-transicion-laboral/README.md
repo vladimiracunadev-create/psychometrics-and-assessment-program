@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 034, 100 y 135.
+**Prerrequisitos:** clases 064, 100 y 135.
 
 ## Objetivos
 

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 031 y 071.
+**Prerrequisitos:** clases 061 y 066.
 
 > **Ética.** La sociometría con niños, niñas y adolescentes exige consentimiento informado y asentimiento, confidencialidad estricta, no mostrar al grupo quién rechaza o es rechazado y un propósito de apoyo a la convivencia con profesionales. Este laboratorio usa un curso **ficticio** y solo enseña el cálculo.
 

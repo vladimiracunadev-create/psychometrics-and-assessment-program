@@ -1,0 +1,7 @@
+id: "024"
+numero: 24
+titulo: "Test-retest: estabilidad frente a consistencia"
+parte: "02"
+horas_estimadas: 3
+estado: escrita
+laboratorio: lab.py

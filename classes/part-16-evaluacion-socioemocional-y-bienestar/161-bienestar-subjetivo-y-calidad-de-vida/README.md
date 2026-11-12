@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 009 y 059.
+**Prerrequisitos:** clases 014 y 039.
 
 ## Objetivos
 
@@ -32,7 +32,7 @@ r_obs = r_verdadera·√(ρ_x) (con criterio perfecto): 0,40·√0,60 = 0,31.
 
 - Usar un ítem para decisiones individuales.
 - Considerar una escala de satisfacción como medida de salud mental.
-- Comparar culturas sin invarianza (clase 075).
+- Comparar culturas sin invarianza (clase 070).
 - Parámetros supuestos.
 
 ## Ejercicios

@@ -45,7 +45,7 @@ def main() -> None:
     print("Lectura: ningun corte detecta bien y a la vez evita falsos positivos; con prevalencia de 20 %")
     print("muchos 'marcados' son honestos, entre ellos personas de alta responsabilidad. Una escala de")
     print("validez es una ALERTA para examinar el protocolo, no una sentencia: por si sola no se")
-    print("descarta ni se juzga a una persona (clases 060 y 100).")
+    print("descarta ni se juzga a una persona (clases 040 y 100).")
 
 
 if __name__ == "__main__":

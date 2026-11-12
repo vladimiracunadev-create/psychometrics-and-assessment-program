@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Un cribado en dos etapas aplica una prueba breve a todos y una prueba más larga solo a quienes quedan bajo el corte. Como la condición es poco frecuente, el VPP de la etapa 1 sola es bajo aunque su sensibilidad sea alta (clase 031).
+Un cribado en dos etapas aplica una prueba breve a todos y una prueba más larga solo a quienes quedan bajo el corte. Como la condición es poco frecuente, el VPP de la etapa 1 sola es bajo aunque su sensibilidad sea alta (clase 061).
 
 Laboratorio (1.200 estudiantes sintéticos, condición = 10 % inferior de la habilidad): etapa 1 sola, 381 derivados, sensibilidad 0,96, especificidad 0,75, VPP 0,30; etapa 1 + etapa 2, 154 derivados, sensibilidad 0,79, especificidad 0,95, VPP 0,62, con 381 pruebas largas aplicadas.
 

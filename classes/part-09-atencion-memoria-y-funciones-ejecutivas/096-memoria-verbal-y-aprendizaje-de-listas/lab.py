@@ -45,7 +45,7 @@ def main() -> None:
     print("Lectura: el aprendizaje total es el indice mas fiable porque usa todos los ensayos; la")
     print("ganancia y la retencion (cocientes y diferencias) pierden fiabilidad, y las intrusiones,")
     print("por ser eventos raros, casi no son fiables. Se informa cada indice con su error y se evita")
-    print("interpretar indices derivados individualmente sin evidencia (clases 015 y 087).")
+    print("interpretar indices derivados individualmente sin evidencia (clases 025 y 087).")
 
 
 if __name__ == "__main__":

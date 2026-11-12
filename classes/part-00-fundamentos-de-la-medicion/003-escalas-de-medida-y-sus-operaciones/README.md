@@ -73,7 +73,7 @@ resultados sobre los mismos datos.
 
 Lo que el motor **no** hace es promediar puntajes ipsativos entre personas, que
 es un error de otra categoría: allí la aritmética falla por construcción, no por
-aproximación. Ver parte 01, clase 8.
+aproximación. Ver parte 01, clase 13.
 
 ## Laboratorio
 

@@ -1,0 +1,7 @@
+id: "009"
+numero: 9
+titulo: "Pruebas de velocidad, de potencia y tareas cronometradas"
+parte: "00"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

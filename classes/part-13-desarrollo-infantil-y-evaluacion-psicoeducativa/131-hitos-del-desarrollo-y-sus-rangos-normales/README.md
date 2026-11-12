@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 031 y 100.
+**Prerrequisitos:** clases 061 y 100.
 
 ## Objetivos
 

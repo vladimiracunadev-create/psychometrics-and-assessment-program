@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Un CAT elige el ítem de mayor información en la estimación actual (clase 069). Sin restricciones puede concentrar el test en el área más informativa; las cuotas de contenido resguardan la validez de contenido a costa de algo de precisión (van der Linden & Glas, 2010).
+Un CAT elige el ítem de mayor información en la estimación actual (clase 059). Sin restricciones puede concentrar el test en el área más informativa; las cuotas de contenido resguardan la validez de contenido a costa de algo de precisión (van der Linden & Glas, 2010).
 
 Laboratorio (banco de 240 ítems 2PL, 3 áreas, test de 15 ítems, 150 examinados): CAT puro RMSE 0,309 con ítems [0,0; 0,3; 14,7] por área y 100 % de los tests con un área sobre 8; CAT balanceado RMSE 0,338 con [5; 5; 5].
 
@@ -24,7 +24,7 @@ El CAT puro es más preciso, pero un test con 14,7 de 15 ítems de una sola áre
 ## Errores y límites
 
 - Optimizar solo la precisión.
-- Olvidar la exposición de ítems (clase 070).
+- Olvidar la exposición de ítems (clase 060).
 - Banco y examinados sintéticos.
 
 ## Ejercicios

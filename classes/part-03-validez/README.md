@@ -23,23 +23,23 @@ Un test puede ser muy fiable y medir otra cosa. La validez no es una propiedad d
 
 ## Cómo estudiarla
 
-Después de la parte 02. Lee la clase 016 primero: reordena la forma de pensar el resto.
+Después de la parte 02. Lee la clase 031 primero: reordena la forma de pensar el resto.
 
 ## Clases en orden de estudio
 
-El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 016 | [La validez no es una propiedad del test, es un argumento](016-validez-como-argumento/README.md) | Explicar por qué se valida una interpretación y un uso, no un test. | 🟡 compacto | 4 |
-| 2 | 017 | [Validez de contenido y el juicio de expertos](017-validez-de-contenido/README.md) | Explicar la representatividad del contenido frente a la tabla de especificaciones. | 🟡 compacto | 3 |
-| 3 | 018 | [Validez de constructo: convergente y discriminante](018-validez-de-constructo/README.md) | Formular predicciones teóricas de correlación antes de mirar los datos. | 🟡 compacto | 5 |
-| 4 | 019 | [Validez de criterio y validez predictiva](019-validez-de-criterio/README.md) | Distinguir validez concurrente de predictiva. | 🟡 compacto | 5 |
-| 5 | 020 | [La cara olvidada: consecuencias del uso del test](020-consecuencias-del-uso/README.md) | Explicar por qué las consecuencias forman parte del argumento de validez. | 🟡 compacto | 4 |
-| 6 | 056 | [Validez convergente y discriminante: matriz multirrasgo-multimétodo](056-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md) | Leer una matriz multirrasgo-multimétodo (MRMM). | 🟡 compacto | 4 |
-| 7 | 057 | [Validez ecológica y generalización](057-validez-ecologica-y-generalizacion/README.md) | Explicar la generalización de un puntaje a otras tareas, ocasiones y contextos. | 🟡 compacto | 4 |
-| 8 | 058 | [Evidencia basada en procesos de respuesta](058-evidencia-basada-en-procesos-de-respuesta/README.md) | Explicar qué aportan los procesos de respuesta al argumento de validez. | 🟡 compacto | 4 |
-| 9 | 059 | [Metaanálisis de validez y corrección por atenuación](059-metaanalisis-de-validez-y-correccion-por-atenuacion/README.md) | Calcular la correlación media ponderada y separar varianza de muestreo de varianza real. | 🟡 compacto | 4 |
-| 10 | 060 | [Amenazas a la validez: falseamiento y deseabilidad social](060-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md) | Distinguir deseabilidad social, falseamiento intencional y estilos de respuesta. | 🟡 compacto | 4 |
+| 1 | 031 | [La validez no es una propiedad del test, es un argumento](031-validez-como-argumento/README.md) | Explicar por qué se valida una interpretación y un uso, no un test. | 🟡 compacto | 4 |
+| 2 | 032 | [Validez de contenido y el juicio de expertos](032-validez-de-contenido/README.md) | Explicar la representatividad del contenido frente a la tabla de especificaciones. | 🟡 compacto | 3 |
+| 3 | 033 | [Validez de constructo: convergente y discriminante](033-validez-de-constructo/README.md) | Formular predicciones teóricas de correlación antes de mirar los datos. | 🟡 compacto | 5 |
+| 4 | 034 | [Validez de criterio y validez predictiva](034-validez-de-criterio/README.md) | Distinguir validez concurrente de predictiva. | 🟡 compacto | 5 |
+| 5 | 035 | [La cara olvidada: consecuencias del uso del test](035-consecuencias-del-uso/README.md) | Explicar por qué las consecuencias forman parte del argumento de validez. | 🟡 compacto | 4 |
+| 6 | 036 | [Validez convergente y discriminante: matriz multirrasgo-multimétodo](036-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo/README.md) | Leer una matriz multirrasgo-multimétodo (MRMM). | 🟡 compacto | 4 |
+| 7 | 037 | [Validez ecológica y generalización](037-validez-ecologica-y-generalizacion/README.md) | Explicar la generalización de un puntaje a otras tareas, ocasiones y contextos. | 🟡 compacto | 4 |
+| 8 | 038 | [Evidencia basada en procesos de respuesta](038-evidencia-basada-en-procesos-de-respuesta/README.md) | Explicar qué aportan los procesos de respuesta al argumento de validez. | 🟡 compacto | 4 |
+| 9 | 039 | [Metaanálisis de validez y corrección por atenuación](039-metaanalisis-de-validez-y-correccion-por-atenuacion/README.md) | Calcular la correlación media ponderada y separar varianza de muestreo de varianza real. | 🟡 compacto | 4 |
+| 10 | 040 | [Amenazas a la validez: falseamiento y deseabilidad social](040-amenazas-a-la-validez-falseamiento-y-deseabilidad/README.md) | Distinguir deseabilidad social, falseamiento intencional y estilos de respuesta. | 🟡 compacto | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

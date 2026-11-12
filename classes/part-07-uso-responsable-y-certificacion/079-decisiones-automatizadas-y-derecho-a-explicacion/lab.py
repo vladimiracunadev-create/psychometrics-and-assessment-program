@@ -36,7 +36,7 @@ def main() -> None:
     print("Lectura: un puntaje con pesos declarados permite explicar la decision y rebatirla. El")
     print("derecho a explicacion y a intervencion humana (que recoge la nueva normativa de datos")
     print("personales, a verificar en la fuente oficial) exige poder hacerlo. Un modelo opaco no")
-    print("puede. El margen de revision traduce la incertidumbre de la clase 015 en una regla.")
+    print("puede. El margen de revision traduce la incertidumbre de la clase 025 en una regla.")
 
 
 if __name__ == "__main__":

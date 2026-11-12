@@ -40,7 +40,7 @@ def main() -> None:
     print("Lectura: con un desplazamiento de 0.5 DE entre la poblacion local y la normativa, una norma")
     print("importada marca como 'riesgo' a ~16 % en vez de ~7 %: mas del doble de derivaciones por una")
     print("diferencia de referencia, no de los ninos. Por eso se exige evidencia de equivalencia o un")
-    print("baremo local (clases 032 y 035), y se usan instrumentos chilenos (p. ej. TEPSI o EEDP, ya")
+    print("baremo local (clases 062 y 065), y se usan instrumentos chilenos (p. ej. TEPSI o EEDP, ya")
     print("fichados en el catalogo) con la version y el baremo vigentes verificados.")
 
 

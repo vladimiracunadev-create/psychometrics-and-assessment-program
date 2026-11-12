@@ -5,7 +5,7 @@ maxima informacion y puede concentrar el test en un area. Un CAT con BALANCE exi
 aporte 5 de los 15 items (cuotas). Se compara:
   - precision (RMSE de theta),
   - distribucion real de items por area (el CAT puro puede desbalancearse),
-siendo la validez de contenido (clase 017) el motivo de las cuotas. Datos sinteticos; las
+siendo la validez de contenido (clase 032) el motivo de las cuotas. Datos sinteticos; las
 dificultades de las areas difieren a proposito (area 2 mas informativa para theta alta).
 """
 from __future__ import annotations
@@ -79,7 +79,7 @@ def main() -> None:
     print()
     print("Lectura: el CAT puro concentra los items en el area mas informativa (la 3), lo que compromete la")
     print("representatividad del contenido; el balance garantiza cobertura al costo de algo de precision.")
-    print("La eleccion es de validez, no solo estadistica. Ademas se controla la exposicion (clase 070).")
+    print("La eleccion es de validez, no solo estadistica. Ademas se controla la exposicion (clase 060).")
 
 
 if __name__ == "__main__":

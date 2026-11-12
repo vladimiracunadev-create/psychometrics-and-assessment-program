@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 016 y 006.
+**Prerrequisitos:** clases 031 y 011.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Una prueba de comprensión de instrucciones o de razonamiento verbal no debe medir, sin quererlo, la capacidad de descifrar textos enrevesados (varianza irrelevante al constructo; clase 016). Un índice de legibilidad para español es el de **Szigriszt-Pazos** (escala INFLESZ):
+Una prueba de comprensión de instrucciones o de razonamiento verbal no debe medir, sin quererlo, la capacidad de descifrar textos enrevesados (varianza irrelevante al constructo; clase 031). Un índice de legibilidad para español es el de **Szigriszt-Pazos** (escala INFLESZ):
 
 ```
 IFSZ = 206,835 − 62,3 · (sílabas/palabras) − (palabras/frases)

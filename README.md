@@ -53,13 +53,13 @@ con bancos públicos, material propio y licencias trazables.**
 
 Es un **programa de enseñanza, construcción y apoyo** para cualquier profesional que deba **crear, aplicar, interpretar o responder** una evaluación psicológica o educativa, y para quien **es evaluado** y quiere entender qué se le mide y con qué respaldo. Cada clase explica el tema de forma simple y progresiva, muestra el análisis con datos simulados y figuras, y cita fuentes que se pueden comprobar (con su estado de verificación a la vista). Los instrumentos y sus fichas son parte central del programa, no un anexo.
 
-**Estado honesto:** las 200 clases existen; las que ya tienen el formato pedagógico completo están marcadas, y las demás se están reescribiendo con ese formato (la [clase 011](classes/part-02-fiabilidad/011-teoria-clasica-del-error/README.md) es el modelo). No es formación habilitante ni asesoría profesional.
+**Estado honesto:** las 200 clases existen; las que ya tienen el formato pedagógico completo están marcadas, y las demás se están reescribiendo con ese formato (la [clase 021](classes/part-02-fiabilidad/021-teoria-clasica-del-error/README.md) es el modelo). No es formación habilitante ni asesoría profesional.
 
 ## 🧭 Empieza aquí
 
 - **Si es tu primera vez:** lee la [guía de la parte 00](classes/part-00-fundamentos-de-la-medicion/README.md) y sigue el orden de estudio de cada parte.
-- **Para ver una clase por su número:** el [índice numérico 001–200](PROGRAMA.md) enlaza cada una (por ejemplo, la [clase 011](classes/part-02-fiabilidad/011-teoria-clasica-del-error/README.md), el modelo del formato pedagógico).
-- **Por qué los números no son correlativos dentro de cada parte:** los números son identificadores permanentes; en cada parte, la columna *Orden* indica la secuencia de estudio.
+- **Para ver una clase por su número:** el [índice numérico 001–200](PROGRAMA.md) enlaza cada una (por ejemplo, la [clase 021](classes/part-02-fiabilidad/021-teoria-clasica-del-error/README.md), el modelo del formato pedagógico).
+- **Numeración:** las clases son consecutivas (001 a 200) y el número indica el orden de estudio. Los identificadores originales se conservan en `curriculum.yaml` (campo `id_original`).
 - **Instrumentos:** hay **5 ejecutables** (carpeta [`instruments/`](instruments/)) y **140 fichas documentales** ([`catalogo/fichas.yaml`](catalogo/fichas.yaml)); las fichas describen instrumentos, no los reproducen.
 
 ## ✅ Estado verificable

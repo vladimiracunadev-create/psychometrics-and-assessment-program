@@ -30,7 +30,7 @@ Concordancia entre intérprete y verificador: **8 / 8**.
 
 ## Errores y límites
 
-- Declarar «difícil» un ítem por su número de pasos sin datos (clase 010).
+- Declarar «difícil» un ítem por su número de pasos sin datos (clase 015).
 - Contaminar el constructo con memoria de trabajo: más pasos exigen retener más (clase 095).
 - Usar una prueba de instrucciones numéricas para un puesto sin relación con ese tipo de tarea.
 - Evidencia de validez para el puesto: análisis de puestos (clase 111).

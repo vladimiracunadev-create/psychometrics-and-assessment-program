@@ -7,7 +7,7 @@ falta y en qué orden.
 
 - [x] Currículo de 20 partes y 200 clases, con las 200 redactadas (README, laboratorio y bibliografía).
 - [x] 140 fichas documentales en 8 familias, con estados diferenciados.
-- [x] Clases 006-010 (parte 01) escritas con laboratorio.
+- [x] Clases 011-015 (parte 01) escritas con laboratorio.
 - [x] Partes 02 a 12 completas (ver `docs/COBERTURA_CURRICULAR.md` para el detalle por parte), con laboratorios solo de biblioteca estandar.
 - [x] Redactar las 200 clases con laboratorio reproducible (estado verificable en `curriculum.yaml`).
 - [ ] Contrastar las bibliografías con fuentes primarias y someter las clases a revisión por pares.

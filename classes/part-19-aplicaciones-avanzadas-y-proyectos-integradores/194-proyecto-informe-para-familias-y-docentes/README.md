@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`
-**Prerrequisitos:** clase 038.
+**Prerrequisitos:** clase 073.
 
 ## Objetivos
 

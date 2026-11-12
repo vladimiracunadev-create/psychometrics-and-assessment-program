@@ -6,6 +6,9 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
 
 ## [No publicado]
 
+### Cambiado
+- **Numeración consecutiva 001-200 en el orden de estudio.** Las clases 001-080 cambiaron de número (las partes 02 a 19 ya coincidían); el número anterior queda en `curriculum.yaml` (`id_original`). Se renombraron carpetas y se actualizaron las referencias cruzadas. Las entradas históricas de este archivo usan la numeración anterior. Se retiró `scripts/expand_curriculum.py` (habría regenerado la numeración antigua).
+
 ### Añadido
 - **Currículo ampliado a 20 partes y 200 clases** (`scripts/expand_curriculum.py`,
   aditivo e idempotente). Las 40 clases originales conservan su identificador;

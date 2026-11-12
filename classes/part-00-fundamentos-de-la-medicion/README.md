@@ -28,19 +28,19 @@ Léela completa y en orden. No exige conocimientos previos de estadística. Ejec
 
 ## Clases en orden de estudio
 
-El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 001 | [Qué significa medir lo que no se ve](001-que-significa-medir-lo-que-no-se-ve/README.md) |  | 🟡 compacto | 4 |
+| 1 | 001 | [Qué significa medir lo que no se ve](001-que-significa-medir-lo-que-no-se-ve/README.md) | Distinguir un constructo (la idea) de su indicador (lo que se observa). | ✅ pedagógico | 4 |
 | 2 | 002 | [Del constructo al ítem: cómo nace una pregunta](002-del-constructo-al-item/README.md) | Definir un constructo con la precisión suficiente para que sea medible. | 🟡 compacto | 4 |
 | 3 | 003 | [Escalas de medida y qué operaciones permiten](003-escalas-de-medida-y-sus-operaciones/README.md) | Clasificar una variable en nominal, ordinal, de intervalo o de razón. | 🟡 compacto | 3 |
 | 4 | 004 | [Puntaje bruto, media por ítem y por qué no son lo mismo](004-puntaje-bruto-y-media-por-item/README.md) | Calcular bruto y media por ítem, y decir cuándo usar cada uno. | 🟡 compacto | 3 |
 | 5 | 005 | [Ítems invertidos y sesgo de aquiescencia](005-items-invertidos-y-aquiescencia/README.md) | Definir aquiescencia y describir cómo distorsiona un perfil. | 🟡 compacto | 4 |
-| 6 | 041 | [Historia de la psicometría: de Galton a la medición moderna](041-historia-de-la-psicometria-de-galton-a/README.md) | Explicar la regresión a la media a partir de Galton. | 🟡 compacto | 4 |
-| 7 | 042 | [Constructos, variables latentes y definiciones operacionales](042-constructos-variables-latentes-y-definiciones-operacionales/README.md) | Distinguir constructo y definición operacional. | 🟡 compacto | 4 |
-| 8 | 043 | [Tipos de test: rendimiento máximo frente a desempeño típico](043-tipos-de-test-rendimiento-maximo-frente-a/README.md) | Distinguir rendimiento máximo y desempeño típico. | 🟡 compacto | 4 |
-| 9 | 044 | [Pruebas de velocidad, de potencia y tareas cronometradas](044-pruebas-de-velocidad-de-potencia-y-tareas/README.md) | Distinguir velocidad y potencia. | 🟡 compacto | 4 |
-| 10 | 045 | [Introducción a la estadística descriptiva para evaluación](045-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md) | Elegir el resumen según la forma de la distribución. | 🟡 compacto | 4 |
+| 6 | 006 | [Historia de la psicometría: de Galton a la medición moderna](006-historia-de-la-psicometria-de-galton-a/README.md) | Explicar la regresión a la media a partir de Galton. | 🟡 compacto | 4 |
+| 7 | 007 | [Constructos, variables latentes y definiciones operacionales](007-constructos-variables-latentes-y-definiciones-operacionales/README.md) | Distinguir constructo y definición operacional. | 🟡 compacto | 4 |
+| 8 | 008 | [Tipos de test: rendimiento máximo frente a desempeño típico](008-tipos-de-test-rendimiento-maximo-frente-a/README.md) | Distinguir rendimiento máximo y desempeño típico. | 🟡 compacto | 4 |
+| 9 | 009 | [Pruebas de velocidad, de potencia y tareas cronometradas](009-pruebas-de-velocidad-de-potencia-y-tareas/README.md) | Distinguir velocidad y potencia. | 🟡 compacto | 4 |
+| 10 | 010 | [Introducción a la estadística descriptiva para evaluación](010-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md) | Elegir el resumen según la forma de la distribución. | 🟡 compacto | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 014 y 059.
+**Prerrequisitos:** clases 024 y 039.
 
 ## Objetivos
 
@@ -34,7 +34,7 @@ Con r observada = 0,57 y fiabilidad 0,80: corregida = 0,57/0,80 = 0,71, cercana 
 
 - Interpretar baja estabilidad observada como «el niño cambió» sin descontar el error.
 - Etiquetar tempranamente a un niño por un puntaje de temperamento.
-- Usar la misma escala en edades distintas sin evidencia de equivalencia (clase 075).
+- Usar la misma escala en edades distintas sin evidencia de equivalencia (clase 070).
 - Informantes (padres, docentes) agregan sesgos propios.
 
 ## Ejercicios

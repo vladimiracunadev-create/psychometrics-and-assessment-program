@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 008 y 103.
+**Prerrequisitos:** clases 013 y 103.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-El modelo DISC deriva de la teoría de Marston (1928) (dominancia, influencia, estabilidad, cumplimiento). Existen muchos productos comerciales con ese nombre que difieren en ítems, formato y puntuación; su evidencia es heterogénea. Muchos usan formato **ipsativo** (clase 008). El instrumento `disc-abierto` de este repositorio usa **ítems propios**, escala Likert normativa, y está **sin validar**; no equivale a ningún producto comercial.
+El modelo DISC deriva de la teoría de Marston (1928) (dominancia, influencia, estabilidad, cumplimiento). Existen muchos productos comerciales con ese nombre que difieren en ítems, formato y puntuación; su evidencia es heterogénea. Muchos usan formato **ipsativo** (clase 013). El instrumento `disc-abierto` de este repositorio usa **ítems propios**, escala Likert normativa, y está **sin validar**; no equivale a ningún producto comercial.
 
 Laboratorio (4 escalas independientes; N = 20 000; probabilidad de coincidencia del estilo dominante entre dos aplicaciones; el azar es 25 %):
 

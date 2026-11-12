@@ -1,0 +1,7 @@
+id: "030"
+numero: 30
+titulo: "Intervalos de confianza para puntajes individuales"
+parte: "02"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

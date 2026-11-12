@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 024 y 107.
+**Prerrequisitos:** clases 044 y 107.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Holland (1997) propone seis tipos de intereses (Realista, Investigador, Artístico, Social, Emprendedor, Convencional) dispuestos en un hexágono, y describe personas y ambientes con un **código de tres letras**. La estructura circular es una predicción falsable (clase 024; Rounds y Tracey, 1993) y la teoría tiene respaldo variable según el aspecto (Nauta, 2010). El código exacto es una síntesis inestable: ordenar tres de seis puntajes cercanos es sensible al error.
+Holland (1997) propone seis tipos de intereses (Realista, Investigador, Artístico, Social, Emprendedor, Convencional) dispuestos en un hexágono, y describe personas y ambientes con un **código de tres letras**. La estructura circular es una predicción falsable (clase 044; Rounds y Tracey, 1993) y la teoría tiene respaldo variable según el aspecto (Nauta, 2010). El código exacto es una síntesis inestable: ordenar tres de seis puntajes cercanos es sensible al error.
 
 Laboratorio con `onet-riasec-sf` (60 ítems, motor del repositorio; 500 personas simuladas que responden dos veces):
 

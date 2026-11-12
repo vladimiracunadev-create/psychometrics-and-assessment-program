@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 012 y 173.
+**Prerrequisitos:** clases 022 y 173.
 
 ## Objetivos
 

@@ -59,7 +59,7 @@ def main() -> None:
     print()
     print("Lectura: la version C exige mas lectura que razonamiento: si el objetivo es medir")
     print("comprension de instrucciones o razonamiento, una redaccion innecesariamente compleja")
-    print("agrega varianza irrelevante al constructo (clase 016). El indice es una guia (y el contador de silabas es aproximado): un texto")
+    print("agrega varianza irrelevante al constructo (clase 031). El indice es una guia (y el contador de silabas es aproximado): un texto")
     print("corto con terminos tecnicos puede ser dificil aunque su indice sea alto.")
 
 

@@ -1,7 +1,0 @@
-id: "022"
-numero: 22
-titulo: "Análisis factorial exploratorio"
-parte: "04"
-horas_estimadas: 6
-estado: escrita
-laboratorio: lab.py

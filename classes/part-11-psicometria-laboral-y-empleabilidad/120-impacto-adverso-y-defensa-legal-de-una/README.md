@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 020, 073 y 112.
+**Prerrequisitos:** clases 035, 068 y 112.
 
 > Material educativo, **no asesoría jurídica**. El marco chileno (principio de no discriminación laboral del Código del Trabajo y normas conexas) se consulta en su texto vigente (bcn.cl) con un profesional del derecho.
 

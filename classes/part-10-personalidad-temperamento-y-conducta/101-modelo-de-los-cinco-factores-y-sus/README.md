@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 022 y 063.
+**Prerrequisitos:** clases 042 y 048.
 
 ## Objetivos
 
@@ -33,7 +33,7 @@ Para predecir «orden en el trabajo» sirve la faceta de orden; para predecir «
 
 - Reportar 30 facetas con muestras pequeñas: sobreajuste y baja fiabilidad por faceta (clase 108).
 - Interpretar las facetas como entidades separadas cuando están muy correlacionadas.
-- Aplicar el modelo en culturas distintas sin evidencia de invarianza (clase 035).
+- Aplicar el modelo en culturas distintas sin evidencia de invarianza (clase 065).
 - Las ganancias del laboratorio dependen de los pesos supuestos.
 
 ## Ejercicios

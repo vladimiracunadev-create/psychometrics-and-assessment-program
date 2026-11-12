@@ -74,8 +74,7 @@ def readme_parte(p: dict) -> str:
     else:
         sal += [p["descripcion"].strip(), ""]
     sal += ["## Clases en orden de estudio", "",
-            "El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. "
-            "Sigue la columna **Orden**.", "",
+            "Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.", "",
             "| Orden | ID | Clase | Qué aprenderás | Formato | Horas |", "|---:|---|---|---|---|---:|"]
     for i, c in enumerate(p["clases"], 1):
         carpeta = pathlib.PurePosixPath(c["ruta"]).name
@@ -87,8 +86,7 @@ def readme_parte(p: dict) -> str:
 
 def indice_numerico(partes: list[dict]) -> str:
     sal = ["# Índice numérico de las clases", "",
-           "Todas las clases ordenadas por número (001 a 200). Para estudiar usa el **orden de estudio** de cada parte; "
-           "el número es un identificador permanente.", "",
+           "Las 200 clases en orden consecutivo (001 a 200). El número es también el orden de estudio.", "",
            "| ID | Clase | Parte | Orden en la parte |", "|---|---|---|---:|"]
     filas = []
     for p in partes:

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 060 y 073.
+**Prerrequisitos:** clases 040 y 068.
 
 ## Objetivos
 

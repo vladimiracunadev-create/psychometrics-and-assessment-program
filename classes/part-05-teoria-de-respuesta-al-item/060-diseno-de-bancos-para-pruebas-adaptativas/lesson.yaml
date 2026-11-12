@@ -1,0 +1,7 @@
+id: "060"
+numero: 60
+titulo: "Diseño de bancos para pruebas adaptativas"
+parte: "05"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

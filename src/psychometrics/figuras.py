@@ -76,3 +76,34 @@ class Lienzo:
 def guardar(ruta, lienzo: Lienzo) -> None:
     import pathlib
     pathlib.Path(ruta).write_text(lienzo.svg(), encoding="utf-8")
+
+
+def cadena(titulo: str, descripcion: str, pasos: list[str], notas: list[str] | None = None) -> str:
+    """Diagrama horizontal de cajas conectadas por flechas (para procesos y cadenas de inferencia)."""
+    n = len(pasos)
+    ancho = (W - 40) / n
+    p = [f'<rect width="{W}" height="{H}" fill="#ffffff"/>',
+         f'<text x="20" y="26" font-size="14" font-weight="bold" fill="#111">{_esc(titulo)}</text>',
+         '<defs><marker id="f" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">'
+         f'<path d="M0,0 L10,5 L0,10 z" fill="{GRIS}"/></marker></defs>']
+    for i, t in enumerate(pasos):
+        x = 20 + i * ancho
+        p.append(f'<rect x="{x + 4:.1f}" y="110" width="{ancho - 18:.1f}" height="90" rx="8" fill="#eef3fb" stroke="{AZUL}"/>')
+        palabras, lineas, cur = t.split(), [], ""
+        for w in palabras:
+            if len(cur) + len(w) > 13:
+                lineas.append(cur)
+                cur = w
+            else:
+                cur = (cur + " " + w).strip()
+        lineas.append(cur)
+        for j, ln in enumerate(lineas[:4]):
+            p.append(f'<text x="{x + 4 + (ancho - 18) / 2:.1f}" y="{138 + j * 16}" text-anchor="middle" font-size="12" fill="#111">{_esc(ln)}</text>')
+        if i < n - 1:
+            p.append(f'<line x1="{x + ancho - 14:.1f}" y1="155" x2="{x + ancho + 2:.1f}" y2="155" stroke="{GRIS}" stroke-width="2" marker-end="url(#f)"/>')
+        if notas and i < len(notas) and notas[i]:
+            p.append(f'<text x="{x + 4 + (ancho - 18) / 2:.1f}" y="225" text-anchor="middle" font-size="11" fill="{ROJO}">{_esc(notas[i])}</text>')
+    p.append(f'<text x="20" y="300" font-size="11" fill="{GRIS}">Cada flecha es un supuesto que puede fallar.</text>')
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-labelledby="t d" '
+            f'font-family="Segoe UI, Arial, sans-serif"><title id="t">{_esc(titulo)}</title><desc id="d">{_esc(descripcion)}</desc>'
+            + "".join(p) + "</svg>\n")

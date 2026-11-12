@@ -35,7 +35,7 @@ Persona que marca 5 en todo: N1 (todo directo) → 5,0; A2 (todo invertido) → 
 
 - Creer que «dominio público» significa «validado» o «con normas».
 - Reportar puntajes de faceta con 4 ítems como si fueran precisos.
-- Ignorar que las versiones traducidas necesitan su propia evidencia (clase 035).
+- Ignorar que las versiones traducidas necesitan su propia evidencia (clase 065).
 - Respetar siempre la procedencia y cita del banco (`procedencia` en el YAML).
 
 ## Ejercicios

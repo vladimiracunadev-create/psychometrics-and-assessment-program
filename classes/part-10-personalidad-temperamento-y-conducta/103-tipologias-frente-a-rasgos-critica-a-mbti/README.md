@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 014 y 101.
+**Prerrequisitos:** clases 024 y 101.
 
 ## Objetivos
 

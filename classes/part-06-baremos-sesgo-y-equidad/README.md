@@ -27,19 +27,19 @@ Cierra el bloque técnico central. Lee con calma las clases de equidad: no exist
 
 ## Clases en orden de estudio
 
-El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 031 | [Baremos, percentiles y puntajes tipificados](031-baremos-y-percentiles/README.md) | Calcular rango percentil, z y T desde una muestra normativa. | 🟡 compacto | 4 |
-| 2 | 032 | [La muestra normativa: a quién se compara la persona](032-elegir-la-muestra-normativa/README.md) | Explicar cómo la composición de la muestra normativa cambia el percentil de una persona. | 🟡 compacto | 4 |
-| 3 | 033 | [Funcionamiento diferencial del ítem (DIF)](033-funcionamiento-diferencial-del-item/README.md) | Distinguir impacto de DIF. | 🟡 compacto | 6 |
-| 4 | 034 | [Sesgo predictivo y definiciones de equidad](034-sesgo-predictivo-y-equidad/README.md) | Aplicar el modelo de Cleary de sesgo predictivo. | 🟡 compacto | 5 |
-| 5 | 035 | [Adaptación transcultural y equivalencia](035-adaptacion-transcultural/README.md) | Describir el proceso de adaptación de un instrumento. | 🟡 compacto | 5 |
-| 6 | 071 | [Puntajes estándar: z, T y estaninos](071-puntajes-estandar-z-t-y-estaninos/README.md) | Convertir un bruto a z, T y estanino. | 🟡 compacto | 4 |
-| 7 | 072 | [Normas por edad y por curso escolar](072-normas-por-edad-y-por-curso-escolar/README.md) | Comparar normas por bandas y normalización continua. | 🟡 compacto | 4 |
-| 8 | 073 | [Equidad en evaluaciones de alto impacto](073-equidad-en-evaluaciones-de-alto-impacto/README.md) | Calcular validez y diferencia de grupos de un compuesto de predictores. | 🟡 compacto | 4 |
-| 9 | 074 | [Acomodaciones y diseño universal de la evaluación](074-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md) | Distinguir acomodación, modificación y diseño universal. | 🟡 compacto | 4 |
-| 10 | 075 | [Estudios de invarianza entre grupos](075-estudios-de-invarianza-entre-grupos/README.md) | Planificar una secuencia de modelos configural, métrico y escalar. | 🟡 compacto | 4 |
+| 1 | 061 | [Baremos, percentiles y puntajes tipificados](061-baremos-y-percentiles/README.md) | Calcular rango percentil, z y T desde una muestra normativa. | 🟡 compacto | 4 |
+| 2 | 062 | [La muestra normativa: a quién se compara la persona](062-elegir-la-muestra-normativa/README.md) | Explicar cómo la composición de la muestra normativa cambia el percentil de una persona. | 🟡 compacto | 4 |
+| 3 | 063 | [Funcionamiento diferencial del ítem (DIF)](063-funcionamiento-diferencial-del-item/README.md) | Distinguir impacto de DIF. | 🟡 compacto | 6 |
+| 4 | 064 | [Sesgo predictivo y definiciones de equidad](064-sesgo-predictivo-y-equidad/README.md) | Aplicar el modelo de Cleary de sesgo predictivo. | 🟡 compacto | 5 |
+| 5 | 065 | [Adaptación transcultural y equivalencia](065-adaptacion-transcultural/README.md) | Describir el proceso de adaptación de un instrumento. | 🟡 compacto | 5 |
+| 6 | 066 | [Puntajes estándar: z, T y estaninos](066-puntajes-estandar-z-t-y-estaninos/README.md) | Convertir un bruto a z, T y estanino. | 🟡 compacto | 4 |
+| 7 | 067 | [Normas por edad y por curso escolar](067-normas-por-edad-y-por-curso-escolar/README.md) | Comparar normas por bandas y normalización continua. | 🟡 compacto | 4 |
+| 8 | 068 | [Equidad en evaluaciones de alto impacto](068-equidad-en-evaluaciones-de-alto-impacto/README.md) | Calcular validez y diferencia de grupos de un compuesto de predictores. | 🟡 compacto | 4 |
+| 9 | 069 | [Acomodaciones y diseño universal de la evaluación](069-acomodaciones-y-diseno-universal-de-la-evaluacion/README.md) | Distinguir acomodación, modificación y diseño universal. | 🟡 compacto | 4 |
+| 10 | 070 | [Estudios de invarianza entre grupos](070-estudios-de-invarianza-entre-grupos/README.md) | Planificar una secuencia de modelos configural, métrico y escalar. | 🟡 compacto | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

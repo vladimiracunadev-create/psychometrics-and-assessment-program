@@ -1,0 +1,7 @@
+id: "026"
+numero: 26
+titulo: "Estadística descriptiva aplicada a puntajes"
+parte: "02"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

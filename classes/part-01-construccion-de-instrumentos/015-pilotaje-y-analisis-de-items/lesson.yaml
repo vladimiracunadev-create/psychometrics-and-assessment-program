@@ -1,0 +1,7 @@
+id: "015"
+numero: 15
+titulo: "Pilotaje y análisis clásico de ítems"
+parte: "01"
+horas_estimadas: 5
+estado: escrita
+laboratorio: lab.py

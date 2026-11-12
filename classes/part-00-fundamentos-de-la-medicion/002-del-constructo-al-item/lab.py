@@ -59,7 +59,7 @@ def main() -> None:
     print("  - deseabilidad social: exige saber que respuesta queda bien")
     print("  - ambiguedad de frecuencia: exige entender el significado")
     print("  - deficiencia del dominio: exige la tabla de especificaciones")
-    print("  Esos tres requieren juicio experto. Ver parte 03, clase 17.")
+    print("  Esos tres requieren juicio experto. Ver parte 03, clase 32.")
 
 
 if __name__ == "__main__":

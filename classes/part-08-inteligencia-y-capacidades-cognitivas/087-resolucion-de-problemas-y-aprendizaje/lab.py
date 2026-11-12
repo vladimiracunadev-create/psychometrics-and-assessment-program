@@ -45,7 +45,7 @@ def main() -> None:
     print("Lectura: aunque pre y post tengan fiabilidad 0.90, la ganancia puede tener fiabilidad baja")
     print("si pre y post correlacionan alto. Una 'ganancia' individual casi siempre se interpreta con")
     print("cautela: se prefieren analisis de grupo, el nivel post controlando el pre, o indices de")
-    print("cambio fiable (clase 015). Que alguien 'aprenda rapido' no se concluye de un solo par de puntajes.")
+    print("cambio fiable (clase 025). Que alguien 'aprenda rapido' no se concluye de un solo par de puntajes.")
 
 
 if __name__ == "__main__":

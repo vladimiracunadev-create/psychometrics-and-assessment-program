@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 036 y 038.
+**Prerrequisitos:** clases 071 y 073.
 
 > **Aviso.** Esta clase es material educativo, **no asesoría jurídica**. La normativa cambia: antes de aplicar nada, consulte el texto vigente en la Biblioteca del Congreso Nacional (bcn.cl) y a un profesional del derecho.
 

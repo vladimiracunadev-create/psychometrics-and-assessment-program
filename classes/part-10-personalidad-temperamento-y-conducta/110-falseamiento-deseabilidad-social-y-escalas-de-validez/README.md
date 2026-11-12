@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 060 y 100.
+**Prerrequisitos:** clases 040 y 100.
 
 ## Objetivos
 
@@ -33,7 +33,7 @@ Corte 2,5 con prevalencia 20 %: marcados verdaderos = 0,51·0,20 = 0,102; falsos
 
 - Excluir a personas por una escala de validez.
 - Corregir puntajes restando deseabilidad sin evidencia de que mejore la predicción.
-- Confiar en una sola contramedida (clase 060).
+- Confiar en una sola contramedida (clase 040).
 - Los parámetros son supuestos.
 
 ## Ejercicios

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 010 y 083.
+**Prerrequisitos:** clases 015 y 083.
 
 ## Objetivos
 

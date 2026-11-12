@@ -35,7 +35,7 @@ def main() -> None:
     print("Lectura: aun con escalas de fiabilidad 0.8, el estilo dominante coincide en apenas dos de")
     print("cada tres aplicaciones, y para muchas personas la diferencia entre el primer y el segundo")
     print("estilo es menor que el error. Rotular a alguien con UN estilo sobreafirma. Ademas el formato")
-    print("ipsativo (clase 008) distorsiona las comparaciones entre personas.")
+    print("ipsativo (clase 013) distorsiona las comparaciones entre personas.")
 
 
 if __name__ == "__main__":

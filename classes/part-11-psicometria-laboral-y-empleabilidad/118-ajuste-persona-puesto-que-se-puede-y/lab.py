@@ -50,7 +50,7 @@ def main() -> None:
     print("distinto (distancia, cumplimiento, forma del perfil). Ninguno tiene una interpretacion")
     print("probabilistica sin evidencia de validez: un '85 % de ajuste' no es una probabilidad de exito.")
     print("Lo defendible es mostrar los datos (que competencias se cumplen y con que margen) y")
-    print("evitar pesos y porcentajes inventados (clases 016 y 039).")
+    print("evitar pesos y porcentajes inventados (clases 031 y 074).")
 
 
 if __name__ == "__main__":

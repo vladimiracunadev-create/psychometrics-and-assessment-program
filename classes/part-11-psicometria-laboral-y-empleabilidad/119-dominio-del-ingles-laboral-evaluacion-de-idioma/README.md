@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 040 y 066.
+**Prerrequisitos:** clases 075 y 056.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Los marcos de referencia (p. ej. el *Marco Común Europeo de Referencia*, Consejo de Europa, 2001/2020) describen niveles A1–C2. Un test traduce una habilidad estimada en un nivel mediante **cortes** fijados por un panel (clase 040). Cerca de cada corte, el error de medida produce clasificaciones erróneas. Este laboratorio no replica un examen oficial ni se equipara a un marco: usa tres niveles de ejemplo (A2, B1, B2).
+Los marcos de referencia (p. ej. el *Marco Común Europeo de Referencia*, Consejo de Europa, 2001/2020) describen niveles A1–C2. Un test traduce una habilidad estimada en un nivel mediante **cortes** fijados por un panel (clase 075). Cerca de cada corte, el error de medida produce clasificaciones erróneas. Este laboratorio no replica un examen oficial ni se equipara a un marco: usa tres niveles de ejemplo (A2, B1, B2).
 
 Laboratorio (40 ítems 2PL; N = 4 000; cortes de θ en −0,5 y 0,7):
 

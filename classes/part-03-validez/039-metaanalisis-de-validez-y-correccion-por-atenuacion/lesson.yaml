@@ -1,0 +1,7 @@
+id: "039"
+numero: 39
+titulo: "Metaanálisis de validez y corrección por atenuación"
+parte: "03"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

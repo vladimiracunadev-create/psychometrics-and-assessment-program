@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 019, 101 y 114.
+**Prerrequisitos:** clases 034, 101 y 114.
 
 ## Objetivos
 

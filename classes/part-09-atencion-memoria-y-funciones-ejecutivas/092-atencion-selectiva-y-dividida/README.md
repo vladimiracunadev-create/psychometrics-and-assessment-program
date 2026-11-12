@@ -31,7 +31,7 @@ Con pendiente 12 ms/elemento, pasar de 8 a 32 elementos suma 24·12 = 288 ms.
 ## Errores y límites
 
 - Hablar de «atención» como un solo constructo.
-- Usar una tarea de laboratorio para inferir conducta en el aula sin evidencia ecológica (clase 057).
+- Usar una tarea de laboratorio para inferir conducta en el aula sin evidencia ecológica (clase 037).
 - Las pendientes son medidas diferenciales con fiabilidad individual limitada (clase 097).
 - Los parámetros son ilustrativos.
 

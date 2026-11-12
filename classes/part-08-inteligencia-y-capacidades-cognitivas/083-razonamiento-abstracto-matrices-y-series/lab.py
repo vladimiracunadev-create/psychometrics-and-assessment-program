@@ -69,7 +69,7 @@ def main() -> None:
     print(f"\nItems con solucion unica verificada por el resolutor: {bien} de 12")
     print()
     print("Lectura: generar items con semilla permite bancos originales y auditables, pero la")
-    print("dificultad real y la calidad de los distractores se estiman con datos (clase 010). Un")
+    print("dificultad real y la calidad de los distractores se estiman con datos (clase 015). Un")
     print("item con dos explicaciones validas es un item defectuoso: el resolutor lo detecta.")
 
 

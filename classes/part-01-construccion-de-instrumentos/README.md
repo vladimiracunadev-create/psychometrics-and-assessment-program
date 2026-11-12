@@ -28,19 +28,19 @@ Conviene haber visto la parte 00. Haz los ejercicios de redacción con un instru
 
 ## Clases en orden de estudio
 
-El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 006 | [Redacción de ítems: las reglas y por qué existen](006-redaccion-de-items/README.md) | Identificar y corregir doble pregunta, absolutos, doble negación y exceso de longitud. | 🟡 compacto | 4 |
-| 2 | 007 | [Formatos de respuesta: Likert, dicotómico, continuo](007-formatos-de-respuesta/README.md) | Comparar formatos dicotómico, politómico (Likert) y continuo. | 🟡 compacto | 3 |
-| 3 | 008 | [Ipsativo frente a normativo: la trampa de la elección forzada](008-ipsativo-vs-normativo/README.md) | Definir medida ipsativa y normativa. | 🟡 compacto | 4 |
-| 4 | 009 | [Longitud del test: el intercambio entre precisión y abandono](009-longitud-y-costo-de-medida/README.md) | Aplicar la fórmula de Spearman-Brown directa e inversa. | 🟡 compacto | 3 |
-| 5 | 010 | [Pilotaje y análisis clásico de ítems](010-pilotaje-y-analisis-de-items/README.md) | Calcular dificultad (proporción de aciertos) y discriminación (correlación ítem-resto). | 🟡 compacto | 5 |
-| 6 | 046 | [Especificaciones de test y tablas de contenido](046-especificaciones-de-test-y-tablas-de-contenido/README.md) | Construir una tabla de especificaciones contenido × nivel. | 🟡 compacto | 4 |
-| 7 | 047 | [Ítems de opción múltiple: distractores y clave](047-items-de-opcion-multiple-distractores-y-clave/README.md) | Analizar la elección de opciones por grupo de habilidad. | 🟡 compacto | 4 |
-| 8 | 048 | [Ítems abiertos, rúbricas y acuerdo entre jueces](048-items-abiertos-rubricas-y-acuerdo-entre-jueces/README.md) | Calcular acuerdo exacto, adyacente y kappa ponderado. | 🟡 compacto | 4 |
-| 9 | 049 | [Juicio de expertos y revisión cognitiva de ítems](049-juicio-de-expertos-y-revision-cognitiva-de/README.md) | Calcular I-CVI y kappa modificado. | 🟡 compacto | 4 |
-| 10 | 050 | [Bancos de ítems, versiones y control de cambios](050-bancos-de-items-versiones-y-control-de/README.md) | Calcular una huella por ítem. | 🟡 compacto | 4 |
+| 1 | 011 | [Redacción de ítems: las reglas y por qué existen](011-redaccion-de-items/README.md) | Identificar y corregir doble pregunta, absolutos, doble negación y exceso de longitud. | 🟡 compacto | 4 |
+| 2 | 012 | [Formatos de respuesta: Likert, dicotómico, continuo](012-formatos-de-respuesta/README.md) | Comparar formatos dicotómico, politómico (Likert) y continuo. | 🟡 compacto | 3 |
+| 3 | 013 | [Ipsativo frente a normativo: la trampa de la elección forzada](013-ipsativo-vs-normativo/README.md) | Definir medida ipsativa y normativa. | 🟡 compacto | 4 |
+| 4 | 014 | [Longitud del test: el intercambio entre precisión y abandono](014-longitud-y-costo-de-medida/README.md) | Aplicar la fórmula de Spearman-Brown directa e inversa. | 🟡 compacto | 3 |
+| 5 | 015 | [Pilotaje y análisis clásico de ítems](015-pilotaje-y-analisis-de-items/README.md) | Calcular dificultad (proporción de aciertos) y discriminación (correlación ítem-resto). | 🟡 compacto | 5 |
+| 6 | 016 | [Especificaciones de test y tablas de contenido](016-especificaciones-de-test-y-tablas-de-contenido/README.md) | Construir una tabla de especificaciones contenido × nivel. | 🟡 compacto | 4 |
+| 7 | 017 | [Ítems de opción múltiple: distractores y clave](017-items-de-opcion-multiple-distractores-y-clave/README.md) | Analizar la elección de opciones por grupo de habilidad. | 🟡 compacto | 4 |
+| 8 | 018 | [Ítems abiertos, rúbricas y acuerdo entre jueces](018-items-abiertos-rubricas-y-acuerdo-entre-jueces/README.md) | Calcular acuerdo exacto, adyacente y kappa ponderado. | 🟡 compacto | 4 |
+| 9 | 019 | [Juicio de expertos y revisión cognitiva de ítems](019-juicio-de-expertos-y-revision-cognitiva-de/README.md) | Calcular I-CVI y kappa modificado. | 🟡 compacto | 4 |
+| 10 | 020 | [Bancos de ítems, versiones y control de cambios](020-bancos-de-items-versiones-y-control-de/README.md) | Calcular una huella por ítem. | 🟡 compacto | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)

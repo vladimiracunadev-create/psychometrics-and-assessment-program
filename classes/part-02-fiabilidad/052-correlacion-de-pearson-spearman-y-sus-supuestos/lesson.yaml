@@ -1,7 +1,0 @@
-id: "052"
-numero: 52
-titulo: "Correlación de Pearson, Spearman y sus supuestos"
-parte: "02"
-horas_estimadas: 4
-estado: escrita
-laboratorio: lab.py

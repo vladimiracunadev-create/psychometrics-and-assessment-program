@@ -39,7 +39,7 @@ estudiados en inglés. Sus coeficientes de fiabilidad y sus percentiles
 corresponden a esas versiones. Traducir un instrumento
 no transfiere sus propiedades psicométricas: hace falta un estudio de
 equivalencia transcultural que demuestre que los ítems funcionan igual en la
-nueva población (invarianza de medida, parte 04, clase 25).
+nueva población (invarianza de medida, parte 04, clase 45).
 
 Consecuencia práctica: el texto en español sirve para administrar el
 instrumento y describir un perfil intraindividual — qué escalas son las más
@@ -68,9 +68,9 @@ repositorio. Ver [`ROADMAP.md`](../ROADMAP.md).
 Por orden:
 
 1. **Contenido** — panel de expertos que juzgue si los ítems cubren el
-   constructo sin contaminarlo (parte 03, clase 17).
+   constructo sin contaminarlo (parte 03, clase 32).
 2. **Piloto** — n ≥ 200, análisis clásico de ítems, descarte de los que no
-   discriminan (parte 01, clase 10).
+   discriminan (parte 01, clase 15).
 3. **Estructura** — factorial exploratorio y luego confirmatorio contra la
    estructura declarada (parte 04).
 4. **Fiabilidad** — omega de McDonald, no solo alfa; test-retest a 4 semanas
@@ -78,6 +78,6 @@ Por orden:
 5. **Validez de constructo** — convergencia con instrumentos establecidos:
    DISC contra Extraversión y Responsabilidad del IPIP-NEO-120 (parte 03).
 6. **Invarianza** — comprobar que la estructura se sostiene por sexo, edad y
-   país (parte 04, clase 25).
+   país (parte 04, clase 45).
 
 Hasta el paso 5 no es defendible usarlos para nada consecuente.

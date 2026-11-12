@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 070 y 077.
+**Prerrequisitos:** clases 060 y 077.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Un banco de ítems es un activo: si se filtra, los puntajes dejan de significar lo que significaban. Medidas: control de acceso, cifrado, rotación de ítems, límites de exposición (clase 070), marcas de agua, y detección estadística (Cizek y Wollack, 2017; Impara y Foster, 2006). La **tríada** seguridad de la información: confidencialidad, integridad, disponibilidad.
+Un banco de ítems es un activo: si se filtra, los puntajes dejan de significar lo que significaban. Medidas: control de acceso, cifrado, rotación de ítems, límites de exposición (clase 060), marcas de agua, y detección estadística (Cizek y Wollack, 2017; Impara y Foster, 2006). La **tríada** seguridad de la información: confidencialidad, integridad, disponibilidad.
 
 Laboratorio (1 000 examinados, 40 ítems; 25 % con acceso previo a 10 ítems filtrados):
 

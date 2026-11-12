@@ -26,7 +26,7 @@ Parte aplicada; los datos de los laboratorios son sintéticos.
 
 ## Clases en orden de estudio
 
-El número de clase (ID) es permanente y no se reutiliza; por eso en algunas partes no es correlativo. Sigue la columna **Orden**.
+Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|

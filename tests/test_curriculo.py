@@ -21,10 +21,18 @@ def test_identificadores_unicos_y_consecutivos():
 
 
 def test_las_cuarenta_originales_se_conservan():
-    originales = [c for c in CLASES if c["numero"] <= 40]
+    """Las 40 clases originales siguen en el curriculo (su id anterior queda en `id_original`)."""
+    originales = [c for c in CLASES if int(c["id_original"]) <= 40]
     assert len(originales) == 40
-    escritas = {c["numero"] for c in originales if c["estado"] == "escrita"}
-    assert set(range(1, 11)) <= escritas, "ninguna clase escrita puede volver a planificada"
+    assert all(c["estado"] == "escrita" for c in originales if int(c["id_original"]) <= 10)
+
+
+def test_numeracion_consecutiva_en_orden_de_estudio():
+    ids = [int(c["id"]) for p in CURR["temario"] for c in p["clases"]]
+    assert ids == list(range(1, 201))
+    for p in CURR["temario"]:
+        for c in p["clases"]:
+            assert pathlib.PurePosixPath(c["ruta"]).name.startswith(c["id"] + "-")
 
 
 def test_clase_escrita_tiene_readme_y_laboratorio():

@@ -20,21 +20,21 @@ AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing* 
 AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.:
   anio_crossref: 2014
   clases:
-  - '043'
-  - '044'
-  - '006'
-  - '010'
-  - '046'
-  - '047'
-  - 048
-  - '050'
+  - 008
+  - 009
+  - '011'
   - '015'
   - '016'
+  - '017'
+  - 018
   - '020'
-  - 058
-  - '032'
-  - '074'
+  - '025'
+  - '031'
+  - '035'
   - 038
+  - '062'
+  - 069
+  - '073'
   - '077'
   - 088
   - '100'
@@ -62,7 +62,7 @@ AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
   American Educational Research Association.
 : anio_crossref: 2014
   clases:
-  - '036'
+  - '071'
   doi: 10.1111/emip.12045
   estado: sin-verificar
 Academia Judicial de Chile. *Ley 21.719* (actualización normativa).:
@@ -83,7 +83,7 @@ Academia Judicial de Chile. *Ley 21.719* (actualización normativa).:
   of ratings. *Educational and Psychological Measurement*, 45(1), 131-142.
 : anio_crossref: 1985
   clases:
-  - '017'
+  - '032'
   doi: 10.1177/0013164485451012
   estado: verificada
 ? 'Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies
@@ -124,40 +124,40 @@ American Psychological Association (2017). *Ethical Principles of Psychologists 
 American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.:
   anio_crossref: 2002
   clases:
-  - '036'
+  - '071'
   doi: 10.1037/e300672004-001
   estado: edicion-difiere
 Anastasi, A., & Urbina, S. (1997). *Psychological Testing* (7.ª ed.). Prentice Hall.:
   anio_crossref: 1985
   clases:
-  - '031'
-  - '071'
+  - '061'
+  - '066'
   doi: 10.1037/10052-003
   estado: sin-verificar
 Andrich, D. (1988). *Rasch Models for Measurement*. Sage.:
   anio_crossref: 1988
   clases:
-  - '027'
+  - '052'
   doi: 10.4135/9781412985598
   estado: verificada
 ? Angoff, W. H. (1971). Scales, norms, and equivalent scores. En R. L. Thorndike (Ed.),
   *Educational Measurement* (2.ª ed.). American Council on Education.
 : anio_crossref: 1972
   clases:
-  - '040'
+  - '075'
   doi: 10.1017/s0033312300004762
   estado: sin-verificar
 Angoff, W. H. (1984). *Scales, Norms, and Equivalent Scores*. Educational Testing Service.:
   anio_crossref: 1964
   clases:
-  - '031'
-  - '071'
+  - '061'
+  - '066'
   doi: 10.1111/j.1745-3984.1964.tb00141.x
   estado: sin-verificar
 Anscombe, F. J. (1973). Graphs in statistical analysis. *The American Statistician*, 27(1), 17-21.:
   anio_crossref: 1973
   clases:
-  - '052'
+  - '027'
   doi: 10.1080/00031305.1973.10478966
   estado: verificada
 ? Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2021). Realistic
@@ -222,8 +222,8 @@ Bachman, L. F., & Palmer, A. S. (2010). *Language Assessment in Practice*. Oxfor
 'Baker, F. B., & Kim, S.-H. (2004). *Item Response Theory: Parameter Estimation Techniques* (2.ª ed.). CRC Press.':
   anio_crossref: 2004
   clases:
-  - 028
-  - '066'
+  - '053'
+  - '056'
   doi: 10.1201/9781482276725-14
   estado: sin-verificar
 'Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.':
@@ -286,14 +286,14 @@ Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*.
   Addison-Wesley.
 : anio_crossref: 1969
   clases:
-  - 028
+  - '053'
   doi: 10.3102/00028312006001112
   estado: sin-verificar
 ? Bishara, A. J., & Hittner, J. B. (2012). Testing the significance of a correlation
   with nonnormal data. *Psychological Methods*, 17(3), 399-417.
 : anio_crossref: 2012
   clases:
-  - '052'
+  - '027'
   doi: 10.1037/a0028087
   estado: verificada
 ? Bliese, P. D. (2000). Within-group agreement, non-independence, and reliability.
@@ -329,7 +329,7 @@ Boateng, G. O., et al. (2018). Best practices for developing and validating scal
   environment. *Applied Psychological Measurement*, 6(4), 431-444.
 : anio_crossref: 1982
   clases:
-  - '066'
+  - '056'
   doi: 10.1177/014662168200600405
   estado: verificada
 Bolger, N., & Laurenceau, J.-P. (2013). *Intensive Longitudinal Methods*. Guilford.:
@@ -362,7 +362,7 @@ Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologis
   coefficient. *Journal of Educational and Behavioral Statistics*, 30(2), 213-225.
 : anio_crossref: 2005
   clases:
-  - '065'
+  - '050'
   doi: 10.3102/10769986030002213
   estado: verificada
 ? Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis
@@ -383,7 +383,7 @@ Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologis
   91-121.'
 : anio_crossref: 2013
   clases:
-  - '064'
+  - 049
   doi: 10.1146/annurev-clinpsy-050212-185608
   estado: verificada
 Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? *The High School Journal*, 96(2), 77-100.:
@@ -408,7 +408,7 @@ Brannick, M. T., Levine, E. L., & Morgeson, F. P. (2007). *Job and Work Analysis
 Brennan, R. L. (2001). *Generalizability Theory*. Springer.:
   anio_crossref: 2001
   clases:
-  - '057'
+  - '037'
   - '143'
   doi: 10.1007/978-1-4757-3456-0
   estado: verificada
@@ -422,7 +422,7 @@ Brogden, H. E. (1949). When testing pays off. *Personnel Psychology*, 2, 171-183
   questionnaires. *Educational and Psychological Measurement*, 71(3), 460-502.
 : anio_crossref: 2011
   clases:
-  - 008
+  - '013'
   doi: 10.1177/0013164410375112
   estado: verificada
 ? Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic
@@ -444,29 +444,29 @@ Brogden, H. E. (1949). When testing pays off. *Personnel Psychology*, 2, 171-183
 Brown, T. A. (2015). *Confirmatory Factor Analysis for Applied Research* (2.ª ed.). Guilford.:
   anio_crossref: 2017
   clases:
-  - '021'
-  - '023'
+  - '041'
+  - '043'
   doi: 10.4135/9781071802687.n19
   estado: sin-verificar
 ? Brown, W. (1910). Some experimental results in the correlation of mental abilities.
   *British Journal of Psychology*, 3, 296-322.
 : anio_crossref: 1910
   clases:
-  - 009
+  - '014'
   doi: 10.1111/j.2044-8295.1910.tb00207.x
   estado: verificada
 ? Browne, M. W. (2001). An overview of analytic rotation in exploratory factor analysis.
   *Multivariate Behavioral Research*, 36(1), 111-150.
 : anio_crossref: 2001
   clases:
-  - '061'
+  - '046'
   doi: 10.1207/s15327906mbr3601_05
   estado: verificada
 ? Byrne, B. M., Shavelson, R. J., & Muthén, B. (1989). Testing for the equivalence
   of factor covariance and mean structures. *Psychological Bulletin*, 105(3), 456-466.
 : anio_crossref: 1989
   clases:
-  - '075'
+  - '070'
   doi: 10.1037/0033-2909.105.3.456
   estado: verificada
 CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST.:
@@ -479,9 +479,9 @@ CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST.:
   the multitrait-multimethod matrix. *Psychological Bulletin*, 56(2), 81-105.
 : anio_crossref: 1959
   clases:
-  - '042'
-  - 018
-  - '056'
+  - '007'
+  - '033'
+  - '036'
   doi: 10.1037/h0046016
   estado: verificada
 ? 'Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures:
@@ -516,7 +516,7 @@ Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press.:
   there a correct approach? *Journal of Psychoeducational Assessment*, 19(4), 350-364.'
 : anio_crossref: 2001
   clases:
-  - '055'
+  - '030'
   doi: 10.1177/073428290101900404
   estado: verificada
 ? 'Chelune, G. J., et al. (1993). Individual change after epilepsy surgery: Practice
@@ -538,7 +538,7 @@ Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press.:
   testing measurement invariance. *Structural Equation Modeling*, 9(2), 233-255.
 : anio_crossref: 2002
   clases:
-  - '075'
+  - '070'
   doi: 10.1207/s15328007sem0902_5
   estado: verificada
 ? Cheung, M. W.-L., & Chan, W. (2002). Reducing uniform response bias with ipsative
@@ -546,7 +546,7 @@ Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press.:
   Modeling*, 9(1), 55-77.
 : anio_crossref: 2002
   clases:
-  - 008
+  - '013'
   doi: 10.1207/s15328007sem0901_4
   estado: verificada
 Choose a License. choosealicense.com.:
@@ -558,7 +558,7 @@ Choose a License. choosealicense.com.:
 Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163.:
   anio_crossref: 2017
   clases:
-  - '034'
+  - '064'
   doi: 10.1089/big.2016.0047
   estado: sin-verificar
 ? Christ, T. J. (2006). Short-term estimates of growth using curriculum-based measurement
@@ -609,7 +609,7 @@ Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting*. Sage.:
   and Evaluating Performance Standards on Tests*. Sage.'
 : anio_crossref: 2010
   clases:
-  - '040'
+  - '075'
   doi: 10.1111/j.1745-3984.2010.00126.x
   estado: edicion-difiere
 ? Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods
@@ -636,14 +636,14 @@ Clark, L. A., & Watson, D. (1995). Constructing validity. *Psychological:
   in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124.'
 : anio_crossref: 1968
   clases:
-  - '034'
+  - '064'
   doi: 10.1111/j.1745-3984.1968.tb00613.x
   estado: verificada
 ? Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and
   Psychological Measurement*, 20(1), 37-46.
 : anio_crossref: 1960
   clases:
-  - '054'
+  - 029
   - '134'
   doi: 10.1177/001316446002000104
   estado: verificada
@@ -701,7 +701,7 @@ Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2.ª
   *Practical Assessment, Research & Evaluation*, 10(7).
 : anio_crossref: 2008
   clases:
-  - '061'
+  - '046'
   doi: 10.4135/9781412995627.d8
   estado: edicion-difiere
 ? Council of Europe (2001). *Common European Framework of Reference for Languages*.
@@ -714,22 +714,22 @@ Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2.ª
 Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart & Winston.:
   anio_crossref: 1971
   clases:
-  - '010'
-  - '031'
+  - '015'
+  - '061'
   doi: 10.3138/cmlr.27.2.108d
   estado: sin-verificar
 Cronbach, L. J. (1949). *Essentials of Psychological Testing*. Harper.:
   anio_crossref: 1951
   clases:
-  - '043'
+  - 008
   doi: 10.1002/sce.3730350432
   estado: sin-verificar
 Cronbach, L. J. (1951). Coefficient alpha and the internal structure of tests. *Psychometrika*, 16, 297-334.:
   anio_crossref: 1951
   clases:
-  - 009
-  - '012'
-  - '053'
+  - '014'
+  - '022'
+  - 028
   doi: 10.1007/bf02310555
   estado: verificada
 Cronbach, L. J., & Furby, L. (1970). How we should measure "change"—or should we? *Psychological Bulletin*, 74(1), 68-80.:
@@ -750,14 +750,14 @@ Cronbach, L. J., & Furby, L. (1970). How we should measure "change"—or should 
   *Psychological Bulletin*, 52(4), 281-302.
 : anio_crossref: 1955
   clases:
-  - '042'
-  - 018
+  - '007'
+  - '033'
   doi: 10.1037/h0040957
   estado: verificada
 Cronbach, L. J., Gleser, G. C., Nanda, H., & Rajaratnam, N. (1972). *The Dependability of Behavioral Measurements*. Wiley.:
   anio_crossref: 1974
   clases:
-  - '057'
+  - '037'
   doi: 10.2307/1162145
   estado: sin-verificar
 ? Curran, P. J., & Bauer, D. J. (2011). The disaggregation of within-person and between-person
@@ -792,7 +792,7 @@ Cronbach, L. J., Gleser, G. C., Nanda, H., & Rajaratnam, N. (1972). *The Dependa
 DeCarlo, L. T. (1997). On the meaning and use of kurtosis. *Psychological Methods*, 2(3), 292-307.:
   anio_crossref: 1997
   clases:
-  - '051'
+  - '026'
   doi: 10.1037/1082-989x.2.3.292
   estado: verificada
 'DeVellis, R. F. (2016). *Scale Development: Theory and Applications* (4.ª ed.).':
@@ -835,7 +835,7 @@ Donner, A., & Klar, N. (2000). *Design and Analysis of Cluster Randomization Tri
 Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*. Erlbaum.:
   anio_crossref: 2011
   clases:
-  - '046'
+  - '016'
   doi: 10.4324/9780203874776
   estado: edicion-difiere
 ? Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).
@@ -849,7 +849,7 @@ Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*.
 Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega. *British Journal of Psychology*, 105(3), 399-412.:
   anio_crossref: 2013
   clases:
-  - '013'
+  - '023'
   doi: 10.1111/bjop.12046
   estado: sin-verificar
 Ebbinghaus, H. (1885). *Über das Gedächtnis*. Duncker & Humblot.:
@@ -901,11 +901,11 @@ Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists
 Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum.:
   anio_crossref: 2025
   clases:
-  - '026'
-  - 028
-  - 029
-  - '067'
-  - 068
+  - '051'
+  - '053'
+  - '054'
+  - '057'
+  - 058
   doi: 10.4324/9781315726557
   estado: sin-verificar
 Enders, C. K. (2010). *Applied Missing Data Analysis*. Guilford.:
@@ -918,20 +918,20 @@ Enders, C. K. (2010). *Applied Missing Data Analysis*. Guilford.:
   networks. *Psychological Methods*, 23(4), 617-634.
 : anio_crossref: 2018
   clases:
-  - '064'
+  - 049
   doi: 10.1037/met0000167
   estado: verificada
 ? Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychological networks
   and their accuracy. *Behavior Research Methods*, 50(1), 195-212.
 : anio_crossref: 2017
   clases:
-  - '064'
+  - 049
   doi: 10.3758/s13428-017-0862-1
   estado: verificada
 Fabrigar, L. R., & Wegener, D. T. (2012). *Exploratory Factor Analysis*. Oxford University Press.:
   anio_crossref: 2011
   clases:
-  - '021'
+  - '041'
   doi: 10.1093/acprof:osobl/9780199734177.001.0001
   estado: verificada
 ? Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating
@@ -939,14 +939,14 @@ Fabrigar, L. R., & Wegener, D. T. (2012). *Exploratory Factor Analysis*. Oxford 
   Methods*, 4(3), 272-299.
 : anio_crossref: 1999
   clases:
-  - '022'
+  - '042'
   doi: 10.1037/1082-989x.4.3.272
   estado: verificada
 ? 'Feinstein, A. R., & Cicchetti, D. V. (1990). High agreement but low kappa: I. The
   problems of two paradoxes. *Journal of Clinical Epidemiology*, 43(6), 543-549.'
 : anio_crossref: 1990
   clases:
-  - '054'
+  - 029
   doi: 10.1016/0895-4356(90)90159-m
   estado: verificada
 ? Feldt, L. S. (1965). The approximate sampling distribution of Kuder-Richardson reliability
@@ -966,7 +966,7 @@ Fabrigar, L. R., & Wegener, D. T. (2012). *Exploratory Factor Analysis*. Oxford 
 Ferguson, G. A. (1941). The factorial interpretation of test difficulty. *Psychometrika*, 6(5), 323-329.:
   anio_crossref: 1941
   clases:
-  - '065'
+  - '050'
   doi: 10.1007/bf02288588
   estado: verificada
 ? Fisher, R. A. (1915). Frequency distribution of the values of the correlation coefficient
@@ -994,7 +994,7 @@ Flanagan, D. P., Ortiz, S. O., & Alfonso, V. C. (2013). *Essentials of Cross-Bat
   correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619.
 : anio_crossref: 1973
   clases:
-  - 048
+  - 018
   doi: 10.1177/001316447303300309
   estado: verificada
 Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*, 32(3), 221-233.:
@@ -1008,7 +1008,7 @@ Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*,
   Methods*, 9(4), 466-491.
 : anio_crossref: 2004
   clases:
-  - '065'
+  - '050'
   doi: 10.1037/1082-989x.9.4.466
   estado: verificada
 Flynn, J. R. (1987). Massive IQ gains in 14 nations. *Psychological Bulletin*, 101(2), 171-191.:
@@ -1048,7 +1048,7 @@ Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley.:
   of the Anthropological Institute*, 15, 246-263.
 : anio_crossref: 1886
   clases:
-  - '041'
+  - '006'
   doi: 10.2307/2841583
   estado: verificada
 ? Gardner, W. L., & Martinko, M. J. (1996). Using the Myers-Briggs Type Indicator
@@ -1154,13 +1154,13 @@ Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. *Psychological Bu
   test item? *Educational and Psychological Measurement*, 53(4), 999-1010.
 : anio_crossref: 1993
   clases:
-  - '047'
+  - '017'
   doi: 10.1177/0013164493053004013
   estado: verificada
 Haladyna, T. M., & Rodriguez, M. C. (2013). *Developing and Validating Test Items*. Routledge.:
   anio_crossref: 2013
   clases:
-  - '006'
+  - '011'
   - 085
   - '113'
   doi: 10.4324/9780203850381
@@ -1177,21 +1177,21 @@ Haladyna, T. M., & Rodriguez, M. C. (2013). *Developing and Validating Test Item
   Issues and Practice*, 12(3), 38-47.'
 : anio_crossref: 1998
   clases:
-  - '026'
+  - '051'
   doi: 10.1177/0013164498058003001
   estado: sin-verificar
 ? Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting
   Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum.
 : anio_crossref: 2004
   clases:
-  - '035'
+  - '065'
   - '140'
   doi: 10.4324/9781410611758
   estado: verificada
 Hambleton, R. K., Swaminathan, H., & Rogers, H. J. (1991). *Fundamentals of Item Response Theory*. Sage.:
   anio_crossref: 1992
   clases:
-  - 029
+  - '054'
   doi: 10.2307/2075521
   estado: verificada
 ? Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver
@@ -1210,8 +1210,8 @@ Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social 
 'Harvill, L. M. (1991). Standard error of measurement. *Educational Measurement: Issues and Practice*, 10(2), 33-41.':
   anio_crossref: 1991
   clases:
-  - '015'
-  - '055'
+  - '025'
+  - '030'
   doi: 10.1111/j.1745-3992.1991.tb00195.x
   estado: verificada
 ? 'Hasbrouck, J., & Tindal, G. A. (2006). Oral reading fluency norms: A valuable assessment
@@ -1233,7 +1233,7 @@ Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social 
   estimating reliability. *Communication Methods and Measures*, 14(1), 1-24.
 : anio_crossref: 2020
   clases:
-  - '013'
+  - '023'
   doi: 10.1080/19312458.2020.1718629
   estado: verificada
 ? 'Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust
@@ -1255,7 +1255,7 @@ Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social 
   measures. *Psychological Bulletin*, 74(3), 167-184.
 : anio_crossref: 1970
   clases:
-  - 008
+  - '013'
   - '104'
   doi: 10.1037/h0029780
   estado: verificada
@@ -1268,7 +1268,7 @@ Hinz, A., & Klavžar, S. (2013). *The Tower of Hanoi — Myths and Maths*. Birkh
 Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources.:
   anio_crossref: 1975
   clases:
-  - '024'
+  - '044'
   - '151'
   doi: 10.1207/s15327752jpa3901_15
   estado: edicion-difiere
@@ -1276,27 +1276,27 @@ Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Ass
   *Educational Measurement* (4.ª ed.). ACE/Praeger.
 : anio_crossref: 2027
   clases:
-  - 069
+  - 059
   doi: 10.1016/b978-0-443-26629-4.00064-2
   estado: sin-verificar
 ? Holland, P. W., & Thayer, D. T. (1988). Differential item performance and the Mantel-Haenszel
   procedure. En H. Wainer & H. I. Braun (Eds.), *Test Validity*. Lawrence Erlbaum.
 : anio_crossref: 2013
   clases:
-  - '033'
+  - '063'
   - '177'
   doi: 10.4324/9780203056905-19
   estado: edicion-difiere
 Holzinger, K. J., & Swineford, F. (1937). The bi-factor method. *Psychometrika*, 2(1), 41-54.:
   anio_crossref: 1937
   clases:
-  - '063'
+  - 048
   doi: 10.1007/bf02287965
   estado: verificada
 Horn, J. L. (1965). A rationale and test for the number of factors in factor analysis. *Psychometrika*, 30(2), 179-185.:
   anio_crossref: 1965
   clases:
-  - '022'
+  - '042'
   doi: 10.1007/bf02289447
   estado: verificada
 ? Horn, J. L., & Cattell, R. B. (1967). Age differences in fluid and crystallized
@@ -1310,15 +1310,15 @@ Horn, J. L. (1965). A rationale and test for the number of factors in factor ana
   analysis. *Structural Equation Modeling*, 6(1), 1-55.
 : anio_crossref: 1999
   clases:
-  - '023'
-  - '062'
+  - '043'
+  - '047'
   doi: 10.1080/10705519909540118
   estado: verificada
 ? Hubert, L., & Arabie, P. (1987). Evaluating order hypotheses within proximity matrices.
   *Psychological Bulletin*, 102(1), 172-178.
 : anio_crossref: 1987
   clases:
-  - '024'
+  - '044'
   doi: 10.1037//0033-2909.102.1.172
   estado: verificada
 ? Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based
@@ -1331,7 +1331,7 @@ Horn, J. L. (1965). A rationale and test for the number of factors in factor ana
 Hunter, J. E., & Schmidt, F. L. (2004). *Methods of Meta-Analysis* (2.ª ed.). Sage.:
   anio_crossref: 2004
   clases:
-  - 059
+  - 039
   doi: 10.4135/9781412985031
   estado: verificada
 ? 'Ilgen, D. R., Hollenbeck, J. R., Johnson, M., & Jundt, D. (2005). Teams in organizations:
@@ -1369,7 +1369,7 @@ Hunter, J. E., & Schmidt, F. L. (2004). *Methods of Meta-Analysis* (2.ª ed.). S
   and internet-delivered testing. *International Journal of Testing*, 6(2), 143-171.
 : anio_crossref: 2006
   clases:
-  - '037'
+  - '072'
   doi: 10.1207/s15327574ijt0602_4
   estado: verificada
 International Test Commission (2013). *ITC Guidelines on Test Use*.:
@@ -1383,8 +1383,8 @@ International Test Commission (2013). *ITC Guidelines on Test Use*.:
 International Test Commission (2013). *ITC Guidelines on Test Use*. ITC.:
   anio_crossref: 2015
   clases:
-  - '032'
-  - '037'
+  - '062'
+  - '072'
   doi: 10.1080/15305058.2015.1111221
   estado: sin-verificar
 International Test Commission (2017). *ITC Guidelines for Translating and Adapting Tests* (2.ª ed.).:
@@ -1396,8 +1396,8 @@ International Test Commission (2017). *ITC Guidelines for Translating and Adapti
 International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC.:
   anio_crossref: 2017
   clases:
-  - '035'
-  - '037'
+  - '065'
+  - '072'
   doi: 10.1080/15305058.2017.1398166
   estado: verificada
 Jacobson, N. S., & Truax, P. (1991). Clinical significance. *Journal of Consulting and Clinical Psychology*, 59(1), 12-19.:
@@ -1411,7 +1411,7 @@ Jacobson, N. S., & Truax, P. (1991). Clinical significance. *Journal of Consulti
   and Clinical Psychology*, 59(1), 12-19.'
 : anio_crossref: 1991
   clases:
-  - '015'
+  - '025'
   - '162'
   - '175'
   doi: 10.1037/0022-006x.59.1.12
@@ -1483,13 +1483,13 @@ Johnson, J. A. (2014). IPIP-NEO-120. *Journal of Research in Personality*, 51.:
 Kaiser, H. F. (1958). The varimax criterion for analytic rotation in factor analysis. *Psychometrika*, 23(3), 187-200.:
   anio_crossref: 1958
   clases:
-  - '061'
+  - '046'
   doi: 10.1007/bf02289233
   estado: verificada
 Kaiser, H. F. (1974). An index of factorial simplicity. *Psychometrika*, 39(1), 31-36.:
   anio_crossref: 1974
   clases:
-  - '021'
+  - '041'
   doi: 10.1007/bf02291575
   estado: verificada
 ? 'Kane, M. J., Conway, A. R. A., Miura, T. K., & Colflesh, G. J. H. (2007). Working
@@ -1504,7 +1504,7 @@ Kaiser, H. F. (1974). An index of factorial simplicity. *Psychometrika*, 39(1), 
   of Educational Measurement*, 50(1), 1-73.
 : anio_crossref: 2013
   clases:
-  - '016'
+  - '031'
   - '180'
   doi: 10.1111/jedm.12000
   estado: verificada
@@ -1532,20 +1532,20 @@ Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley.
   fair determination of risk scores. *ITCS 2017*.
 : anio_crossref: 2023
   clases:
-  - '034'
+  - '064'
   doi: 10.1145/3603195.3603206
   estado: edicion-difiere
 Kline, R. B. (2016). *Principles and Practice of Structural Equation Modeling* (4.ª ed.). Guilford.:
   anio_crossref: 2012
   clases:
-  - '062'
+  - '047'
   doi: 10.1080/10705511.2012.687667
   estado: edicion-difiere
 Kolen, M. J., & Brennan, R. L. (2014). *Test Equating, Scaling, and Linking* (3.ª ed.). Springer.:
   anio_crossref: 2014
   clases:
-  - '050'
-  - 069
+  - '020'
+  - 059
   doi: 10.1007/978-1-4939-0317-7
   estado: verificada
 ? Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass
@@ -1553,7 +1553,7 @@ Kolen, M. J., & Brennan, R. L. (2014). *Test Equating, Scaling, and Linking* (3.
   15(2), 155-163.
 : anio_crossref: 2016
   clases:
-  - '014'
+  - '024'
   doi: 10.1016/j.jcm.2016.02.012
   estado: verificada
 ? 'Koretz, D. (1998). Large-scale portfolio assessments in the US: Evidence pertaining
@@ -1594,7 +1594,7 @@ Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*
   of attitude measures in surveys. *Applied Cognitive Psychology*, 5(3), 213-236.
 : anio_crossref: 1991
   clases:
-  - '006'
+  - '011'
   doi: 10.1002/acp.2350050305
   estado: verificada
 ? Krueger, J., & Mueller, R. A. (2002). Unskilled, unaware, or both? *Journal of Personality
@@ -1615,14 +1615,14 @@ Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*
   *Psychometrika*, 2(3), 151-160.
 : anio_crossref: 1937
   clases:
-  - '053'
+  - 028
   doi: 10.1007/bf02288391
   estado: verificada
 ? Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical
   data. *Biometrics*, 33(1), 159-174.
 : anio_crossref: 1977
   clases:
-  - '054'
+  - 029
   doi: 10.2307/2529310
   estado: verificada
 ? 'Le, H., Oh, I.-S., Robbins, S. B., Ilies, R., Holland, E., & Westrick, P. (2011).
@@ -1677,7 +1677,7 @@ Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*
 Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology*, 140, 1-55.:
   anio_crossref: 1965
   clases:
-  - '007'
+  - '012'
   doi: 10.1080/00224545.1965.9922270
   estado: sin-verificar
 ? 'Linn, M. C., & Petersen, A. C. (1985). Emergence and characterization of sex differences
@@ -1707,7 +1707,7 @@ Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatric
   179-197.
 : anio_crossref: 1995
   clases:
-  - '040'
+  - '075'
   doi: 10.1111/j.1745-3984.1995.tb00462.x
   estado: verificada
 Lord, F. M. (1956). The measurement of growth. *Educational and Psychological Measurement*, 16(4), 421-437.:
@@ -1719,22 +1719,22 @@ Lord, F. M. (1956). The measurement of growth. *Educational and Psychological Me
 Lord, F. M. (1980). *Applications of Item Response Theory to Practical Testing Problems*. Lawrence Erlbaum.:
   anio_crossref: 2012
   clases:
-  - '026'
-  - 029
+  - '051'
+  - '054'
   doi: 10.4324/9780203056615
   estado: edicion-difiere
 Lord, F. M., & Novick, M. R. (1968). *Statistical Theories of Mental Test Scores*. Addison-Wesley.:
   anio_crossref: 1969
   clases:
-  - '044'
-  - '011'
+  - 009
+  - '021'
   doi: 10.1017/s0033312300004622
   estado: sin-verificar
 ? Lorenzo-Seva, U., & ten Berge, J. M. F. (2006). Tucker's congruence coefficient
   as a meaningful index of factor similarity. *Methodology*, 2(2), 57-64.
 : anio_crossref: 2006
   clases:
-  - '035'
+  - '065'
   doi: 10.1027/1614-2241.2.2.57
   estado: verificada
 ? Lozano, L. M., García-Cueto, E., & Muñiz, J. (2008). Effect of the number of response
@@ -1742,13 +1742,13 @@ Lord, F. M., & Novick, M. R. (1968). *Statistical Theories of Mental Test Scores
   73-79.
 : anio_crossref: 2008
   clases:
-  - '007'
+  - '012'
   doi: 10.1027/1614-2241.4.2.73
   estado: verificada
 'Lumley, T. (2010). *Complex Surveys: A Guide to Analysis Using R*. Wiley.':
   anio_crossref: 2010
   clases:
-  - '032'
+  - '062'
   doi: 10.1002/9780470580066
   estado: sin-verificar
 ? 'Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience:
@@ -1762,7 +1762,7 @@ Lord, F. M., & Novick, M. R. (1968). *Statistical Theories of Mental Test Scores
 Lynn, M. R. (1986). Determination and quantification of content validity. *Nursing Research*, 35(6), 382-385.:
   anio_crossref: 1986
   clases:
-  - '017'
+  - '032'
   - '193'
   doi: 10.1097/00006199-198611000-00017
   estado: verificada
@@ -1771,7 +1771,7 @@ Lynn, M. R. (1986). Determination and quantification of content validity. *Nursi
   Bulletin*, 111(3), 490-504.'
 : anio_crossref: 1992
   clases:
-  - '023'
+  - '043'
   doi: 10.1037/0033-2909.111.3.490
   estado: verificada
 ? MacCallum, R. C., Widaman, K. F., Zhang, S., & Hong, S. (1999). Sample size in factor
@@ -1808,13 +1808,13 @@ Lynn, M. R. (1986). Determination and quantification of content validity. *Nursi
   719-748.
 : anio_crossref: 1959
   clases:
-  - '033'
+  - '063'
   doi: 10.1093/jnci/22.4.719
   estado: verificada
 Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules. *Structural Equation Modeling*, 11(3), 320-341.:
   anio_crossref: 2002
   clases:
-  - '062'
+  - '047'
   doi: 10.1207/s15328007sem0901_2
   estado: sin-verificar
 Marston, W. M. (1928). *Emotions of Normal People*. Kegan Paul, Trench, Trubner.:
@@ -1865,7 +1865,7 @@ Marston, W. M. (1928). *Emotions of Normal People*. Kegan Paul, Trench, Trubner.
 'McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum.':
   anio_crossref: 2000
   clases:
-  - '013'
+  - '023'
   doi: 10.2307/2669496
   estado: verificada
 McGrew, K. S. (2009). CHC theory and the human cognitive abilities project. *Intelligence*, 37(1), 1-10.:
@@ -1891,14 +1891,14 @@ McKeeman, W. M. (1998). Differential testing for software. *Digital Technical Jo
 Meredith, W. (1993). Measurement invariance, factor analysis and factorial invariance. *Psychometrika*, 58(4), 525-543.:
   anio_crossref: 1993
   clases:
-  - '025'
+  - '045'
   doi: 10.1007/bf02294825
   estado: verificada
 Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749.:
   anio_crossref: 1996
   clases:
-  - '016'
-  - '020'
+  - '031'
+  - '035'
   doi: 10.1037//0003-066x.51.9.980
   estado: edicion-difiere
 Michell, J. (1999). *Measurement in Psychology*. Cambridge University Press.:
@@ -2007,13 +2007,13 @@ Norman, G. (2010). Likert scales, levels of measurement and the "laws" of:
   *Journal of Mathematical Psychology*, 3(1), 1-18.
 : anio_crossref: 1966
   clases:
-  - '011'
+  - '021'
   doi: 10.1016/0022-2496(66)90002-2
   estado: verificada
 Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill.:
   anio_crossref: 1969
   clases:
-  - '010'
+  - '015'
   - 090
   doi: 10.1017/s0033312300004567
   estado: sin-verificar
@@ -2045,7 +2045,7 @@ Ohm, P. (2010). Broken promises of privacy. *UCLA Law Review*, 57, 1701-1777.:
   *Psychometrika*, 44(4), 443-460.
 : anio_crossref: 1979
   clases:
-  - '065'
+  - '050'
   doi: 10.1007/bf02296207
   estado: verificada
 ? 'Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability
@@ -2060,7 +2060,7 @@ Ohm, P. (2010). Broken promises of privacy. *UCLA Law Review*, 57, 1701-1777.:
   for traditional and regression-based norms. *Assessment*, 23(2), 191-202.
 : anio_crossref: 2015
   clases:
-  - '072'
+  - '067'
   doi: 10.1177/1073191115580638
   estado: verificada
 Open Source Initiative. *Open Source Definition*. opensource.org.:
@@ -2102,7 +2102,7 @@ Open Source Initiative. *Open Source Definition*. opensource.org.:
   Press.
 : anio_crossref: 1991
   clases:
-  - '060'
+  - '040'
   - '110'
   doi: 10.1016/b978-0-12-590241-0.50006-x
   estado: verificada
@@ -2144,35 +2144,35 @@ Piaget, J. (1952). *The Origins of Intelligence in Children*. International Univ
   *Personnel Psychology*, 61(1), 153-172.'
 : anio_crossref: 2008
   clases:
-  - '073'
+  - 068
   doi: 10.1111/j.1744-6570.2008.00109.x
   estado: verificada
 ? Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common
   method biases in behavioral research. *Journal of Applied Psychology*, 88(5), 879-903.
 : anio_crossref: 2003
   clases:
-  - '006'
+  - '011'
   doi: 10.1037/0021-9010.88.5.879
   estado: sin-verificar
 ? Podsakoff, P. M., et al. (2003). Common method biases in behavioral research. *Journal
   of Applied Psychology*, 88(5), 879-903.
 : anio_crossref: 2003
   clases:
-  - '056'
+  - '036'
   doi: 10.1037/0021-9010.88.5.879
   estado: sin-verificar
 ? 'Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you
   know what''s being reported? *Research in Nursing & Health*, 29(5), 489-497.'
 : anio_crossref: 2006
   clases:
-  - '017'
+  - '032'
   doi: 10.1002/nur.20147
   estado: verificada
 ? Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator
   of content validity? *Research in Nursing & Health*, 30(4), 459-467.
 : anio_crossref: 2007
   clases:
-  - 049
+  - 019
   doi: 10.1002/nur.20199
   estado: verificada
 ? 'Porter, A. C. (2002). Measuring the content of instruction: Uses in research and
@@ -2194,7 +2194,7 @@ Piaget, J. (1952). *The Origins of Intelligence in Children*. International Univ
   rating scales. *Acta Psychologica*, 104(1), 1-15.
 : anio_crossref: 2000
   clases:
-  - '007'
+  - '012'
   doi: 10.1016/s0001-6918(99)00050-5
   estado: verificada
 Preston-Werner, T. *Semantic Versioning 2.0.0*. semver.org.:
@@ -2207,29 +2207,29 @@ Preston-Werner, T. *Semantic Versioning 2.0.0*. semver.org.:
   reporting. *Developmental Review*, 41, 71-90.
 : anio_crossref: 2016
   clases:
-  - '025'
-  - '075'
+  - '045'
+  - '070'
   doi: 10.1016/j.dr.2016.06.004
   estado: sin-verificar
 ? 'Pyburn, K. M., Ployhart, R. E., & Kravitz, D. A. (2008). The diversity-validity
   dilemma: Overview and legal context. *Personnel Psychology*, 61(1), 143-151.'
 : anio_crossref: 2008
   clases:
-  - '073'
+  - 068
   doi: 10.1111/j.1744-6570.2008.00108.x
   estado: verificada
 ? Rammstedt, B., & John, O. P. (2007). Measuring personality in one minute or less.
   *Journal of Research in Personality*, 41(1), 203-212.
 : anio_crossref: 2005
   clases:
-  - 009
+  - '014'
   doi: 10.1037/e633942013-629
   estado: sin-verificar
 ? Rasch, G. (1960). *Probabilistic Models for Some Intelligence and Attainment Tests*.
   Danish Institute for Educational Research.
 : anio_crossref: 2010
   clases:
-  - '027'
+  - '052'
   doi: 10.4135/9781412961288.n335
   estado: edicion-difiere
 Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108.:
@@ -2254,7 +2254,7 @@ Reason, J. (1990). *Human Error*. Cambridge University Press.:
 Reise, S. P. (2012). The rediscovery of bifactor measurement models. *Multivariate Behavioral Research*, 47(5), 667-696.:
   anio_crossref: 2012
   clases:
-  - '063'
+  - 048
   doi: 10.1080/00273171.2012.715555
   estado: verificada
 ? 'Rescorla, L. (2011). Late talkers: Do good predictors of outcome exist? *Developmental
@@ -2284,7 +2284,7 @@ Reise, S. P. (2012). The rediscovery of bifactor measurement models. *Multivaria
   137-150.'
 : anio_crossref: 2016
   clases:
-  - '063'
+  - 048
   doi: 10.1037/met0000045
   estado: verificada
 Rosenthal, R. (1979). The file drawer problem and tolerance for null results. *Psychological Bulletin*, 86(3), 638-641.:
@@ -2347,14 +2347,14 @@ SIOP (2018). *Principles for the Validation and Use of Personnel Selection Proce
   707-721.
 : anio_crossref: 1997
   clases:
-  - '073'
+  - 068
   doi: 10.1111/j.1744-6570.1997.tb00711.x
   estado: verificada
 ? 'Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded
   typology. *Journal of Applied Psychology*, 85(1), 112-118.'
 : anio_crossref: 2000
   clases:
-  - 019
+  - '034'
   doi: 10.1037/0021-9010.85.1.112
   estado: verificada
 ? Sackett, P. R., Zhang, C., Berry, C. M., & Lievens, F. (2022). Revisiting meta-analytic
@@ -2362,7 +2362,7 @@ SIOP (2018). *Principles for the Validation and Use of Personnel Selection Proce
   2040-2068.
 : anio_crossref: 2022
   clases:
-  - 039
+  - '074'
   - '112'
   doi: 10.1037/apl0000994
   estado: verificada
@@ -2377,14 +2377,14 @@ SIOP (2018). *Principles for the Validation and Use of Personnel Selection Proce
   scores. *Psychometrika Monograph Supplement*, 34(4, Pt. 2), No. 17.
 : anio_crossref: 1969
   clases:
-  - 068
+  - 058
   doi: 10.1007/bf03372160
   estado: verificada
 ? Samejima, F. (1977). A use of the information function in tailored testing. *Applied
   Psychological Measurement*, 1(3), 233-247.
 : anio_crossref: 1977
   clases:
-  - '067'
+  - '057'
   doi: 10.1177/014662167700100209
   estado: verificada
 ? Sanchez, J. I., & Levine, E. L. (2012). The rise and fall of job analysis and the
@@ -2419,9 +2419,9 @@ Schaie, K. W. (1965). A general model for the study of developmental problems. *
   in personnel psychology. *Psychological Bulletin*, 124(2), 262-274.
 : anio_crossref: 1998
   clases:
-  - 019
-  - 059
+  - '034'
   - 039
+  - '074'
   - '112'
   doi: 10.1037/0033-2909.124.2.262
   estado: verificada
@@ -2470,7 +2470,7 @@ Schaie, K. W. (1965). A general model for the study of developmental problems. *
 'Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage.':
   anio_crossref: 2004
   clases:
-  - '057'
+  - '037'
   - '143'
   doi: 10.1002/0471667196.ess1050
   estado: edicion-difiere
@@ -2484,8 +2484,8 @@ Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objec
   rater reliability. *Psychological Bulletin*, 86(2), 420-428.'
 : anio_crossref: 1979
   clases:
-  - '014'
-  - '054'
+  - '024'
+  - 029
   - '109'
   doi: 10.1037/0033-2909.86.2.420
   estado: verificada
@@ -2499,7 +2499,7 @@ Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objec
   alpha. *Psychometrika*, 74(1), 107-120.
 : anio_crossref: 2009
   clases:
-  - '012'
+  - '022'
   doi: 10.1007/s11336-008-9101-0
   estado: verificada
 ? Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology.
@@ -2514,7 +2514,7 @@ Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objec
   Research*, 75(4), 457-490.'
 : anio_crossref: 2005
   clases:
-  - '074'
+  - 069
   doi: 10.3102/00346543075004457
   estado: verificada
 'Snow, C. E. (2002). *Reading for Understanding: Toward an R&D Program in Reading Comprehension*. RAND.':
@@ -2534,7 +2534,7 @@ Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objec
   Validation and Use of Personnel Selection Procedures* (5.ª ed.). SIOP.
 : anio_crossref: 2018
   clases:
-  - 039
+  - '074'
   doi: 10.1017/iop.2018.195
   estado: verificada
 ? Spearman, C. (1904). "General intelligence," objectively determined and measured.
@@ -2548,22 +2548,22 @@ Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objec
   *American Journal of Psychology*, 15(1), 72-101.
 : anio_crossref: 1904
   clases:
-  - '011'
-  - '052'
-  - 059
+  - '021'
+  - '027'
+  - 039
   doi: 10.2307/1412159
   estado: verificada
 ? Spearman, C. (1904). «General intelligence» objectively determined and measured.
   *American Journal of Psychology*, 15(2), 201-292.
 : anio_crossref: 1904
   clases:
-  - '041'
+  - '006'
   doi: 10.2307/1412107
   estado: verificada
 Spearman, C. (1910). Correlation calculated from faulty data. *British Journal of Psychology*, 3, 271-295.:
   anio_crossref: 1910
   clases:
-  - 009
+  - '014'
   doi: 10.1111/j.2044-8295.1910.tb00206.x
   estado: verificada
 Spranger, E. (1928). *Types of Men*. Niemeyer.:
@@ -2637,14 +2637,14 @@ Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.:
   Journal of Medical Education*, 2, 53-55.
 : anio_crossref: 2011
   clases:
-  - '012'
+  - '022'
   doi: 10.5116/ijme.4dfb.8dfd
   estado: verificada
 ? Terwee, C. B., et al. (2007). Quality criteria were proposed for measurement properties
   of health status questionnaires. *Journal of Clinical Epidemiology*, 60(1), 34-42.
 : anio_crossref: 2007
   clases:
-  - '051'
+  - '026'
   doi: 10.1016/j.jclinepi.2006.03.012
   estado: verificada
 ? Thapa, A., Cohen, J., Guffey, S., & Higgins-D'Alessandro, A. (2013). A review of
@@ -2664,13 +2664,13 @@ Thomas, A., & Chess, S. (1977). *Temperament and Development*. Brunner/Mazel.:
   to Large Scale Assessments* (NCEO Synthesis Report 44). University of Minnesota.
 : anio_crossref: 2008
   clases:
-  - '074'
+  - 069
   doi: 10.1111/j.1745-3992.2008.00112.x
   estado: sin-verificar
 Thorndike, R. L. (1949). *Personnel Selection*. Wiley.:
   anio_crossref: 2015
   clases:
-  - 019
+  - '034'
   doi: 10.1002/9781118785317.weom050103
   estado: edicion-difiere
 Thurstone, L. L. (1938). *Primary Mental Abilities*. University of Chicago Press.:
@@ -2691,7 +2691,7 @@ Thurstone, L. L. (1938). *Primary Mental Abilities*. University of Chicago Press
   models: A structural meta-analysis. *Psychological Bulletin*, 113(2), 229-246.'
 : anio_crossref: 1993
   clases:
-  - '024'
+  - '044'
   doi: 10.1037/0033-2909.113.2.229
   estado: verificada
 Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12(1), 97-136.:
@@ -2703,7 +2703,7 @@ Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention.
 Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley.:
   anio_crossref: 1977
   clases:
-  - '045'
+  - '010'
   doi: 10.1007/bf02295986
   estado: sin-verificar
 ? 'Turner-Stokes, L. (2009). Goal attainment scaling (GAS) in rehabilitation: A practical
@@ -2716,7 +2716,7 @@ Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley.:
 Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.).:
   anio_crossref: 2025
   clases:
-  - '020'
+  - '035'
   - '120'
   doi: 10.1002/9781119272298.app03
   estado: sin-verificar
@@ -2736,7 +2736,7 @@ Vacha-Haase, T. (1998). Reliability generalization. *Educational and Psychologic
   invariance literature. *Organizational Research Methods*, 3(1), 4-70.
 : anio_crossref: 2000
   clases:
-  - '025'
+  - '045'
   doi: 10.1177/109442810031002
   estado: verificada
 ? Vinchur, A. J., Schippmann, J. S., Switzer, F. S., & Roth, P. L. (1998). A meta-analytic
@@ -2751,7 +2751,7 @@ Vacha-Haase, T. (1998). Reliability generalization. *Educational and Psychologic
   and Psychological Measurement*, 59(2), 197-210.
 : anio_crossref: 1999
   clases:
-  - '060'
+  - '040'
   doi: 10.1177/00131649921969802
   estado: verificada
 Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.:
@@ -2792,7 +2792,7 @@ W3C. *Web Content Accessibility Guidelines (WCAG) 2.x*. w3.org/TR/WCAG2.:
 'Wainer, H., et al. (2000). *Computerized Adaptive Testing: A Primer* (2.ª ed.). Lawrence Erlbaum.':
   anio_crossref: 2000
   clases:
-  - '030'
+  - '055'
   doi: 10.4324/9781410605931
   estado: verificada
 ? Warm, J. S., Parasuraman, R., & Matthews, G. (2008). Vigilance requires hard mental
@@ -2812,7 +2812,7 @@ W3C. *Web Content Accessibility Guidelines (WCAG) 2.x*. w3.org/TR/WCAG2.:
   *Educational Measurement: Issues and Practice*, 17(4), 17-27.'
 : anio_crossref: 1998
   clases:
-  - '070'
+  - '060'
   - 080
   doi: 10.1111/j.1745-3992.1998.tb00632.x
   estado: verificada
@@ -2841,14 +2841,14 @@ Weijters, B., Baumgartner, H., & Schillewaert, N. (2013). Reversed item bias.:
   231-240.
 : anio_crossref: 2005
   clases:
-  - '014'
+  - '024'
   doi: 10.1519/00124278-200502000-00038
   estado: verificada
 ? Weiss, D. J. (1982). Improving measurement quality and efficiency with adaptive
   testing. *Applied Psychological Measurement*, 6(4), 473-492.
 : anio_crossref: 1982
   clases:
-  - '030'
+  - '055'
   doi: 10.1177/014662168200600408
   estado: verificada
 Whelan, R. (2008). Effective analysis of reaction time data. *The Psychological Record*, 58(3), 475-482.:
@@ -2875,7 +2875,7 @@ Whelan, R. (2008). Effective analysis of reaction time data. *The Psychological 
 Wilcox, R. R. (2012). *Introduction to Robust Estimation and Hypothesis Testing* (3.ª ed.). Academic Press.:
   anio_crossref: 2012
   clases:
-  - '045'
+  - '010'
   doi: 10.1016/b978-0-12-386983-8.00002-0
   estado: sin-verificar
 ? Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data
@@ -2894,7 +2894,7 @@ Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles. *Scientific Data*,
 Willis, G. B. (2005). *Cognitive Interviewing*. Sage.:
   anio_crossref: 2005
   clases:
-  - 049
+  - 019
   doi: 10.4135/9781412983655
   estado: verificada
 ? Wilson, E. B. (1927). Probable inference, the law of succession, and statistical
@@ -2914,7 +2914,7 @@ Wise, S. L., & Kong, X. (2005). Response time effort. *Applied Measurement in Ed
   motivation in computer-based tests. *Applied Measurement in Education*, 18(2), 163-183.'
 : anio_crossref: 2005
   clases:
-  - 058
+  - 038
   doi: 10.1207/s15324818ame1802_2
   estado: verificada
 ? 'Woehr, D. J., & Huffcutt, A. I. (1994). Rater training for performance appraisal:
@@ -2935,14 +2935,14 @@ Wise, S. L., & Kong, X. (2005). Response time effort. *Applied Measurement in Ed
 Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.:
   anio_crossref: 2017
   clases:
-  - '027'
+  - '052'
   doi: 10.1007/978-3-319-67304-2_6
   estado: sin-verificar
 ? 'Zachary, R. A., & Gorsuch, R. L. (1985). Continuous norming: Implications for the
   WAIS-R. *Journal of Clinical Psychology*, 41(1), 86-94.'
 : anio_crossref: 1985
   clases:
-  - '072'
+  - '067'
   doi: 10.1002/1097-4679(198501)41:1<86::aid-jclp2270410115>3.0.co;2-w
   estado: verificada
 ? 'Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work:
@@ -2950,7 +2950,7 @@ Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.:
   Issues and Practice*, 31(2), 12-20.'
 : anio_crossref: 2012
   clases:
-  - 038
+  - '073'
   doi: 10.1111/j.1745-3992.2012.00231.x
   estado: verificada
 ? Zermelo, E. (1929). Die Berechnung der Turnier-Ergebnisse als ein Maximumproblem
@@ -2964,7 +2964,7 @@ Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.:
   in Personality Assessment*. Oxford University Press.
 : anio_crossref: 2011
   clases:
-  - '060'
+  - '040'
   - '110'
   doi: 10.1093/acprof:oso/9780195387476.001.0001
   estado: verificada
@@ -2978,7 +2978,7 @@ Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.:
 Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Procedures*. ETS Research Report RR-12-08.:
   anio_crossref: null
   clases:
-  - '033'
+  - '063'
   doi: null
   estado: sin-verificar
 '`instruments/onet-riasec-sf.yaml` y `DISCLAIMER.md` del repositorio.':
@@ -2998,8 +2998,8 @@ Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Proc
 van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer.:
   anio_crossref: 2010
   clases:
-  - '030'
-  - '070'
+  - '055'
+  - '060'
   doi: 10.1007/978-0-387-85461-8
   estado: verificada
 van der Linden, W. J., & Glas, C. A. W. (Eds.) (2010). *Elements of Adaptive Testing*. Springer.:

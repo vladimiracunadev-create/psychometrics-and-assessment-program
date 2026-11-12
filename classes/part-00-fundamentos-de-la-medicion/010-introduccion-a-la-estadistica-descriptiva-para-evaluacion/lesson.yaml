@@ -1,0 +1,7 @@
+id: "010"
+numero: 10
+titulo: "Introducción a la estadística descriptiva para evaluación"
+parte: "00"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

@@ -7,7 +7,7 @@ sus respuestas. Se calculan las correlaciones entre valores:
   - tras CENTRAR por la media de cada persona (corrige el estilo; Schwartz, 1992):
     reaparece el patron: vecinos positivos, opuestos negativos.
 Se cuantifica con la correlacion promedio por distancia en el circulo. Nota: centrar convierte
-las respuestas en parcialmente ipsativas (efecto -1/(k-1), clase 008).
+las respuestas en parcialmente ipsativas (efecto -1/(k-1), clase 013).
 """
 from __future__ import annotations
 

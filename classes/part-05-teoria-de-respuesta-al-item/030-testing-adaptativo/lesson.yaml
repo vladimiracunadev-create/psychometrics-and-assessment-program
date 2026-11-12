@@ -1,7 +1,0 @@
-id: "030"
-numero: 30
-titulo: "Testing adaptativo informatizado"
-parte: "05"
-horas_estimadas: 6
-estado: escrita
-laboratorio: lab.py

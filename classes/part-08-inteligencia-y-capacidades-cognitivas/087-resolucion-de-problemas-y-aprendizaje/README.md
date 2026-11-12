@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 011 y 015.
+**Prerrequisitos:** clases 021 y 025.
 
 ## Objetivos
 
@@ -38,7 +38,7 @@ La fórmula coincide con la simulación. Con r mayor, la ganancia es menos fiabl
 - Etiquetar a alguien como «aprende rápido» o «lento» por un par de puntajes.
 - Ignorar el efecto techo y la regresión a la media.
 - Los resultados de grupo (efecto de un programa) son más fiables que los individuales.
-- Preferir el nivel post controlando por el pre, o el cambio fiable (clase 015).
+- Preferir el nivel post controlando por el pre, o el cambio fiable (clase 025).
 
 ## Ejercicios
 

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 054 y 057.
+**Prerrequisitos:** clases 029 y 037.
 
 ## Objetivos
 

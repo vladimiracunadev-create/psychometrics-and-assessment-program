@@ -32,7 +32,7 @@
     - "Explicar la teoría clásica (observado = verdadero + error)."
     - "Calcular e interpretar alfa, omega, KR-20 y kappa."
     - "Obtener el error típico de medida y un intervalo para un puntaje individual."
-  como_estudiarla: "Empieza por la clase 011, que es la base de toda la parte. Luego sigue el orden indicado; las clases 051 a 055 amplían lo anterior con correlación, KR-20, acuerdo entre evaluadores e intervalos."
+  como_estudiarla: "Empieza por la clase 021, que es la base de toda la parte. Luego sigue el orden indicado; las clases 026 a 030 amplían lo anterior con correlación, KR-20, acuerdo entre evaluadores e intervalos."
 '03':
   de_que_trata: "La pregunta que realmente importa: qué autoriza a interpretar un puntaje como aquello que se dice que mide. Validez de contenido, de constructo, de criterio, consecuencias del uso y amenazas."
   por_que_importa: "Un test puede ser muy fiable y medir otra cosa. La validez no es una propiedad del test sino de la interpretación y el uso que se hace de sus puntajes."
@@ -42,7 +42,7 @@
     - "Distinguir tipos de evidencia de validez y sus límites."
     - "Leer una matriz multirrasgo-multimétodo."
     - "Reconocer amenazas como el falseamiento y la deseabilidad social."
-  como_estudiarla: "Después de la parte 02. Lee la clase 016 primero: reordena la forma de pensar el resto."
+  como_estudiarla: "Después de la parte 02. Lee la clase 031 primero: reordena la forma de pensar el resto."
 '04':
   de_que_trata: "Cómo se somete a prueba la estructura que un instrumento afirma tener (cuántas dimensiones, qué ítems pertenecen a cuál) y qué significa que los datos la contradigan."
   por_que_importa: "Las escalas se interpretan según su estructura. Si los ítems no se agrupan como se supone, los puntajes por escala pierden sentido."

@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 034, 039 y 076.
+**Prerrequisitos:** clases 064, 074 y 076.
 
 > Material educativo, no asesoría jurídica. Verifique el alcance de los derechos en el texto vigente de la Ley 21.719 (clase 076).
 
@@ -36,7 +36,7 @@ Persona B: 0,50·50 + 0,35·70 + 0,15·60 = 25 + 24,5 + 9 = 58,5. Está a 1,5 pu
 - Los pesos del laboratorio son un ejemplo sin validez demostrada.
 - Una «explicación» puede ser engañosa si no refleja el cálculo real.
 - Automatizar sin posibilidad de apelación.
-- Un modelo transparente puede igualmente discriminar: la transparencia no reemplaza el análisis de equidad (clase 034).
+- Un modelo transparente puede igualmente discriminar: la transparencia no reemplaza el análisis de equidad (clase 064).
 
 ## Ejercicios
 

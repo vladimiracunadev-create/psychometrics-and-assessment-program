@@ -1,0 +1,7 @@
+id: "055"
+numero: 55
+titulo: "Testing adaptativo informatizado"
+parte: "05"
+horas_estimadas: 6
+estado: escrita
+laboratorio: lab.py

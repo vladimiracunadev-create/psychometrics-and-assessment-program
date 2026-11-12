@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 109 y 052.
+**Prerrequisitos:** clases 109 y 027.
 
 ## Objetivos
 

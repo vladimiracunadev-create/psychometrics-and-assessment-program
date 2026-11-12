@@ -1,0 +1,7 @@
+id: "028"
+numero: 28
+titulo: "Fiabilidad de pruebas dicotómicas: KR-20"
+parte: "02"
+horas_estimadas: 4
+estado: escrita
+laboratorio: lab.py

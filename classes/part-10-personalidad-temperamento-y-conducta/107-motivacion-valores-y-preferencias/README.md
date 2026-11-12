@@ -3,7 +3,7 @@
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`
-**Prerrequisitos:** clases 005, 008 y 024.
+**Prerrequisitos:** clases 005, 013 y 044.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@
 
 ## Fundamentos
 
-Spranger (1928) describió seis tipos de valor; Allport, Vernon y Lindzey (1960) los operacionalizaron; Schwartz (1992) propuso una estructura circular de valores universales con motivaciones compatibles adyacentes y opuestas enfrentadas. El **centrado por persona** (restar su media) corrige el estilo de respuesta que hace correlacionar positivamente todos los valores (Schwartz, 1992), pero vuelve los puntajes relativos y parcialmente ipsativos (clase 008). El instrumento `valores-spranger` del repositorio usa ítems propios y está sin validar.
+Spranger (1928) describió seis tipos de valor; Allport, Vernon y Lindzey (1960) los operacionalizaron; Schwartz (1992) propuso una estructura circular de valores universales con motivaciones compatibles adyacentes y opuestas enfrentadas. El **centrado por persona** (restar su media) corrige el estilo de respuesta que hace correlacionar positivamente todos los valores (Schwartz, 1992), pero vuelve los puntajes relativos y parcialmente ipsativos (clase 013). El instrumento `valores-spranger` del repositorio usa ítems propios y está sin validar.
 
 Laboratorio (6 valores circulares, 4 000 personas, correlación media por distancia en el círculo):
 

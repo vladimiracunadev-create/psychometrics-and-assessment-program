@@ -71,7 +71,7 @@ matriz de facetas por número de ítems previstos, decidida *antes* de escribir.
 ### Sobreproducir para poder descartar
 
 Un banco parte con dos o tres veces los ítems que sobrevivirán. El pilotaje
-(parte 01, clase 10) descarta los que no correlacionan con su escala, los que
+(parte 01, clase 15) descarta los que no correlacionan con su escala, los que
 correlacionan con la escala equivocada y los que casi nadie responde.
 
 Descartar es parte del método, no una señal de fracaso. Lo que sí es un fracaso

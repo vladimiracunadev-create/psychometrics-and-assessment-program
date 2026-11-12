@@ -76,7 +76,7 @@ def main() -> None:
     print()
     print("Lectura: la dificultad (pasos y condicionales) se controla por diseno, y la clave se calcula")
     print("y se verifica por codigo, sin errores de transcripcion. Esa dificultad 'de diseno' debe")
-    print("contrastarse con datos (clase 010) y vigilar que no mida solo memoria de trabajo (clase 095)")
+    print("contrastarse con datos (clase 015) y vigilar que no mida solo memoria de trabajo (clase 095)")
     print("o lectura (clase 084). Un instrumento laboral requiere ademas evidencia de validez para el puesto.")
 
 
