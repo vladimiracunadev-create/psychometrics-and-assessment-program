@@ -56,6 +56,8 @@ Se logra si el estudiante distingue resultado de rasgo y evita etiquetas.
 
 ## Bibliografía
 
-- Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist*, 59(1), 20-28.
-- Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. *Child Development*, 71(3), 543-562.
-- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.
+- Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist*, 59(1), 20-28. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. *Child Development*, 71(3), 543-562. ✅ [DOI](https://doi.org/10.1111/1467-8624.00164)
+- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman. ⚠️ existe, pero Crossref registra 1999 (¿otra edición?; [DOI](https://doi.org/10.1891/0889-8391.13.2.158))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

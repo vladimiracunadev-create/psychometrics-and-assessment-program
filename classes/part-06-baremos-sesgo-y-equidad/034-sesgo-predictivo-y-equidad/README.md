@@ -56,6 +56,8 @@ Se logra si el estudiante evalúa sesgo predictivo y discute definiciones de equ
 
 ## Bibliografía
 
-- Cleary, T. A. (1968). Test bias: Prediction of grades of Negro and white students in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124.
-- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent trade-offs in the fair determination of risk scores. *ITCS 2017*.
-- Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163.
+- Cleary, T. A. (1968). Test bias: Prediction of grades of Negro and white students in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124. ✅ [DOI](https://doi.org/10.1111/j.1745-3984.1968.tb00613.x)
+- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent trade-offs in the fair determination of risk scores. *ITCS 2017*. ⚠️ existe, pero Crossref registra 2023 (¿otra edición?; [DOI](https://doi.org/10.1145/3603195.3603206))
+- Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

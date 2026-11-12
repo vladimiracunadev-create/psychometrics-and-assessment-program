@@ -56,6 +56,8 @@ Se logra si el estudiante separa estrategia y capacidad al interpretar tiempos.
 
 ## Bibliografía
 
-- Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108.
-- Heitz, R. P. (2014). The speed-accuracy tradeoff: History, physiology, methodology, and behavior. *Frontiers in Neuroscience*, 8, 150.
-- Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review*, 103(3), 403-428.
+- Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108. ✅ [DOI](https://doi.org/10.1037/0033-295x.85.2.59)
+- Heitz, R. P. (2014). The speed-accuracy tradeoff: History, physiology, methodology, and behavior. *Frontiers in Neuroscience*, 8, 150. ✅ [DOI](https://doi.org/10.3389/fnins.2014.00150)
+- Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review*, 103(3), 403-428. ✅ [DOI](https://doi.org/10.1037/0033-295x.103.3.403)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

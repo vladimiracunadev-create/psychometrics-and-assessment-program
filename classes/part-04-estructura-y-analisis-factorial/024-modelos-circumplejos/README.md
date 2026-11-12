@@ -53,6 +53,8 @@ Se logra si el estudiante calcula el índice y discute su alcance.
 
 ## Bibliografía
 
-- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources.
-- Hubert, L., & Arabie, P. (1987). Evaluating order hypotheses within proximity matrices. *Psychological Bulletin*, 102(1), 172-178.
-- Tracey, T. J., & Rounds, J. (1993). Evaluating Holland's and Gati's vocational-interest models: A structural meta-analysis. *Psychological Bulletin*, 113(2), 229-246.
+- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources. ⚠️ existe, pero Crossref registra 1975 (¿otra edición?; [DOI](https://doi.org/10.1207/s15327752jpa3901_15))
+- Hubert, L., & Arabie, P. (1987). Evaluating order hypotheses within proximity matrices. *Psychological Bulletin*, 102(1), 172-178. ✅ [DOI](https://doi.org/10.1037//0033-2909.102.1.172)
+- Tracey, T. J., & Rounds, J. (1993). Evaluating Holland's and Gati's vocational-interest models: A structural meta-analysis. *Psychological Bulletin*, 113(2), 229-246. ✅ [DOI](https://doi.org/10.1037/0033-2909.113.2.229)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

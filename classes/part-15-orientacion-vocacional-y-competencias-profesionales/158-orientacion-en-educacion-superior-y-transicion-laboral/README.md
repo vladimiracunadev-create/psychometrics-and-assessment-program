@@ -59,6 +59,8 @@ Se logra si el estudiante evalúa un modelo de alerta, lo audita por grupo y def
 
 ## Bibliografía
 
-- Tinto, V. (1993). *Leaving College: Rethinking the Causes and Cures of Student Attrition* (2.ª ed.). University of Chicago Press.
-- Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? *The High School Journal*, 96(2), 77-100.
-- Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org.
+- Tinto, V. (1993). *Leaving College: Rethinking the Causes and Cures of Student Attrition* (2.ª ed.). University of Chicago Press. ⚠️ existe, pero Crossref registra 1987 (¿otra edición?; [DOI](https://doi.org/10.2307/40250027))
+- Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? *The High School Journal*, 96(2), 77-100. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

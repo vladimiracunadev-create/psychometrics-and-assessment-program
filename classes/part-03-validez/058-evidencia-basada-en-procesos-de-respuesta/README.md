@@ -53,5 +53,7 @@ Se logra si el estudiante usa tiempos como evidencia sin sobreinterpretarlos.
 
 ## Bibliografía
 
-- Wise, S. L., & Kong, X. (2005). Response time effort: A new measure of examinee motivation in computer-based tests. *Applied Measurement in Education*, 18(2), 163-183.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Wise, S. L., & Kong, X. (2005). Response time effort: A new measure of examinee motivation in computer-based tests. *Applied Measurement in Education*, 18(2), 163-183. ✅ [DOI](https://doi.org/10.1207/s15324818ame1802_2)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

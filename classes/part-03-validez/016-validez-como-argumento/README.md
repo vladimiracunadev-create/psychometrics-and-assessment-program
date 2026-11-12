@@ -56,6 +56,8 @@ Se logra si el estudiante redacta un argumento con inferencias y evidencia falta
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749.
-- Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement*, 50(1), 1-73.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749. ⚠️ existe, pero Crossref registra 1996 (¿otra edición?; [DOI](https://doi.org/10.1037//0003-066x.51.9.980))
+- Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement*, 50(1), 1-73. ✅ [DOI](https://doi.org/10.1111/jedm.12000)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

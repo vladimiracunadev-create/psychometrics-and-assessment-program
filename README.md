@@ -2,7 +2,7 @@
 
 # 🧠 Psychometrics and Assessment Program
 
-## **20 partes · 200 clases · 5 instrumentos · 344 ítems · de qué significa medir a cómo se certifica**
+## **20 partes · 200 clases · 140 fichas de instrumentos (5 ejecutables con 344 ítems) · de qué significa medir a cómo se certifica**
 
 **Programa de aprendizaje y motor ejecutable de psicometría: cómo se construye,
 se puntúa, se valida y se audita un instrumento de medición psicológica —

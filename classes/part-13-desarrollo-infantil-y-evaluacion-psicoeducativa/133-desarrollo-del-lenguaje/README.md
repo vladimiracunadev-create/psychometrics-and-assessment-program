@@ -53,5 +53,7 @@ Se logra si el estudiante distingue recuperación estadística de recuperación 
 
 ## Bibliografía
 
-- Fenson, L., et al. (1994). Variability in early communicative development. *Monographs of the Society for Research in Child Development*, 59(5).
-- Rescorla, L. (2011). Late talkers: Do good predictors of outcome exist? *Developmental Disabilities Research Reviews*, 17(2), 141-150.
+- Fenson, L., et al. (1994). Variability in early communicative development. *Monographs of the Society for Research in Child Development*, 59(5). ✅ [DOI](https://doi.org/10.2307/1166093)
+- Rescorla, L. (2011). Late talkers: Do good predictors of outcome exist? *Developmental Disabilities Research Reviews*, 17(2), 141-150. ✅ [DOI](https://doi.org/10.1002/ddrr.1108)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -59,6 +59,8 @@ Se logra si el estudiante evalúa legibilidad y decide si la complejidad es pert
 
 ## Bibliografía
 
-- Szigriszt Pazos, F. (1993). *Sistemas predictivos de legibilidad del mensaje escrito: fórmula de perspicuidad*. Tesis doctoral, Universidad Complutense de Madrid.
-- Barrio-Cantalejo, I. M., et al. (2008). Validación de la escala INFLESZ para evaluar la legibilidad de los textos dirigidos a pacientes. *Anales del Sistema Sanitario de Navarra*, 31(2), 135-152.
-- Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*, 32(3), 221-233.
+- Szigriszt Pazos, F. (1993). *Sistemas predictivos de legibilidad del mensaje escrito: fórmula de perspicuidad*. Tesis doctoral, Universidad Complutense de Madrid. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Barrio-Cantalejo, I. M., et al. (2008). Validación de la escala INFLESZ para evaluar la legibilidad de los textos dirigidos a pacientes. *Anales del Sistema Sanitario de Navarra*, 31(2), 135-152. ✅ [DOI](https://doi.org/10.4321/s1137-66272008000300004)
+- Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*, 32(3), 221-233. ✅ [DOI](https://doi.org/10.1037/h0057532)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

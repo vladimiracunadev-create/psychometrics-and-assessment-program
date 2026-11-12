@@ -54,6 +54,8 @@ Se logra si el estudiante diseña un plan de adaptación y evaluación de equiva
 
 ## Bibliografía
 
-- Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum.
-- International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC.
-- Lorenzo-Seva, U., & ten Berge, J. M. F. (2006). Tucker's congruence coefficient as a meaningful index of factor similarity. *Methodology*, 2(2), 57-64.
+- Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.4324/9781410611758)
+- International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC. ✅ [DOI](https://doi.org/10.1080/15305058.2017.1398166)
+- Lorenzo-Seva, U., & ten Berge, J. M. F. (2006). Tucker's congruence coefficient as a meaningful index of factor similarity. *Methodology*, 2(2), 57-64. ✅ [DOI](https://doi.org/10.1027/1614-2241.2.2.57)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

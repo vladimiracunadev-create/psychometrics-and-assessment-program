@@ -55,6 +55,8 @@ Se logra si el estudiante interpreta comparaciones de edad con las amenazas expl
 
 ## Bibliografía
 
-- Horn, J. L., & Cattell, R. B. (1967). Age differences in fluid and crystallized intelligence. *Acta Psychologica*, 26, 107-129.
-- Schaie, K. W. (1965). A general model for the study of developmental problems. *Psychological Bulletin*, 64(2), 92-107.
-- Flynn, J. R. (1987). Massive IQ gains in 14 nations. *Psychological Bulletin*, 101(2), 171-191.
+- Horn, J. L., & Cattell, R. B. (1967). Age differences in fluid and crystallized intelligence. *Acta Psychologica*, 26, 107-129. ✅ [DOI](https://doi.org/10.1016/0001-6918(67)90011-x)
+- Schaie, K. W. (1965). A general model for the study of developmental problems. *Psychological Bulletin*, 64(2), 92-107. ✅ [DOI](https://doi.org/10.1037/h0022371)
+- Flynn, J. R. (1987). Massive IQ gains in 14 nations. *Psychological Bulletin*, 101(2), 171-191. ✅ [DOI](https://doi.org/10.1037/0033-2909.101.2.171)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -55,6 +55,8 @@ Se logra si el estudiante verifica reproducibilidad y documenta el entorno.
 
 ## Bibliografía
 
-- Nosek, B. A., et al. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606.
-- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018.
-- Peng, R. D. (2011). Reproducible research in computational science. *Science*, 334, 1226-1227.
+- Nosek, B. A., et al. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606. ✅ [DOI](https://doi.org/10.1073/pnas.1708274114)
+- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018. ⚠️ existe, pero Crossref registra 2018 (¿otra edición?; [DOI](https://doi.org/10.3410/f.726216348.793543848))
+- Peng, R. D. (2011). Reproducible research in computational science. *Science*, 334, 1226-1227. ✅ [DOI](https://doi.org/10.1126/science.1213847)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

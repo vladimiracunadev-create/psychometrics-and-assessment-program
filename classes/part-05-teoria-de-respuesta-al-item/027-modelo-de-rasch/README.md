@@ -59,6 +59,8 @@ Se logra si el estudiante estima parámetros y discute los supuestos.
 
 ## Bibliografía
 
-- Rasch, G. (1960). *Probabilistic Models for Some Intelligence and Attainment Tests*. Danish Institute for Educational Research.
-- Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.
-- Andrich, D. (1988). *Rasch Models for Measurement*. Sage.
+- Rasch, G. (1960). *Probabilistic Models for Some Intelligence and Attainment Tests*. Danish Institute for Educational Research. ⚠️ existe, pero Crossref registra 2010 (¿otra edición?; [DOI](https://doi.org/10.4135/9781412961288.n335))
+- Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Andrich, D. (1988). *Rasch Models for Measurement*. Sage. ✅ [DOI](https://doi.org/10.4135/9781412985598)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

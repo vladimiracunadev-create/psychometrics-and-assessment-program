@@ -58,6 +58,8 @@ Se logra si el estudiante produce un plan con hipótesis, análisis y N justific
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4.ª ed.). Sage.
-- Boateng, G. O., et al. (2018). Best practices for developing and validating scales for health, social, and behavioral research: A primer. *Frontiers in Public Health*, 6, 149.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4.ª ed.). Sage. ⚠️ existe, pero Crossref registra 1992 (¿otra edición?; [DOI](https://doi.org/10.2307/2075704))
+- Boateng, G. O., et al. (2018). Best practices for developing and validating scales for health, social, and behavioral research: A primer. *Frontiers in Public Health*, 6, 149. ✅ [DOI](https://doi.org/10.3389/fpubh.2018.00149)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

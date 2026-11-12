@@ -57,6 +57,8 @@ Se logra si el estudiante calcula tasas y razones y redacta una evaluación de c
 
 ## Bibliografía
 
-- Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.).
+- Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749. ⚠️ existe, pero Crossref registra 1996 (¿otra edición?; [DOI](https://doi.org/10.1037//0003-066x.51.9.980))
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

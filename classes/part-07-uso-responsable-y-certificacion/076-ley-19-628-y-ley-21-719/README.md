@@ -52,6 +52,8 @@ Se logra si el estudiante inventaría datos y justifica minimización con base e
 
 ## Bibliografía y fuentes
 
-- Biblioteca del Congreso Nacional de Chile (bcn.cl). Ley 19.628 sobre protección de la vida privada y Ley 21.719 que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales (texto vigente: verificar).
-- Academia Judicial de Chile. *Ley 21.719* (actualización normativa).
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing* (privacidad y confidencialidad).
+- Biblioteca del Congreso Nacional de Chile (bcn.cl). Ley 19.628 sobre protección de la vida privada y Ley 21.719 que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales (texto vigente: verificar). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Academia Judicial de Chile. *Ley 21.719* (actualización normativa). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing* (privacidad y confidencialidad). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

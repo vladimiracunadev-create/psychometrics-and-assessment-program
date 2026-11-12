@@ -121,8 +121,10 @@ python classes/part-00-fundamentos-de-la-medicion/001-que-significa-medir-lo-que
 
 ## Bibliografía
 
-- Borsboom, D. (2005). *Measuring the Mind: Conceptual Issues in Contemporary
+- Borsboom, D. (2005). *Measuring the Mind: Conceptual Issues in Contemporary 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
   Psychometrics*. Cambridge University Press. Cap. 1.
-- Michell, J. (1999). *Measurement in Psychology*. Cambridge University Press.
-- AERA, APA & NCME (2014). *Standards for Educational and Psychological
+- Michell, J. (1999). *Measurement in Psychology*. Cambridge University Press. ✅ [DOI](https://doi.org/10.1017/cbo9780511490040)
+- AERA, APA & NCME (2014). *Standards for Educational and Psychological 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
   Testing*. Cap. 1.
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Society for Industrial and Organizational Psychology (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.).
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Society for Industrial and Organizational Psychology (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.). ✅ [DOI](https://doi.org/10.1017/iop.2018.195)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

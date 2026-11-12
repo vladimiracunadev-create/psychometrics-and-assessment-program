@@ -53,7 +53,9 @@ Se logra si el estudiante calcula tetradas y discute el alcance de cada modelo.
 
 ## Bibliografía
 
-- Spearman, C. (1904). "General intelligence," objectively determined and measured. *American Journal of Psychology*, 15(2), 201-292.
-- Thurstone, L. L. (1938). *Primary Mental Abilities*. University of Chicago Press.
-- Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press.
-- McGrew, K. S. (2009). CHC theory and the human cognitive abilities project. *Intelligence*, 37(1), 1-10.
+- Spearman, C. (1904). "General intelligence," objectively determined and measured. *American Journal of Psychology*, 15(2), 201-292. ✅ [DOI](https://doi.org/10.2307/1412107)
+- Thurstone, L. L. (1938). *Primary Mental Abilities*. University of Chicago Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press. ✅ [DOI](https://doi.org/10.1017/cbo9780511571312)
+- McGrew, K. S. (2009). CHC theory and the human cognitive abilities project. *Intelligence*, 37(1), 1-10. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

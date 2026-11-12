@@ -55,5 +55,7 @@ Se logra si el estudiante calcula brechas, incorpora incertidumbre y planifica u
 
 ## Bibliografía
 
-- OECD (2019). *OECD Skills Outlook 2019: Thriving in a Digital World*. OECD Publishing.
-- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley.
+- OECD (2019). *OECD Skills Outlook 2019: Thriving in a Digital World*. OECD Publishing. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

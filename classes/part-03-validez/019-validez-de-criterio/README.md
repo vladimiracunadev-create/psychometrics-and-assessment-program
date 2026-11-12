@@ -67,6 +67,8 @@ Se logra si el estudiante aplica la corrección y traduce la validez a decisione
 
 ## Bibliografía
 
-- Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded typology. *Journal of Applied Psychology*, 85(1), 112-118.
-- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274.
-- Thorndike, R. L. (1949). *Personnel Selection*. Wiley.
+- Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded typology. *Journal of Applied Psychology*, 85(1), 112-118. ✅ [DOI](https://doi.org/10.1037/0021-9010.85.1.112)
+- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.2.262)
+- Thorndike, R. L. (1949). *Personnel Selection*. Wiley. ⚠️ existe, pero Crossref registra 2015 (¿otra edición?; [DOI](https://doi.org/10.1002/9781118785317.weom050103))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

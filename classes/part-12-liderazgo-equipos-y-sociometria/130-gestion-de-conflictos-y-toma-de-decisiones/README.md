@@ -60,7 +60,9 @@ Se logra si el estudiante verifica el teorema y diseña un procedimiento que con
 
 ## Bibliografía
 
-- Page, S. E. (2007). *The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies*. Princeton University Press.
-- Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.
-- Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin.
-- Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method to the use of experts. *Management Science*, 9(3), 458-467.
+- Page, S. E. (2007). *The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies*. Princeton University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method to the use of experts. *Management Science*, 9(3), 458-467. ✅ [DOI](https://doi.org/10.1287/mnsc.9.3.458)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

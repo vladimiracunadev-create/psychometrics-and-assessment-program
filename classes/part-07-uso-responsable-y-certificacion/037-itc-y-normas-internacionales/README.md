@@ -54,6 +54,8 @@ Se logra si el estudiante audita un catálogo con estados diferenciados.
 
 ## Bibliografía
 
-- International Test Commission (2013). *ITC Guidelines on Test Use*. ITC.
-- International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC.
-- International Test Commission (2006). International guidelines on computer-based and internet-delivered testing. *International Journal of Testing*, 6(2), 143-171.
+- International Test Commission (2013). *ITC Guidelines on Test Use*. ITC. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC. ✅ [DOI](https://doi.org/10.1080/15305058.2017.1398166)
+- International Test Commission (2006). International guidelines on computer-based and internet-delivered testing. *International Journal of Testing*, 6(2), 143-171. ✅ [DOI](https://doi.org/10.1207/s15327574ijt0602_4)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

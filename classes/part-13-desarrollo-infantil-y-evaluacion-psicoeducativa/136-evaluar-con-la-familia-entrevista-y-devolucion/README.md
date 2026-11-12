@@ -56,5 +56,7 @@ Se logra si el estudiante integra fuentes con una regla justificada y planifica 
 
 ## Bibliografía
 
-- Achenbach, T. M., McConaughy, S. H., & Howell, C. T. (1987). Child/adolescent behavioral and emotional problems: Implications of cross-informant correlations for situational specificity. *Psychological Bulletin*, 101(2), 213-232.
-- De Los Reyes, A., et al. (2015). Informant discrepancies in the assessment of childhood psychopathology. *Psychological Bulletin*, 141(4), 858-900.
+- Achenbach, T. M., McConaughy, S. H., & Howell, C. T. (1987). Child/adolescent behavioral and emotional problems: Implications of cross-informant correlations for situational specificity. *Psychological Bulletin*, 101(2), 213-232. ✅ [DOI](https://doi.org/10.1037/0033-2909.101.2.213)
+- De Los Reyes, A., et al. (2015). Informant discrepancies in the assessment of childhood psychopathology. *Psychological Bulletin*, 141(4), 858-900. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

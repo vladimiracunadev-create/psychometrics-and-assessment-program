@@ -97,6 +97,8 @@ El estudiante elige y defiende un formato citando fidelidad, carga de respuesta 
 
 ## Bibliografía
 
-- Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology*, 140, 1-55.
-- Preston, C. C., & Colman, A. M. (2000). Optimal number of response categories in rating scales. *Acta Psychologica*, 104(1), 1-15.
-- Lozano, L. M., García-Cueto, E., & Muñiz, J. (2008). Effect of the number of response categories on the reliability and validity of rating scales. *Methodology*, 4(2), 73-79.
+- Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology*, 140, 1-55. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Preston, C. C., & Colman, A. M. (2000). Optimal number of response categories in rating scales. *Acta Psychologica*, 104(1), 1-15. ✅ [DOI](https://doi.org/10.1016/s0001-6918(99)00050-5)
+- Lozano, L. M., García-Cueto, E., & Muñiz, J. (2008). Effect of the number of response categories on the reliability and validity of rating scales. *Methodology*, 4(2), 73-79. ✅ [DOI](https://doi.org/10.1027/1614-2241.4.2.73)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

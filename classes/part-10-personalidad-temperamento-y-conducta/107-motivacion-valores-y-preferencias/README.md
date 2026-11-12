@@ -52,6 +52,8 @@ Se logra si el estudiante corrige por estilo y explica el costo.
 
 ## Bibliografía
 
-- Schwartz, S. H. (1992). Universals in the content and structure of values. *Advances in Experimental Social Psychology*, 25, 1-65.
-- Allport, G. W., Vernon, P. E., & Lindzey, G. (1960). *Study of Values* (3.ª ed.). Houghton Mifflin.
-- Spranger, E. (1928). *Types of Men*. Niemeyer.
+- Schwartz, S. H. (1992). Universals in the content and structure of values. *Advances in Experimental Social Psychology*, 25, 1-65. ✅ [DOI](https://doi.org/10.1016/s0065-2601(08)60281-6)
+- Allport, G. W., Vernon, P. E., & Lindzey, G. (1960). *Study of Values* (3.ª ed.). Houghton Mifflin. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Spranger, E. (1928). *Types of Men*. Niemeyer. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

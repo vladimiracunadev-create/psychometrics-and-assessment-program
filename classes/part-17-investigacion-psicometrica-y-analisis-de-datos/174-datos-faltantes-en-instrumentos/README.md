@@ -57,6 +57,8 @@ Se logra si el estudiante elige un tratamiento según el mecanismo y declara sus
 
 ## Bibliografía
 
-- Rubin, D. B. (1976). Inference and missing data. *Biometrika*, 63(3), 581-592.
-- Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art. *Psychological Methods*, 7(2), 147-177.
-- Enders, C. K. (2010). *Applied Missing Data Analysis*. Guilford.
+- Rubin, D. B. (1976). Inference and missing data. *Biometrika*, 63(3), 581-592. ✅ [DOI](https://doi.org/10.1093/biomet/63.3.581)
+- Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art. *Psychological Methods*, 7(2), 147-177. ✅ [DOI](https://doi.org/10.1037/1082-989x.7.2.147)
+- Enders, C. K. (2010). *Applied Missing Data Analysis*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

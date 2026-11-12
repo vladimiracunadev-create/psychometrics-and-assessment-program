@@ -55,6 +55,8 @@ Se logra si el estudiante detecta anomalías y propone un plan de seguridad por 
 
 ## Bibliografía
 
-- Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods for Detecting Cheating on Tests*. Routledge.
-- Impara, J. C., & Foster, D. (2006). Item and test development strategies to minimize test fraud. En S. M. Downing & T. M. Haladyna (Eds.), *Handbook of Test Development*. Lawrence Erlbaum.
-- Way, W. D. (1998). Protecting the integrity of computerized testing item pools. *Educational Measurement: Issues and Practice*, 17(4), 17-27.
+- Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods for Detecting Cheating on Tests*. Routledge. ✅ [DOI](https://doi.org/10.4324/9781315743097)
+- Impara, J. C., & Foster, D. (2006). Item and test development strategies to minimize test fraud. En S. M. Downing & T. M. Haladyna (Eds.), *Handbook of Test Development*. Lawrence Erlbaum. ⚠️ existe, pero Crossref registra None (¿otra edición?; [DOI](https://doi.org/10.4324/9780203874776.ch5))
+- Way, W. D. (1998). Protecting the integrity of computerized testing item pools. *Educational Measurement: Issues and Practice*, 17(4), 17-27. ✅ [DOI](https://doi.org/10.1111/j.1745-3992.1998.tb00632.x)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -59,6 +59,8 @@ Se logra si el estudiante calcula la fiabilidad de una ganancia y la interpreta 
 
 ## Bibliografía
 
-- Lord, F. M. (1956). The measurement of growth. *Educational and Psychological Measurement*, 16(4), 421-437.
-- Cronbach, L. J., & Furby, L. (1970). How we should measure "change"—or should we? *Psychological Bulletin*, 74(1), 68-80.
-- Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. *Psychological Bulletin*, 124(1), 75-111.
+- Lord, F. M. (1956). The measurement of growth. *Educational and Psychological Measurement*, 16(4), 421-437. ✅ [DOI](https://doi.org/10.1177/001316445601600401)
+- Cronbach, L. J., & Furby, L. (1970). How we should measure "change"—or should we? *Psychological Bulletin*, 74(1), 68-80. ✅ [DOI](https://doi.org/10.1037/h0029382)
+- Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. *Psychological Bulletin*, 124(1), 75-111. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.1.75)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

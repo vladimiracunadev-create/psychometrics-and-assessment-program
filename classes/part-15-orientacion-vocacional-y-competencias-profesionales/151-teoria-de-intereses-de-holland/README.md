@@ -55,6 +55,8 @@ Se logra si el estudiante usa el motor, cuantifica la estabilidad y matiza el us
 
 ## Bibliografía
 
-- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources.
-- Rounds, J., & Tracey, T. J. (1993). Prediger's dimensional representation of Holland's RIASEC circumplex. *Journal of Applied Psychology*, 78(6), 875-890.
-- Nauta, M. M. (2010). The development, evolution, and status of Holland's theory of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22.
+- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources. ⚠️ existe, pero Crossref registra 1975 (¿otra edición?; [DOI](https://doi.org/10.1207/s15327752jpa3901_15))
+- Rounds, J., & Tracey, T. J. (1993). Prediger's dimensional representation of Holland's RIASEC circumplex. *Journal of Applied Psychology*, 78(6), 875-890. ✅ [DOI](https://doi.org/10.1037//0021-9010.78.6.875)
+- Nauta, M. M. (2010). The development, evolution, and status of Holland's theory of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22. ✅ [DOI](https://doi.org/10.1037/a0018213)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

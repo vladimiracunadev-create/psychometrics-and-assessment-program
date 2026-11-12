@@ -55,6 +55,8 @@ Se logra si el estudiante evalúa una escala de validez con sus costos de error.
 
 ## Bibliografía
 
-- Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability in personality testing for personnel selection: The red herring. *Journal of Applied Psychology*, 81(6), 660-679.
-- Paulhus, D. L. (1991). Measurement and control of response bias. En J. P. Robinson et al. (Eds.), *Measures of Personality and Social Psychological Attitudes*. Academic Press.
-- Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press.
+- Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability in personality testing for personnel selection: The red herring. *Journal of Applied Psychology*, 81(6), 660-679. ✅ [DOI](https://doi.org/10.1037/0021-9010.81.6.660)
+- Paulhus, D. L. (1991). Measurement and control of response bias. En J. P. Robinson et al. (Eds.), *Measures of Personality and Social Psychological Attitudes*. Academic Press. ✅ [DOI](https://doi.org/10.1016/b978-0-12-590241-0.50006-x)
+- Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780195387476.001.0001)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

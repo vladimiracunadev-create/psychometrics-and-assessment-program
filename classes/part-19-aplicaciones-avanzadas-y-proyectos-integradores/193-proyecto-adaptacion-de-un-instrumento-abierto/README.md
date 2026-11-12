@@ -46,6 +46,8 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 
 ## Bibliografía
 
-- Beaton, D. E., et al. (2000). Guidelines for the process of cross-cultural adaptation of self-report measures. *Spine*, 25(24), 3186-3191.
-- Lynn, M. R. (1986). Determination and quantification of content validity. *Nursing Research*, 35(6), 382-385.
-- International Test Commission (2017). *ITC Guidelines for Translating and Adapting Tests* (2.ª ed.).
+- Beaton, D. E., et al. (2000). Guidelines for the process of cross-cultural adaptation of self-report measures. *Spine*, 25(24), 3186-3191. ✅ [DOI](https://doi.org/10.1097/00007632-200012150-00014)
+- Lynn, M. R. (1986). Determination and quantification of content validity. *Nursing Research*, 35(6), 382-385. ✅ [DOI](https://doi.org/10.1097/00006199-198611000-00017)
+- International Test Commission (2017). *ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ✅ [DOI](https://doi.org/10.1080/15305058.2017.1398166)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

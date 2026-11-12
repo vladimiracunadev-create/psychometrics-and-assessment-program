@@ -62,7 +62,9 @@ Se logra si el estudiante calcula compuestos y utilidades y declara supuestos.
 
 ## Bibliografía
 
-- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274.
-- Sackett, P. R., Zhang, C., Berry, C. M., & Lievens, F. (2022). Revisiting meta-analytic estimates of validity in personnel selection. *Journal of Applied Psychology*, 107(11), 2040-2068.
-- Brogden, H. E. (1949). When testing pays off. *Personnel Psychology*, 2, 171-183.
-- Cronbach, L. J., & Gleser, G. C. (1965). *Psychological Tests and Personnel Decisions* (2.ª ed.). University of Illinois Press.
+- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.2.262)
+- Sackett, P. R., Zhang, C., Berry, C. M., & Lievens, F. (2022). Revisiting meta-analytic estimates of validity in personnel selection. *Journal of Applied Psychology*, 107(11), 2040-2068. ✅ [DOI](https://doi.org/10.1037/apl0000994)
+- Brogden, H. E. (1949). When testing pays off. *Personnel Psychology*, 2, 171-183. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.1949.tb01397.x)
+- Cronbach, L. J., & Gleser, G. C. (1965). *Psychological Tests and Personnel Decisions* (2.ª ed.). University of Illinois Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

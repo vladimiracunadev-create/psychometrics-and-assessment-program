@@ -56,6 +56,8 @@ Se logra si el estudiante vincula normas con decisiones de evaluación y verific
 
 ## Bibliografía y fuentes
 
-- Biblioteca del Congreso Nacional de Chile (bcn.cl): textos vigentes de las normas citadas.
-- Ministerio de Educación de Chile (mineduc.cl): bases curriculares y orientaciones.
-- Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum.
+- Biblioteca del Congreso Nacional de Chile (bcn.cl): textos vigentes de las normas citadas. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Ministerio de Educación de Chile (mineduc.cl): bases curriculares y orientaciones. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.4324/9781410611758)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

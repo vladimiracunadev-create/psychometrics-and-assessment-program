@@ -95,7 +95,9 @@ python classes/part-00-fundamentos-de-la-medicion/003-escalas-de-medida-y-sus-op
 
 ## Bibliografía
 
-- Stevens, S. S. (1946). On the theory of scales of measurement. *Science*,
+- Stevens, S. S. (1946). On the theory of scales of measurement. *Science*, ✅ [DOI](https://doi.org/10.1126/science.103.2684.677)
   103(2684), 677-680.
-- Norman, G. (2010). Likert scales, levels of measurement and the "laws" of
+- Norman, G. (2010). Likert scales, levels of measurement and the "laws" of ✅ [DOI](https://doi.org/10.1007/s10459-010-9222-y)
   statistics. *Advances in Health Sciences Education*, 15(5), 625-632.
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

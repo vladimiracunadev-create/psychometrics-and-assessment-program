@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley. ✅ [DOI](https://doi.org/10.1109/ms.2009.85)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

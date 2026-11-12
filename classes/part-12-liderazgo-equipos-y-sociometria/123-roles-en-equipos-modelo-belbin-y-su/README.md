@@ -54,7 +54,9 @@ Se logra si el estudiante cuantifica y corrige los falsos positivos y desaconsej
 
 ## Bibliografía
 
-- Belbin, R. M. (1981). *Management Teams: Why They Succeed or Fail*. Heinemann.
-- Furnham, A., Steele, H., & Pendleton, D. (1993). A psychometric assessment of the Belbin Team-Role Self-Perception Inventory. *Journal of Occupational and Organizational Psychology*, 66(3), 245-257.
-- Aritzeta, A., Swailes, S., & Senior, B. (2007). Belbin's team role model: Development, validity and applications for team building. *Journal of Management Studies*, 44(1), 96-118.
-- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology. *Psychological Science*, 22(11), 1359-1366.
+- Belbin, R. M. (1981). *Management Teams: Why They Succeed or Fail*. Heinemann. ✅ [DOI](https://doi.org/10.2307/2581652)
+- Furnham, A., Steele, H., & Pendleton, D. (1993). A psychometric assessment of the Belbin Team-Role Self-Perception Inventory. *Journal of Occupational and Organizational Psychology*, 66(3), 245-257. ✅ [DOI](https://doi.org/10.1111/j.2044-8325.1993.tb00535.x)
+- Aritzeta, A., Swailes, S., & Senior, B. (2007). Belbin's team role model: Development, validity and applications for team building. *Journal of Management Studies*, 44(1), 96-118. ✅ [DOI](https://doi.org/10.1111/j.1467-6486.2007.00666.x)
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology. *Psychological Science*, 22(11), 1359-1366. ✅ [DOI](https://doi.org/10.1177/0956797611417632)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

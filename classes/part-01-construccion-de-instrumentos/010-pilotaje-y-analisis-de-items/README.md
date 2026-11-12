@@ -94,6 +94,8 @@ El estudiante calcula los índices, detecta defectos sembrados y redacta una dec
 
 ## Bibliografía
 
-- Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart & Winston.
-- Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart & Winston. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

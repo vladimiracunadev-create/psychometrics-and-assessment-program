@@ -53,6 +53,8 @@ Se logra si el estudiante elige un corte justificado y comunica con lenguaje de 
 
 ## Bibliografía
 
-- Glascoe, F. P. (2005). Screening for developmental and behavioral problems. *Mental Retardation and Developmental Disabilities Research Reviews*, 11(3), 173-179.
-- Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver operating characteristic (ROC) curve. *Radiology*, 143(1), 29-36.
-- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatrics*, 145(1), e20193449.
+- Glascoe, F. P. (2005). Screening for developmental and behavioral problems. *Mental Retardation and Developmental Disabilities Research Reviews*, 11(3), 173-179. ✅ [DOI](https://doi.org/10.1002/mrdd.20068)
+- Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver operating characteristic (ROC) curve. *Radiology*, 143(1), 29-36. ✅ [DOI](https://doi.org/10.1148/radiology.143.1.7063747)
+- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatrics*, 145(1), e20193449. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

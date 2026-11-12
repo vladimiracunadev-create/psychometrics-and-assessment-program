@@ -55,6 +55,8 @@ Se logra si el estudiante describe el desempeño con y sin apoyo sin asignar eti
 
 ## Bibliografía
 
-- Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.
-- Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.
-- Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press.
+- Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. ✅ [DOI](https://doi.org/10.1037/11494-000)
+- Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

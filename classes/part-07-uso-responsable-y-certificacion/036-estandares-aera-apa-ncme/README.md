@@ -53,5 +53,7 @@ Se logra si el estudiante audita documentación y distingue lo declarado de lo d
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. American Educational Research Association.
-- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. American Educational Research Association. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA. ⚠️ existe, pero Crossref registra 2002 (¿otra edición?; [DOI](https://doi.org/10.1037/e300672004-001))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

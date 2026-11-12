@@ -62,6 +62,8 @@ Se logra si el estudiante calcula r̄, descompone varianza y comunica las limita
 
 ## Bibliografía
 
-- Hunter, J. E., & Schmidt, F. L. (2004). *Methods of Meta-Analysis* (2.ª ed.). Sage.
-- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274.
-- Spearman, C. (1904). The proof and measurement of association between two things. *American Journal of Psychology*, 15(1), 72-101.
+- Hunter, J. E., & Schmidt, F. L. (2004). *Methods of Meta-Analysis* (2.ª ed.). Sage. ✅ [DOI](https://doi.org/10.4135/9781412985031)
+- Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology. *Psychological Bulletin*, 124(2), 262-274. ✅ [DOI](https://doi.org/10.1037/0033-2909.124.2.262)
+- Spearman, C. (1904). The proof and measurement of association between two things. *American Journal of Psychology*, 15(1), 72-101. ✅ [DOI](https://doi.org/10.2307/1412159)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -55,6 +55,8 @@ Se logra si el estudiante genera ítems con dificultad explicada y usa errores c
 
 ## Bibliografía
 
-- Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic mathematical skills. *Cognitive Science*, 2(2), 155-192.
-- VanLehn, K. (1990). *Mind Bugs: The Origins of Procedural Misconceptions*. MIT Press.
-- Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15.
+- Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic mathematical skills. *Cognitive Science*, 2(2), 155-192. ✅ [DOI](https://doi.org/10.1016/s0364-0213(78)80004-4)
+- VanLehn, K. (1990). *Mind Bugs: The Origins of Procedural Misconceptions*. MIT Press. ⚠️ existe, pero Crossref registra 1991 (¿otra edición?; [DOI](https://doi.org/10.1016/0004-3702(91)90072-r))
+- Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15. ✅ [DOI](https://doi.org/10.1177/00222194040370010201)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

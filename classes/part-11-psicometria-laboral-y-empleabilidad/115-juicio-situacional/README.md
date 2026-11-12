@@ -56,6 +56,8 @@ Se logra si el estudiante construye una clave y la evalúa.
 
 ## Bibliografía
 
-- McDaniel, M. A., Morgeson, F. P., Finnegan, E. B., Campion, M. A., & Braverman, E. P. (2001). Use of situational judgment tests to predict job performance. *Journal of Applied Psychology*, 86(4), 730-740.
-- Weekley, J. A., & Ployhart, R. E. (Eds.) (2006). *Situational Judgment Tests*. Lawrence Erlbaum.
-- Christian, M. S., Edwards, B. D., & Bradley, J. C. (2010). Situational judgment tests: Constructs assessed and a meta-analysis of their criterion-related validities. *Personnel Psychology*, 63(1), 83-117.
+- McDaniel, M. A., Morgeson, F. P., Finnegan, E. B., Campion, M. A., & Braverman, E. P. (2001). Use of situational judgment tests to predict job performance. *Journal of Applied Psychology*, 86(4), 730-740. ✅ [DOI](https://doi.org/10.1037/0021-9010.86.4.730)
+- Weekley, J. A., & Ployhart, R. E. (Eds.) (2006). *Situational Judgment Tests*. Lawrence Erlbaum. ⚠️ existe, pero Crossref registra 2013 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203774878))
+- Christian, M. S., Edwards, B. D., & Bradley, J. C. (2010). Situational judgment tests: Constructs assessed and a meta-analysis of their criterion-related validities. *Personnel Psychology*, 63(1), 83-117. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.2009.01163.x)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

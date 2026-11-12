@@ -105,5 +105,7 @@ python classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-
 
 ## Bibliografía
 
-- AERA, APA & NCME (2014). *Standards*. Cap. 5, "Scores, Scales, Norms".
-- Johnson, J. A. (2014). IPIP-NEO-120. *Journal of Research in Personality*, 51.
+- AERA, APA & NCME (2014). *Standards*. Cap. 5, "Scores, Scales, Norms". 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Johnson, J. A. (2014). IPIP-NEO-120. *Journal of Research in Personality*, 51. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

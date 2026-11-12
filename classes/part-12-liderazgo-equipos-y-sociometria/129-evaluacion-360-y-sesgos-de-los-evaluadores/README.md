@@ -56,6 +56,8 @@ Se logra si el estudiante estima fiabilidad y propone un uso para el desarrollo,
 
 ## Bibliografía
 
-- Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure of job performance ratings. *Journal of Applied Psychology*, 85(6), 956-970.
-- Conway, J. M., & Huffcutt, A. I. (1997). Psychometric properties of multisource performance ratings. *Human Performance*, 10(4), 331-360.
-- Murphy, K. R., & Cleveland, J. N. (1995). *Understanding Performance Appraisal*. Sage.
+- Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure of job performance ratings. *Journal of Applied Psychology*, 85(6), 956-970. ✅ [DOI](https://doi.org/10.1037/0021-9010.85.6.956)
+- Conway, J. M., & Huffcutt, A. I. (1997). Psychometric properties of multisource performance ratings. *Human Performance*, 10(4), 331-360. ✅ [DOI](https://doi.org/10.1207/s15327043hup1004_2)
+- Murphy, K. R., & Cleveland, J. N. (1995). *Understanding Performance Appraisal*. Sage. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

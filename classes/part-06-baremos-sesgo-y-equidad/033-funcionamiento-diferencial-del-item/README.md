@@ -61,6 +61,8 @@ Se logra si el estudiante distingue impacto de DIF y decide con criterio sustant
 
 ## Bibliografía
 
-- Mantel, N., & Haenszel, W. (1959). Statistical aspects of the analysis of data from retrospective studies of disease. *Journal of the National Cancer Institute*, 22(4), 719-748.
-- Holland, P. W., & Thayer, D. T. (1988). Differential item performance and the Mantel-Haenszel procedure. En H. Wainer & H. I. Braun (Eds.), *Test Validity*. Lawrence Erlbaum.
-- Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Procedures*. ETS Research Report RR-12-08.
+- Mantel, N., & Haenszel, W. (1959). Statistical aspects of the analysis of data from retrospective studies of disease. *Journal of the National Cancer Institute*, 22(4), 719-748. ✅ [DOI](https://doi.org/10.1093/jnci/22.4.719)
+- Holland, P. W., & Thayer, D. T. (1988). Differential item performance and the Mantel-Haenszel procedure. En H. Wainer & H. I. Braun (Eds.), *Test Validity*. Lawrence Erlbaum. ⚠️ existe, pero Crossref registra 2013 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203056905-19))
+- Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Procedures*. ETS Research Report RR-12-08. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -60,6 +60,8 @@ Se logra si el estudiante diseña una evaluación de escritura con un G objetivo
 
 ## Bibliografía
 
-- Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review*, 2(2), 130-144.
-- Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage.
-- Brennan, R. L. (2001). *Generalizability Theory*. Springer.
+- Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review*, 2(2), 130-144. ✅ [DOI](https://doi.org/10.1016/j.edurev.2007.05.002)
+- Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage. ⚠️ existe, pero Crossref registra 2004 (¿otra edición?; [DOI](https://doi.org/10.1002/0471667196.ess1050))
+- Brennan, R. L. (2001). *Generalizability Theory*. Springer. ✅ [DOI](https://doi.org/10.1007/978-1-4757-3456-0)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

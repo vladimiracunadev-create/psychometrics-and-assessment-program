@@ -56,6 +56,8 @@ Se logra si el estudiante calcula e interpreta los indicadores sin sobreafirmar.
 
 ## Bibliografía
 
-- Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.).
-- Morris, S. B., & Lobsenz, R. E. (2000). Significance tests and confidence intervals for the adverse impact ratio. *Personnel Psychology*, 53(1), 89-111.
-- SIOP (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.).
+- Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Morris, S. B., & Lobsenz, R. E. (2000). Significance tests and confidence intervals for the adverse impact ratio. *Personnel Psychology*, 53(1), 89-111. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.2000.tb00195.x)
+- SIOP (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.). ⚠️ existe, pero Crossref registra 1975 (¿otra edición?; [DOI](https://doi.org/10.1037/e475802008-001))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

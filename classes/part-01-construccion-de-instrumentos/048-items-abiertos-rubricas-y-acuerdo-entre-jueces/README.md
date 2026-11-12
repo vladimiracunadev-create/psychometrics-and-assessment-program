@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 
 ## Bibliografía
 
-- Fleiss, J. L., & Cohen, J. (1973). The equivalence of weighted kappa and the intraclass correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Fleiss, J. L., & Cohen, J. (1973). The equivalence of weighted kappa and the intraclass correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619. ✅ [DOI](https://doi.org/10.1177/001316447303300309)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

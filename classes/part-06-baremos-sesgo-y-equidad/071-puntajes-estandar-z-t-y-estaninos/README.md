@@ -58,5 +58,7 @@ Se logra si el estudiante transforma y justifica la elección.
 
 ## Bibliografía
 
-- Angoff, W. H. (1984). *Scales, Norms, and Equivalent Scores*. Educational Testing Service.
-- Anastasi, A., & Urbina, S. (1997). *Psychological Testing* (7.ª ed.). Prentice Hall.
+- Angoff, W. H. (1984). *Scales, Norms, and Equivalent Scores*. Educational Testing Service. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Anastasi, A., & Urbina, S. (1997). *Psychological Testing* (7.ª ed.). Prentice Hall. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

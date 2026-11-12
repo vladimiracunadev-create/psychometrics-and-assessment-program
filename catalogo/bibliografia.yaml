@@ -1,0 +1,3010 @@
+# Registro de verificacion bibliografica (Crossref). Ver scripts/aplicar_bibliografia.py
+AERA, APA & NCME (2014). *Standards for Educational and Psychological:
+  anio_crossref: 2014
+  clases:
+  - '001'
+  doi: 10.1111/emip.12045
+  estado: sin-verificar
+AERA, APA & NCME (2014). *Standards*. Cap. 5, "Scores, Scales, Norms".:
+  anio_crossref: 1984
+  clases:
+  - '004'
+  doi: 10.1037/e539982009-002
+  estado: sin-verificar
+AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing* (privacidad y confidencialidad).:
+  anio_crossref: 2014
+  clases:
+  - '076'
+  doi: 10.1111/emip.12045
+  estado: sin-verificar
+AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.:
+  anio_crossref: 2014
+  clases:
+  - '043'
+  - '044'
+  - '006'
+  - '010'
+  - '046'
+  - '047'
+  - 048
+  - '050'
+  - '015'
+  - '016'
+  - '020'
+  - 058
+  - '032'
+  - '074'
+  - 038
+  - '077'
+  - 088
+  - '100'
+  - '104'
+  - '113'
+  - '171'
+  - '180'
+  - '181'
+  - '182'
+  - '183'
+  - '184'
+  - '186'
+  - '187'
+  - '191'
+  - '192'
+  - '194'
+  - '196'
+  - '197'
+  - '198'
+  - '199'
+  - '200'
+  doi: 10.1111/emip.12045
+  estado: sin-verificar
+? AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+  American Educational Research Association.
+: anio_crossref: 2014
+  clases:
+  - '036'
+  doi: 10.1111/emip.12045
+  estado: sin-verificar
+Academia Judicial de Chile. *Ley 21.719* (actualización normativa).:
+  anio_crossref: 2021
+  clases:
+  - '076'
+  doi: 10.58581/rev.amag.2021.v3n5.06
+  estado: sin-verificar
+? 'Achenbach, T. M., McConaughy, S. H., & Howell, C. T. (1987). Child/adolescent behavioral
+  and emotional problems: Implications of cross-informant correlations for situational
+  specificity. *Psychological Bulletin*, 101(2), 213-232.'
+: anio_crossref: 1987
+  clases:
+  - '136'
+  doi: 10.1037/0033-2909.101.2.213
+  estado: verificada
+? Aiken, L. R. (1985). Three coefficients for analyzing the reliability and validity
+  of ratings. *Educational and Psychological Measurement*, 45(1), 131-142.
+: anio_crossref: 1985
+  clases:
+  - '017'
+  doi: 10.1177/0013164485451012
+  estado: verificada
+? 'Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies
+  across psychopathology: A meta-analytic review. *Clinical Psychology Review*, 30(2),
+  217-237.'
+: anio_crossref: 2010
+  clases:
+  - '164'
+  doi: 10.1016/j.cpr.2009.11.004
+  estado: verificada
+Allport, G. W., Vernon, P. E., & Lindzey, G. (1960). *Study of Values* (3.ª ed.). Houghton Mifflin.:
+  anio_crossref: 2006
+  clases:
+  - '107'
+  doi: 10.4135/9781412952675.n6
+  estado: sin-verificar
+? Almond, R. G., Mislevy, R. J., Steinberg, L. S., Yan, D., & Williamson, D. M. (2015).
+  *Bayesian Networks in Educational Assessment*. Springer.
+: anio_crossref: 2015
+  clases:
+  - '155'
+  doi: 10.1007/978-1-4939-2125-6
+  estado: verificada
+'Altmann, J. (1974). Observational study of behavior: Sampling methods. *Behaviour*, 49(3-4), 227-267.':
+  anio_crossref: 1974
+  clases:
+  - '134'
+  doi: 10.1163/156853974x00534
+  estado: verificada
+American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*.:
+  anio_crossref: null
+  clases:
+  - '077'
+  - '168'
+  - '197'
+  doi: null
+  estado: sin-verificar
+American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.:
+  anio_crossref: 2002
+  clases:
+  - '036'
+  doi: 10.1037/e300672004-001
+  estado: edicion-difiere
+Anastasi, A., & Urbina, S. (1997). *Psychological Testing* (7.ª ed.). Prentice Hall.:
+  anio_crossref: 1985
+  clases:
+  - '031'
+  - '071'
+  doi: 10.1037/10052-003
+  estado: sin-verificar
+Andrich, D. (1988). *Rasch Models for Measurement*. Sage.:
+  anio_crossref: 1988
+  clases:
+  - '027'
+  doi: 10.4135/9781412985598
+  estado: verificada
+? Angoff, W. H. (1971). Scales, norms, and equivalent scores. En R. L. Thorndike (Ed.),
+  *Educational Measurement* (2.ª ed.). American Council on Education.
+: anio_crossref: 1972
+  clases:
+  - '040'
+  doi: 10.1017/s0033312300004762
+  estado: sin-verificar
+Angoff, W. H. (1984). *Scales, Norms, and Equivalent Scores*. Educational Testing Service.:
+  anio_crossref: 1964
+  clases:
+  - '031'
+  - '071'
+  doi: 10.1111/j.1745-3984.1964.tb00141.x
+  estado: sin-verificar
+Anscombe, F. J. (1973). Graphs in statistical analysis. *The American Statistician*, 27(1), 17-21.:
+  anio_crossref: 1973
+  clases:
+  - '052'
+  doi: 10.1080/00031305.1973.10478966
+  estado: verificada
+? Anwyl-Irvine, A., Dalmaijer, E. S., Hodges, N., & Evershed, J. K. (2021). Realistic
+  precision and accuracy of online experiment platforms, web browsers, and devices.
+  *Behavior Research Methods*, 53, 1407-1425.
+: anio_crossref: 2020
+  clases:
+  - 093
+  doi: 10.3758/s13428-020-01501-5
+  estado: verificada
+? Appelbaum, M., et al. (2018). Journal article reporting standards for quantitative
+  research in psychology. *American Psychologist*, 73(1), 3-25.
+: anio_crossref: 2018
+  clases:
+  - '180'
+  - '196'
+  doi: 10.1037/amp0000191
+  estado: verificada
+? 'Aritzeta, A., Swailes, S., & Senior, B. (2007). Belbin''s team role model: Development,
+  validity and applications for team building. *Journal of Management Studies*, 44(1),
+  96-118.'
+: anio_crossref: 2007
+  clases:
+  - '123'
+  doi: 10.1111/j.1467-6486.2007.00666.x
+  estado: verificada
+? Armstrong, P. I., Day, S. X., McVay, J. P., & Rounds, J. (2008). Holland's RIASEC
+  model as an integrative framework for individual differences. *Journal of Counseling
+  Psychology*, 55(1), 1-18.
+: anio_crossref: 2008
+  clases:
+  - '152'
+  doi: 10.1037/0022-0167.55.1.1
+  estado: verificada
+Asher, S. R., & Coie, J. D. (Eds.) (1990). *Peer Rejection in Childhood*. Cambridge University Press.:
+  anio_crossref: 1991
+  clases:
+  - '127'
+  doi: 10.2307/2071877
+  estado: verificada
+Bachman, L. F., & Palmer, A. S. (2010). *Language Assessment in Practice*. Oxford University Press.:
+  anio_crossref: 1998
+  clases:
+  - '119'
+  doi: 10.2307/328718
+  estado: edicion-difiere
+? Baddeley, A. D., & Hitch, G. (1974). Working memory. En G. H. Bower (Ed.), *The
+  Psychology of Learning and Motivation* (Vol. 8). Academic Press.
+: anio_crossref: 1974
+  clases:
+  - 094
+  - 095
+  doi: 10.1016/s0079-7421(08)60452-1
+  estado: verificada
+? 'Bakeman, R., & Gottman, J. M. (1997). *Observing Interaction: An Introduction to
+  Sequential Analysis* (2.ª ed.). Cambridge University Press.'
+: anio_crossref: 1999
+  clases:
+  - '134'
+  doi: 10.1177/00238309990420010502
+  estado: edicion-difiere
+'Baker, F. B., & Kim, S.-H. (2004). *Item Response Theory: Parameter Estimation Techniques* (2.ª ed.). CRC Press.':
+  anio_crossref: 2004
+  clases:
+  - 028
+  - '066'
+  doi: 10.1201/9781482276725-14
+  estado: sin-verificar
+'Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.':
+  anio_crossref: 1999
+  clases:
+  - '163'
+  doi: 10.1891/0889-8391.13.2.158
+  estado: edicion-difiere
+Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org.:
+  anio_crossref: 2022
+  clases:
+  - '158'
+  doi: 10.1145/3531146.3533781
+  estado: sin-verificar
+? 'Barrick, M. R., & Mount, M. K. (1991). The Big Five personality dimensions and
+  job performance: A meta-analysis. *Personnel Psychology*, 44(1), 1-26.'
+: anio_crossref: 1991
+  clases:
+  - '116'
+  doi: 10.1111/j.1744-6570.1991.tb00688.x
+  estado: verificada
+? Barrio-Cantalejo, I. M., et al. (2008). Validación de la escala INFLESZ para evaluar
+  la legibilidad de los textos dirigidos a pacientes. *Anales del Sistema Sanitario
+  de Navarra*, 31(2), 135-152.
+: anio_crossref: 2008
+  clases:
+  - 084
+  doi: 10.4321/s1137-66272008000300004
+  estado: verificada
+? Beaton, D. E., et al. (2000). Guidelines for the process of cross-cultural adaptation
+  of self-report measures. *Spine*, 25(24), 3186-3191.
+: anio_crossref: 2000
+  clases:
+  - '193'
+  doi: 10.1097/00007632-200012150-00014
+  estado: verificada
+'Belbin, R. M. (1981). *Management Teams: Why They Succeed or Fail*. Heinemann.':
+  anio_crossref: 1982
+  clases:
+  - '123'
+  doi: 10.2307/2581652
+  estado: verificada
+? 'Biblioteca del Congreso Nacional de Chile (bcn.cl). Ley 19.628 sobre protección
+  de la vida privada y Ley 21.719 que regula la protección y el tratamiento de los
+  datos personales y crea la Agencia de Protección de Datos Personales (texto vigente:
+  verificar).'
+: anio_crossref: 2017
+  clases:
+  - '076'
+  doi: 10.5354/0719-2584.2017.45822
+  estado: sin-verificar
+'Biblioteca del Congreso Nacional de Chile (bcn.cl): textos vigentes de las normas citadas.':
+  anio_crossref: 2012
+  clases:
+  - '140'
+  doi: 10.62659/se1102201
+  estado: sin-verificar
+? Birnbaum, A. (1968). Some latent trait models and their use in inferring an examinee's
+  ability. En F. M. Lord & M. R. Novick, *Statistical Theories of Mental Test Scores*.
+  Addison-Wesley.
+: anio_crossref: 1969
+  clases:
+  - 028
+  doi: 10.3102/00028312006001112
+  estado: sin-verificar
+? Bishara, A. J., & Hittner, J. B. (2012). Testing the significance of a correlation
+  with nonnormal data. *Psychological Methods*, 17(3), 399-417.
+: anio_crossref: 2012
+  clases:
+  - '052'
+  doi: 10.1037/a0028087
+  estado: verificada
+? Bliese, P. D. (2000). Within-group agreement, non-independence, and reliability.
+  En K. J. Klein & S. W. J. Kozlowski (Eds.), *Multilevel Theory, Research, and Methods
+  in Organizations*. Jossey-Bass.
+: anio_crossref: 1994
+  clases:
+  - '122'
+  - '128'
+  doi: 10.5465/ambpp.1994.10344875
+  estado: sin-verificar
+Bluemke, M., et al. (2021). IPIP-VIA-R short scales.:
+  anio_crossref: null
+  clases:
+  - '005'
+  doi: 10.7717/peerj.5542/supp-3
+  estado: sin-verificar
+? 'Boateng, G. O., et al. (2018). Best practices for developing and validating scales
+  for health, social, and behavioral research: A primer. *Frontiers in Public Health*,
+  6, 149.'
+: anio_crossref: 2018
+  clases:
+  - '171'
+  doi: 10.3389/fpubh.2018.00149
+  estado: verificada
+Boateng, G. O., et al. (2018). Best practices for developing and validating scales. *Frontiers in Public Health*, 6, 149.:
+  anio_crossref: 2018
+  clases:
+  - '199'
+  doi: 10.3389/fpubh.2018.00149
+  estado: verificada
+? Bock, R. D., & Mislevy, R. J. (1982). Adaptive EAP estimation of ability in a microcomputer
+  environment. *Applied Psychological Measurement*, 6(4), 431-444.
+: anio_crossref: 1982
+  clases:
+  - '066'
+  doi: 10.1177/014662168200600405
+  estado: verificada
+Bolger, N., & Laurenceau, J.-P. (2013). *Intensive Longitudinal Methods*. Guilford.:
+  anio_crossref: 2023
+  clases:
+  - '109'
+  doi: 10.1037/0000318-016
+  estado: sin-verificar
+Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist*, 59(1), 20-28.:
+  anio_crossref: 2005
+  clases:
+  - '163'
+  doi: 10.1037/0003-066x.60.3.265b
+  estado: sin-verificar
+? Bonett, D. G. (2002). Sample size requirements for testing and estimating coefficient
+  alpha. *Journal of Educational and Behavioral Statistics*, 27(4), 335-340.
+: anio_crossref: 2002
+  clases:
+  - '172'
+  doi: 10.3102/10769986027004335
+  estado: verificada
+? Bonett, D. G. (2010). Varying coefficient meta-analytic methods for alpha reliability.
+  *Psychological Methods*, 15(4), 368-385.
+: anio_crossref: 2010
+  clases:
+  - '179'
+  doi: 10.1037/a0020142
+  estado: verificada
+? Bonett, D. G., & Price, R. M. (2005). Inferential methods for the tetrachoric correlation
+  coefficient. *Journal of Educational and Behavioral Statistics*, 30(2), 213-225.
+: anio_crossref: 2005
+  clases:
+  - '065'
+  doi: 10.3102/10769986030002213
+  estado: verificada
+? Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis
+  in the social sciences. *Science*, 323, 892-895.
+: anio_crossref: 2009
+  clases:
+  - '126'
+  doi: 10.1126/science.1165821
+  estado: verificada
+'Borsboom, D. (2005). *Measuring the Mind: Conceptual Issues in Contemporary':
+  anio_crossref: 2005
+  clases:
+  - '001'
+  doi: 10.1017/cbo9780511490026
+  estado: sin-verificar
+? 'Borsboom, D., & Cramer, A. O. J. (2013). Network analysis: An integrative approach
+  to the structure of psychopathology. *Annual Review of Clinical Psychology*, 9,
+  91-121.'
+: anio_crossref: 2013
+  clases:
+  - '064'
+  doi: 10.1146/annurev-clinpsy-050212-185608
+  estado: verificada
+Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? *The High School Journal*, 96(2), 77-100.:
+  anio_crossref: 2013
+  clases:
+  - '158'
+  doi: 10.1353/hsj.2013.0000
+  estado: sin-verificar
+? 'Bradley, R. A., & Terry, M. E. (1952). Rank analysis of incomplete block designs:
+  I. The method of paired comparisons. *Biometrika*, 39(3-4), 324-345.'
+: anio_crossref: 1952
+  clases:
+  - '153'
+  doi: 10.1093/biomet/39.3-4.324
+  estado: verificada
+Brannick, M. T., Levine, E. L., & Morgeson, F. P. (2007). *Job and Work Analysis* (2.ª ed.). Sage.:
+  anio_crossref: 2007
+  clases:
+  - '111'
+  doi: 10.4135/9781483329505
+  estado: sin-verificar
+Brennan, R. L. (2001). *Generalizability Theory*. Springer.:
+  anio_crossref: 2001
+  clases:
+  - '057'
+  - '143'
+  doi: 10.1007/978-1-4757-3456-0
+  estado: verificada
+Brogden, H. E. (1949). When testing pays off. *Personnel Psychology*, 2, 171-183.:
+  anio_crossref: 1949
+  clases:
+  - '112'
+  doi: 10.1111/j.1744-6570.1949.tb01397.x
+  estado: verificada
+? Brown, A., & Maydeu-Olivares, A. (2011). Item response modeling of forced-choice
+  questionnaires. *Educational and Psychological Measurement*, 71(3), 460-502.
+: anio_crossref: 2011
+  clases:
+  - 008
+  doi: 10.1177/0013164410375112
+  estado: verificada
+? Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic
+  mathematical skills. *Cognitive Science*, 2(2), 155-192.
+: anio_crossref: 1978
+  clases:
+  - 085
+  - '144'
+  doi: 10.1016/s0364-0213(78)80004-4
+  estado: verificada
+? Brown, L. D., Cai, T. T., & DasGupta, A. (2001). Interval estimation for a binomial
+  proportion. *Statistical Science*, 16(2), 101-133.
+: anio_crossref: 2001
+  clases:
+  - '166'
+  - '195'
+  doi: 10.1214/ss/1009213286
+  estado: verificada
+Brown, T. A. (2015). *Confirmatory Factor Analysis for Applied Research* (2.ª ed.). Guilford.:
+  anio_crossref: 2017
+  clases:
+  - '021'
+  - '023'
+  doi: 10.4135/9781071802687.n19
+  estado: sin-verificar
+? Brown, W. (1910). Some experimental results in the correlation of mental abilities.
+  *British Journal of Psychology*, 3, 296-322.
+: anio_crossref: 1910
+  clases:
+  - 009
+  doi: 10.1111/j.2044-8295.1910.tb00207.x
+  estado: verificada
+? Browne, M. W. (2001). An overview of analytic rotation in exploratory factor analysis.
+  *Multivariate Behavioral Research*, 36(1), 111-150.
+: anio_crossref: 2001
+  clases:
+  - '061'
+  doi: 10.1207/s15327906mbr3601_05
+  estado: verificada
+? Byrne, B. M., Shavelson, R. J., & Muthén, B. (1989). Testing for the equivalence
+  of factor covariance and mean structures. *Psychological Bulletin*, 105(3), 456-466.
+: anio_crossref: 1989
+  clases:
+  - '075'
+  doi: 10.1037/0033-2909.105.3.456
+  estado: verificada
+CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST.:
+  anio_crossref: 2026
+  clases:
+  - '150'
+  doi: 10.47408/jldhe.vi40.2073
+  estado: sin-verificar
+? Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by
+  the multitrait-multimethod matrix. *Psychological Bulletin*, 56(2), 81-105.
+: anio_crossref: 1959
+  clases:
+  - '042'
+  - 018
+  - '056'
+  doi: 10.1037/h0046016
+  estado: verificada
+? 'Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures:
+  A theoretical account of the processing in the Raven Progressive Matrices Test.
+  *Psychological Review*, 97(3), 404-431.'
+: anio_crossref: 1990
+  clases:
+  - 083
+  doi: 10.1037/0033-295x.97.3.404
+  estado: verificada
+? 'Carretero, S., Vuorikari, R., & Punie, Y. (2017). *DigComp 2.1: The Digital Competence
+  Framework for Citizens*. Joint Research Centre, European Commission.'
+: anio_crossref: 2025
+  clases:
+  - '149'
+  doi: 10.2139/ssrn.5379966
+  estado: sin-verificar
+Carroll, J. B. (1993). *Human Cognitive Abilities*. Cambridge University Press.:
+  anio_crossref: 1993
+  clases:
+  - 081
+  doi: 10.1017/cbo9780511571312
+  estado: verificada
+? Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed
+  practice in verbal recall tasks. *Psychological Bulletin*, 132(3), 354-380.
+: anio_crossref: 2006
+  clases:
+  - '146'
+  doi: 10.1037/0033-2909.132.3.354
+  estado: verificada
+? 'Charter, R. A., & Feldt, L. S. (2001). Confidence intervals for true scores: Is
+  there a correct approach? *Journal of Psychoeducational Assessment*, 19(4), 350-364.'
+: anio_crossref: 2001
+  clases:
+  - '055'
+  doi: 10.1177/073428290101900404
+  estado: verificada
+? 'Chelune, G. J., et al. (1993). Individual change after epilepsy surgery: Practice
+  effects and base-rate information. *Journal of Clinical and Experimental Neuropsychology*,
+  15(1), 27-34.'
+: anio_crossref: 1993
+  clases:
+  - '175'
+  doi: 10.1037//0894-4105.7.1.41
+  estado: verificada
+? Cheung, F., & Lucas, R. E. (2014). Assessing the validity of single-item life satisfaction
+  measures. *Quality of Life Research*, 23, 2809-2818.
+: anio_crossref: 2014
+  clases:
+  - '161'
+  doi: 10.1007/s11136-014-0726-4
+  estado: verificada
+? Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for
+  testing measurement invariance. *Structural Equation Modeling*, 9(2), 233-255.
+: anio_crossref: 2002
+  clases:
+  - '075'
+  doi: 10.1207/s15328007sem0902_5
+  estado: verificada
+? Cheung, M. W.-L., & Chan, W. (2002). Reducing uniform response bias with ipsative
+  measurement in multiple-group confirmatory factor analysis. *Structural Equation
+  Modeling*, 9(1), 55-77.
+: anio_crossref: 2002
+  clases:
+  - 008
+  doi: 10.1207/s15328007sem0901_4
+  estado: verificada
+Choose a License. choosealicense.com.:
+  anio_crossref: 2008
+  clases:
+  - '190'
+  doi: 10.63485/07nwc-1ek52
+  estado: sin-verificar
+Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163.:
+  anio_crossref: 2017
+  clases:
+  - '034'
+  doi: 10.1089/big.2016.0047
+  estado: sin-verificar
+? Christ, T. J. (2006). Short-term estimates of growth using curriculum-based measurement
+  of oral reading fluency. *School Psychology Review*, 35(1), 128-133.
+: anio_crossref: 2006
+  clases:
+  - '145'
+  doi: 10.1080/02796015.2006.12088006
+  estado: verificada
+? Christ, T. J., & Silberglitt, B. (2007). Estimates of the standard error of measurement
+  for curriculum-based measures of oral reading fluency. *School Psychology Review*,
+  36(1), 130-146.
+: anio_crossref: 2007
+  clases:
+  - '142'
+  doi: 10.1080/02796015.2007.12087956
+  estado: verificada
+? 'Christian, M. S., Edwards, B. D., & Bradley, J. C. (2010). Situational judgment
+  tests: Constructs assessed and a meta-analysis of their criterion-related validities.
+  *Personnel Psychology*, 63(1), 83-117.'
+: anio_crossref: 2010
+  clases:
+  - '115'
+  doi: 10.1111/j.1744-6570.2009.01163.x
+  estado: verificada
+? Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin et al. (Eds.), *Handbook
+  of Peer Interactions, Relationships, and Groups*. Guilford.
+: anio_crossref: 2007
+  clases:
+  - '127'
+  doi: 10.1002/9780470147658.chpsy0310
+  estado: sin-verificar
+? Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin, W. M. Bukowski,
+  & B. Laursen (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*.
+  Guilford.
+: anio_crossref: 2007
+  clases:
+  - '125'
+  doi: 10.1002/9780470147658.chpsy0310
+  estado: sin-verificar
+Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting*. Sage.:
+  anio_crossref: 2007
+  clases:
+  - '119'
+  doi: 10.4135/9781412985918
+  estado: verificada
+? 'Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting: A Guide to Establishing
+  and Evaluating Performance Standards on Tests*. Sage.'
+: anio_crossref: 2010
+  clases:
+  - '040'
+  doi: 10.1111/j.1745-3984.2010.00126.x
+  estado: edicion-difiere
+? Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods
+  for Detecting Cheating on Tests*. Routledge.
+: anio_crossref: 2016
+  clases:
+  - 080
+  doi: 10.4324/9781315743097
+  estado: verificada
+Clark, L. A., & Watson, D. (1995). Constructing validity. *Psychological:
+  anio_crossref: 1995
+  clases:
+  - '002'
+  doi: 10.1037/1040-3590.7.3.309
+  estado: sin-verificar
+? 'Clarke, S. (2006). The relationship between safety climate and safety performance:
+  A meta-analytic review. *Journal of Occupational Health Psychology*, 11(4), 315-327.'
+: anio_crossref: 2006
+  clases:
+  - '117'
+  doi: 10.1037/1076-8998.11.4.315
+  estado: verificada
+? 'Cleary, T. A. (1968). Test bias: Prediction of grades of Negro and white students
+  in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124.'
+: anio_crossref: 1968
+  clases:
+  - '034'
+  doi: 10.1111/j.1745-3984.1968.tb00613.x
+  estado: verificada
+? Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and
+  Psychological Measurement*, 20(1), 37-46.
+: anio_crossref: 1960
+  clases:
+  - '054'
+  - '134'
+  doi: 10.1177/001316446002000104
+  estado: verificada
+? 'Cohen, J. (1968). Weighted kappa: Nominal scale agreement with provision for scaled
+  disagreement or partial credit. *Psychological Bulletin*, 70(4), 213-220.'
+: anio_crossref: 1968
+  clases:
+  - '138'
+  doi: 10.1037/h0026256
+  estado: verificada
+Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2.ª ed.). Lawrence Erlbaum.:
+  anio_crossref: 1989
+  clases:
+  - '160'
+  doi: 10.2307/2290095
+  estado: verificada
+? Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived
+  stress. *Journal of Health and Social Behavior*, 24(4), 385-396.
+: anio_crossref: 1983
+  clases:
+  - '162'
+  doi: 10.2307/2136404
+  estado: verificada
+? 'Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social
+  status: A cross-age perspective. *Developmental Psychology*, 18(4), 557-570.'
+: anio_crossref: 1982
+  clases:
+  - '125'
+  - '127'
+  doi: 10.1037/0012-1649.18.4.557
+  estado: verificada
+? 'Conway, A. R. A., Kane, M. J., Bunting, M. F., Hambrick, D. Z., Wilhelm, O., &
+  Engle, R. W. (2005). Working memory span tasks: A methodological review and user''s
+  guide. *Psychonomic Bulletin & Review*, 12(5), 769-786.'
+: anio_crossref: 2005
+  clases:
+  - 095
+  doi: 10.3758/bf03196772
+  estado: verificada
+? Conway, J. M., & Huffcutt, A. I. (1997). Psychometric properties of multisource
+  performance ratings. *Human Performance*, 10(4), 331-360.
+: anio_crossref: 1997
+  clases:
+  - '129'
+  doi: 10.1207/s15327043hup1004_2
+  estado: verificada
+? 'Costa, P. T., & McCrae, R. R. (1992). *Professional Manual: Revised NEO Personality
+  Inventory (NEO PI-R)*. Psychological Assessment Resources.'
+: anio_crossref: 2008
+  clases:
+  - '101'
+  doi: 10.4135/9781849200479.n9
+  estado: edicion-difiere
+? Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis.
+  *Practical Assessment, Research & Evaluation*, 10(7).
+: anio_crossref: 2008
+  clases:
+  - '061'
+  doi: 10.4135/9781412995627.d8
+  estado: edicion-difiere
+? Council of Europe (2001). *Common European Framework of Reference for Languages*.
+  Cambridge University Press (con el *Companion Volume*, 2020).
+: anio_crossref: 2022
+  clases:
+  - '119'
+  doi: 10.21832/9781800410206-toc
+  estado: sin-verificar
+Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart & Winston.:
+  anio_crossref: 1971
+  clases:
+  - '010'
+  - '031'
+  doi: 10.3138/cmlr.27.2.108d
+  estado: sin-verificar
+Cronbach, L. J. (1949). *Essentials of Psychological Testing*. Harper.:
+  anio_crossref: 1951
+  clases:
+  - '043'
+  doi: 10.1002/sce.3730350432
+  estado: sin-verificar
+Cronbach, L. J. (1951). Coefficient alpha and the internal structure of tests. *Psychometrika*, 16, 297-334.:
+  anio_crossref: 1951
+  clases:
+  - 009
+  - '012'
+  - '053'
+  doi: 10.1007/bf02310555
+  estado: verificada
+Cronbach, L. J., & Furby, L. (1970). How we should measure "change"—or should we? *Psychological Bulletin*, 74(1), 68-80.:
+  anio_crossref: 1970
+  clases:
+  - 087
+  - 096
+  doi: 10.1037/h0029382
+  estado: verificada
+? Cronbach, L. J., & Gleser, G. C. (1965). *Psychological Tests and Personnel Decisions*
+  (2.ª ed.). University of Illinois Press.
+: anio_crossref: 1966
+  clases:
+  - '112'
+  doi: 10.1002/bimj.19660080311
+  estado: sin-verificar
+? Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests.
+  *Psychological Bulletin*, 52(4), 281-302.
+: anio_crossref: 1955
+  clases:
+  - '042'
+  - 018
+  doi: 10.1037/h0040957
+  estado: verificada
+Cronbach, L. J., Gleser, G. C., Nanda, H., & Rajaratnam, N. (1972). *The Dependability of Behavioral Measurements*. Wiley.:
+  anio_crossref: 1974
+  clases:
+  - '057'
+  doi: 10.2307/1162145
+  estado: sin-verificar
+? Curran, P. J., & Bauer, D. J. (2011). The disaggregation of within-person and between-person
+  effects in longitudinal models of change. *Annual Review of Psychology*, 62, 583-619.
+: anio_crossref: 2011
+  clases:
+  - '164'
+  doi: 10.1146/annurev.psych.093008.100356
+  estado: verificada
+? Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method
+  to the use of experts. *Management Science*, 9(3), 458-467.
+: anio_crossref: 1963
+  clases:
+  - '130'
+  doi: 10.1287/mnsc.9.3.458
+  estado: verificada
+? 'Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for
+  a multidimensional approach. *Journal of Personality and Social Psychology*, 44(1),
+  113-126.'
+: anio_crossref: 1983
+  clases:
+  - '165'
+  doi: 10.1037/0022-3514.44.1.113
+  estado: verificada
+? De Los Reyes, A., et al. (2015). Informant discrepancies in the assessment of childhood
+  psychopathology. *Psychological Bulletin*, 141(4), 858-900.
+: anio_crossref: 2005
+  clases:
+  - '136'
+  doi: 10.1037/0033-2909.131.4.483
+  estado: sin-verificar
+DeCarlo, L. T. (1997). On the meaning and use of kurtosis. *Psychological Methods*, 2(3), 292-307.:
+  anio_crossref: 1997
+  clases:
+  - '051'
+  doi: 10.1037/1082-989x.2.3.292
+  estado: verificada
+'DeVellis, R. F. (2016). *Scale Development: Theory and Applications* (4.ª ed.).':
+  anio_crossref: 1992
+  clases:
+  - '002'
+  doi: 10.2307/2075704
+  estado: edicion-difiere
+'DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4.ª ed.). Sage.':
+  anio_crossref: 1992
+  clases:
+  - '171'
+  doi: 10.2307/2075704
+  estado: edicion-difiere
+DerSimonian, R., & Laird, N. (1986). Meta-analysis in clinical trials. *Controlled Clinical Trials*, 7(3), 177-188.:
+  anio_crossref: 1986
+  clases:
+  - '179'
+  doi: 10.1016/0197-2456(86)90046-2
+  estado: verificada
+? Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction
+  With Life Scale. *Journal of Personality Assessment*, 49(1), 71-75.
+: anio_crossref: 1985
+  clases:
+  - '161'
+  doi: 10.1207/s15327752jpa4901_13
+  estado: verificada
+Diener, E., Oishi, S., & Tay, L. (2018). Advances in subjective well-being research. *Nature Human Behaviour*, 2, 253-260.:
+  anio_crossref: 2018
+  clases:
+  - '161'
+  doi: 10.1038/s41562-018-0307-6
+  estado: verificada
+Donner, A., & Klar, N. (2000). *Design and Analysis of Cluster Randomization Trials in Health Research*. Arnold.:
+  anio_crossref: 2002
+  clases:
+  - '160'
+  doi: 10.1002/sim.957
+  estado: sin-verificar
+Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*. Erlbaum.:
+  anio_crossref: 2011
+  clases:
+  - '046'
+  doi: 10.4324/9780203874776
+  estado: edicion-difiere
+? Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).
+  Improving students' learning with effective learning techniques. *Psychological
+  Science in the Public Interest*, 14(1), 4-58.
+: anio_crossref: 2013
+  clases:
+  - '146'
+  doi: 10.1177/1529100612453266
+  estado: verificada
+Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega. *British Journal of Psychology*, 105(3), 399-412.:
+  anio_crossref: 2013
+  clases:
+  - '013'
+  doi: 10.1111/bjop.12046
+  estado: sin-verificar
+Ebbinghaus, H. (1885). *Über das Gedächtnis*. Duncker & Humblot.:
+  anio_crossref: 2013
+  clases:
+  - '146'
+  doi: 10.3790/978-3-428-56010-3
+  estado: sin-verificar
+Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology*, 53, 109-132.:
+  anio_crossref: 2002
+  clases:
+  - '148'
+  doi: 10.1146/annurev.psych.53.100901.135153
+  estado: verificada
+? Edwards, J. R. (1993). Problems with the use of profile similarity indices in the
+  study of congruence in organizational research. *Personnel Psychology*, 46(3), 641-665.
+: anio_crossref: 1993
+  clases:
+  - '118'
+  doi: 10.1111/j.1744-6570.1993.tb00889.x
+  estado: verificada
+Efron, B., & Tibshirani, R. J. (1993). *An Introduction to the Bootstrap*. Chapman & Hall.:
+  anio_crossref: 1993
+  clases:
+  - '176'
+  doi: 10.1007/978-1-4899-4541-9
+  estado: verificada
+? Egger, M., Davey Smith, G., Schneider, M., & Minder, C. (1997). Bias in meta-analysis
+  detected by a simple, graphical test. *BMJ*, 315, 629-634.
+: anio_crossref: 1997
+  clases:
+  - '170'
+  doi: 10.1136/bmj.315.7109.629
+  estado: verificada
+? Embretson, S. E. (1998). A cognitive design system approach to generating valid
+  tests. *Psychological Methods*, 3(3), 380-396.
+: anio_crossref: 1998
+  clases:
+  - 083
+  - '113'
+  doi: 10.1037/1082-989x.3.3.380
+  estado: verificada
+Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*.:
+  anio_crossref: 2025
+  clases:
+  - '185'
+  doi: 10.4324/9781315726557
+  estado: sin-verificar
+Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum.:
+  anio_crossref: 2025
+  clases:
+  - '026'
+  - 028
+  - 029
+  - '067'
+  - 068
+  doi: 10.4324/9781315726557
+  estado: sin-verificar
+Enders, C. K. (2010). *Applied Missing Data Analysis*. Guilford.:
+  anio_crossref: 2012
+  clases:
+  - '174'
+  doi: 10.1111/j.1467-842x.2012.00656.x
+  estado: sin-verificar
+? Epskamp, S., & Fried, E. I. (2018). A tutorial on regularized partial correlation
+  networks. *Psychological Methods*, 23(4), 617-634.
+: anio_crossref: 2018
+  clases:
+  - '064'
+  doi: 10.1037/met0000167
+  estado: verificada
+? Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychological networks
+  and their accuracy. *Behavior Research Methods*, 50(1), 195-212.
+: anio_crossref: 2017
+  clases:
+  - '064'
+  doi: 10.3758/s13428-017-0862-1
+  estado: verificada
+Fabrigar, L. R., & Wegener, D. T. (2012). *Exploratory Factor Analysis*. Oxford University Press.:
+  anio_crossref: 2011
+  clases:
+  - '021'
+  doi: 10.1093/acprof:osobl/9780199734177.001.0001
+  estado: verificada
+? Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating
+  the use of exploratory factor analysis in psychological research. *Psychological
+  Methods*, 4(3), 272-299.
+: anio_crossref: 1999
+  clases:
+  - '022'
+  doi: 10.1037/1082-989x.4.3.272
+  estado: verificada
+? 'Feinstein, A. R., & Cicchetti, D. V. (1990). High agreement but low kappa: I. The
+  problems of two paradoxes. *Journal of Clinical Epidemiology*, 43(6), 543-549.'
+: anio_crossref: 1990
+  clases:
+  - '054'
+  doi: 10.1016/0895-4356(90)90159-m
+  estado: verificada
+? Feldt, L. S. (1965). The approximate sampling distribution of Kuder-Richardson reliability
+  coefficient twenty. *Psychometrika*, 30(3), 357-370.
+: anio_crossref: 1965
+  clases:
+  - '176'
+  doi: 10.1007/bf02289499
+  estado: verificada
+? Fenson, L., et al. (1994). Variability in early communicative development. *Monographs
+  of the Society for Research in Child Development*, 59(5).
+: anio_crossref: 1994
+  clases:
+  - '133'
+  doi: 10.2307/1166093
+  estado: verificada
+Ferguson, G. A. (1941). The factorial interpretation of test difficulty. *Psychometrika*, 6(5), 323-329.:
+  anio_crossref: 1941
+  clases:
+  - '065'
+  doi: 10.1007/bf02288588
+  estado: verificada
+? Fisher, R. A. (1915). Frequency distribution of the values of the correlation coefficient
+  in samples from an indefinitely large population. *Biometrika*, 10(4), 507-521.
+: anio_crossref: 1915
+  clases:
+  - '173'
+  doi: 10.2307/2331838
+  estado: verificada
+Flanagan, D. P., Ortiz, S. O., & Alfonso, V. C. (2013). *Essentials of Cross-Battery Assessment* (3.ª ed.). Wiley.:
+  anio_crossref: 2013
+  clases:
+  - 090
+  doi: 10.1007/978-1-4614-8106-5_22
+  estado: sin-verificar
+? 'Fleeson, W. (2001). Toward a structure- and process-integrated view of personality:
+  Traitlike density distributions of states. *Journal of Personality and Social Psychology*,
+  80(6), 1011-1027.'
+: anio_crossref: 2001
+  clases:
+  - '109'
+  doi: 10.1037/0022-3514.80.6.1011
+  estado: verificada
+? Fleiss, J. L., & Cohen, J. (1973). The equivalence of weighted kappa and the intraclass
+  correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619.
+: anio_crossref: 1973
+  clases:
+  - 048
+  doi: 10.1177/001316447303300309
+  estado: verificada
+Flesch, R. (1948). A new readability yardstick. *Journal of Applied Psychology*, 32(3), 221-233.:
+  anio_crossref: 1948
+  clases:
+  - 084
+  doi: 10.1037/h0057532
+  estado: verificada
+? Flora, D. B., & Curran, P. J. (2004). An empirical evaluation of alternative methods
+  of estimation for confirmatory factor analysis with ordinal data. *Psychological
+  Methods*, 9(4), 466-491.
+: anio_crossref: 2004
+  clases:
+  - '065'
+  doi: 10.1037/1082-989x.9.4.466
+  estado: verificada
+Flynn, J. R. (1987). Massive IQ gains in 14 nations. *Psychological Bulletin*, 101(2), 171-191.:
+  anio_crossref: 1987
+  clases:
+  - 082
+  doi: 10.1037/0033-2909.101.2.171
+  estado: verificada
+Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley.:
+  anio_crossref: 2009
+  clases:
+  - '181'
+  doi: 10.1109/ms.2009.85
+  estado: verificada
+'Freeman, L. C. (1978). Centrality in social networks: Conceptual clarification. *Social Networks*, 1(3), 215-239.':
+  anio_crossref: 1978
+  clases:
+  - '126'
+  doi: 10.1016/0378-8733(78)90021-7
+  estado: verificada
+? 'Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention: What,
+  why, and how valid is it? *Reading Research Quarterly*, 41(1), 93-99.'
+: anio_crossref: 2006
+  clases:
+  - '145'
+  doi: 10.1598/rrq.41.1.4
+  estado: verificada
+? Furnham, A., Steele, H., & Pendleton, D. (1993). A psychometric assessment of the
+  Belbin Team-Role Self-Perception Inventory. *Journal of Occupational and Organizational
+  Psychology*, 66(3), 245-257.
+: anio_crossref: 1993
+  clases:
+  - '123'
+  doi: 10.1111/j.2044-8325.1993.tb00535.x
+  estado: verificada
+? Galton, F. (1886). Regression towards mediocrity in hereditary stature. *Journal
+  of the Anthropological Institute*, 15, 246-263.
+: anio_crossref: 1886
+  clases:
+  - '041'
+  doi: 10.2307/2841583
+  estado: verificada
+? Gardner, W. L., & Martinko, M. J. (1996). Using the Myers-Briggs Type Indicator
+  to study managers. *Journal of Management*, 22(1), 45-83.
+: anio_crossref: 1996
+  clases:
+  - '103'
+  doi: 10.1177/014920639602200103
+  estado: verificada
+? Gati, I., Krausz, M., & Osipow, S. H. (1996). A taxonomy of difficulties in career
+  decision making. *Journal of Counseling Psychology*, 43(4), 510-526.
+: anio_crossref: 1996
+  clases:
+  - '154'
+  doi: 10.1037/0022-0167.43.4.510
+  estado: verificada
+Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15.:
+  anio_crossref: 2004
+  clases:
+  - '144'
+  doi: 10.1177/00222194040370010201
+  estado: verificada
+Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation*. Routledge.:
+  anio_crossref: 2012
+  clases:
+  - 083
+  doi: 10.4324/9780203803912
+  estado: verificada
+? Gierl, M. J., Bulut, O., Guo, Q., & Zhang, X. (2017). Developing, analyzing, and
+  using distractors for multiple-choice tests in education. *Review of Educational
+  Research*, 87(6), 1082-1116.
+: anio_crossref: 2017
+  clases:
+  - 085
+  doi: 10.3102/0034654317726529
+  estado: verificada
+'Gipps, C. V. (1994). *Beyond Testing: Towards a Theory of Educational Assessment*. Falmer Press.':
+  anio_crossref: 2002
+  clases:
+  - '156'
+  doi: 10.4324/9780203486009-15
+  estado: sin-verificar
+? Glanzer, M., & Cunitz, A. R. (1966). Two storage mechanisms in free recall. *Journal
+  of Verbal Learning and Verbal Behavior*, 5(4), 351-360.
+: anio_crossref: 1966
+  clases:
+  - 094
+  doi: 10.1016/s0022-5371(66)80044-0
+  estado: verificada
+? Glascoe, F. P. (2005). Screening for developmental and behavioral problems. *Mental
+  Retardation and Developmental Disabilities Research Reviews*, 11(3), 173-179.
+: anio_crossref: 2005
+  clases:
+  - '135'
+  - '139'
+  doi: 10.1002/mrdd.20068
+  estado: verificada
+? Goldberg, L. R. (1999). A broad-bandwidth, public domain, personality inventory
+  measuring the lower-level facets of several five-factor models. En I. Mervielde
+  et al. (Eds.), *Personality Psychology in Europe* (Vol. 7). Tilburg University Press.
+: anio_crossref: 1999
+  clases:
+  - '102'
+  doi: 10.1037/t20166-000
+  estado: sin-verificar
+? Goldberg, L. R., et al. (2006). The International Personality Item Pool and the
+  future of public-domain personality measures. *Journal of Research in Personality*,
+  40(1), 84-96.
+: anio_crossref: 2006
+  clases:
+  - '102'
+  - '108'
+  doi: 10.1016/j.jrp.2005.08.007
+  estado: verificada
+? 'Goodman, R. (1997). The Strengths and Difficulties Questionnaire: A research note.
+  *Journal of Child Psychology and Psychiatry*, 38(5), 581-586.'
+: anio_crossref: 1997
+  clases:
+  - '169'
+  doi: 10.1111/j.1469-7610.1997.tb01545.x
+  estado: verificada
+Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. *Psychological Bulletin*, 124(1), 75-111.:
+  anio_crossref: 1998
+  clases:
+  - 087
+  doi: 10.1037/0033-2909.124.1.75
+  estado: verificada
+? 'Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review.
+  *Review of General Psychology*, 2(3), 271-299.'
+: anio_crossref: 1998
+  clases:
+  - '164'
+  doi: 10.1037/1089-2680.2.3.271
+  estado: verificada
+? Hageman, W. J. J. M., & Arrindell, W. A. (1999). Establishing clinically significant
+  change. *Behaviour Research and Therapy*, 37(12), 1169-1193.
+: anio_crossref: 2016
+  clases:
+  - '175'
+  doi: 10.1186/s12888-016-0895-5
+  estado: sin-verificar
+? Haladyna, T. M., & Downing, S. M. (1993). How many options is enough for a multiple-choice
+  test item? *Educational and Psychological Measurement*, 53(4), 999-1010.
+: anio_crossref: 1993
+  clases:
+  - '047'
+  doi: 10.1177/0013164493053004013
+  estado: verificada
+Haladyna, T. M., & Rodriguez, M. C. (2013). *Developing and Validating Test Items*. Routledge.:
+  anio_crossref: 2013
+  clases:
+  - '006'
+  - 085
+  - '113'
+  doi: 10.4324/9780203850381
+  estado: verificada
+? Hamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the
+  cross-lagged panel model. *Psychological Methods*, 20(1), 102-116.
+: anio_crossref: 2015
+  clases:
+  - '148'
+  doi: 10.1037/a0038889
+  estado: verificada
+? 'Hambleton, R. K., & Jones, R. W. (1993). Comparison of classical test theory and
+  item response theory and their applications to test development. *Educational Measurement:
+  Issues and Practice*, 12(3), 38-47.'
+: anio_crossref: 1998
+  clases:
+  - '026'
+  doi: 10.1177/0013164498058003001
+  estado: sin-verificar
+? Hambleton, R. K., Merenda, P. F., & Spielberger, C. D. (Eds.) (2005). *Adapting
+  Educational and Psychological Tests for Cross-Cultural Assessment*. Lawrence Erlbaum.
+: anio_crossref: 2004
+  clases:
+  - '035'
+  - '140'
+  doi: 10.4324/9781410611758
+  estado: verificada
+Hambleton, R. K., Swaminathan, H., & Rogers, H. J. (1991). *Fundamentals of Item Response Theory*. Sage.:
+  anio_crossref: 1992
+  clases:
+  - 029
+  doi: 10.2307/2075521
+  estado: verificada
+? Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver
+  operating characteristic (ROC) curve. *Radiology*, 143(1), 29-36.
+: anio_crossref: 1982
+  clases:
+  - '135'
+  doi: 10.1148/radiology.143.1.7063747
+  estado: verificada
+Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social Science Computer Review*, 23(3), 371-379.:
+  anio_crossref: 2005
+  clases:
+  - '149'
+  doi: 10.1177/0894439305275911
+  estado: verificada
+'Harvill, L. M. (1991). Standard error of measurement. *Educational Measurement: Issues and Practice*, 10(2), 33-41.':
+  anio_crossref: 1991
+  clases:
+  - '015'
+  - '055'
+  doi: 10.1111/j.1745-3992.1991.tb00195.x
+  estado: verificada
+? 'Hasbrouck, J., & Tindal, G. A. (2006). Oral reading fluency norms: A valuable assessment
+  tool for reading teachers. *The Reading Teacher*, 59(7), 636-644.'
+: anio_crossref: 2006
+  clases:
+  - '142'
+  doi: 10.1598/rt.59.7.3
+  estado: verificada
+? Hautus, M. J. (1995). Corrections for extreme proportions and their biasing effects
+  on estimated values of d′. *Behavior Research Methods, Instruments, & Computers*,
+  27(1), 46-51.
+: anio_crossref: 1995
+  clases:
+  - 091
+  doi: 10.3758/bf03203619
+  estado: verificada
+? Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for
+  estimating reliability. *Communication Methods and Measures*, 14(1), 1-24.
+: anio_crossref: 2020
+  clases:
+  - '013'
+  doi: 10.1080/19312458.2020.1718629
+  estado: verificada
+? 'Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust
+  cognitive tasks do not produce reliable individual differences. *Behavior Research
+  Methods*, 50(3), 1166-1186.'
+: anio_crossref: 2017
+  clases:
+  - 097
+  doi: 10.3758/s13428-017-0935-1
+  estado: verificada
+? 'Heitz, R. P. (2014). The speed-accuracy tradeoff: History, physiology, methodology,
+  and behavior. *Frontiers in Neuroscience*, 8, 150.'
+: anio_crossref: 2014
+  clases:
+  - 089
+  doi: 10.3389/fnins.2014.00150
+  estado: verificada
+? Hicks, L. E. (1970). Some properties of ipsative, normative, and forced-choice normative
+  measures. *Psychological Bulletin*, 74(3), 167-184.
+: anio_crossref: 1970
+  clases:
+  - 008
+  - '104'
+  doi: 10.1037/h0029780
+  estado: verificada
+Hinz, A., & Klavžar, S. (2013). *The Tower of Hanoi — Myths and Maths*. Birkhäuser.:
+  anio_crossref: 2013
+  clases:
+  - 098
+  doi: 10.1007/978-3-0348-0237-6
+  estado: verificada
+Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources.:
+  anio_crossref: 1975
+  clases:
+  - '024'
+  - '151'
+  doi: 10.1207/s15327752jpa3901_15
+  estado: edicion-difiere
+? Holland, P. W., & Dorans, N. J. (2006). Linking and equating. En R. L. Brennan (Ed.),
+  *Educational Measurement* (4.ª ed.). ACE/Praeger.
+: anio_crossref: 2027
+  clases:
+  - 069
+  doi: 10.1016/b978-0-443-26629-4.00064-2
+  estado: sin-verificar
+? Holland, P. W., & Thayer, D. T. (1988). Differential item performance and the Mantel-Haenszel
+  procedure. En H. Wainer & H. I. Braun (Eds.), *Test Validity*. Lawrence Erlbaum.
+: anio_crossref: 2013
+  clases:
+  - '033'
+  - '177'
+  doi: 10.4324/9780203056905-19
+  estado: edicion-difiere
+Holzinger, K. J., & Swineford, F. (1937). The bi-factor method. *Psychometrika*, 2(1), 41-54.:
+  anio_crossref: 1937
+  clases:
+  - '063'
+  doi: 10.1007/bf02287965
+  estado: verificada
+Horn, J. L. (1965). A rationale and test for the number of factors in factor analysis. *Psychometrika*, 30(2), 179-185.:
+  anio_crossref: 1965
+  clases:
+  - '022'
+  doi: 10.1007/bf02289447
+  estado: verificada
+? Horn, J. L., & Cattell, R. B. (1967). Age differences in fluid and crystallized
+  intelligence. *Acta Psychologica*, 26, 107-129.
+: anio_crossref: 1967
+  clases:
+  - 082
+  doi: 10.1016/0001-6918(67)90011-x
+  estado: verificada
+? Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure
+  analysis. *Structural Equation Modeling*, 6(1), 1-55.
+: anio_crossref: 1999
+  clases:
+  - '023'
+  - '062'
+  doi: 10.1080/10705519909540118
+  estado: verificada
+? Hubert, L., & Arabie, P. (1987). Evaluating order hypotheses within proximity matrices.
+  *Psychological Bulletin*, 102(1), 172-178.
+: anio_crossref: 1987
+  clases:
+  - '024'
+  doi: 10.1037//0033-2909.102.1.172
+  estado: verificada
+? Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based
+  mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42.
+: anio_crossref: 2016
+  clases:
+  - '169'
+  doi: 10.1080/13632752.2015.1120051
+  estado: verificada
+Hunter, J. E., & Schmidt, F. L. (2004). *Methods of Meta-Analysis* (2.ª ed.). Sage.:
+  anio_crossref: 2004
+  clases:
+  - 059
+  doi: 10.4135/9781412985031
+  estado: verificada
+? 'Ilgen, D. R., Hollenbeck, J. R., Johnson, M., & Jundt, D. (2005). Teams in organizations:
+  From input-process-output models to IMOI models. *Annual Review of Psychology*,
+  56, 517-543.'
+: anio_crossref: 2005
+  clases:
+  - '124'
+  doi: 10.1146/annurev.psych.56.091103.070250
+  estado: verificada
+? Impara, J. C., & Foster, D. (2006). Item and test development strategies to minimize
+  test fraud. En S. M. Downing & T. M. Haladyna (Eds.), *Handbook of Test Development*.
+  Lawrence Erlbaum.
+: anio_crossref: null
+  clases:
+  - 080
+  doi: 10.4324/9780203874776.ch5
+  estado: edicion-difiere
+? Ingraham, L. J., & Aiken, C. B. (1996). An empirical approach to determining criteria
+  for abnormality in test batteries with multiple measures. *Neuropsychology*, 10(1),
+  120-124.
+: anio_crossref: 1996
+  clases:
+  - '100'
+  doi: 10.1037/0894-4105.10.1.120
+  estado: verificada
+? IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for
+  routinely presenting prediction intervals in meta-analysis. *BMJ Open*, 6, e010247.
+: anio_crossref: 2016
+  clases:
+  - '179'
+  doi: 10.1136/bmjopen-2015-010247
+  estado: verificada
+? International Test Commission (2006). International guidelines on computer-based
+  and internet-delivered testing. *International Journal of Testing*, 6(2), 143-171.
+: anio_crossref: 2006
+  clases:
+  - '037'
+  doi: 10.1207/s15327574ijt0602_4
+  estado: verificada
+International Test Commission (2013). *ITC Guidelines on Test Use*.:
+  anio_crossref: 2015
+  clases:
+  - 090
+  - '194'
+  - '200'
+  doi: 10.1080/15305058.2015.1111221
+  estado: sin-verificar
+International Test Commission (2013). *ITC Guidelines on Test Use*. ITC.:
+  anio_crossref: 2015
+  clases:
+  - '032'
+  - '037'
+  doi: 10.1080/15305058.2015.1111221
+  estado: sin-verificar
+International Test Commission (2017). *ITC Guidelines for Translating and Adapting Tests* (2.ª ed.).:
+  anio_crossref: 2017
+  clases:
+  - '193'
+  doi: 10.1080/15305058.2017.1398166
+  estado: verificada
+International Test Commission (2017). *The ITC Guidelines for Translating and Adapting Tests* (2.ª ed.). ITC.:
+  anio_crossref: 2017
+  clases:
+  - '035'
+  - '037'
+  doi: 10.1080/15305058.2017.1398166
+  estado: verificada
+Jacobson, N. S., & Truax, P. (1991). Clinical significance. *Journal of Consulting and Clinical Psychology*, 59(1), 12-19.:
+  anio_crossref: 1992
+  clases:
+  - '198'
+  doi: 10.1037/0022-006x.60.3.402
+  estado: sin-verificar
+? 'Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statistical approach
+  to defining meaningful change in psychotherapy research. *Journal of Consulting
+  and Clinical Psychology*, 59(1), 12-19.'
+: anio_crossref: 1991
+  clases:
+  - '015'
+  - '162'
+  - '175'
+  doi: 10.1037/0022-006x.59.1.12
+  estado: verificada
+? James, L. R., Demaree, R. G., & Wolf, G. (1984). Estimating within-group interrater
+  reliability with and without response bias. *Journal of Applied Psychology*, 69(1),
+  85-98.
+: anio_crossref: 1984
+  clases:
+  - '122'
+  doi: 10.1037/0021-9010.69.1.85
+  estado: verificada
+Janis, I. L. (1972). *Victims of Groupthink*. Houghton Mifflin.:
+  anio_crossref: 1991
+  clases:
+  - '130'
+  doi: 10.2307/3791464
+  estado: sin-verificar
+? Jenkins, J. R., Hudson, R. F., & Johnson, E. S. (2007). Screening for at-risk readers
+  in a response to intervention framework. *School Psychology Review*, 36(4), 582-600.
+: anio_crossref: 2007
+  clases:
+  - '191'
+  doi: 10.1080/02796015.2007.12087919
+  estado: verificada
+? John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy. En L. A. Pervin
+  & O. P. John (Eds.), *Handbook of Personality* (2.ª ed.). Guilford.
+: anio_crossref: 2014
+  clases:
+  - '101'
+  doi: 10.1037/t36090-000
+  estado: sin-verificar
+Johnson, J. A. (2014). IPIP-NEO-120. *Journal of Research in Personality*, 51.:
+  anio_crossref: 2014
+  clases:
+  - '004'
+  doi: 10.1037/t34102-000
+  estado: sin-verificar
+? 'Johnson, J. A. (2014). Measuring thirty facets of the Five Factor Model with a
+  120-item public domain inventory: Development of the IPIP-NEO-120. *Journal of Research
+  in Personality*, 51, 78-89.'
+: anio_crossref: 2014
+  clases:
+  - '102'
+  doi: 10.1016/j.jrp.2014.05.003
+  estado: verificada
+? 'Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity
+  and educational consequences. *Educational Research Review*, 2(2), 130-144.'
+: anio_crossref: 2007
+  clases:
+  - '143'
+  doi: 10.1016/j.edurev.2007.05.002
+  estado: verificada
+? Judge, T. A., Piccolo, R. F., & Ilies, R. (2004). The forgotten ones? The validity
+  of consideration and initiating structure in leadership research. *Journal of Applied
+  Psychology*, 89(1), 36-51.
+: anio_crossref: 2004
+  clases:
+  - '121'
+  doi: 10.1037/0021-9010.89.1.36
+  estado: verificada
+? Judge, T. A., Thoresen, C. J., Bono, J. E., & Patton, G. K. (2001). The job satisfaction–job
+  performance relationship. *Psychological Bulletin*, 127(3), 376-407.
+: anio_crossref: 1985
+  clases:
+  - '166'
+  doi: 10.1037/0033-2909.97.2.251
+  estado: sin-verificar
+Kaiser, H. F. (1958). The varimax criterion for analytic rotation in factor analysis. *Psychometrika*, 23(3), 187-200.:
+  anio_crossref: 1958
+  clases:
+  - '061'
+  doi: 10.1007/bf02289233
+  estado: verificada
+Kaiser, H. F. (1974). An index of factorial simplicity. *Psychometrika*, 39(1), 31-36.:
+  anio_crossref: 1974
+  clases:
+  - '021'
+  doi: 10.1007/bf02291575
+  estado: verificada
+? 'Kane, M. J., Conway, A. R. A., Miura, T. K., & Colflesh, G. J. H. (2007). Working
+  memory, attention control, and the n-back task. *Journal of Experimental Psychology:
+  Learning, Memory, and Cognition*, 33(3), 615-622.'
+: anio_crossref: 2007
+  clases:
+  - 099
+  doi: 10.1037/0278-7393.33.3.615
+  estado: verificada
+? Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal
+  of Educational Measurement*, 50(1), 1-73.
+: anio_crossref: 2013
+  clases:
+  - '016'
+  - '180'
+  doi: 10.1111/jedm.12000
+  estado: verificada
+Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley.:
+  anio_crossref: 1993
+  clases:
+  - '154'
+  doi: 10.1017/cbo9781139174084
+  estado: edicion-difiere
+'Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.':
+  anio_crossref: null
+  clases:
+  - '141'
+  doi: 10.1037/10564-006
+  estado: sin-verificar
+? 'Kiresuk, T. J., & Sherman, R. E. (1968). Goal attainment scaling: A general method
+  for evaluating comprehensive community mental health programs. *Community Mental
+  Health Journal*, 4(6), 443-453.'
+: anio_crossref: 1968
+  clases:
+  - '150'
+  doi: 10.1007/bf01530764
+  estado: verificada
+? Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent trade-offs in the
+  fair determination of risk scores. *ITCS 2017*.
+: anio_crossref: 2023
+  clases:
+  - '034'
+  doi: 10.1145/3603195.3603206
+  estado: edicion-difiere
+Kline, R. B. (2016). *Principles and Practice of Structural Equation Modeling* (4.ª ed.). Guilford.:
+  anio_crossref: 2012
+  clases:
+  - '062'
+  doi: 10.1080/10705511.2012.687667
+  estado: edicion-difiere
+Kolen, M. J., & Brennan, R. L. (2014). *Test Equating, Scaling, and Linking* (3.ª ed.). Springer.:
+  anio_crossref: 2014
+  clases:
+  - '050'
+  - 069
+  doi: 10.1007/978-1-4939-0317-7
+  estado: verificada
+? Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass
+  correlation coefficients for reliability research. *Journal of Chiropractic Medicine*,
+  15(2), 155-163.
+: anio_crossref: 2016
+  clases:
+  - '014'
+  doi: 10.1016/j.jcm.2016.02.012
+  estado: verificada
+? 'Koretz, D. (1998). Large-scale portfolio assessments in the US: Evidence pertaining
+  to the quality of measurement. *Assessment in Education*, 5(3), 309-334.'
+: anio_crossref: 1998
+  clases:
+  - '156'
+  doi: 10.1080/0969595980050302
+  estado: verificada
+Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*. What Works Clearinghouse.:
+  anio_crossref: 2015
+  clases:
+  - '137'
+  doi: 10.1007/s10864-015-9224-1
+  estado: sin-verificar
+'Krawczyk, H., Bellare, M., & Canetti, R. (1997). *HMAC: Keyed-Hashing for Message Authentication*. RFC 2104.':
+  anio_crossref: 1997
+  clases:
+  - '188'
+  doi: 10.17487/rfc2104
+  estado: verificada
+? Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of
+  individuals' fit at work. *Personnel Psychology*, 58(2), 281-342.
+: anio_crossref: 2005
+  clases:
+  - '118'
+  doi: 10.1111/j.1744-6570.2005.00672.x
+  estado: sin-verificar
+? 'Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of
+  a brief depression severity measure. *Journal of General Internal Medicine*, 16(9),
+  606-613.'
+: anio_crossref: 2002
+  clases:
+  - '167'
+  doi: 10.1097/00006842-200203000-00008
+  estado: verificada
+? Krosnick, J. A. (1991). Response strategies for coping with the cognitive demands
+  of attitude measures in surveys. *Applied Cognitive Psychology*, 5(3), 213-236.
+: anio_crossref: 1991
+  clases:
+  - '006'
+  doi: 10.1002/acp.2350050305
+  estado: verificada
+? Krueger, J., & Mueller, R. A. (2002). Unskilled, unaware, or both? *Journal of Personality
+  and Social Psychology*, 82(2), 180-188.
+: anio_crossref: 2002
+  clases:
+  - '147'
+  doi: 10.1037/0022-3514.82.2.189
+  estado: sin-verificar
+? Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality
+  and Social Psychology*, 77(6), 1121-1134.
+: anio_crossref: 2002
+  clases:
+  - '147'
+  doi: 10.1037/0022-3514.82.2.189
+  estado: sin-verificar
+? Kuder, G. F., & Richardson, M. W. (1937). The theory of the estimation of test reliability.
+  *Psychometrika*, 2(3), 151-160.
+: anio_crossref: 1937
+  clases:
+  - '053'
+  doi: 10.1007/bf02288391
+  estado: verificada
+? Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical
+  data. *Biometrics*, 33(1), 159-174.
+: anio_crossref: 1977
+  clases:
+  - '054'
+  doi: 10.2307/2529310
+  estado: verificada
+? 'Le, H., Oh, I.-S., Robbins, S. B., Ilies, R., Holland, E., & Westrick, P. (2011).
+  Too much of a good thing: Curvilinear relationships between personality traits and
+  job performance. *Journal of Applied Psychology*, 96(1), 113-133.'
+: anio_crossref: 2011
+  clases:
+  - '116'
+  doi: 10.1037/a0021016
+  estado: verificada
+? LeBreton, J. M., & Senter, J. L. (2008). Answers to 20 questions about interrater
+  reliability and interrater agreement. *Organizational Research Methods*, 11(4),
+  815-852.
+: anio_crossref: 2007
+  clases:
+  - '122'
+  doi: 10.1177/1094428106296642
+  estado: verificada
+? Lewin, K., Lippitt, R., & White, R. K. (1939). Patterns of aggressive behavior in
+  experimentally created "social climates". *Journal of Social Psychology*, 10(2),
+  271-299.
+: anio_crossref: 1939
+  clases:
+  - '121'
+  doi: 10.1080/00224545.1939.9713366
+  estado: verificada
+'Ley 19.628 y Ley 21.719 (Chile), sobre protección de datos: verificar el texto vigente en la fuente oficial.':
+  anio_crossref: 2022
+  clases:
+  - '183'
+  doi: 10.62659/cf2201102
+  estado: sin-verificar
+'Ley 19.628 y Ley 21.719 (Chile): verificar el texto vigente en bcn.cl.':
+  anio_crossref: 2010
+  clases:
+  - '195'
+  doi: 10.62659/cf0904501
+  estado: sin-verificar
+'Ley 19.628 y Ley 21.719 (Chile): verificar en bcn.cl.':
+  anio_crossref: 2006
+  clases:
+  - '188'
+  doi: 10.25267/periferica.2006.i7.03
+  estado: sin-verificar
+? Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological
+  Assessment* (5.ª ed.). Oxford University Press.
+: anio_crossref: 1986
+  clases:
+  - 096
+  doi: 10.1177/073428298600400111
+  estado: sin-verificar
+Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology*, 140, 1-55.:
+  anio_crossref: 1965
+  clases:
+  - '007'
+  doi: 10.1080/00224545.1965.9922270
+  estado: sin-verificar
+? 'Linn, M. C., & Petersen, A. C. (1985). Emergence and characterization of sex differences
+  in spatial ability: A meta-analysis. *Child Development*, 56(6), 1479-1498.'
+: anio_crossref: 1985
+  clases:
+  - 086
+  doi: 10.2307/1130467
+  estado: verificada
+Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development. *Pediatrics*, 145(1), e20193449.:
+  anio_crossref: 2020
+  clases:
+  - '135'
+  - '139'
+  doi: 10.1542/peds.2019-0851
+  estado: sin-verificar
+? 'Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development: Identifying
+  infants and young children with developmental disorders through developmental surveillance
+  and screening. *Pediatrics*, 145(1), e20193449.'
+: anio_crossref: 2021
+  clases:
+  - '131'
+  doi: 10.1542/9781610025034-part03-promoting
+  estado: verificada
+? Livingston, S. A., & Lewis, C. (1995). Estimating the consistency and accuracy of
+  classifications based on test scores. *Journal of Educational Measurement*, 32(2),
+  179-197.
+: anio_crossref: 1995
+  clases:
+  - '040'
+  doi: 10.1111/j.1745-3984.1995.tb00462.x
+  estado: verificada
+Lord, F. M. (1956). The measurement of growth. *Educational and Psychological Measurement*, 16(4), 421-437.:
+  anio_crossref: 1956
+  clases:
+  - 087
+  doi: 10.1177/001316445601600401
+  estado: verificada
+Lord, F. M. (1980). *Applications of Item Response Theory to Practical Testing Problems*. Lawrence Erlbaum.:
+  anio_crossref: 2012
+  clases:
+  - '026'
+  - 029
+  doi: 10.4324/9780203056615
+  estado: edicion-difiere
+Lord, F. M., & Novick, M. R. (1968). *Statistical Theories of Mental Test Scores*. Addison-Wesley.:
+  anio_crossref: 1969
+  clases:
+  - '044'
+  - '011'
+  doi: 10.1017/s0033312300004622
+  estado: sin-verificar
+? Lorenzo-Seva, U., & ten Berge, J. M. F. (2006). Tucker's congruence coefficient
+  as a meaningful index of factor similarity. *Methodology*, 2(2), 57-64.
+: anio_crossref: 2006
+  clases:
+  - '035'
+  doi: 10.1027/1614-2241.2.2.57
+  estado: verificada
+? Lozano, L. M., García-Cueto, E., & Muñiz, J. (2008). Effect of the number of response
+  categories on the reliability and validity of rating scales. *Methodology*, 4(2),
+  73-79.
+: anio_crossref: 2008
+  clases:
+  - '007'
+  doi: 10.1027/1614-2241.4.2.73
+  estado: verificada
+'Lumley, T. (2010). *Complex Surveys: A Guide to Analysis Using R*. Wiley.':
+  anio_crossref: 2010
+  clases:
+  - '032'
+  doi: 10.1002/9780470580066
+  estado: sin-verificar
+? 'Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience:
+  A critical evaluation and guidelines for future work. *Child Development*, 71(3),
+  543-562.'
+: anio_crossref: 2000
+  clases:
+  - '163'
+  doi: 10.1111/1467-8624.00164
+  estado: verificada
+Lynn, M. R. (1986). Determination and quantification of content validity. *Nursing Research*, 35(6), 382-385.:
+  anio_crossref: 1986
+  clases:
+  - '017'
+  - '193'
+  doi: 10.1097/00006199-198611000-00017
+  estado: verificada
+? 'MacCallum, R. C., Roznowski, M., & Necowitz, L. B. (1992). Model modifications
+  in covariance structure analysis: The problem of capitalization on chance. *Psychological
+  Bulletin*, 111(3), 490-504.'
+: anio_crossref: 1992
+  clases:
+  - '023'
+  doi: 10.1037/0033-2909.111.3.490
+  estado: verificada
+? MacCallum, R. C., Widaman, K. F., Zhang, S., & Hong, S. (1999). Sample size in factor
+  analysis. *Psychological Methods*, 4(1), 84-99.
+: anio_crossref: 1999
+  clases:
+  - '172'
+  doi: 10.1037/1082-989x.4.1.84
+  estado: verificada
+? MacCallum, R. C., Zhang, S., Preacher, K. J., & Rucker, D. D. (2002). On the practice
+  of dichotomization of quantitative variables. *Psychological Methods*, 7(1), 19-40.
+: anio_crossref: 2002
+  clases:
+  - '103'
+  doi: 10.1037/1082-989x.7.1.19
+  estado: verificada
+? 'MacLeod, C. M. (1991). Half a century of research on the Stroop effect: An integrative
+  review. *Psychological Bulletin*, 109(2), 163-203.'
+: anio_crossref: 1991
+  clases:
+  - 099
+  doi: 10.1037/0033-2909.109.2.163
+  estado: verificada
+'Macmillan, N. A., & Creelman, C. D. (2005). *Detection Theory: A User''s Guide* (2.ª ed.). Lawrence Erlbaum.':
+  anio_crossref: 2021
+  clases:
+  - 091
+  - 099
+  - '117'
+  doi: 10.4324/9781003203636
+  estado: sin-verificar
+? Mantel, N., & Haenszel, W. (1959). Statistical aspects of the analysis of data from
+  retrospective studies of disease. *Journal of the National Cancer Institute*, 22(4),
+  719-748.
+: anio_crossref: 1959
+  clases:
+  - '033'
+  doi: 10.1093/jnci/22.4.719
+  estado: verificada
+Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules. *Structural Equation Modeling*, 11(3), 320-341.:
+  anio_crossref: 2002
+  clases:
+  - '062'
+  doi: 10.1207/s15328007sem0901_2
+  estado: sin-verificar
+Marston, W. M. (1928). *Emotions of Normal People*. Kegan Paul, Trench, Trubner.:
+  anio_crossref: 1928
+  clases:
+  - '104'
+  doi: 10.1037/13390-000
+  estado: verificada
+? Mathieu, J., Maynard, M. T., Rapp, T., & Gilson, L. (2008). Team effectiveness 1997–2007.
+  *Journal of Management*, 34(3), 410-476.
+: anio_crossref: 2008
+  clases:
+  - '124'
+  doi: 10.1177/0149206308316061
+  estado: sin-verificar
+? Mazur, J. E. (1987). An adjusting procedure for studying delayed reinforcement.
+  En M. L. Commons et al. (Eds.), *Quantitative Analyses of Behavior* (Vol. 5). Lawrence
+  Erlbaum.
+: anio_crossref: 1988
+  clases:
+  - '106'
+  doi: 10.1901/jeab.1988.49-37
+  estado: sin-verificar
+? McCrae, R. R., & Costa, P. T. (1989). Reinterpreting the Myers-Briggs Type Indicator
+  from the perspective of the five-factor model of personality. *Journal of Personality*,
+  57(1), 17-40.
+: anio_crossref: 1989
+  clases:
+  - '103'
+  doi: 10.1111/j.1467-6494.1989.tb00759.x
+  estado: verificada
+? McDaniel, M. A., Morgeson, F. P., Finnegan, E. B., Campion, M. A., & Braverman,
+  E. P. (2001). Use of situational judgment tests to predict job performance. *Journal
+  of Applied Psychology*, 86(4), 730-740.
+: anio_crossref: 2001
+  clases:
+  - '115'
+  doi: 10.1037/0021-9010.86.4.730
+  estado: verificada
+? 'McDermott, P. A., Fantuzzo, J. W., & Glutting, J. J. (1990). Just say no to subtest
+  analysis: A critique on Wechsler theory and practice. *Journal of Psychoeducational
+  Assessment*, 8(3), 290-302.'
+: anio_crossref: 1990
+  clases:
+  - 088
+  doi: 10.1177/073428299000800307
+  estado: verificada
+'McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum.':
+  anio_crossref: 2000
+  clases:
+  - '013'
+  doi: 10.2307/2669496
+  estado: verificada
+McGrew, K. S. (2009). CHC theory and the human cognitive abilities project. *Intelligence*, 37(1), 1-10.:
+  anio_crossref: null
+  clases:
+  - 081
+  doi: null
+  estado: sin-verificar
+McKeeman, W. M. (1998). Differential testing for software. *Digital Technical Journal*, 10(1), 100-107.:
+  anio_crossref: 2020
+  clases:
+  - '187'
+  doi: 10.4324/9781003125723-11
+  estado: sin-verificar
+? Melby-Lervåg, M., Redick, T. S., & Hulme, C. (2016). Working memory training does
+  not improve performance on measures of intelligence or other measures of "far transfer".
+  *Perspectives on Psychological Science*, 11(4), 512-534.
+: anio_crossref: 2016
+  clases:
+  - '170'
+  doi: 10.1177/1745691616635612
+  estado: verificada
+Meredith, W. (1993). Measurement invariance, factor analysis and factorial invariance. *Psychometrika*, 58(4), 525-543.:
+  anio_crossref: 1993
+  clases:
+  - '025'
+  doi: 10.1007/bf02294825
+  estado: verificada
+Messick, S. (1995). Validity of psychological assessment. *American Psychologist*, 50(9), 741-749.:
+  anio_crossref: 1996
+  clases:
+  - '016'
+  - '020'
+  doi: 10.1037//0003-066x.51.9.980
+  estado: edicion-difiere
+Michell, J. (1999). *Measurement in Psychology*. Cambridge University Press.:
+  anio_crossref: 1999
+  clases:
+  - '001'
+  doi: 10.1017/cbo9780511490040
+  estado: verificada
+'Ministerio de Educación de Chile (mineduc.cl): bases curriculares y orientaciones.':
+  anio_crossref: 2022
+  clases:
+  - '140'
+  doi: 10.15517/revedu.v46i2.47957
+  estado: sin-verificar
+? 'Ministerio de Educación de Chile. *Bases Curriculares de la Educación Parvularia*
+  (versión vigente: verificar en mineduc.cl).'
+: anio_crossref: 2022
+  clases:
+  - '138'
+  doi: 10.15517/revedu.v46i2.47957
+  estado: sin-verificar
+? 'Ministerio de Salud de Chile: orientaciones de prevención del suicidio y canales
+  de ayuda (versión vigente: verificar en minsal.cl).'
+: anio_crossref: null
+  clases:
+  - '167'
+  doi: 10.7764/tesisuc/med/66142
+  estado: sin-verificar
+'Ministerio de Salud de Chile: orientaciones vigentes de prevención y respuesta (verificar en minsal.cl).':
+  anio_crossref: 2022
+  clases:
+  - '168'
+  doi: 10.7764/horiz_enferm.33.3.203-207
+  estado: sin-verificar
+? 'Mislevy, R. J., Steinberg, L. S., & Almond, R. G. (2003). On the structure of educational
+  assessments. *Measurement: Interdisciplinary Research and Perspectives*, 1(1), 3-62.'
+: anio_crossref: 2003
+  clases:
+  - '155'
+  doi: 10.1207/s15366359mea0101_02
+  estado: verificada
+? Miyake, A., et al. (2000). The unity and diversity of executive functions and their
+  contributions to complex "frontal lobe" tasks. *Cognitive Psychology*, 41(1), 49-100.
+: anio_crossref: 2000
+  clases:
+  - 097
+  - 098
+  doi: 10.1006/cogp.1999.0734
+  estado: verificada
+Moreno, J. L. (1934). *Who Shall Survive?* Nervous and Mental Disease Publishing.:
+  anio_crossref: 1934
+  clases:
+  - '125'
+  doi: 10.1097/00005053-193412000-00026
+  estado: sin-verificar
+? Morris, S. B., & Lobsenz, R. E. (2000). Significance tests and confidence intervals
+  for the adverse impact ratio. *Personnel Psychology*, 53(1), 89-111.
+: anio_crossref: 2000
+  clases:
+  - '120'
+  doi: 10.1111/j.1744-6570.2000.tb00195.x
+  estado: verificada
+? Morris, T. P., White, I. R., & Crowther, M. J. (2019). Using simulation studies
+  to evaluate statistical methods. *Statistics in Medicine*, 38(11), 2074-2102.
+: anio_crossref: 2019
+  clases:
+  - '173'
+  doi: 10.1002/sim.8086
+  estado: verificada
+Murphy, K. R., & Cleveland, J. N. (1995). *Understanding Performance Appraisal*. Sage.:
+  anio_crossref: 2005
+  clases:
+  - '114'
+  - '129'
+  doi: 10.1177/1059601104267659
+  estado: sin-verificar
+? Nauta, M. M. (2010). The development, evolution, and status of Holland's theory
+  of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22.
+: anio_crossref: 2010
+  clases:
+  - '151'
+  doi: 10.1037/a0018213
+  estado: verificada
+Norman, G. (2010). Likert scales, levels of measurement and the "laws" of:
+  anio_crossref: 2010
+  clases:
+  - '003'
+  doi: 10.1007/s10459-010-9222-y
+  estado: verificada
+? 'Norman, G. R., Sloan, J. A., & Wyrwich, K. W. (2003). Interpretation of changes
+  in health-related quality of life: The remarkable universality of half a standard
+  deviation. *Medical Care*, 41(5), 582-592.'
+: anio_crossref: 2014
+  clases:
+  - '162'
+  doi: 10.3410/f.718421558.793495703
+  estado: edicion-difiere
+? Nosek, B. A., et al. (2018). The preregistration revolution. *Proceedings of the
+  National Academy of Sciences*, 115(11), 2600-2606.
+: anio_crossref: 2018
+  clases:
+  - '178'
+  doi: 10.1073/pnas.1708274114
+  estado: verificada
+? Novick, M. R. (1966). The axioms and principal results of classical test theory.
+  *Journal of Mathematical Psychology*, 3(1), 1-18.
+: anio_crossref: 1966
+  clases:
+  - '011'
+  doi: 10.1016/0022-2496(66)90002-2
+  estado: verificada
+Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill.:
+  anio_crossref: 1969
+  clases:
+  - '010'
+  - 090
+  doi: 10.1017/s0033312300004567
+  estado: sin-verificar
+O*NET Resource Center. *O\*NET Interest Profiler* (onetcenter.org). U.S. Department of Labor/ETA.:
+  anio_crossref: 2023
+  clases:
+  - '152'
+  doi: 10.1027/2698-1866/a000048
+  estado: sin-verificar
+'OECD (2019). *OECD Skills Outlook 2019: Thriving in a Digital World*. OECD Publishing.':
+  anio_crossref: 2019
+  clases:
+  - '159'
+  doi: 10.1787/df80bc12-en
+  estado: sin-verificar
+OWASP. *CSV Injection*. owasp.org.:
+  anio_crossref: null
+  clases:
+  - '189'
+  doi: 10.7717/peerj-cs.2821/table-10
+  estado: sin-verificar
+Ohm, P. (2010). Broken promises of privacy. *UCLA Law Review*, 57, 1701-1777.:
+  anio_crossref: 2013
+  clases:
+  - 078
+  doi: 10.24926/265535.1249
+  estado: sin-verificar
+? Olsson, U. (1979). Maximum likelihood estimation of the polychoric correlation coefficient.
+  *Psychometrika*, 44(4), 443-460.
+: anio_crossref: 1979
+  clases:
+  - '065'
+  doi: 10.1007/bf02296207
+  estado: verificada
+? 'Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability
+  in personality testing for personnel selection: The red herring. *Journal of Applied
+  Psychology*, 81(6), 660-679.'
+: anio_crossref: 1996
+  clases:
+  - '110'
+  doi: 10.1037/0021-9010.81.6.660
+  estado: verificada
+? Oosterhuis, H. E. M., van der Ark, L. A., & Sijtsma, K. (2016). Sample size requirements
+  for traditional and regression-based norms. *Assessment*, 23(2), 191-202.
+: anio_crossref: 2015
+  clases:
+  - '072'
+  doi: 10.1177/1073191115580638
+  estado: verificada
+Open Source Initiative. *Open Source Definition*. opensource.org.:
+  anio_crossref: 2004
+  clases:
+  - '190'
+  doi: 10.1016/b978-155558320-0/50016-7
+  estado: sin-verificar
+? 'Page, S. E. (2007). *The Difference: How the Power of Diversity Creates Better
+  Groups, Firms, Schools, and Societies*. Princeton University Press.'
+: anio_crossref: 2009
+  clases:
+  - '130'
+  doi: 10.1353/sof.0.0247
+  estado: sin-verificar
+? 'Parker, R. I., & Vannest, K. J. (2009). An improved effect size for single-case
+  research: Nonoverlap of all pairs. *Behavior Therapy*, 40(4), 357-367.'
+: anio_crossref: 2009
+  clases:
+  - '137'
+  doi: 10.1016/j.beth.2008.10.006
+  estado: verificada
+? 'Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts
+  and evidence. *Psychological Science in the Public Interest*, 9(3), 105-119.'
+: anio_crossref: 2012
+  clases:
+  - 094
+  doi: 10.1111/j.1365-2923.2012.04273.x
+  estado: sin-verificar
+? Patton, J. H., Stanford, M. S., & Barratt, E. S. (1995). Factor structure of the
+  Barratt Impulsiveness Scale. *Journal of Clinical Psychology*, 51(6), 768-774.
+: anio_crossref: 1995
+  clases:
+  - '106'
+  doi: 10.1002/1097-4679(199511)51:6<768::aid-jclp2270510607>3.0.co;2-1
+  estado: verificada
+? Paulhus, D. L. (1991). Measurement and control of response bias. En J. P. Robinson
+  et al. (Eds.), *Measures of Personality and Social Psychological Attitudes*. Academic
+  Press.
+: anio_crossref: 1991
+  clases:
+  - '060'
+  - '110'
+  doi: 10.1016/b978-0-12-590241-0.50006-x
+  estado: verificada
+? Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction
+  of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539.
+: anio_crossref: 2001
+  clases:
+  - '101'
+  doi: 10.1037/0022-3514.81.3.524
+  estado: verificada
+Peng, R. D. (2011). Reproducible research in computational science. *Science*, 334, 1226-1227.:
+  anio_crossref: 2011
+  clases:
+  - '178'
+  doi: 10.1126/science.1213847
+  estado: verificada
+? 'Peterson, C., & Seligman, M. E. P. (2004). *Character Strengths and Virtues: A
+  Handbook and Classification*. Oxford University Press/APA.'
+: anio_crossref: 2004
+  clases:
+  - '108'
+  doi: 10.5860/choice.42-0624
+  estado: verificada
+Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.:
+  anio_crossref: 1952
+  clases:
+  - '132'
+  doi: 10.1037/11494-000
+  estado: verificada
+? Pittenger, D. J. (1993). Measuring the MBTI... and coming up short. *Journal of
+  Career Planning and Employment*, 54(1), 48-52.
+: anio_crossref: 2024
+  clases:
+  - '103'
+  doi: 10.4324/9781003581420-7
+  estado: sin-verificar
+? 'Ployhart, R. E., & Holtz, B. C. (2008). The diversity-validity dilemma: Strategies
+  for reducing racioethnic and sex subgroup differences and adverse impact in selection.
+  *Personnel Psychology*, 61(1), 153-172.'
+: anio_crossref: 2008
+  clases:
+  - '073'
+  doi: 10.1111/j.1744-6570.2008.00109.x
+  estado: verificada
+? Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common
+  method biases in behavioral research. *Journal of Applied Psychology*, 88(5), 879-903.
+: anio_crossref: 2003
+  clases:
+  - '006'
+  doi: 10.1037/0021-9010.88.5.879
+  estado: sin-verificar
+? Podsakoff, P. M., et al. (2003). Common method biases in behavioral research. *Journal
+  of Applied Psychology*, 88(5), 879-903.
+: anio_crossref: 2003
+  clases:
+  - '056'
+  doi: 10.1037/0021-9010.88.5.879
+  estado: sin-verificar
+? 'Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you
+  know what''s being reported? *Research in Nursing & Health*, 29(5), 489-497.'
+: anio_crossref: 2006
+  clases:
+  - '017'
+  doi: 10.1002/nur.20147
+  estado: verificada
+? Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator
+  of content validity? *Research in Nursing & Health*, 30(4), 459-467.
+: anio_crossref: 2007
+  clases:
+  - 049
+  doi: 10.1002/nur.20199
+  estado: verificada
+? 'Porter, A. C. (2002). Measuring the content of instruction: Uses in research and
+  practice. *Educational Researcher*, 31(7), 3-14.'
+: anio_crossref: 2002
+  clases:
+  - '157'
+  doi: 10.3102/0013189x031007003
+  estado: verificada
+? Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for
+  assessing and comparing indirect effects in multiple mediator models. *Behavior
+  Research Methods*, 40(3), 879-891.
+: anio_crossref: 2008
+  clases:
+  - '124'
+  doi: 10.3758/brm.40.3.879
+  estado: verificada
+? Preston, C. C., & Colman, A. M. (2000). Optimal number of response categories in
+  rating scales. *Acta Psychologica*, 104(1), 1-15.
+: anio_crossref: 2000
+  clases:
+  - '007'
+  doi: 10.1016/s0001-6918(99)00050-5
+  estado: verificada
+Preston-Werner, T. *Semantic Versioning 2.0.0*. semver.org.:
+  anio_crossref: 2017
+  clases:
+  - '182'
+  doi: 10.32614/cran.package.semver
+  estado: sin-verificar
+? Putnick, D. L., & Bornstein, M. H. (2016). Measurement invariance conventions and
+  reporting. *Developmental Review*, 41, 71-90.
+: anio_crossref: 2016
+  clases:
+  - '025'
+  - '075'
+  doi: 10.1016/j.dr.2016.06.004
+  estado: sin-verificar
+? 'Pyburn, K. M., Ployhart, R. E., & Kravitz, D. A. (2008). The diversity-validity
+  dilemma: Overview and legal context. *Personnel Psychology*, 61(1), 143-151.'
+: anio_crossref: 2008
+  clases:
+  - '073'
+  doi: 10.1111/j.1744-6570.2008.00108.x
+  estado: verificada
+? Rammstedt, B., & John, O. P. (2007). Measuring personality in one minute or less.
+  *Journal of Research in Personality*, 41(1), 203-212.
+: anio_crossref: 2005
+  clases:
+  - 009
+  doi: 10.1037/e633942013-629
+  estado: sin-verificar
+? Rasch, G. (1960). *Probabilistic Models for Some Intelligence and Attainment Tests*.
+  Danish Institute for Educational Research.
+: anio_crossref: 2010
+  clases:
+  - '027'
+  doi: 10.4135/9781412961288.n335
+  estado: edicion-difiere
+Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108.:
+  anio_crossref: 1978
+  clases:
+  - 089
+  doi: 10.1037/0033-295x.85.2.59
+  estado: verificada
+Ratcliff, R. (1993). Methods for dealing with reaction time outliers. *Psychological Bulletin*, 114(3), 510-532.:
+  anio_crossref: 1993
+  clases:
+  - 093
+  doi: 10.1037/0033-2909.114.3.510
+  estado: verificada
+Reason, J. (1990). *Human Error*. Cambridge University Press.:
+  anio_crossref: 1990
+  clases:
+  - '117'
+  - '168'
+  doi: 10.1017/cbo9781139062367
+  estado: verificada
+Reise, S. P. (2012). The rediscovery of bifactor measurement models. *Multivariate Behavioral Research*, 47(5), 667-696.:
+  anio_crossref: 2012
+  clases:
+  - '063'
+  doi: 10.1080/00273171.2012.715555
+  estado: verificada
+? 'Rescorla, L. (2011). Late talkers: Do good predictors of outcome exist? *Developmental
+  Disabilities Research Reviews*, 17(2), 141-150.'
+: anio_crossref: 2011
+  clases:
+  - '133'
+  doi: 10.1002/ddrr.1108
+  estado: verificada
+? Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency of personality
+  traits from childhood to old age. *Psychological Bulletin*, 126(1), 3-25.
+: anio_crossref: 2000
+  clases:
+  - '105'
+  doi: 10.1037/0033-2909.126.1.3
+  estado: verificada
+? Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). Estimating the success
+  of re-identifications in incomplete datasets using generative models. *Nature Communications*,
+  10, 3069.
+: anio_crossref: 2019
+  clases:
+  - 078
+  doi: 10.1038/s41467-019-10933-3
+  estado: verificada
+? 'Rodriguez, A., Reise, S. P., & Haviland, M. G. (2016). Evaluating bifactor models:
+  Calculating and interpreting statistical indices. *Psychological Methods*, 21(2),
+  137-150.'
+: anio_crossref: 2016
+  clases:
+  - '063'
+  doi: 10.1037/met0000045
+  estado: verificada
+Rosenthal, R. (1979). The file drawer problem and tolerance for null results. *Psychological Bulletin*, 86(3), 638-641.:
+  anio_crossref: 1979
+  clases:
+  - '170'
+  doi: 10.1037/0033-2909.86.3.638
+  estado: verificada
+? Rothbart, M. K., & Bates, J. E. (2006). Temperament. En N. Eisenberg (Ed.), *Handbook
+  of Child Psychology* (6.ª ed., Vol. 3). Wiley.
+: anio_crossref: 2007
+  clases:
+  - '105'
+  doi: 10.1002/9780470147658.chpsy0303
+  estado: verificada
+? Rounds, J., & Tracey, T. J. (1993). Prediger's dimensional representation of Holland's
+  RIASEC circumplex. *Journal of Applied Psychology*, 78(6), 875-890.
+: anio_crossref: 1993
+  clases:
+  - '151'
+  doi: 10.1037//0021-9010.78.6.875
+  estado: verificada
+Rubin, D. B. (1976). Inference and missing data. *Biometrika*, 63(3), 581-592.:
+  anio_crossref: 1976
+  clases:
+  - '174'
+  doi: 10.1093/biomet/63.3.581
+  estado: verificada
+? Rudin, C. (2019). Stop explaining black box machine learning models for high stakes
+  decisions and use interpretable models instead. *Nature Machine Intelligence*, 1,
+  206-215.
+: anio_crossref: 2019
+  clases:
+  - 079
+  doi: 10.1038/s42256-019-0048-x
+  estado: verificada
+? Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation
+  of intrinsic motivation, social development, and well-being. *American Psychologist*,
+  55(1), 68-78.
+: anio_crossref: 2000
+  clases:
+  - '148'
+  doi: 10.1037/0003-066x.55.1.68
+  estado: verificada
+SIOP (2018). *Principles for the Validation and Use of Personnel Selection Procedures* (5.ª ed.).:
+  anio_crossref: 1975
+  clases:
+  - '120'
+  doi: 10.1037/e475802008-001
+  estado: edicion-difiere
+? 'Saal, F. E., Downey, R. G., & Lahey, M. A. (1980). Rating the ratings: Assessing
+  the psychometric quality of rating data. *Psychological Bulletin*, 88(2), 413-428.'
+: anio_crossref: 1980
+  clases:
+  - '114'
+  doi: 10.1037/0033-2909.88.2.413
+  estado: verificada
+? Sackett, P. R., & Ellingson, J. E. (1997). The effects of forming multi-predictor
+  composites on group differences and adverse impact. *Personnel Psychology*, 50(3),
+  707-721.
+: anio_crossref: 1997
+  clases:
+  - '073'
+  doi: 10.1111/j.1744-6570.1997.tb00711.x
+  estado: verificada
+? 'Sackett, P. R., & Yang, H. (2000). Correction for range restriction: An expanded
+  typology. *Journal of Applied Psychology*, 85(1), 112-118.'
+: anio_crossref: 2000
+  clases:
+  - 019
+  doi: 10.1037/0021-9010.85.1.112
+  estado: verificada
+? Sackett, P. R., Zhang, C., Berry, C. M., & Lievens, F. (2022). Revisiting meta-analytic
+  estimates of validity in personnel selection. *Journal of Applied Psychology*, 107(11),
+  2040-2068.
+: anio_crossref: 2022
+  clases:
+  - 039
+  - '112'
+  doi: 10.1037/apl0000994
+  estado: verificada
+? Salthouse, T. A. (1996). The processing-speed theory of adult age differences in
+  cognition. *Psychological Review*, 103(3), 403-428.
+: anio_crossref: 1996
+  clases:
+  - 089
+  doi: 10.1037/0033-295x.103.3.403
+  estado: verificada
+? Samejima, F. (1969). Estimation of latent ability using a response pattern of graded
+  scores. *Psychometrika Monograph Supplement*, 34(4, Pt. 2), No. 17.
+: anio_crossref: 1969
+  clases:
+  - 068
+  doi: 10.1007/bf03372160
+  estado: verificada
+? Samejima, F. (1977). A use of the information function in tailored testing. *Applied
+  Psychological Measurement*, 1(3), 233-247.
+: anio_crossref: 1977
+  clases:
+  - '067'
+  doi: 10.1177/014662167700100209
+  estado: verificada
+? Sanchez, J. I., & Levine, E. L. (2012). The rise and fall of job analysis and the
+  future of work analysis. *Annual Review of Psychology*, 63, 397-425.
+: anio_crossref: 2012
+  clases:
+  - '111'
+  doi: 10.1146/annurev-psych-120710-100401
+  estado: verificada
+? Savickas, M. L. (2005). The theory and practice of career construction. En S. D.
+  Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley.
+: anio_crossref: 2020
+  clases:
+  - '154'
+  - '159'
+  doi: 10.1002/9781394258994.ch6
+  estado: sin-verificar
+? 'Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of
+  the art. *Psychological Methods*, 7(2), 147-177.'
+: anio_crossref: 2002
+  clases:
+  - '174'
+  doi: 10.1037/1082-989x.7.2.147
+  estado: verificada
+Schaie, K. W. (1965). A general model for the study of developmental problems. *Psychological Bulletin*, 64(2), 92-107.:
+  anio_crossref: 1965
+  clases:
+  - 082
+  doi: 10.1037/h0022371
+  estado: verificada
+? Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods
+  in personnel psychology. *Psychological Bulletin*, 124(2), 262-274.
+: anio_crossref: 1998
+  clases:
+  - 019
+  - 059
+  - 039
+  - '112'
+  doi: 10.1037/0033-2909.124.2.262
+  estado: verificada
+? Schneider, B., Ehrhart, M. G., & Macey, W. H. (2013). Organizational climate and
+  culture. *Annual Review of Psychology*, 64, 361-388.
+: anio_crossref: 2013
+  clases:
+  - '128'
+  doi: 10.1146/annurev-psych-113011-143809
+  estado: verificada
+? Schraw, G. (2009). A conceptual analysis of five measures of metacognitive monitoring.
+  *Metacognition and Learning*, 4(1), 33-45.
+: anio_crossref: 2008
+  clases:
+  - '147'
+  doi: 10.1007/s11409-008-9031-3
+  estado: verificada
+? Schwartz, S. H. (1992). Universals in the content and structure of values. *Advances
+  in Experimental Social Psychology*, 25, 1-65.
+: anio_crossref: 1992
+  clases:
+  - '107'
+  doi: 10.1016/s0065-2601(08)60281-6
+  estado: verificada
+? Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure
+  of job performance ratings. *Journal of Applied Psychology*, 85(6), 956-970.
+: anio_crossref: 2000
+  clases:
+  - '129'
+  doi: 10.1037/0021-9010.85.6.956
+  estado: verificada
+? Shallice, T. (1982). Specific impairments of planning. *Philosophical Transactions
+  of the Royal Society of London B*, 298, 199-209.
+: anio_crossref: 1982
+  clases:
+  - 098
+  doi: 10.1098/rstb.1982.0082
+  estado: verificada
+? Sharma, L., Markon, K. E., & Clark, L. A. (2014). Toward a theory of distinct types
+  of "impulsive" behaviors. *Psychological Bulletin*, 140(2), 374-408.
+: anio_crossref: 2014
+  clases:
+  - '106'
+  doi: 10.1037/a0034418
+  estado: verificada
+'Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage.':
+  anio_crossref: 2004
+  clases:
+  - '057'
+  - '143'
+  doi: 10.1002/0471667196.ess1050
+  estado: edicion-difiere
+Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objects. *Science*, 171(3972), 701-703.:
+  anio_crossref: 1971
+  clases:
+  - 086
+  doi: 10.1126/science.171.3972.701
+  estado: verificada
+? 'Shrout, P. E., & Fleiss, J. L. (1979). Intraclass correlations: Uses in assessing
+  rater reliability. *Psychological Bulletin*, 86(2), 420-428.'
+: anio_crossref: 1979
+  clases:
+  - '014'
+  - '054'
+  - '109'
+  doi: 10.1037/0033-2909.86.2.420
+  estado: verificada
+'Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children''s Thinking*. Oxford University Press.':
+  anio_crossref: 1996
+  clases:
+  - '132'
+  doi: 10.1093/oso/9780195077872.003.0010
+  estado: sin-verificar
+? Sijtsma, K. (2009). On the use, the misuse, and the very limited usefulness of Cronbach's
+  alpha. *Psychometrika*, 74(1), 107-120.
+: anio_crossref: 2009
+  clases:
+  - '012'
+  doi: 10.1007/s11336-008-9101-0
+  estado: verificada
+? Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology.
+  *Psychological Science*, 22(11), 1359-1366.
+: anio_crossref: 2011
+  clases:
+  - '123'
+  doi: 10.1177/0956797611417632
+  estado: verificada
+? 'Sireci, S. G., Scarpati, S. E., & Li, S. (2005). Test accommodations for students
+  with disabilities: An analysis of the interaction hypothesis. *Review of Educational
+  Research*, 75(4), 457-490.'
+: anio_crossref: 2005
+  clases:
+  - '074'
+  doi: 10.3102/00346543075004457
+  estado: verificada
+'Snow, C. E. (2002). *Reading for Understanding: Toward an R&D Program in Reading Comprehension*. RAND.':
+  anio_crossref: 2001
+  clases:
+  - '141'
+  doi: 10.7249/mr1465.0
+  estado: verificada
+? Society for Industrial and Organizational Psychology (2018). *Principles for the
+  Validation and Use of Personnel Selection Procedures* (5.ª ed.).
+: anio_crossref: 2018
+  clases:
+  - '192'
+  doi: 10.1017/iop.2018.195
+  estado: verificada
+? Society for Industrial and Organizational Psychology (2018). *Principles for the
+  Validation and Use of Personnel Selection Procedures* (5.ª ed.). SIOP.
+: anio_crossref: 2018
+  clases:
+  - 039
+  doi: 10.1017/iop.2018.195
+  estado: verificada
+? Spearman, C. (1904). "General intelligence," objectively determined and measured.
+  *American Journal of Psychology*, 15(2), 201-292.
+: anio_crossref: 1904
+  clases:
+  - 081
+  doi: 10.2307/1412107
+  estado: verificada
+? Spearman, C. (1904). The proof and measurement of association between two things.
+  *American Journal of Psychology*, 15(1), 72-101.
+: anio_crossref: 1904
+  clases:
+  - '011'
+  - '052'
+  - 059
+  doi: 10.2307/1412159
+  estado: verificada
+? Spearman, C. (1904). «General intelligence» objectively determined and measured.
+  *American Journal of Psychology*, 15(2), 201-292.
+: anio_crossref: 1904
+  clases:
+  - '041'
+  doi: 10.2307/1412107
+  estado: verificada
+Spearman, C. (1910). Correlation calculated from faulty data. *British Journal of Psychology*, 3, 271-295.:
+  anio_crossref: 1910
+  clases:
+  - 009
+  doi: 10.1111/j.2044-8295.1910.tb00206.x
+  estado: verificada
+Spranger, E. (1928). *Types of Men*. Niemeyer.:
+  anio_crossref: 1932
+  clases:
+  - '107'
+  doi: 10.2307/1415379
+  estado: sin-verificar
+Stevens, S. S. (1946). On the theory of scales of measurement. *Science*,:
+  anio_crossref: 1946
+  clases:
+  - '003'
+  doi: 10.1126/science.103.2684.677
+  estado: verificada
+? 'Stogdill, R. M. (1948). Personal factors associated with leadership: A survey of
+  the literature. *Journal of Psychology*, 25, 35-71.'
+: anio_crossref: 1948
+  clases:
+  - '121'
+  doi: 10.1080/00223980.1948.9917362
+  estado: verificada
+Streiner, D. L., & Norman, G. R. (2008). *Health Measurement Scales* (4.ª ed.). Oxford University Press.:
+  anio_crossref: 2008
+  clases:
+  - '139'
+  - '167'
+  doi: 10.1093/acprof:oso/9780199231881.001.0001
+  estado: verificada
+? 'Streiner, D. L., & Norman, G. R. (2008). *Health Measurement Scales: A Practical
+  Guide to Their Development and Use* (4.ª ed.). Oxford University Press.'
+: anio_crossref: 1990
+  clases:
+  - '100'
+  doi: 10.1192/s0007125000141236
+  estado: sin-verificar
+Super, D. E. (1970). *Work Values Inventory*. Houghton Mifflin.:
+  anio_crossref: 1970
+  clases:
+  - '153'
+  doi: 10.1037/t01584-000
+  estado: verificada
+Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.:
+  anio_crossref: 2006
+  clases:
+  - '130'
+  doi: 10.1111/j.1475-4932.2006.00346.x
+  estado: sin-verificar
+? Swaminathan, H., & Rogers, H. J. (1990). Detecting differential item functioning
+  using logistic regression procedures. *Journal of Educational Measurement*, 27(4),
+  361-370.
+: anio_crossref: 1990
+  clases:
+  - '177'
+  doi: 10.1111/j.1745-3984.1990.tb00754.x
+  estado: verificada
+? 'Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International
+  Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(5), 557-570.'
+: anio_crossref: 2002
+  clases:
+  - 078
+  doi: 10.1142/s0218488502001648
+  estado: verificada
+? 'Szigriszt Pazos, F. (1993). *Sistemas predictivos de legibilidad del mensaje escrito:
+  fórmula de perspicuidad*. Tesis doctoral, Universidad Complutense de Madrid.'
+: anio_crossref: 2023
+  clases:
+  - 084
+  doi: 10.35742/cinyn2023
+  estado: sin-verificar
+? Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha. *International
+  Journal of Medical Education*, 2, 53-55.
+: anio_crossref: 2011
+  clases:
+  - '012'
+  doi: 10.5116/ijme.4dfb.8dfd
+  estado: verificada
+? Terwee, C. B., et al. (2007). Quality criteria were proposed for measurement properties
+  of health status questionnaires. *Journal of Clinical Epidemiology*, 60(1), 34-42.
+: anio_crossref: 2007
+  clases:
+  - '051'
+  doi: 10.1016/j.jclinepi.2006.03.012
+  estado: verificada
+? Thapa, A., Cohen, J., Guffey, S., & Higgins-D'Alessandro, A. (2013). A review of
+  school climate research. *Review of Educational Research*, 83(3), 357-385.
+: anio_crossref: 2013
+  clases:
+  - '128'
+  doi: 10.3102/0034654313483907
+  estado: verificada
+Thomas, A., & Chess, S. (1977). *Temperament and Development*. Brunner/Mazel.:
+  anio_crossref: 1978
+  clases:
+  - '105'
+  doi: 10.1017/s0033291700016305
+  estado: sin-verificar
+? Thompson, S. J., Johnstone, C. J., & Thurlow, M. L. (2002). *Universal Design Applied
+  to Large Scale Assessments* (NCEO Synthesis Report 44). University of Minnesota.
+: anio_crossref: 2008
+  clases:
+  - '074'
+  doi: 10.1111/j.1745-3992.2008.00112.x
+  estado: sin-verificar
+Thorndike, R. L. (1949). *Personnel Selection*. Wiley.:
+  anio_crossref: 2015
+  clases:
+  - 019
+  doi: 10.1002/9781118785317.weom050103
+  estado: edicion-difiere
+Thurstone, L. L. (1938). *Primary Mental Abilities*. University of Chicago Press.:
+  anio_crossref: 1947
+  clases:
+  - 081
+  - 088
+  doi: 10.1037/t02715-000
+  estado: sin-verificar
+? 'Tinto, V. (1993). *Leaving College: Rethinking the Causes and Cures of Student
+  Attrition* (2.ª ed.). University of Chicago Press.'
+: anio_crossref: 1987
+  clases:
+  - '158'
+  doi: 10.2307/40250027
+  estado: edicion-difiere
+? 'Tracey, T. J., & Rounds, J. (1993). Evaluating Holland''s and Gati''s vocational-interest
+  models: A structural meta-analysis. *Psychological Bulletin*, 113(2), 229-246.'
+: anio_crossref: 1993
+  clases:
+  - '024'
+  doi: 10.1037/0033-2909.113.2.229
+  estado: verificada
+Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12(1), 97-136.:
+  anio_crossref: 1980
+  clases:
+  - 092
+  doi: 10.1016/0010-0285(80)90005-5
+  estado: verificada
+Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley.:
+  anio_crossref: 1977
+  clases:
+  - '045'
+  doi: 10.1007/bf02295986
+  estado: sin-verificar
+? 'Turner-Stokes, L. (2009). Goal attainment scaling (GAS) in rehabilitation: A practical
+  guide. *Clinical Rehabilitation*, 23(4), 362-370.'
+: anio_crossref: 2009
+  clases:
+  - '150'
+  doi: 10.1177/0269215508101742
+  estado: verificada
+Uniform Guidelines on Employee Selection Procedures (1978), 29 CFR Part 1607 (EE. UU.).:
+  anio_crossref: 2025
+  clases:
+  - '020'
+  - '120'
+  doi: 10.1002/9781119272298.app03
+  estado: sin-verificar
+Vacha-Haase, T. (1998). Reliability generalization. *Educational and Psychological Measurement*, 58(1), 6-20.:
+  anio_crossref: 2002
+  clases:
+  - '179'
+  doi: 10.1177/0013164402062004002
+  estado: sin-verificar
+'VanLehn, K. (1990). *Mind Bugs: The Origins of Procedural Misconceptions*. MIT Press.':
+  anio_crossref: 1991
+  clases:
+  - '144'
+  doi: 10.1016/0004-3702(91)90072-r
+  estado: edicion-difiere
+? Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement
+  invariance literature. *Organizational Research Methods*, 3(1), 4-70.
+: anio_crossref: 2000
+  clases:
+  - '025'
+  doi: 10.1177/109442810031002
+  estado: verificada
+? Vinchur, A. J., Schippmann, J. S., Switzer, F. S., & Roth, P. L. (1998). A meta-analytic
+  review of predictors of job performance for salespeople. *Journal of Applied Psychology*,
+  83(4), 586-597.
+: anio_crossref: 1998
+  clases:
+  - '116'
+  doi: 10.1037/0021-9010.83.4.586
+  estado: verificada
+? Viswesvaran, C., & Ones, D. S. (1999). Meta-analyses of fakability estimates. *Educational
+  and Psychological Measurement*, 59(2), 197-210.
+: anio_crossref: 1999
+  clases:
+  - '060'
+  doi: 10.1177/00131649921969802
+  estado: verificada
+Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.:
+  anio_crossref: 1981
+  clases:
+  - '132'
+  doi: 10.1017/s0033291700041507
+  estado: sin-verificar
+W3C. *Web Content Accessibility Guidelines (WCAG) 2.x*. w3.org/TR/WCAG2.:
+  anio_crossref: null
+  clases:
+  - '186'
+  doi: 10.3403/30255561
+  estado: sin-verificar
+? 'WHO Multicentre Growth Reference Study Group (2006). WHO Motor Development Study:
+  Windows of achievement for six gross motor development milestones. *Acta Paediatrica*,
+  Suppl. 450, 86-95.'
+: anio_crossref: 2006
+  clases:
+  - '131'
+  doi: 10.1111/j.1651-2227.2006.tb02379.x
+  estado: edicion-difiere
+? Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Why a right to explanation of
+  automated decision-making does not exist in the General Data Protection Regulation.
+  *International Data Privacy Law*, 7(2), 76-99.
+: anio_crossref: 2017
+  clases:
+  - 079
+  doi: 10.1093/idpl/ipx005
+  estado: verificada
+? Wagner, H. L. (1993). On measuring performance in category judgment studies of nonverbal
+  behavior. *Journal of Nonverbal Behavior*, 17(1), 3-28.
+: anio_crossref: 1993
+  clases:
+  - '165'
+  doi: 10.1007/bf00987006
+  estado: verificada
+'Wainer, H., et al. (2000). *Computerized Adaptive Testing: A Primer* (2.ª ed.). Lawrence Erlbaum.':
+  anio_crossref: 2000
+  clases:
+  - '030'
+  doi: 10.4324/9781410605931
+  estado: verificada
+? Warm, J. S., Parasuraman, R., & Matthews, G. (2008). Vigilance requires hard mental
+  work and is stressful. *Human Factors*, 50(3), 433-441.
+: anio_crossref: 2008
+  clases:
+  - 091
+  doi: 10.1518/001872008x312152
+  estado: verificada
+'Wasserman, S., & Faust, K. (1994). *Social Network Analysis: Methods and Applications*. Cambridge University Press.':
+  anio_crossref: 1994
+  clases:
+  - '126'
+  doi: 10.1017/cbo9780511815478
+  estado: verificada
+? 'Way, W. D. (1998). Protecting the integrity of computerized testing item pools.
+  *Educational Measurement: Issues and Practice*, 17(4), 17-27.'
+: anio_crossref: 1998
+  clases:
+  - '070'
+  - 080
+  doi: 10.1111/j.1745-3992.1998.tb00632.x
+  estado: verificada
+? Webb, N. L. (1997). *Criteria for Alignment of Expectations and Assessments in Mathematics
+  and Science Education* (Research Monograph No. 6). National Institute for Science
+  Education.
+: anio_crossref: 1997
+  clases:
+  - '157'
+  doi: 10.2307/749945
+  estado: sin-verificar
+Weekley, J. A., & Ployhart, R. E. (Eds.) (2006). *Situational Judgment Tests*. Lawrence Erlbaum.:
+  anio_crossref: 2013
+  clases:
+  - '115'
+  doi: 10.4324/9780203774878
+  estado: edicion-difiere
+Weijters, B., Baumgartner, H., & Schillewaert, N. (2013). Reversed item bias.:
+  anio_crossref: 2013
+  clases:
+  - '005'
+  doi: 10.1037/a0032121
+  estado: verificada
+? Weir, J. P. (2005). Quantifying test-retest reliability using the intraclass correlation
+  coefficient and the SEM. *Journal of Strength and Conditioning Research*, 19(1),
+  231-240.
+: anio_crossref: 2005
+  clases:
+  - '014'
+  doi: 10.1519/00124278-200502000-00038
+  estado: verificada
+? Weiss, D. J. (1982). Improving measurement quality and efficiency with adaptive
+  testing. *Applied Psychological Measurement*, 6(4), 473-492.
+: anio_crossref: 1982
+  clases:
+  - '030'
+  doi: 10.1177/014662168200600408
+  estado: verificada
+Whelan, R. (2008). Effective analysis of reaction time data. *The Psychological Record*, 58(3), 475-482.:
+  anio_crossref: 2008
+  clases:
+  - 093
+  doi: 10.1007/bf03395630
+  estado: verificada
+? Whiston, S. C., Brecheisen, B. K., & Stephens, J. (2003). Does treatment modality
+  affect career counseling effectiveness? *Journal of Vocational Behavior*, 62(3),
+  390-410.
+: anio_crossref: 2003
+  clases:
+  - '160'
+  doi: 10.1016/s0001-8791(02)00050-7
+  estado: verificada
+? Wickens, C. D. (2002). Multiple resources and performance prediction. *Theoretical
+  Issues in Ergonomics Science*, 3(2), 159-177.
+: anio_crossref: 2002
+  clases:
+  - 092
+  doi: 10.1080/14639220210123806
+  estado: verificada
+Wilcox, R. R. (2012). *Introduction to Robust Estimation and Hypothesis Testing* (3.ª ed.). Academic Press.:
+  anio_crossref: 2012
+  clases:
+  - '045'
+  doi: 10.1016/b978-0-12-386983-8.00002-0
+  estado: sin-verificar
+? Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data
+  management and stewardship. *Scientific Data*, 3, 160018.
+: anio_crossref: 2018
+  clases:
+  - '178'
+  doi: 10.3410/f.726216348.793543848
+  estado: edicion-difiere
+Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles. *Scientific Data*, 3, 160018.:
+  anio_crossref: 2017
+  clases:
+  - '189'
+  doi: 10.3233/isu-170824
+  estado: sin-verificar
+Willis, G. B. (2005). *Cognitive Interviewing*. Sage.:
+  anio_crossref: 2005
+  clases:
+  - 049
+  doi: 10.4135/9781412983655
+  estado: verificada
+? Wilson, E. B. (1927). Probable inference, the law of succession, and statistical
+  inference. *Journal of the American Statistical Association*, 22(158), 209-212.
+: anio_crossref: 1927
+  clases:
+  - '166'
+  doi: 10.1080/01621459.1927.10502953
+  estado: verificada
+Wise, S. L., & Kong, X. (2005). Response time effort. *Applied Measurement in Education*, 18(2), 163-183.:
+  anio_crossref: 2005
+  clases:
+  - '184'
+  doi: 10.1207/s15324818ame1802_2
+  estado: sin-verificar
+? 'Wise, S. L., & Kong, X. (2005). Response time effort: A new measure of examinee
+  motivation in computer-based tests. *Applied Measurement in Education*, 18(2), 163-183.'
+: anio_crossref: 2005
+  clases:
+  - 058
+  doi: 10.1207/s15324818ame1802_2
+  estado: verificada
+? 'Woehr, D. J., & Huffcutt, A. I. (1994). Rater training for performance appraisal:
+  A quantitative review. *Journal of Occupational and Organizational Psychology*,
+  67(3), 189-205.'
+: anio_crossref: 1994
+  clases:
+  - '114'
+  doi: 10.1111/j.2044-8325.1994.tb00562.x
+  estado: verificada
+? 'World Medical Association (2013). Declaration of Helsinki: Ethical principles for
+  medical research involving human subjects. *JAMA*, 310(20), 2191-2194.'
+: anio_crossref: null
+  clases:
+  - '077'
+  doi: null
+  estado: sin-verificar
+Wright, B. D., & Stone, M. H. (1979). *Best Test Design*. MESA Press.:
+  anio_crossref: 2017
+  clases:
+  - '027'
+  doi: 10.1007/978-3-319-67304-2_6
+  estado: sin-verificar
+? 'Zachary, R. A., & Gorsuch, R. L. (1985). Continuous norming: Implications for the
+  WAIS-R. *Journal of Clinical Psychology*, 41(1), 86-94.'
+: anio_crossref: 1985
+  clases:
+  - '072'
+  doi: 10.1002/1097-4679(198501)41:1<86::aid-jclp2270410115>3.0.co;2-w
+  estado: verificada
+? 'Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work:
+  The process and best practices for effective communication. *Educational Measurement:
+  Issues and Practice*, 31(2), 12-20.'
+: anio_crossref: 2012
+  clases:
+  - 038
+  doi: 10.1111/j.1745-3992.2012.00231.x
+  estado: verificada
+? Zermelo, E. (1929). Die Berechnung der Turnier-Ergebnisse als ein Maximumproblem
+  der Wahrscheinlichkeitsrechnung. *Mathematische Zeitschrift*, 29, 436-460.
+: anio_crossref: 1929
+  clases:
+  - '153'
+  doi: 10.1007/bf01180541
+  estado: verificada
+? Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking
+  in Personality Assessment*. Oxford University Press.
+: anio_crossref: 2011
+  clases:
+  - '060'
+  - '110'
+  doi: 10.1093/acprof:oso/9780195387476.001.0001
+  estado: verificada
+? Zumbo, B. D. (1999). *A Handbook on the Theory and Methods of Differential Item
+  Functioning (DIF)*. National Defense Headquarters, Ottawa.
+: anio_crossref: 2025
+  clases:
+  - '177'
+  doi: 10.31234/osf.io/vf8mt_v1
+  estado: sin-verificar
+Zwick, R. (2012). *A Review of ETS Differential Item Functioning Assessment Procedures*. ETS Research Report RR-12-08.:
+  anio_crossref: null
+  clases:
+  - '033'
+  doi: null
+  estado: sin-verificar
+'`instruments/onet-riasec-sf.yaml` y `DISCLAIMER.md` del repositorio.':
+  anio_crossref: 2016
+  clases:
+  - '152'
+  doi: 10.1016/b978-0-12-800116-5.09973-6
+  estado: sin-verificar
+? van Zyl, J. M., Neudecker, H., & Nel, D. G. (2000). On the distribution of the maximum
+  likelihood estimator of Cronbach's alpha. *Psychometrika*, 65(3), 271-280.
+: anio_crossref: 2000
+  clases:
+  - '172'
+  - '176'
+  doi: 10.1007/bf02296146
+  estado: verificada
+van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer.:
+  anio_crossref: 2010
+  clases:
+  - '030'
+  - '070'
+  doi: 10.1007/978-0-387-85461-8
+  estado: verificada
+van der Linden, W. J., & Glas, C. A. W. (Eds.) (2010). *Elements of Adaptive Testing*. Springer.:
+  anio_crossref: 2010
+  clases:
+  - '185'
+  doi: 10.1007/978-0-387-85461-8
+  estado: verificada

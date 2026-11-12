@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- van der Linden, W. J., & Glas, C. A. W. (Eds.) (2010). *Elements of Adaptive Testing*. Springer.
-- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*.
+- van der Linden, W. J., & Glas, C. A. W. (Eds.) (2010). *Elements of Adaptive Testing*. Springer. ✅ [DOI](https://doi.org/10.1007/978-0-387-85461-8)
+- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

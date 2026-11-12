@@ -55,6 +55,8 @@ Se logra si el estudiante evalúa la clasificación y recomienda cómo informarl
 
 ## Bibliografía
 
-- Council of Europe (2001). *Common European Framework of Reference for Languages*. Cambridge University Press (con el *Companion Volume*, 2020).
-- Bachman, L. F., & Palmer, A. S. (2010). *Language Assessment in Practice*. Oxford University Press.
-- Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting*. Sage.
+- Council of Europe (2001). *Common European Framework of Reference for Languages*. Cambridge University Press (con el *Companion Volume*, 2020). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Bachman, L. F., & Palmer, A. S. (2010). *Language Assessment in Practice*. Oxford University Press. ⚠️ existe, pero Crossref registra 1998 (¿otra edición?; [DOI](https://doi.org/10.2307/328718))
+- Cizek, G. J., & Bunch, M. B. (2007). *Standard Setting*. Sage. ✅ [DOI](https://doi.org/10.4135/9781412985918)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

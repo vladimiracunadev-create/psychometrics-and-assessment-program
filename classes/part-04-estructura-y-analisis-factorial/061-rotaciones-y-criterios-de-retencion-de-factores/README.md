@@ -54,6 +54,8 @@ Se logra si el estudiante rota, verifica la invarianza de la comunalidad y justi
 
 ## Bibliografía
 
-- Kaiser, H. F. (1958). The varimax criterion for analytic rotation in factor analysis. *Psychometrika*, 23(3), 187-200.
-- Browne, M. W. (2001). An overview of analytic rotation in exploratory factor analysis. *Multivariate Behavioral Research*, 36(1), 111-150.
-- Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis. *Practical Assessment, Research & Evaluation*, 10(7).
+- Kaiser, H. F. (1958). The varimax criterion for analytic rotation in factor analysis. *Psychometrika*, 23(3), 187-200. ✅ [DOI](https://doi.org/10.1007/bf02289233)
+- Browne, M. W. (2001). An overview of analytic rotation in exploratory factor analysis. *Multivariate Behavioral Research*, 36(1), 111-150. ✅ [DOI](https://doi.org/10.1207/s15327906mbr3601_05)
+- Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis. *Practical Assessment, Research & Evaluation*, 10(7). ⚠️ existe, pero Crossref registra 2008 (¿otra edición?; [DOI](https://doi.org/10.4135/9781412995627.d8))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

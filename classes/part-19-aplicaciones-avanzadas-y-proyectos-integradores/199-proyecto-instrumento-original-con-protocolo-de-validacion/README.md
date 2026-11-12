@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Boateng, G. O., et al. (2018). Best practices for developing and validating scales. *Frontiers in Public Health*, 6, 149.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Boateng, G. O., et al. (2018). Best practices for developing and validating scales. *Frontiers in Public Health*, 6, 149. ✅ [DOI](https://doi.org/10.3389/fpubh.2018.00149)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -55,5 +55,7 @@ Se logra si el estudiante calcula las características de una regla y justifica 
 
 ## Bibliografía
 
-- Gipps, C. V. (1994). *Beyond Testing: Towards a Theory of Educational Assessment*. Falmer Press.
-- Koretz, D. (1998). Large-scale portfolio assessments in the US: Evidence pertaining to the quality of measurement. *Assessment in Education*, 5(3), 309-334.
+- Gipps, C. V. (1994). *Beyond Testing: Towards a Theory of Educational Assessment*. Falmer Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Koretz, D. (1998). Large-scale portfolio assessments in the US: Evidence pertaining to the quality of measurement. *Assessment in Education*, 5(3), 309-334. ✅ [DOI](https://doi.org/10.1080/0969595980050302)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

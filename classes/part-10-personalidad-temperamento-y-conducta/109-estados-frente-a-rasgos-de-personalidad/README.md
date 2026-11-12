@@ -52,6 +52,8 @@ Se logra si el estudiante calcula CCI y decide el marco temporal.
 
 ## Bibliografía
 
-- Fleeson, W. (2001). Toward a structure- and process-integrated view of personality: Traitlike density distributions of states. *Journal of Personality and Social Psychology*, 80(6), 1011-1027.
-- Shrout, P. E., & Fleiss, J. L. (1979). Intraclass correlations: Uses in assessing rater reliability. *Psychological Bulletin*, 86(2), 420-428.
-- Bolger, N., & Laurenceau, J.-P. (2013). *Intensive Longitudinal Methods*. Guilford.
+- Fleeson, W. (2001). Toward a structure- and process-integrated view of personality: Traitlike density distributions of states. *Journal of Personality and Social Psychology*, 80(6), 1011-1027. ✅ [DOI](https://doi.org/10.1037/0022-3514.80.6.1011)
+- Shrout, P. E., & Fleiss, J. L. (1979). Intraclass correlations: Uses in assessing rater reliability. *Psychological Bulletin*, 86(2), 420-428. ✅ [DOI](https://doi.org/10.1037/0033-2909.86.2.420)
+- Bolger, N., & Laurenceau, J.-P. (2013). *Intensive Longitudinal Methods*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

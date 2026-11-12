@@ -55,6 +55,8 @@ Se logra si el estudiante distingue usos, calcula la fiabilidad de un compuesto 
 
 ## Bibliografía
 
-- Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill.
-- Flanagan, D. P., Ortiz, S. O., & Alfonso, V. C. (2013). *Essentials of Cross-Battery Assessment* (3.ª ed.). Wiley.
-- International Test Commission (2013). *ITC Guidelines on Test Use*.
+- Nunnally, J. C., & Bernstein, I. H. (1994). *Psychometric Theory* (3.ª ed.). McGraw-Hill. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Flanagan, D. P., Ortiz, S. O., & Alfonso, V. C. (2013). *Essentials of Cross-Battery Assessment* (3.ª ed.). Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- International Test Commission (2013). *ITC Guidelines on Test Use*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

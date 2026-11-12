@@ -54,6 +54,8 @@ Se logra si el estudiante implementa o simula el ciclo y compara con un test fij
 
 ## Bibliografía
 
-- Weiss, D. J. (1982). Improving measurement quality and efficiency with adaptive testing. *Applied Psychological Measurement*, 6(4), 473-492.
-- Wainer, H., et al. (2000). *Computerized Adaptive Testing: A Primer* (2.ª ed.). Lawrence Erlbaum.
-- van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer.
+- Weiss, D. J. (1982). Improving measurement quality and efficiency with adaptive testing. *Applied Psychological Measurement*, 6(4), 473-492. ✅ [DOI](https://doi.org/10.1177/014662168200600408)
+- Wainer, H., et al. (2000). *Computerized Adaptive Testing: A Primer* (2.ª ed.). Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.4324/9781410605931)
+- van der Linden, W. J., & Glas, C. A. W. (2010). *Elements of Adaptive Testing*. Springer. ✅ [DOI](https://doi.org/10.1007/978-0-387-85461-8)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

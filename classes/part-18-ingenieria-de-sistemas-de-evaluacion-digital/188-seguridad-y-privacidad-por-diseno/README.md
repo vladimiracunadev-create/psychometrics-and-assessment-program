@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- Krawczyk, H., Bellare, M., & Canetti, R. (1997). *HMAC: Keyed-Hashing for Message Authentication*. RFC 2104.
-- Ley 19.628 y Ley 21.719 (Chile): verificar en bcn.cl.
+- Krawczyk, H., Bellare, M., & Canetti, R. (1997). *HMAC: Keyed-Hashing for Message Authentication*. RFC 2104. ✅ [DOI](https://doi.org/10.17487/rfc2104)
+- Ley 19.628 y Ley 21.719 (Chile): verificar en bcn.cl. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

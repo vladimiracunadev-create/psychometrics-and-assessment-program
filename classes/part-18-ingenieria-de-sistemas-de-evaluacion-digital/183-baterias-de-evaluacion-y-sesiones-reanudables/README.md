@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Ley 19.628 y Ley 21.719 (Chile), sobre protección de datos: verificar el texto vigente en la fuente oficial.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Ley 19.628 y Ley 21.719 (Chile), sobre protección de datos: verificar el texto vigente en la fuente oficial. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

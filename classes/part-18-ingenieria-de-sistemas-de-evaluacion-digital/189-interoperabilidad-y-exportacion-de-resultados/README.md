@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- OWASP. *CSV Injection*. owasp.org.
-- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles. *Scientific Data*, 3, 160018.
+- OWASP. *CSV Injection*. owasp.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles. *Scientific Data*, 3, 160018. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

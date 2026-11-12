@@ -55,6 +55,8 @@ Se logra si el estudiante compara baremos y declara las limitaciones de una norm
 
 ## Bibliografía
 
-- International Test Commission (2013). *ITC Guidelines on Test Use*. ITC.
-- Lumley, T. (2010). *Complex Surveys: A Guide to Analysis Using R*. Wiley.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- International Test Commission (2013). *ITC Guidelines on Test Use*. ITC. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Lumley, T. (2010). *Complex Surveys: A Guide to Analysis Using R*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

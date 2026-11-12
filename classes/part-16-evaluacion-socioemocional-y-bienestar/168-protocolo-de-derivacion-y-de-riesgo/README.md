@@ -62,6 +62,8 @@ Se logra si el estudiante modela un protocolo y prueba sus invariantes.
 
 ## Bibliografía y fuentes
 
-- Reason, J. (1990). *Human Error*. Cambridge University Press.
-- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*.
-- Ministerio de Salud de Chile: orientaciones vigentes de prevención y respuesta (verificar en minsal.cl).
+- Reason, J. (1990). *Human Error*. Cambridge University Press. ✅ [DOI](https://doi.org/10.1017/cbo9781139062367)
+- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Ministerio de Salud de Chile: orientaciones vigentes de prevención y respuesta (verificar en minsal.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

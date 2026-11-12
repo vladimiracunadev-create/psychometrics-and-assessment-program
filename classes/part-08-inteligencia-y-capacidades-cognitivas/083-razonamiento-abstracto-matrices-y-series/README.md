@@ -54,6 +54,8 @@ Se logra si el estudiante genera ítems originales y los verifica.
 
 ## Bibliografía
 
-- Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404-431.
-- Embretson, S. E. (1998). A cognitive design system approach to generating valid tests. *Psychological Methods*, 3(3), 380-396.
-- Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation*. Routledge.
+- Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404-431. ✅ [DOI](https://doi.org/10.1037/0033-295x.97.3.404)
+- Embretson, S. E. (1998). A cognitive design system approach to generating valid tests. *Psychological Methods*, 3(3), 380-396. ✅ [DOI](https://doi.org/10.1037/1082-989x.3.3.380)
+- Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation*. Routledge. ✅ [DOI](https://doi.org/10.4324/9780203803912)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

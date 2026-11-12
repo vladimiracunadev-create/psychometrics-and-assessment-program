@@ -56,6 +56,8 @@ Se logra si el estudiante distingue sesgo real de artefacto estadístico.
 
 ## Bibliografía
 
-- Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-- Krueger, J., & Mueller, R. A. (2002). Unskilled, unaware, or both? *Journal of Personality and Social Psychology*, 82(2), 180-188.
-- Schraw, G. (2009). A conceptual analysis of five measures of metacognitive monitoring. *Metacognition and Learning*, 4(1), 33-45.
+- Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality and Social Psychology*, 77(6), 1121-1134. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Krueger, J., & Mueller, R. A. (2002). Unskilled, unaware, or both? *Journal of Personality and Social Psychology*, 82(2), 180-188. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Schraw, G. (2009). A conceptual analysis of five measures of metacognitive monitoring. *Metacognition and Learning*, 4(1), 33-45. ✅ [DOI](https://doi.org/10.1007/s11409-008-9031-3)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

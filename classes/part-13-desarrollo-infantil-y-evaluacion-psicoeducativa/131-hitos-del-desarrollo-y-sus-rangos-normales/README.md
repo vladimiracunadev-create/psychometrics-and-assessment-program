@@ -53,5 +53,7 @@ Se logra si el estudiante interpreta hitos como rangos y calcula el efecto de re
 
 ## Bibliografía
 
-- WHO Multicentre Growth Reference Study Group (2006). WHO Motor Development Study: Windows of achievement for six gross motor development milestones. *Acta Paediatrica*, Suppl. 450, 86-95.
-- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development: Identifying infants and young children with developmental disorders through developmental surveillance and screening. *Pediatrics*, 145(1), e20193449.
+- WHO Multicentre Growth Reference Study Group (2006). WHO Motor Development Study: Windows of achievement for six gross motor development milestones. *Acta Paediatrica*, Suppl. 450, 86-95. ⚠️ existe, pero Crossref registra 2006 (¿otra edición?; [DOI](https://doi.org/10.1111/j.1651-2227.2006.tb02379.x))
+- Lipkin, P. H., & Macias, M. M. (2020). Promoting optimal development: Identifying infants and young children with developmental disorders through developmental surveillance and screening. *Pediatrics*, 145(1), e20193449. ✅ [DOI](https://doi.org/10.1542/9781610025034-part03-promoting)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

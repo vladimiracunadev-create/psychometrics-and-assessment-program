@@ -56,6 +56,8 @@ Se logra si el estudiante interpreta estabilidad corrigiendo por error de medida
 
 ## Bibliografía
 
-- Thomas, A., & Chess, S. (1977). *Temperament and Development*. Brunner/Mazel.
-- Rothbart, M. K., & Bates, J. E. (2006). Temperament. En N. Eisenberg (Ed.), *Handbook of Child Psychology* (6.ª ed., Vol. 3). Wiley.
-- Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency of personality traits from childhood to old age. *Psychological Bulletin*, 126(1), 3-25.
+- Thomas, A., & Chess, S. (1977). *Temperament and Development*. Brunner/Mazel. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Rothbart, M. K., & Bates, J. E. (2006). Temperament. En N. Eisenberg (Ed.), *Handbook of Child Psychology* (6.ª ed., Vol. 3). Wiley. ✅ [DOI](https://doi.org/10.1002/9780470147658.chpsy0303)
+- Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency of personality traits from childhood to old age. *Psychological Bulletin*, 126(1), 3-25. ✅ [DOI](https://doi.org/10.1037/0033-2909.126.1.3)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

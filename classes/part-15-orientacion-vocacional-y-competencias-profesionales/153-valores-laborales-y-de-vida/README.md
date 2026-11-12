@@ -58,6 +58,8 @@ Se logra si el estudiante estima una escala por pares y comunica un orden con su
 
 ## Bibliografía
 
-- Bradley, R. A., & Terry, M. E. (1952). Rank analysis of incomplete block designs: I. The method of paired comparisons. *Biometrika*, 39(3-4), 324-345.
-- Zermelo, E. (1929). Die Berechnung der Turnier-Ergebnisse als ein Maximumproblem der Wahrscheinlichkeitsrechnung. *Mathematische Zeitschrift*, 29, 436-460.
-- Super, D. E. (1970). *Work Values Inventory*. Houghton Mifflin.
+- Bradley, R. A., & Terry, M. E. (1952). Rank analysis of incomplete block designs: I. The method of paired comparisons. *Biometrika*, 39(3-4), 324-345. ✅ [DOI](https://doi.org/10.1093/biomet/39.3-4.324)
+- Zermelo, E. (1929). Die Berechnung der Turnier-Ergebnisse als ein Maximumproblem der Wahrscheinlichkeitsrechnung. *Mathematische Zeitschrift*, 29, 436-460. ✅ [DOI](https://doi.org/10.1007/bf01180541)
+- Super, D. E. (1970). *Work Values Inventory*. Houghton Mifflin. ✅ [DOI](https://doi.org/10.1037/t01584-000)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

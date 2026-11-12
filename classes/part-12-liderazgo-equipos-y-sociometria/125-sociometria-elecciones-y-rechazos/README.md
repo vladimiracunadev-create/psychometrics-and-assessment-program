@@ -58,6 +58,8 @@ Se logra si el estudiante calcula el estatus y propone un protocolo ético de us
 
 ## Bibliografía
 
-- Moreno, J. L. (1934). *Who Shall Survive?* Nervous and Mental Disease Publishing.
-- Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross-age perspective. *Developmental Psychology*, 18(4), 557-570.
-- Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin, W. M. Bukowski, & B. Laursen (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*. Guilford.
+- Moreno, J. L. (1934). *Who Shall Survive?* Nervous and Mental Disease Publishing. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross-age perspective. *Developmental Psychology*, 18(4), 557-570. ✅ [DOI](https://doi.org/10.1037/0012-1649.18.4.557)
+- Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin, W. M. Bukowski, & B. Laursen (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

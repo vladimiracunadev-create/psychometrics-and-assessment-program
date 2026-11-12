@@ -55,6 +55,8 @@ Se logra si el estudiante redacta un informe cualificado y lo somete a revisión
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement*, 50(1), 1-73.
-- Appelbaum, M., et al. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist*, 73(1), 3-25.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement*, 50(1), 1-73. ✅ [DOI](https://doi.org/10.1111/jedm.12000)
+- Appelbaum, M., et al. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist*, 73(1), 3-25. ✅ [DOI](https://doi.org/10.1037/amp0000191)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

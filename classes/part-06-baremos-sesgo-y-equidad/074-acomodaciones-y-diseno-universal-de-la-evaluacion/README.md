@@ -55,6 +55,8 @@ Se logra si el estudiante evalúa una acomodación frente al constructo.
 
 ## Bibliografía
 
-- Sireci, S. G., Scarpati, S. E., & Li, S. (2005). Test accommodations for students with disabilities: An analysis of the interaction hypothesis. *Review of Educational Research*, 75(4), 457-490.
-- Thompson, S. J., Johnstone, C. J., & Thurlow, M. L. (2002). *Universal Design Applied to Large Scale Assessments* (NCEO Synthesis Report 44). University of Minnesota.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Sireci, S. G., Scarpati, S. E., & Li, S. (2005). Test accommodations for students with disabilities: An analysis of the interaction hypothesis. *Review of Educational Research*, 75(4), 457-490. ✅ [DOI](https://doi.org/10.3102/00346543075004457)
+- Thompson, S. J., Johnstone, C. J., & Thurlow, M. L. (2002). *Universal Design Applied to Large Scale Assessments* (NCEO Synthesis Report 44). University of Minnesota. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

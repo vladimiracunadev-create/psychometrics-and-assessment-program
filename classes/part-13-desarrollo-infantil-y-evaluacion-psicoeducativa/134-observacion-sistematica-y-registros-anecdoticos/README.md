@@ -56,6 +56,8 @@ Se logra si el estudiante diseña una observación con tiempos y acuerdo justifi
 
 ## Bibliografía
 
-- Altmann, J. (1974). Observational study of behavior: Sampling methods. *Behaviour*, 49(3-4), 227-267.
-- Bakeman, R., & Gottman, J. M. (1997). *Observing Interaction: An Introduction to Sequential Analysis* (2.ª ed.). Cambridge University Press.
-- Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37-46.
+- Altmann, J. (1974). Observational study of behavior: Sampling methods. *Behaviour*, 49(3-4), 227-267. ✅ [DOI](https://doi.org/10.1163/156853974x00534)
+- Bakeman, R., & Gottman, J. M. (1997). *Observing Interaction: An Introduction to Sequential Analysis* (2.ª ed.). Cambridge University Press. ⚠️ existe, pero Crossref registra 1999 (¿otra edición?; [DOI](https://doi.org/10.1177/00238309990420010502))
+- Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37-46. ✅ [DOI](https://doi.org/10.1177/001316446002000104)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

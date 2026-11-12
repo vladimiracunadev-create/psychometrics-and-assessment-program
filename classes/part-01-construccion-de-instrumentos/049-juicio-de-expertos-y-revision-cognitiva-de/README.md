@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 
 ## Bibliografía
 
-- Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator of content validity? *Research in Nursing & Health*, 30(4), 459-467.
-- Willis, G. B. (2005). *Cognitive Interviewing*. Sage.
+- Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator of content validity? *Research in Nursing & Health*, 30(4), 459-467. ✅ [DOI](https://doi.org/10.1002/nur.20199)
+- Willis, G. B. (2005). *Cognitive Interviewing*. Sage. ✅ [DOI](https://doi.org/10.4135/9781412983655)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

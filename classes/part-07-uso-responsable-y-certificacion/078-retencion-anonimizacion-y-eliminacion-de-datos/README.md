@@ -54,6 +54,8 @@ Se logra si el estudiante mide riesgo de reidentificación y propone generalizac
 
 ## Bibliografía
 
-- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(5), 557-570.
-- Ohm, P. (2010). Broken promises of privacy. *UCLA Law Review*, 57, 1701-1777.
-- Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). Estimating the success of re-identifications in incomplete datasets using generative models. *Nature Communications*, 10, 3069.
+- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(5), 557-570. ✅ [DOI](https://doi.org/10.1142/s0218488502001648)
+- Ohm, P. (2010). Broken promises of privacy. *UCLA Law Review*, 57, 1701-1777. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). Estimating the success of re-identifications in incomplete datasets using generative models. *Nature Communications*, 10, 3069. ✅ [DOI](https://doi.org/10.1038/s41467-019-10933-3)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

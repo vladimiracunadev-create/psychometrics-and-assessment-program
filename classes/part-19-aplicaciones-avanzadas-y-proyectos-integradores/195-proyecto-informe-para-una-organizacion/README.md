@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el proyecto, interpreta sus cifras con cautela
 
 ## Bibliografía
 
-- Brown, L. D., Cai, T. T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101-133.
-- Ley 19.628 y Ley 21.719 (Chile): verificar el texto vigente en bcn.cl.
+- Brown, L. D., Cai, T. T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101-133. ✅ [DOI](https://doi.org/10.1214/ss/1009213286)
+- Ley 19.628 y Ley 21.719 (Chile): verificar el texto vigente en bcn.cl. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

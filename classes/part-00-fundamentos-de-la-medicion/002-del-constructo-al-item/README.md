@@ -99,7 +99,9 @@ python classes/part-00-fundamentos-de-la-medicion/002-del-constructo-al-item/lab
 
 ## Bibliografía
 
-- DeVellis, R. F. (2016). *Scale Development: Theory and Applications* (4.ª ed.).
+- DeVellis, R. F. (2016). *Scale Development: Theory and Applications* (4.ª ed.). ⚠️ existe, pero Crossref registra 1992 (¿otra edición?; [DOI](https://doi.org/10.2307/2075704))
   Sage. Caps. 4-5.
-- Clark, L. A., & Watson, D. (1995). Constructing validity. *Psychological
+- Clark, L. A., & Watson, D. (1995). Constructing validity. *Psychological 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
   Assessment*, 7(3), 309-319.
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

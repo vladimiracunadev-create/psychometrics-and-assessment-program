@@ -56,5 +56,7 @@ Se logra si el estudiante verifica la jerarquía y decide con criterio qué repo
 
 ## Bibliografía
 
-- Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.
-- Snow, C. E. (2002). *Reading for Understanding: Toward an R&D Program in Reading Comprehension*. RAND.
+- Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Snow, C. E. (2002). *Reading for Understanding: Toward an R&D Program in Reading Comprehension*. RAND. ✅ [DOI](https://doi.org/10.7249/mr1465.0)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -54,7 +54,9 @@ Se logra si el estudiante agrupa fiabilidades e informa heterogeneidad y predicc
 
 ## Bibliografía
 
-- DerSimonian, R., & Laird, N. (1986). Meta-analysis in clinical trials. *Controlled Clinical Trials*, 7(3), 177-188.
-- Bonett, D. G. (2010). Varying coefficient meta-analytic methods for alpha reliability. *Psychological Methods*, 15(4), 368-385.
-- Vacha-Haase, T. (1998). Reliability generalization. *Educational and Psychological Measurement*, 58(1), 6-20.
-- IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for routinely presenting prediction intervals in meta-analysis. *BMJ Open*, 6, e010247.
+- DerSimonian, R., & Laird, N. (1986). Meta-analysis in clinical trials. *Controlled Clinical Trials*, 7(3), 177-188. ✅ [DOI](https://doi.org/10.1016/0197-2456(86)90046-2)
+- Bonett, D. G. (2010). Varying coefficient meta-analytic methods for alpha reliability. *Psychological Methods*, 15(4), 368-385. ✅ [DOI](https://doi.org/10.1037/a0020142)
+- Vacha-Haase, T. (1998). Reliability generalization. *Educational and Psychological Measurement*, 58(1), 6-20. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for routinely presenting prediction intervals in meta-analysis. *BMJ Open*, 6, e010247. ✅ [DOI](https://doi.org/10.1136/bmjopen-2015-010247)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

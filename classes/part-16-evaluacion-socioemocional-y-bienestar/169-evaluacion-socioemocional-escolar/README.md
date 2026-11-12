@@ -56,5 +56,7 @@ Se logra si el estudiante compara reglas y propone un uso de apoyo con confidenc
 
 ## Bibliografía
 
-- Goodman, R. (1997). The Strengths and Difficulties Questionnaire: A research note. *Journal of Child Psychology and Psychiatry*, 38(5), 581-586.
-- Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42.
+- Goodman, R. (1997). The Strengths and Difficulties Questionnaire: A research note. *Journal of Child Psychology and Psychiatry*, 38(5), 581-586. ✅ [DOI](https://doi.org/10.1111/j.1469-7610.1997.tb01545.x)
+- Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42. ✅ [DOI](https://doi.org/10.1080/13632752.2015.1120051)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

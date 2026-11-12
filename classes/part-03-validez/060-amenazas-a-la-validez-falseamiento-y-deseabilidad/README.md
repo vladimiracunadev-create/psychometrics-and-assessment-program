@@ -56,6 +56,8 @@ Se logra si el estudiante cuantifica el efecto y declara el límite al informar.
 
 ## Bibliografía
 
-- Paulhus, D. L. (1991). Measurement and control of response bias. En J. P. Robinson et al. (Eds.), *Measures of Personality and Social Psychological Attitudes*. Academic Press.
-- Viswesvaran, C., & Ones, D. S. (1999). Meta-analyses of fakability estimates. *Educational and Psychological Measurement*, 59(2), 197-210.
-- Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press.
+- Paulhus, D. L. (1991). Measurement and control of response bias. En J. P. Robinson et al. (Eds.), *Measures of Personality and Social Psychological Attitudes*. Academic Press. ✅ [DOI](https://doi.org/10.1016/b978-0-12-590241-0.50006-x)
+- Viswesvaran, C., & Ones, D. S. (1999). Meta-analyses of fakability estimates. *Educational and Psychological Measurement*, 59(2), 197-210. ✅ [DOI](https://doi.org/10.1177/00131649921969802)
+- Ziegler, M., MacCann, C., & Roberts, R. D. (Eds.) (2012). *New Perspectives on Faking in Personality Assessment*. Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780195387476.001.0001)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

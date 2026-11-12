@@ -62,6 +62,8 @@ Se logra si el estudiante calcula los índices y discute el desajuste concreto.
 
 ## Bibliografía
 
-- Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis. *Structural Equation Modeling*, 6(1), 1-55.
-- Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules. *Structural Equation Modeling*, 11(3), 320-341.
-- Kline, R. B. (2016). *Principles and Practice of Structural Equation Modeling* (4.ª ed.). Guilford.
+- Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis. *Structural Equation Modeling*, 6(1), 1-55. ✅ [DOI](https://doi.org/10.1080/10705519909540118)
+- Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules. *Structural Equation Modeling*, 11(3), 320-341. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Kline, R. B. (2016). *Principles and Practice of Structural Equation Modeling* (4.ª ed.). Guilford. ⚠️ existe, pero Crossref registra 2012 (¿otra edición?; [DOI](https://doi.org/10.1080/10705511.2012.687667))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

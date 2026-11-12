@@ -55,5 +55,7 @@ Se logra si el estudiante muestra la dependencia del índice y propone un inform
 
 ## Bibliografía
 
-- Edwards, J. R. (1993). Problems with the use of profile similarity indices in the study of congruence in organizational research. *Personnel Psychology*, 46(3), 641-665.
-- Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of individuals' fit at work. *Personnel Psychology*, 58(2), 281-342.
+- Edwards, J. R. (1993). Problems with the use of profile similarity indices in the study of congruence in organizational research. *Personnel Psychology*, 46(3), 641-665. ✅ [DOI](https://doi.org/10.1111/j.1744-6570.1993.tb00889.x)
+- Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of individuals' fit at work. *Personnel Psychology*, 58(2), 281-342. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

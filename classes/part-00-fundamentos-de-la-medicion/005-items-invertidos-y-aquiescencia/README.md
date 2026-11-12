@@ -104,6 +104,8 @@ python classes/part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiesc
 
 ## Bibliografía
 
-- Weijters, B., Baumgartner, H., & Schillewaert, N. (2013). Reversed item bias.
+- Weijters, B., Baumgartner, H., & Schillewaert, N. (2013). Reversed item bias. ✅ [DOI](https://doi.org/10.1037/a0032121)
   *Psychological Methods*, 18(3), 320-334.
-- Bluemke, M., et al. (2021). IPIP-VIA-R short scales.
+- Bluemke, M., et al. (2021). IPIP-VIA-R short scales. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

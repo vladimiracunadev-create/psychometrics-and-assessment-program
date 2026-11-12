@@ -53,5 +53,7 @@ Se logra si el estudiante redacta un informe que cumple las cuatro reglas.
 
 ## Bibliografía
 
-- Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work: The process and best practices for effective communication. *Educational Measurement: Issues and Practice*, 31(2), 12-20.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work: The process and best practices for effective communication. *Educational Measurement: Issues and Practice*, 31(2), 12-20. ✅ [DOI](https://doi.org/10.1111/j.1745-3992.2012.00231.x)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

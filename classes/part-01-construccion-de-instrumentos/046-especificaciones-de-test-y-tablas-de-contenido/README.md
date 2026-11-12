@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 
 ## Bibliografía
 
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
-- Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*. Erlbaum.
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Downing, S. M., & Haladyna, T. M. (Eds.) (2006). *Handbook of Test Development*. Erlbaum. ⚠️ existe, pero Crossref registra 2011 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203874776))
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

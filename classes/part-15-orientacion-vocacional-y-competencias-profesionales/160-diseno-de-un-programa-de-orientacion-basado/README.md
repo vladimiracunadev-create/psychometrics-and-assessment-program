@@ -55,6 +55,8 @@ Se logra si el estudiante diseña una evaluación del programa con tamaño muest
 
 ## Bibliografía
 
-- Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2.ª ed.). Lawrence Erlbaum.
-- Donner, A., & Klar, N. (2000). *Design and Analysis of Cluster Randomization Trials in Health Research*. Arnold.
-- Whiston, S. C., Brecheisen, B. K., & Stephens, J. (2003). Does treatment modality affect career counseling effectiveness? *Journal of Vocational Behavior*, 62(3), 390-410.
+- Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2.ª ed.). Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.2307/2290095)
+- Donner, A., & Klar, N. (2000). *Design and Analysis of Cluster Randomization Trials in Health Research*. Arnold. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Whiston, S. C., Brecheisen, B. K., & Stephens, J. (2003). Does treatment modality affect career counseling effectiveness? *Journal of Vocational Behavior*, 62(3), 390-410. ✅ [DOI](https://doi.org/10.1016/s0001-8791(02)00050-7)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

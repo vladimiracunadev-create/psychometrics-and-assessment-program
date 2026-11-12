@@ -46,5 +46,7 @@ Se logra si el estudiante ejecuta el laboratorio, interpreta las cifras con caut
 
 ## Bibliografía
 
-- Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley.
-- Wilcox, R. R. (2012). *Introduction to Robust Estimation and Hypothesis Testing* (3.ª ed.). Academic Press.
+- Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Wilcox, R. R. (2012). *Introduction to Robust Estimation and Hypothesis Testing* (3.ª ed.). Academic Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

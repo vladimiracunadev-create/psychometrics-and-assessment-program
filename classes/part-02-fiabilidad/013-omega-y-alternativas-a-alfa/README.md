@@ -61,6 +61,8 @@ Se logra si el estudiante calcula ω, anticipa la brecha y declara la dependenci
 
 ## Bibliografía
 
-- McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum.
-- Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega. *British Journal of Psychology*, 105(3), 399-412.
-- Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. *Communication Methods and Measures*, 14(1), 1-24.
+- McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.2307/2669496)
+- Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega. *British Journal of Psychology*, 105(3), 399-412. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. *Communication Methods and Measures*, 14(1), 1-24. ✅ [DOI](https://doi.org/10.1080/19312458.2020.1718629)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

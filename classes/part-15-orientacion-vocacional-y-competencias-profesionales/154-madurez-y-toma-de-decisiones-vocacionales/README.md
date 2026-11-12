@@ -56,6 +56,8 @@ Se logra si el estudiante modela una decisión y explica su sensibilidad.
 
 ## Bibliografía
 
-- Gati, I., Krausz, M., & Osipow, S. H. (1996). A taxonomy of difficulties in career decision making. *Journal of Counseling Psychology*, 43(4), 510-526.
-- Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley.
-- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley.
+- Gati, I., Krausz, M., & Osipow, S. H. (1996). A taxonomy of difficulties in career decision making. *Journal of Counseling Psychology*, 43(4), 510-526. ✅ [DOI](https://doi.org/10.1037/0022-0167.43.4.510)
+- Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley. ⚠️ existe, pero Crossref registra 1993 (¿otra edición?; [DOI](https://doi.org/10.1017/cbo9781139174084))
+- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

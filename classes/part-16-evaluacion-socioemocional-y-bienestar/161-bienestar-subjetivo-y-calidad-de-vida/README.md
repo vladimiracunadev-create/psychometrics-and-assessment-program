@@ -54,6 +54,8 @@ Se logra si el estudiante elige una medida según el propósito y calcula su cos
 
 ## Bibliografía
 
-- Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction With Life Scale. *Journal of Personality Assessment*, 49(1), 71-75.
-- Cheung, F., & Lucas, R. E. (2014). Assessing the validity of single-item life satisfaction measures. *Quality of Life Research*, 23, 2809-2818.
-- Diener, E., Oishi, S., & Tay, L. (2018). Advances in subjective well-being research. *Nature Human Behaviour*, 2, 253-260.
+- Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction With Life Scale. *Journal of Personality Assessment*, 49(1), 71-75. ✅ [DOI](https://doi.org/10.1207/s15327752jpa4901_13)
+- Cheung, F., & Lucas, R. E. (2014). Assessing the validity of single-item life satisfaction measures. *Quality of Life Research*, 23, 2809-2818. ✅ [DOI](https://doi.org/10.1007/s11136-014-0726-4)
+- Diener, E., Oishi, S., & Tay, L. (2018). Advances in subjective well-being research. *Nature Human Behaviour*, 2, 253-260. ✅ [DOI](https://doi.org/10.1038/s41562-018-0307-6)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

@@ -46,5 +46,7 @@ Se logra si el estudiante implementa la idea, la prueba con datos sintéticos y 
 
 ## Bibliografía
 
-- W3C. *Web Content Accessibility Guidelines (WCAG) 2.x*. w3.org/TR/WCAG2.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- W3C. *Web Content Accessibility Guidelines (WCAG) 2.x*. w3.org/TR/WCAG2. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.

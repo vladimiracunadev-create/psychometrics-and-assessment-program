@@ -55,6 +55,8 @@ Se logra si el estudiante elige el nivel de medida según el criterio.
 
 ## Bibliografía
 
-- Costa, P. T., & McCrae, R. R. (1992). *Professional Manual: Revised NEO Personality Inventory (NEO PI-R)*. Psychological Assessment Resources.
-- John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy. En L. A. Pervin & O. P. John (Eds.), *Handbook of Personality* (2.ª ed.). Guilford.
-- Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539.
+- Costa, P. T., & McCrae, R. R. (1992). *Professional Manual: Revised NEO Personality Inventory (NEO PI-R)*. Psychological Assessment Resources. ⚠️ existe, pero Crossref registra 2008 (¿otra edición?; [DOI](https://doi.org/10.4135/9781849200479.n9))
+- John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy. En L. A. Pervin & O. P. John (Eds.), *Handbook of Personality* (2.ª ed.). Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539. ✅ [DOI](https://doi.org/10.1037/0022-3514.81.3.524)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
