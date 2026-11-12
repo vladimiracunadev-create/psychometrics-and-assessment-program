@@ -13,5 +13,10 @@ Cómo se somete a prueba la estructura que un instrumento afirma tener, y qué s
 | 023 | Análisis factorial confirmatorio y ajuste | 6 | ⬜ planificada |
 | 024 | Modelos circumplejos: el hexágono de Holland como predicción falsable | 5 | ⬜ planificada |
 | 025 | Invarianza de medida entre grupos | 6 | ⬜ planificada |
+| 061 | Rotaciones y criterios de retención de factores | 4 | ⬜ planificada |
+| 062 | Ajuste en modelos de ecuaciones estructurales | 4 | ⬜ planificada |
+| 063 | Modelos bifactor y jerárquicos | 4 | ⬜ planificada |
+| 064 | Análisis de redes psicométricas | 4 | ⬜ planificada |
+| 065 | Datos ordinales y correlaciones policóricas | 4 | ⬜ planificada |
 
 [← Volver al índice del programa](../../README.md)

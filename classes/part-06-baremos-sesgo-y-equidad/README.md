@@ -13,5 +13,10 @@ Qué convierte un puntaje bruto en un percentil, y cómo se detecta que un instr
 | 033 | Funcionamiento diferencial del ítem (DIF) | 6 | ⬜ planificada |
 | 034 | Sesgo predictivo y definiciones de equidad | 5 | ⬜ planificada |
 | 035 | Adaptación transcultural y equivalencia | 5 | ⬜ planificada |
+| 071 | Puntajes estándar: z, T y estaninos | 4 | ⬜ planificada |
+| 072 | Normas por edad y por curso escolar | 4 | ⬜ planificada |
+| 073 | Equidad en evaluaciones de alto impacto | 4 | ⬜ planificada |
+| 074 | Acomodaciones y diseño universal de la evaluación | 4 | ⬜ planificada |
+| 075 | Estudios de invarianza entre grupos | 4 | ⬜ planificada |
 
 [← Volver al índice del programa](../../README.md)

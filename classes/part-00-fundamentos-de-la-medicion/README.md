@@ -13,5 +13,10 @@ Qué significa medir un atributo que no se puede observar directamente, y qué c
 | 003 | [Escalas de medida y qué operaciones permiten](003-escalas-de-medida-y-sus-operaciones/README.md) | 3 | ✅ escrita |
 | 004 | [Puntaje bruto, media por ítem y por qué no son lo mismo](004-puntaje-bruto-y-media-por-item/README.md) | 3 | ✅ escrita |
 | 005 | [Ítems invertidos y sesgo de aquiescencia](005-items-invertidos-y-aquiescencia/README.md) | 4 | ✅ escrita |
+| 041 | Historia de la psicometría: de Galton a la medición moderna | 4 | ⬜ planificada |
+| 042 | Constructos, variables latentes y definiciones operacionales | 4 | ⬜ planificada |
+| 043 | Tipos de test: rendimiento máximo frente a desempeño típico | 4 | ⬜ planificada |
+| 044 | Pruebas de velocidad, de potencia y tareas cronometradas | 4 | ⬜ planificada |
+| 045 | Introducción a la estadística descriptiva para evaluación | 4 | ⬜ planificada |
 
 [← Volver al índice del programa](../../README.md)

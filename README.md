@@ -136,16 +136,31 @@ Ver [`INSTALL.md`](INSTALL.md) para el detalle.
 
 ## 🎓 El programa
 
-| Parte | Título | Nivel | Clases |
+<!-- PROGRAMA:INICIO -->
+| Parte | Título | Nivel | Clases escritas |
 |---|---|---|---|
-| 00 | [Fundamentos de la medición](classes/part-00-fundamentos-de-la-medicion/) | fundamentos | 5 ✅ |
-| 01 | [Construcción de instrumentos](classes/part-01-construccion-de-instrumentos/) | fundamentos | 5 ⬜ |
-| 02 | [Fiabilidad](classes/part-02-fiabilidad/) | intermedio | 5 ⬜ |
-| 03 | [Validez](classes/part-03-validez/) | intermedio | 5 ⬜ |
-| 04 | [Estructura y análisis factorial](classes/part-04-estructura-y-analisis-factorial/) | avanzado | 5 ⬜ |
-| 05 | [Teoría de respuesta al ítem](classes/part-05-teoria-de-respuesta-al-item/) | avanzado | 5 ⬜ |
-| 06 | [Baremos, sesgo y equidad](classes/part-06-baremos-sesgo-y-equidad/) | avanzado | 5 ⬜ |
-| 07 | [Uso responsable y certificación](classes/part-07-uso-responsable-y-certificacion/) | profesional | 5 ⬜ |
+| 00 | [Fundamentos de la medición psicológica](classes/part-00-fundamentos-de-la-medicion/) | fundamentos | 5 / 10 🟡 |
+| 01 | [Construcción de instrumentos](classes/part-01-construccion-de-instrumentos/) | fundamentos | 5 / 10 🟡 |
+| 02 | [Fiabilidad](classes/part-02-fiabilidad/) | intermedio | 0 / 10 ⬜ |
+| 03 | [Validez](classes/part-03-validez/) | intermedio | 0 / 10 ⬜ |
+| 04 | [Estructura y análisis factorial](classes/part-04-estructura-y-analisis-factorial/) | avanzado | 0 / 10 ⬜ |
+| 05 | [Teoría de respuesta al ítem](classes/part-05-teoria-de-respuesta-al-item/) | avanzado | 0 / 10 ⬜ |
+| 06 | [Baremos, sesgo y equidad](classes/part-06-baremos-sesgo-y-equidad/) | avanzado | 0 / 10 ⬜ |
+| 07 | [Uso responsable y certificación](classes/part-07-uso-responsable-y-certificacion/) | profesional | 0 / 10 ⬜ |
+| 08 | [Inteligencia y capacidades cognitivas](classes/part-08-inteligencia-y-capacidades-cognitivas/) | intermedio | 0 / 10 ⬜ |
+| 09 | [Atención, memoria y funciones ejecutivas](classes/part-09-atencion-memoria-y-funciones-ejecutivas/) | intermedio | 0 / 10 ⬜ |
+| 10 | [Personalidad, temperamento y conducta](classes/part-10-personalidad-temperamento-y-conducta/) | intermedio | 0 / 10 ⬜ |
+| 11 | [Psicometría laboral y empleabilidad](classes/part-11-psicometria-laboral-y-empleabilidad/) | intermedio | 0 / 10 ⬜ |
+| 12 | [Liderazgo, equipos y sociometría](classes/part-12-liderazgo-equipos-y-sociometria/) | intermedio | 0 / 10 ⬜ |
+| 13 | [Desarrollo infantil y evaluación psicoeducativa](classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/) | avanzado | 0 / 10 ⬜ |
+| 14 | [Aprendizaje, aptitudes y dificultades escolares](classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/) | avanzado | 0 / 10 ⬜ |
+| 15 | [Orientación vocacional y competencias profesionales](classes/part-15-orientacion-vocacional-y-competencias-profesionales/) | intermedio | 0 / 10 ⬜ |
+| 16 | [Evaluación socioemocional y bienestar](classes/part-16-evaluacion-socioemocional-y-bienestar/) | avanzado | 0 / 10 ⬜ |
+| 17 | [Investigación psicométrica y análisis de datos](classes/part-17-investigacion-psicometrica-y-analisis-de-datos/) | avanzado | 0 / 10 ⬜ |
+| 18 | [Ingeniería de sistemas de evaluación digital](classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/) | avanzado | 0 / 10 ⬜ |
+| 19 | [Aplicaciones avanzadas y proyectos integradores](classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/) | avanzado | 0 / 10 ⬜ |
+| | **Total** | | **10 / 200** |
+<!-- PROGRAMA:FIN -->
 
 Cada clase escrita trae README con fundamentos y bibliografía, un `lab.py`
 ejecutable y determinista, y `lesson.yaml` con su estado real.

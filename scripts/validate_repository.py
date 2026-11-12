@@ -79,6 +79,13 @@ def main() -> int:
     if f"{res['implementado']} implementadas" not in readme:
         fallos.append(f"README no declara '{res['implementado']} implementadas'")
 
+    # 2c. Los indices (README y partes) deben salir de curriculum.yaml.
+    r = subprocess.run([sys.executable, str(RAIZ / "scripts" / "sync_indices.py"), "--check"],
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        fallos.append("indices desfasados: ejecuta python scripts/sync_indices.py ("
+                      + r.stdout.strip() + ")")
+
     # 3. Los items de dominio publico que afirma el badge.
     if f"{n_pub}%20de%20{n_items}%20items" not in readme.replace("í", "i"):
         if not re.search(rf"dominio%20p[^-]*-{n_pub}%20de%20{n_items}", readme):

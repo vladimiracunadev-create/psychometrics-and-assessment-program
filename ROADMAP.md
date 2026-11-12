@@ -49,7 +49,7 @@ falta y en qué orden.
 
 ## v1.0.0 — Programa completo
 
-- [ ] Las 40 clases escritas con laboratorio.
+- [ ] Las 200 clases escritas con laboratorio (hoy 10; ver README).
 - [ ] Partes 03 y 07.
 - [ ] Sitio de estudio en GitHub Pages.
 - [ ] Instrumentos propios (`disc-abierto`, `valores-spranger`) con estudio de
