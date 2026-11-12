@@ -3,5 +3,5 @@ numero: 109
 titulo: "Estados frente a rasgos de personalidad"
 parte: "10"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

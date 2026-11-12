@@ -3,5 +3,5 @@ numero: 101
 titulo: "Modelo de los cinco factores y sus facetas"
 parte: "10"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

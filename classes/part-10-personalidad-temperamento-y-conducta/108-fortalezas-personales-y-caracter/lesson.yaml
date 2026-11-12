@@ -3,5 +3,5 @@ numero: 108
 titulo: "Fortalezas personales y carácter"
 parte: "10"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -14,7 +14,7 @@ con bancos públicos, material propio y licencias trazables.**
 [![Version](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](CHANGELOG.md)
 [![Instrumentos](https://img.shields.io/badge/instrumentos-5%20·%20344%20ítems-7c5cff?style=for-the-badge)](instruments/)
 [![Dominio público](https://img.shields.io/badge/dominio%20público-216%20de%20344%20ítems-2e8b57?style=for-the-badge)](#-procedencia-y-licencias)
-[![Clases](https://img.shields.io/badge/clases-90%20de%20200%20escritas-c9184a?style=for-the-badge)](classes/)
+[![Clases](https://img.shields.io/badge/clases-100%20de%20200%20escritas-c9184a?style=for-the-badge)](classes/)
 [![Tests](https://img.shields.io/badge/tests-70%20en%20verde-3fb950?style=for-the-badge)](tests/)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=for-the-badge)](classes/)
 [![License](https://img.shields.io/badge/code-MIT-3fb950?style=for-the-badge)](LICENSE)
@@ -36,7 +36,7 @@ con bancos públicos, material propio y licencias trazables.**
 
 | 🧪 Instrumentos | 📝 Ítems | 📐 Escalas | 📘 Clases | 🔬 Laboratorios | ✅ Tests |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **5** | **344** | **81** | **90 / 200** | **90** | **70** |
+| **5** | **344** | **81** | **100 / 200** | **100** | **70** |
 </div>
 
 ---
@@ -58,7 +58,7 @@ con bancos públicos, material propio y licencias trazables.**
 | Bancos de terceros | ⚠️ IPIP-NEO-120 e IPIP-VIA-R son públicos; la adaptación O*NET tiene validación de licencia pendiente |
 | Motor | ✅ carga, valida, refleja clave invertida, agrega jerárquicamente y audita el protocolo |
 | CLI | ✅ `catalogo`, `ficha`, `rendir`, `puntuar`, `validar` |
-| Clases | 🟡 90 de 200 escritas; las 110 restantes están **planificadas** (carpeta y `lesson.yaml`, sin contenido) en `curriculum.yaml` |
+| Clases | 🟡 100 de 200 escritas; las 100 restantes están **planificadas** (carpeta y `lesson.yaml`, sin contenido) en `curriculum.yaml` |
 | Fichas | 🟡 140 fichas documentales en [`catalogo/fichas.yaml`](catalogo/fichas.yaml): 5 implementadas, 0 validadas; el resto solo documentadas y `verificado: false` |
 | Laboratorios | ✅ 5/5 ejecutables, deterministas y sin dependencias externas |
 | Tests | ✅ 70 en verde |
@@ -149,7 +149,7 @@ Ver [`INSTALL.md`](INSTALL.md) para el detalle.
 | 07 | [Uso responsable y certificación](classes/part-07-uso-responsable-y-certificacion/) | profesional | 10 / 10 ✅ |
 | 08 | [Inteligencia y capacidades cognitivas](classes/part-08-inteligencia-y-capacidades-cognitivas/) | intermedio | 10 / 10 ✅ |
 | 09 | [Atención, memoria y funciones ejecutivas](classes/part-09-atencion-memoria-y-funciones-ejecutivas/) | intermedio | 10 / 10 ✅ |
-| 10 | [Personalidad, temperamento y conducta](classes/part-10-personalidad-temperamento-y-conducta/) | intermedio | 0 / 10 ⬜ |
+| 10 | [Personalidad, temperamento y conducta](classes/part-10-personalidad-temperamento-y-conducta/) | intermedio | 10 / 10 ✅ |
 | 11 | [Psicometría laboral y empleabilidad](classes/part-11-psicometria-laboral-y-empleabilidad/) | intermedio | 0 / 10 ⬜ |
 | 12 | [Liderazgo, equipos y sociometría](classes/part-12-liderazgo-equipos-y-sociometria/) | intermedio | 0 / 10 ⬜ |
 | 13 | [Desarrollo infantil y evaluación psicoeducativa](classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/) | avanzado | 0 / 10 ⬜ |
@@ -159,7 +159,7 @@ Ver [`INSTALL.md`](INSTALL.md) para el detalle.
 | 17 | [Investigación psicométrica y análisis de datos](classes/part-17-investigacion-psicometrica-y-analisis-de-datos/) | avanzado | 0 / 10 ⬜ |
 | 18 | [Ingeniería de sistemas de evaluación digital](classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/) | avanzado | 0 / 10 ⬜ |
 | 19 | [Aplicaciones avanzadas y proyectos integradores](classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/) | avanzado | 0 / 10 ⬜ |
-| | **Total** | | **90 / 200** |
+| | **Total** | | **100 / 200** |
 <!-- PROGRAMA:FIN -->
 
 Cada clase escrita trae README con fundamentos y bibliografía, un `lab.py`

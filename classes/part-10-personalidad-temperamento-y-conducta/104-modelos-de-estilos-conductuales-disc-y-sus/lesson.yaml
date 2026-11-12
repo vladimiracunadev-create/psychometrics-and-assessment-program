@@ -3,5 +3,5 @@ numero: 104
 titulo: "Modelos de estilos conductuales: DISC y sus límites"
 parte: "10"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

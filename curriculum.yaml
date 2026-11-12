@@ -702,61 +702,61 @@ temario:
     titulo: Modelo de los cinco factores y sus facetas
     ruta: classes/part-10-personalidad-temperamento-y-conducta/101-modelo-de-los-cinco-factores-y-sus
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '102'
     numero: 102
     titulo: 'Banco IPIP: historia y uso abierto'
     ruta: classes/part-10-personalidad-temperamento-y-conducta/102-banco-ipip-historia-y-uso-abierto
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '103'
     numero: 103
     titulo: 'Tipologías frente a rasgos: crítica a MBTI'
     ruta: classes/part-10-personalidad-temperamento-y-conducta/103-tipologias-frente-a-rasgos-critica-a-mbti
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '104'
     numero: 104
     titulo: 'Modelos de estilos conductuales: DISC y sus límites'
     ruta: classes/part-10-personalidad-temperamento-y-conducta/104-modelos-de-estilos-conductuales-disc-y-sus
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '105'
     numero: 105
     titulo: Temperamento y desarrollo
     ruta: classes/part-10-personalidad-temperamento-y-conducta/105-temperamento-y-desarrollo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '106'
     numero: 106
     titulo: Autorregulación e impulsividad
     ruta: classes/part-10-personalidad-temperamento-y-conducta/106-autorregulacion-e-impulsividad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '107'
     numero: 107
     titulo: Motivación, valores y preferencias
     ruta: classes/part-10-personalidad-temperamento-y-conducta/107-motivacion-valores-y-preferencias
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '108'
     numero: 108
     titulo: Fortalezas personales y carácter
     ruta: classes/part-10-personalidad-temperamento-y-conducta/108-fortalezas-personales-y-caracter
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '109'
     numero: 109
     titulo: Estados frente a rasgos de personalidad
     ruta: classes/part-10-personalidad-temperamento-y-conducta/109-estados-frente-a-rasgos-de-personalidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '110'
     numero: 110
     titulo: Falseamiento, deseabilidad social y escalas de validez
     ruta: classes/part-10-personalidad-temperamento-y-conducta/110-falseamiento-deseabilidad-social-y-escalas-de-validez
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '11'
   slug: psicometria-laboral-y-empleabilidad
   titulo: Psicometría laboral y empleabilidad

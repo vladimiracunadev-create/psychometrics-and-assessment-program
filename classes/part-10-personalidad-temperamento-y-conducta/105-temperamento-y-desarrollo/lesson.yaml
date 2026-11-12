@@ -3,5 +3,5 @@ numero: 105
 titulo: "Temperamento y desarrollo"
 parte: "10"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
