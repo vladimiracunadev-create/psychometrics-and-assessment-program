@@ -7,19 +7,64 @@
 <!-- /NAV -->
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`
+**Pensada para:** quien decide con pruebas (selección, admisión, algoritmos) y quien es afectado por esas decisiones.
 **Prerrequisitos:** clases 034 y 035.
 
-## Objetivos
+## ¿Para qué te sirve esto?
 
-1. Aplicar el modelo de Cleary de sesgo predictivo.
-2. Comparar selección, tasa de verdaderos positivos y valor predictivo entre grupos.
-3. Explicar por qué las definiciones de equidad no pueden cumplirse a la vez.
+Cuando una prueba se usa para decidir (admisión, contratación, un algoritmo de riesgo), surge la pregunta: **¿es justa?** La respuesta depende de qué se entienda por justicia. El modelo de Cleary pregunta si el test **predice igual** en todos los grupos. Pero hay otras definiciones (igual tasa de selección, igual acierto entre quienes sí rinden bien, igual valor predictivo) y, como muestra esta clase, **no pueden cumplirse todas a la vez**. Entenderlo evita discusiones donde cada parte usa una definición distinta sin saberlo.
 
-## Fundamentos
+## Al terminar esta clase podrás
 
-Modelo de Cleary (1968): un test no tiene sesgo predictivo si la recta de regresión del criterio sobre el test es la misma en todos los grupos. Se comparan intercepto y pendiente por grupo. Aparte, hay definiciones de equidad basadas en resultados: igual tasa de selección, igual tasa de verdaderos positivos (oportunidad igual) e igual valor predictivo (calibración). Si las tasas base difieren, no se pueden igualar todas (Kleinberg et al., 2017; Chouldechova, 2017).
+- Aplicar el modelo de Cleary de sesgo predictivo.
+- Comparar selección, tasa de verdaderos positivos y valor predictivo entre grupos.
+- Explicar por qué las definiciones de equidad no pueden cumplirse a la vez.
+- Plantear quién y cómo decide qué equidad priorizar.
 
-Laboratorio (corte común X ≥ 0,5; «buen desempeño» = Y > 0):
+## La idea en palabras simples
+
+**Modelo de Cleary (1968):** un test no tiene sesgo predictivo si la recta de regresión del criterio sobre el test es **la misma** en todos los grupos (mismo intercepto y pendiente). Si hay un grupo cuyo desempeño real es menor que el predicho con la misma recta común, el test **sobre-predice** para ese grupo.
+
+Pero, aun con una recta común, puede haber diferencias en:
+
+- **Selección:** qué proporción de cada grupo supera el corte.
+- **TPR (tasa de verdaderos positivos):** de quienes **sí** rendirían bien, qué proporción es seleccionada.
+- **VPP (valor predictivo positivo):** de quienes son seleccionados, qué proporción rinde bien.
+
+Cuando las **tasas base** (qué proporción rinde bien en cada grupo) difieren, no hay un corte que iguale todas esas métricas (Kleinberg et al., 2017; Chouldechova, 2017).
+
+## Cómo funciona, paso a paso
+
+**1. Ajustar la regresión** del criterio sobre el test por grupo.
+
+**2. Comparar** intercepto y pendiente (Cleary).
+
+**3. Calcular selección, TPR y VPP** con un corte común.
+
+**4. Reflexionar:** ¿qué definición de equidad priorizar? Es una decisión de valor, informada por las consecuencias (clase 035).
+
+**Ejemplo.** Si la recta común predice Y = 0,5 para X = 1 y el grupo B promedia 0,2 en ese X, el test sobre-predice a B (diferencia de intercepto).
+
+![Barras de selección, TPR y VPP de los grupos A y B en dos mundos](figura-1.svg)
+
+*Figura 1.* En el mundo 2 (B rinde menos a igual puntaje) el VPP de B cae a 0,60.
+
+## Si construyes el instrumento
+
+- Prueba el modelo de Cleary con tus datos, por grupo.
+- Informa selección, TPR y VPP por grupo, y las tasas base.
+- Documenta qué definición de equidad adoptaste y por qué; esa decisión corresponde a quienes se ven afectados y a quienes responden por la decisión, no solo al equipo técnico.
+- Revisa si el criterio (por ejemplo, la evaluación del supervisor) está también sesgado.
+
+## Si eres evaluado
+
+- «El test es justo» puede significar cosas distintas: pregunta qué definición se usó.
+- Una decisión automatizada debe poder revisarse por una persona y explicarse (parte 07).
+- Tienes derecho a conocer cómo se evaluó el efecto de la prueba en distintos grupos.
+
+## Qué muestra el laboratorio
+
+`lab.py` usa un corte común X ≥ 0,5 y define «buen desempeño» como Y > 0.
 
 | Mundo | Grupo | Selección | TPR | VPP | Tasa base |
 |---|---|---:|---:|---:|---:|
@@ -28,43 +73,53 @@ Laboratorio (corte común X ≥ 0,5; «buen desempeño» = Y > 0):
 | 2 (B rinde menos en Y a igual X) | A | 0,307 | 0,453 | 0,742 | 0,503 |
 | | B | 0,160 | 0,326 | 0,595 | 0,293 |
 
-En el mundo 1 las rectas coinciden y la calibración es parecida (VPP 0,74 y 0,72), pero la selección y el TPR difieren. En el mundo 2 el VPP cae en B (0,60): el corte común sobre-predice el desempeño de B.
+**Análisis.** (1) En el mundo 1 las rectas coinciden (el test predice igual en ambos grupos) y aun así las tasas de selección, TPR y VPP difieren, porque las tasas base y las medias difieren: **no existe un corte que iguale todas las métricas**. (2) En el mundo 2, el VPP cae en B (0,595): el corte común sobre-predice el desempeño de B. (3) Elegir qué equidad priorizar es una decisión de valor, informada por las consecuencias, no un cálculo. (4) Son datos simulados con relaciones lineales.
 
-## Ejemplo resuelto
+## Errores frecuentes
 
-Si la recta común predice Y = 0,5 para X = 1 y el grupo B promedia 0,2 en ese X, el test sobre-predice a B (diferencia de intercepto).
-
-## Errores y límites
-
-- Declarar «el test es justo» porque la recta es común, sin mirar las consecuencias (clase 035).
+- Declarar «el test es justo» porque la recta es común, sin mirar las consecuencias.
 - Elegir una definición de equidad por conveniencia técnica.
-- Ignorar que el criterio (p. ej. evaluación del supervisor) también puede estar sesgado.
-- Las decisiones automatizadas requieren revisión humana y derecho a explicación (parte 07).
+- Ignorar que el criterio también puede estar sesgado.
+- Delegar a un algoritmo una decisión de valor sin revisión humana.
+
+## Lo mínimo que debes llevarte
+
+1. Cleary: la misma recta de predicción en todos los grupos.
+2. Selección, TPR y VPP miden cosas distintas.
+3. Con tasas base distintas, no se pueden igualar todas a la vez.
+4. Elegir una definición de equidad es una decisión de valor.
 
 ## Ejercicios
 
-- **Inicial.** ¿Qué compara el modelo de Cleary?
-- **Intermedio.** Si las tasas base son iguales, ¿es posible igualar selección y TPR a la vez? Sí, en general.
+- **Inicial.** ¿Qué compara el modelo de Cleary? *Solución: intercepto y pendiente de la recta de predicción por grupo.*
+- **Intermedio.** Si las tasas base son iguales, ¿es posible igualar selección y TPR a la vez? *Solución: sí, en general.*
 - **Avanzado.** Cambia la tasa base de B en `lab.py` y observa las tres métricas.
+- **Aplicación.** Escribe cómo documentarías la decisión de qué equidad priorizar en un proceso de admisión.
+
+## Glosario
+
+- **Sesgo predictivo:** el test predice distinto en grupos distintos.
+- **TPR:** proporción de quienes rinden bien que son seleccionados.
+- **VPP:** proporción de seleccionados que rinden bien.
+- **Tasa base:** proporción de un grupo que rinde bien.
 
 ## Laboratorio
 
 ```bash
 python classes/part-06-baremos-sesgo-y-equidad/064-sesgo-predictivo-y-equidad/lab.py
+python classes/part-06-baremos-sesgo-y-equidad/figuras.py
 ```
 
 ## Autoevaluación y criterios
 
 1. ¿Qué definición de equidad priorizas en admisión y por qué? 2. ¿Quién decide? 3. ¿Cómo documentas la decisión?
-Se logra si el estudiante evalúa sesgo predictivo y discute definiciones de equidad.
+Se logra la clase si puedes evaluar el sesgo predictivo y discutir definiciones de equidad.
 
 ## Bibliografía
 
-- Cleary, T. A. (1968). Test bias: Prediction of grades of Negro and white students in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124. ✅ [DOI](https://doi.org/10.1111/j.1745-3984.1968.tb00613.x)
-- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent trade-offs in the fair determination of risk scores. *ITCS 2017*. ⚠️ existe, pero Crossref registra 2023 (¿otra edición?; [DOI](https://doi.org/10.1145/3603195.3603206))
-- Chouldechova, A. (2017). Fair prediction with disparate impact. *Big Data*, 5(2), 153-163. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
-
-Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+- Cleary, T. A. (1968). Test bias: Prediction of grades of Negro and white students in integrated colleges. *Journal of Educational Measurement*, 5(2), 115-124.
+- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent trade-offs in the fair determination of risk scores. *ITCS 2017*.
+- Chouldechova, A. (2017). Fair prediction with disparate impact: A study of bias in recidivism prediction instruments. *Big Data*, 5(2), 153-163.
 
 ---
 
