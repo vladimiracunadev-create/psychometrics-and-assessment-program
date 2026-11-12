@@ -3,5 +3,5 @@ numero: 37
 titulo: "Directrices de la International Test Commission"
 parte: "07"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

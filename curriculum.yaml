@@ -501,61 +501,61 @@ temario:
     titulo: Los Standards de AERA, APA y NCME
     ruta: classes/part-07-uso-responsable-y-certificacion/036-estandares-aera-apa-ncme
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '037'
     numero: 37
     titulo: Directrices de la International Test Commission
     ruta: classes/part-07-uso-responsable-y-certificacion/037-itc-y-normas-internacionales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 038
     numero: 38
     titulo: El informe y la devolución de resultados a la persona
     ruta: classes/part-07-uso-responsable-y-certificacion/038-informe-y-devolucion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 039
     numero: 39
     titulo: 'Uso en selección de personal: qué es defendible'
     ruta: classes/part-07-uso-responsable-y-certificacion/039-seleccion-de-personal
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '040'
     numero: 40
     titulo: Rutas de certificación profesional
     ruta: classes/part-07-uso-responsable-y-certificacion/040-certificacion-profesional
     horas_estimadas: 3
-    estado: planificada
+    estado: escrita
   - id: '076'
     numero: 76
     titulo: 'Ley 19.628 y Ley 21.719: datos personales en evaluación'
     ruta: classes/part-07-uso-responsable-y-certificacion/076-ley-19-628-y-ley-21-719
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '077'
     numero: 77
     titulo: Consentimiento informado y confidencialidad
     ruta: classes/part-07-uso-responsable-y-certificacion/077-consentimiento-informado-y-confidencialidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 078
     numero: 78
     titulo: Retención, anonimización y eliminación de datos
     ruta: classes/part-07-uso-responsable-y-certificacion/078-retencion-anonimizacion-y-eliminacion-de-datos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 079
     numero: 79
     titulo: Decisiones automatizadas y derecho a explicación
     ruta: classes/part-07-uso-responsable-y-certificacion/079-decisiones-automatizadas-y-derecho-a-explicacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 080
     numero: 80
     titulo: Seguridad de bancos de ítems y de resultados
     ruta: classes/part-07-uso-responsable-y-certificacion/080-seguridad-de-bancos-de-items-y-de
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: 08
   slug: inteligencia-y-capacidades-cognitivas
   titulo: Inteligencia y capacidades cognitivas
@@ -568,61 +568,61 @@ temario:
     titulo: 'Modelos de la inteligencia: Spearman, Thurstone, CHC'
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/081-modelos-de-la-inteligencia-spearman-thurstone-chc
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 082
     numero: 82
     titulo: Inteligencia fluida y cristalizada
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/082-inteligencia-fluida-y-cristalizada
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 083
     numero: 83
     titulo: 'Razonamiento abstracto: matrices y series'
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/083-razonamiento-abstracto-matrices-y-series
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 084
     numero: 84
     titulo: Razonamiento verbal y comprensión de instrucciones
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/084-razonamiento-verbal-y-comprension-de-instrucciones
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 085
     numero: 85
     titulo: Razonamiento numérico
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/085-razonamiento-numerico
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 086
     numero: 86
     titulo: Razonamiento espacial
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/086-razonamiento-espacial
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 087
     numero: 87
     titulo: Resolución de problemas y aprendizaje
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/087-resolucion-de-problemas-y-aprendizaje
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 088
     numero: 88
     titulo: Aptitudes mentales primarias
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/088-aptitudes-mentales-primarias
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 089
     numero: 89
     titulo: Velocidad de procesamiento
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/089-velocidad-de-procesamiento
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 090
     numero: 90
     titulo: 'Familias de evaluación cognitiva individual: uso, restricciones y alternativas abiertas'
     ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/090-familias-de-evaluacion-cognitiva-individual-uso-restricciones
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: 09
   slug: atencion-memoria-y-funciones-ejecutivas
   titulo: Atención, memoria y funciones ejecutivas

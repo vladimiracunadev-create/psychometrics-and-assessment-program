@@ -3,5 +3,5 @@ numero: 87
 titulo: "Resolución de problemas y aprendizaje"
 parte: "08"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

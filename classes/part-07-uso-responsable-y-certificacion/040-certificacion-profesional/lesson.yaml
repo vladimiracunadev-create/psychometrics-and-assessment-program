@@ -3,5 +3,5 @@ numero: 40
 titulo: "Rutas de certificación profesional"
 parte: "07"
 horas_estimadas: 3
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -3,5 +3,5 @@ numero: 39
 titulo: "Uso en selección de personal: qué es defendible"
 parte: "07"
 horas_estimadas: 5
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
