@@ -7,19 +7,56 @@
 <!-- /NAV -->
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`
+**Pensada para:** quien construye bancos de ítems, quien compara pruebas distintas y quien se pregunta por qué existe la «TRI».
 **Prerrequisitos:** clases 015, 021 y 025.
 
-## Objetivos
+## ¿Para qué te sirve esto?
 
-1. Enumerar tres límites de la teoría clásica (dependencia de la muestra, error único, puntaje dependiente del test).
-2. Mostrar con datos que p y r ítem-resto cambian con el grupo.
-3. Enunciar la propiedad de invarianza de parámetros de la TRI y su condición.
+Con la teoría clásica, la dificultad de un ítem (la proporción que acierta) **depende de quiénes lo respondieron**, y el puntaje de una persona **depende de qué ítems le tocaron**. Esto es un problema práctico: no puedes comparar el resultado de dos personas que rindieron pruebas distintas, ni reutilizar un ítem en otro grupo sin recalcular todo. La **teoría de respuesta al ítem (TRI)** propone una salida. Esta clase muestra, con datos, cuál es el problema, y qué promete la TRI.
 
-## Fundamentos
+## Al terminar esta clase podrás
 
-En la teoría clásica la dificultad (p) y la discriminación dependen de **quiénes** respondan, y el puntaje de una persona depende de **cuáles** ítems tuvo. La TRI modela la probabilidad de acierto como función de un rasgo latente θ y de parámetros del ítem, de modo que (si el modelo se sostiene) los parámetros no dependen de la muestra y θ no depende del conjunto de ítems (Hambleton y Jones, 1993; Embretson y Reise, 2000).
+- Enumerar tres límites de la teoría clásica (dependencia de la muestra, error único, puntaje dependiente del test).
+- Mostrar con datos que la dificultad (p) y la discriminación (r ítem-resto) cambian con el grupo.
+- Enunciar la propiedad de invarianza de parámetros de la TRI y su condición.
+- Decir qué se pierde frente a la simplicidad clásica.
 
-Laboratorio (10 ítems de dificultad fija; grupos de media θ −1 y +1):
+## La idea en palabras simples
+
+La TRI cambia la pregunta. En vez de «¿cuántos ítems acertó la persona?», pregunta «**¿cuál es la probabilidad de que una persona con cierto nivel de rasgo (θ) acierte un ítem con ciertas características?**». Cada ítem queda descrito por **sus propios parámetros** (por ejemplo, su dificultad b), que no cambian según quién lo responda, y cada persona queda descrita por su θ, que no depende de qué ítems tuvo.
+
+Es como describir la altura de un obstáculo (b) y la capacidad de salto de un atleta (θ): la altura del obstáculo no depende de quién salte, y la capacidad del atleta no depende de qué obstáculo le pongan.
+
+## Cómo funciona, paso a paso
+
+**1. Mostrar el problema clásico.** Se aplican los mismos 10 ítems a dos grupos: uno de habilidad baja (θ medio −1) y otro de alta (+1).
+
+**2. Comparar.** La dificultad clásica p cambia mucho de un grupo a otro; la dificultad TRI (b) estimada no.
+
+**Ejemplo resuelto.** Un ítem con p = 0,93 en el grupo alto y 0,67 en el bajo parece «fácil» o «medio» según el grupo; su b (−1,85 y −1,91) lo ubica en el mismo punto de la escala de habilidad.
+
+![Líneas: p de 10 ítems en dos grupos varía mucho; el b estimado es casi idéntico en ambos](figura-1.svg)
+
+*Figura 1.* El b estimado (línea) coincide en ambos grupos; la proporción de aciertos (puntos) no.
+
+**3. La condición.** Esa invarianza vale **solo si el modelo se ajusta** a los datos y las muestras son razonables.
+
+## Si construyes el instrumento
+
+- La TRI sirve cuando necesitas bancos reutilizables, formas equivalentes o pruebas adaptativas.
+- Exige más datos (cientos a miles de personas) y más supuestos que la teoría clásica.
+- Comprueba el ajuste del modelo antes de confiar en la invarianza.
+- Si el instrumento es pequeño y para un solo grupo, la teoría clásica puede bastar.
+
+## Si eres evaluado
+
+- Cuando dos personas rinden pruebas distintas y obtienen puntajes comparables, es porque se usó TRI para ponerlas en la misma escala.
+- Un puntaje basado en TRI no es «el número de aciertos»: depende de **cuáles** ítems acertaste.
+- Pregunta qué modelo se usó y si su ajuste se comprobó.
+
+## Qué muestra el laboratorio
+
+`lab.py` simula 10 ítems de dificultad conocida y dos grupos de habilidad media −1 y +1.
 
 | Ítem | b real | p baja / alta | r baja / alta | b estimado baja / alta |
 |---:|---:|---|---|---|
@@ -27,42 +64,53 @@ Laboratorio (10 ítems de dificultad fija; grupos de media θ −1 y +1):
 | 5 | 0,0 | 0,30 / 0,70 | 0,32 / 0,29 | 0,01 / 0,02 |
 | 10 | 2,4 | 0,05 / 0,24 | 0,17 / 0,26 | 2,42 / 2,36 |
 
-p y r cambian mucho con el grupo; b estimado coincide con el real en ambos. **Aviso:** la habilidad se conoce porque se simula; en datos reales se estima a la vez (clases 052 y 056).
+**Análisis.** (1) p y r cambian mucho con el grupo: el ítem «difícil» pasa a «fácil». (2) El b estimado coincide con el real en ambos grupos. (3) Esa propiedad (parámetros del ítem independientes de la muestra y habilidad independiente de los ítems) es lo que la TRI agrega. (4) **Aviso:** aquí la habilidad se conoce porque se simula; en datos reales se estima a la vez (clases 052 y 056).
 
-## Ejemplo resuelto
+## Errores frecuentes
 
-Un ítem con p = 0,93 en el grupo alto y 0,67 en el bajo parece «fácil» o «medio» según el grupo; su b (−1,85 y −1,91) lo ubica en el mismo punto de la escala de habilidad.
-
-## Errores y límites
-
-- Creer que la TRI «resuelve» automáticamente la muestra: exige que el modelo se ajuste y muestras razonables.
-- Interpretar la invarianza como si valiera con ítems sesgados (DIF, clase 063).
+- Creer que la TRI «resuelve» automáticamente la muestra: exige ajuste y muestras razonables.
+- Interpretar la invarianza con ítems sesgados (DIF, clase 063).
 - Usar TRI con muestras de decenas de personas.
+- Pensar que la TRI es siempre superior a la teoría clásica.
+
+## Lo mínimo que debes llevarte
+
+1. En la teoría clásica, p y r dependen del grupo.
+2. En la TRI, los parámetros del ítem no dependen del grupo (si el modelo ajusta).
+3. La TRI permite comparar personas con pruebas distintas.
+4. Tiene costos: más datos y más supuestos.
 
 ## Ejercicios
 
-- **Inicial.** ¿Qué dos índices clásicos dependen de la muestra?
-- **Intermedio.** Si un ítem tiene p = 0,5 en un grupo con media 0 y b = 0, ¿cuál sería p en un grupo con media +1 (a = 1)? ≈ logistica(1) = 0,73.
+- **Inicial.** ¿Qué dos índices clásicos dependen de la muestra? *Solución: dificultad (p) y discriminación (r).*
+- **Intermedio.** Si un ítem tiene p = 0,5 en un grupo con media 0 y b = 0, ¿cuál sería p en un grupo con media +1 (a = 1)? *Solución: ≈ logística(1) = 0,73.*
 - **Avanzado.** Añade un tercer grupo con media 0 en `lab.py` y comprueba que el b estimado se mantiene.
+- **Aplicación.** Explica a un colega, sin fórmulas, por qué dos formas de un examen pueden dar notas comparables con TRI.
+
+## Glosario
+
+- **TRI:** teoría de respuesta al ítem.
+- **θ (theta):** nivel de la persona en el rasgo.
+- **b:** dificultad del ítem en la escala del rasgo.
+- **Invarianza de parámetros:** los parámetros del ítem no dependen del grupo.
 
 ## Laboratorio
 
 ```bash
 python classes/part-05-teoria-de-respuesta-al-item/051-limites-de-la-teoria-clasica/lab.py
+python classes/part-05-teoria-de-respuesta-al-item/figuras.py
 ```
 
 ## Autoevaluación y criterios
 
 1. ¿Qué condiciones requiere la invarianza? 2. ¿Qué ventaja práctica trae para bancos de ítems? 3. ¿Qué se pierde frente a la simplicidad clásica?
-Se logra si el estudiante contrasta p y b entre grupos y declara la condición de ajuste del modelo.
+Se logra la clase si puedes contrastar p y b entre grupos y declarar la condición de ajuste del modelo.
 
 ## Bibliografía
 
-- Hambleton, R. K., & Jones, R. W. (1993). Comparison of classical test theory and item response theory and their applications to test development. *Educational Measurement: Issues and Practice*, 12(3), 38-47. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
-- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
-- Lord, F. M. (1980). *Applications of Item Response Theory to Practical Testing Problems*. Lawrence Erlbaum. ⚠️ existe, pero Crossref registra 2012 (¿otra edición?; [DOI](https://doi.org/10.4324/9780203056615))
-
-Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase.
+- Hambleton, R. K., & Jones, R. W. (1993). Comparison of classical test theory and item response theory and their applications to test development. *Educational Measurement: Issues and Practice*, 12(3), 38-47.
+- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum.
+- Lord, F. M. (1980). *Applications of Item Response Theory to Practical Testing Problems*. Lawrence Erlbaum.
 
 ---
 
