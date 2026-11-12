@@ -1,5 +1,7 @@
 # 050 — Datos ordinales y correlaciones policóricas
 
+![Portada de la clase 050](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

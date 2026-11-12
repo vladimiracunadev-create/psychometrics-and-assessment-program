@@ -1,5 +1,7 @@
 # 046 — Rotaciones y criterios de retención de factores
 
+![Portada de la clase 046](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

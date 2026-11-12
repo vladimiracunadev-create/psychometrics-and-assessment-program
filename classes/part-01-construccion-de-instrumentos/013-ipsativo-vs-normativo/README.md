@@ -1,5 +1,7 @@
 # 013 — Ipsativo frente a normativo: la trampa de la elección forzada
 
+![Portada de la clase 013](portada.svg)
+
 > [Clase anterior](../012-formatos-de-respuesta/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../014-longitud-y-costo-de-medida/README.md)
 
 **Parte:** 01 — Construcción de instrumentos

@@ -1,5 +1,7 @@
 # 123 — Roles en equipos: modelo Belbin y su evidencia
 
+![Portada de la clase 123](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`

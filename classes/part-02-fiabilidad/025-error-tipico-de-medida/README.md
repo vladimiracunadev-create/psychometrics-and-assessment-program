@@ -1,5 +1,7 @@
 # 025 — Error típico de medida e intervalos de confianza del puntaje
 
+![Portada de la clase 025](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../024-test-retest-y-estabilidad/README.md) · [Siguiente](../../part-03-validez/031-validez-como-argumento/README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

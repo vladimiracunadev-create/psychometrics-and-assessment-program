@@ -1,5 +1,7 @@
 # 039 — Metaanálisis de validez y corrección por atenuación
 
+![Portada de la clase 039](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 03 — Validez** · Nivel avanzado · 4 h · Estado `escrita`

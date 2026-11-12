@@ -1,5 +1,7 @@
 # 024 — Test-retest: estabilidad frente a consistencia
 
+![Portada de la clase 024](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../023-omega-y-alternativas-a-alfa/README.md) · [Siguiente](../025-error-tipico-de-medida/README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 3 h · Estado `escrita`

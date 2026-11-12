@@ -1,5 +1,7 @@
 # 055 — Testing adaptativo informatizado
 
+![Portada de la clase 055](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../054-informacion-del-item/README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`

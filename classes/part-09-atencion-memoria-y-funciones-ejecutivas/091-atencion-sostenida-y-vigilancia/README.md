@@ -1,5 +1,7 @@
 # 091 — Atención sostenida y vigilancia
 
+![Portada de la clase 091](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

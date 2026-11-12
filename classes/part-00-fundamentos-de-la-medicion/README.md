@@ -1,4 +1,6 @@
-# Parte 00 — Fundamentos de la medición psicológica
+# 📏 Parte 00 — Fundamentos de la medición psicológica
+
+![Portada de la parte 00](portada.svg)
 
 **Nivel:** fundamentos · **Duración estimada:** 2-3 semanas · **Clases:** 10
 
@@ -25,6 +27,10 @@ Todo el resto del programa se apoya en estas ideas. Quien no distingue un constr
 ## Cómo estudiarla
 
 Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente.
+
+## Ruta de estudio
+
+![Ruta de la parte 00](ruta.svg)
 
 ## Clases en orden de estudio
 

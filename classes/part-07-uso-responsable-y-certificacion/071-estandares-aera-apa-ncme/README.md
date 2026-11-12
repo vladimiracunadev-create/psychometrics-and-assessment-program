@@ -1,5 +1,7 @@
 # 071 — Los Standards de AERA, APA y NCME
 
+![Portada de la clase 071](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`

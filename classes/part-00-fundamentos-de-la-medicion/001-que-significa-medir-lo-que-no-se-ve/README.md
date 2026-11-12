@@ -1,5 +1,7 @@
 # 001 — Qué significa medir lo que no se ve
 
+![Portada de la clase 001](portada.svg)
+
 > Inicio del programa · [Índice de la parte](../README.md) · [Clase siguiente](../002-del-constructo-al-item/README.md)
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`

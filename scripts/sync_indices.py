@@ -13,6 +13,9 @@ import sys
 
 import yaml
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import visuales  # noqa: E402
+
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 INICIO, FIN = "<!-- PROGRAMA:INICIO -->", "<!-- PROGRAMA:FIN -->"
 
@@ -62,7 +65,8 @@ def primer_objetivo(c: dict) -> str:
 
 def readme_parte(p: dict) -> str:
     g = guias().get(p["id"], {})
-    sal = [f"# Parte {p['id']} — {p['titulo']}", "",
+    sal = [f"# {visuales.EMOJI[p['id']]} Parte {p['id']} — {p['titulo']}", "",
+           f"![Portada de la parte {p['id']}](portada.svg)", "",
            f"**Nivel:** {p['nivel']} · **Duración estimada:** {p['semanas']} semanas · **Clases:** {len(p['clases'])}", ""]
     if g:
         sal += ["## De qué trata", "", g["de_que_trata"], "", "## Por qué importa", "", g["por_que_importa"], "",
@@ -73,7 +77,7 @@ def readme_parte(p: dict) -> str:
         sal += ["", "## Cómo estudiarla", "", g["como_estudiarla"], ""]
     else:
         sal += [p["descripcion"].strip(), ""]
-    sal += ["## Clases en orden de estudio", "",
+    sal += ["## Ruta de estudio", "", f"![Ruta de la parte {p['id']}](ruta.svg)", "", "## Clases en orden de estudio", "",
             "Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estudio: sigue el número.", "",
             "| Orden | ID | Clase | Qué aprenderás | Formato | Horas |", "|---:|---|---|---|---|---:|"]
     for i, c in enumerate(p["clases"], 1):
@@ -131,6 +135,24 @@ def main() -> int:
     for p in partes:
         aplica(RAIZ / "classes" / dir_parte(p) / "README.md", readme_parte(p))
     aplica(RAIZ / "PROGRAMA.md", indice_numerico(partes))
+    for p in partes:
+        for c in p["clases"]:
+            c["pedagogico"] = formato(c).startswith("✅")
+    for p in partes:
+        dp = RAIZ / "classes" / dir_parte(p)
+        aplica(dp / "portada.svg", visuales.portada_parte(p))
+        aplica(dp / "ruta.svg", visuales.ruta_parte(p))
+        for c in p["clases"]:
+            carpeta = RAIZ / c["ruta"]
+            aplica(carpeta / "portada.svg", visuales.portada_clase(p, c))
+            rd = carpeta / "README.md"
+            if rd.is_file():
+                t = rd.read_text(encoding="utf-8").replace("\r\n", "\n")
+                if "](portada.svg)" not in t:
+                    lineas = t.split("\n", 1)
+                    t = lineas[0] + f"\n\n![Portada de la clase {c['id']}](portada.svg)\n" + (lineas[1] if len(lineas) > 1 else "")
+                    aplica(rd, t)
+    aplica(RAIZ / "docs" / "mapa-del-programa.svg", visuales.mapa_programa(partes))
 
     if desfasados:
         print(("DESFASADOS" if check else "ACTUALIZADOS") + ": " + ", ".join(desfasados))

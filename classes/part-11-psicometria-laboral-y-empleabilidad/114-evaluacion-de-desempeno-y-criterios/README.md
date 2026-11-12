@@ -1,5 +1,7 @@
 # 114 — Evaluación de desempeño y criterios
 
+![Portada de la clase 114](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

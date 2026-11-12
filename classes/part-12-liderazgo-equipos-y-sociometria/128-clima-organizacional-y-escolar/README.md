@@ -1,5 +1,7 @@
 # 128 — Clima organizacional y escolar
 
+![Portada de la clase 128](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`

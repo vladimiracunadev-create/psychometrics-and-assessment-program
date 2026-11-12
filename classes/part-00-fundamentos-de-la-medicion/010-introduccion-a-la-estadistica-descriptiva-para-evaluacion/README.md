@@ -1,5 +1,7 @@
 # 010 — Introducción a la estadística descriptiva para evaluación
 
+![Portada de la clase 010](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 005 — Ítems invertidos y sesgo de aquiescencia
 
+![Portada de la clase 005](portada.svg)
+
 > [Clase anterior](../004-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../011-*/README.md)
 
 **Parte:** 00 — Fundamentos de la medición psicológica

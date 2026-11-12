@@ -1,5 +1,7 @@
 # 063 — Funcionamiento diferencial del ítem (DIF)
 
+![Portada de la clase 063](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../062-elegir-la-muestra-normativa/README.md) · [Siguiente](../064-sesgo-predictivo-y-equidad/README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 073 — El informe y la devolución de resultados
 
+![Portada de la clase 073](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 057 — Curvas características e información del test
 
+![Portada de la clase 057](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`

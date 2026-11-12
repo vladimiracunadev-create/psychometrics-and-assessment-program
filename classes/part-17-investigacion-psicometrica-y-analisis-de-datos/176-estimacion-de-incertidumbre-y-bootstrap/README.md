@@ -1,5 +1,7 @@
 # 176 — Estimación de incertidumbre y bootstrap
 
+![Portada de la clase 176](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`

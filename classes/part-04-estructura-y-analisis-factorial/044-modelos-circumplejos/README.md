@@ -1,5 +1,7 @@
 # 044 — Modelos circumplejos: el hexágono de Holland como predicción falsable
 
+![Portada de la clase 044](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../043-analisis-factorial-confirmatorio/README.md) · [Siguiente](../045-invarianza-de-medida/README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

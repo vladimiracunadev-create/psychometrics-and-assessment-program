@@ -1,5 +1,7 @@
 # 034 — Validez de criterio y validez predictiva
 
+![Portada de la clase 034](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../033-validez-de-constructo/README.md) · [Siguiente](../035-consecuencias-del-uso/README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 5 h · Estado `escrita`

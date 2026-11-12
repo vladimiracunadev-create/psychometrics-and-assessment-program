@@ -1,5 +1,7 @@
 # 086 — Razonamiento espacial
 
+![Portada de la clase 086](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`

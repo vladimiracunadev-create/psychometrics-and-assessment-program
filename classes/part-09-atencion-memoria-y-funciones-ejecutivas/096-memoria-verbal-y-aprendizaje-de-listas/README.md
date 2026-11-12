@@ -1,5 +1,7 @@
 # 096 — Memoria verbal y aprendizaje de listas
 
+![Portada de la clase 096](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 180 — Redacción y revisión de un informe de validación
 
+![Portada de la clase 180](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 5 h · Estado `escrita`

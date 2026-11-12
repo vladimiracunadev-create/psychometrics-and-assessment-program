@@ -1,5 +1,7 @@
 # 037 — Validez ecológica y generalización
 
+![Portada de la clase 037](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

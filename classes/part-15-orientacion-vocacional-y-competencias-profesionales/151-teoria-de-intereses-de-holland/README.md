@@ -1,5 +1,7 @@
 # 151 — Teoría de intereses de Holland
 
+![Portada de la clase 151](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 030 — Intervalos de confianza para puntajes individuales
 
+![Portada de la clase 030](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

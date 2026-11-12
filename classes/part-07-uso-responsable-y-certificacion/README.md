@@ -1,4 +1,6 @@
-# Parte 07 — Uso responsable y certificación
+# 🛡️ Parte 07 — Uso responsable y certificación
+
+![Portada de la parte 07](portada.svg)
 
 **Nivel:** profesional · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Medir bien no basta; también importa cómo se informa, a quién y para qué. Es
 ## Cómo estudiarla
 
 Puede leerse en paralelo con cualquier otra parte. Las referencias legales deben contrastarse con la norma vigente; no es asesoría jurídica.
+
+## Ruta de estudio
+
+![Ruta de la parte 07](ruta.svg)
 
 ## Clases en orden de estudio
 

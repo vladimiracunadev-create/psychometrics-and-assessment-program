@@ -1,5 +1,7 @@
 # 066 — Puntajes estándar: z, T y estaninos
 
+![Portada de la clase 066](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 3 h · Estado `escrita`

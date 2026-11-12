@@ -1,5 +1,7 @@
 # 062 — La muestra normativa: a quién se compara la persona
 
+![Portada de la clase 062](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../061-baremos-y-percentiles/README.md) · [Siguiente](../063-funcionamiento-diferencial-del-item/README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 015 — Pilotaje y análisis de ítems
 
+![Portada de la clase 015](portada.svg)
+
 > [Clase anterior](../014-longitud-y-costo-de-medida/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../../part-02-fiabilidad/021-teoria-clasica-del-error/README.md)
 
 **Parte:** 01 — Construcción de instrumentos

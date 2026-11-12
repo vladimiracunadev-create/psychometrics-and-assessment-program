@@ -1,5 +1,7 @@
 # 187 — Auditoría de cálculo y trazabilidad
 
+![Portada de la clase 187](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`

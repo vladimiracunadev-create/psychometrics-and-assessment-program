@@ -1,5 +1,7 @@
 # 192 — Proyecto: batería laboral con ajuste justificado
 
+![Portada de la clase 192](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

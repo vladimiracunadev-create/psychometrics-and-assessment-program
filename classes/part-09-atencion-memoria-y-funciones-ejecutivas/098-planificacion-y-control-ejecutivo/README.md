@@ -1,5 +1,7 @@
 # 098 — Planificación y control ejecutivo
 
+![Portada de la clase 098](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 5 h · Estado `escrita`

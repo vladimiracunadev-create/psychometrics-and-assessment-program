@@ -1,5 +1,7 @@
 # 115 — Juicio situacional
 
+![Portada de la clase 115](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 033 — Validez de constructo: convergente y discriminante
 
+![Portada de la clase 033](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../032-validez-de-contenido/README.md) · [Siguiente](../034-validez-de-criterio/README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

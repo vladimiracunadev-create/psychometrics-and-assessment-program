@@ -51,6 +51,8 @@ con bancos públicos, material propio y licencias trazables.**
 
 ## 🎯 Qué es este programa
 
+![Mapa del programa: 20 partes en siete secciones](docs/mapa-del-programa.svg)
+
 Es un **programa de enseñanza, construcción y apoyo** para cualquier profesional que deba **crear, aplicar, interpretar o responder** una evaluación psicológica o educativa, y para quien **es evaluado** y quiere entender qué se le mide y con qué respaldo. Cada clase explica el tema de forma simple y progresiva, muestra el análisis con datos simulados y figuras, y cita fuentes que se pueden comprobar (con su estado de verificación a la vista). Los instrumentos y sus fichas son parte central del programa, no un anexo.
 
 **Estado honesto:** las 200 clases existen; las que ya tienen el formato pedagógico completo están marcadas, y las demás se están reescribiendo con ese formato (la [clase 021](classes/part-02-fiabilidad/021-teoria-clasica-del-error/README.md) es el modelo). No es formación habilitante ni asesoría profesional.

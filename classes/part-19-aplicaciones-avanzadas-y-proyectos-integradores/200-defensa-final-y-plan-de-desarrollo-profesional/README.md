@@ -1,5 +1,7 @@
 # 200 — Defensa final y plan de desarrollo profesional
 
+![Portada de la clase 200](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

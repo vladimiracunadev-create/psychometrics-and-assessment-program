@@ -1,5 +1,7 @@
 # 065 — Adaptación transcultural y equivalencia
 
+![Portada de la clase 065](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../064-sesgo-predictivo-y-equidad/README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`

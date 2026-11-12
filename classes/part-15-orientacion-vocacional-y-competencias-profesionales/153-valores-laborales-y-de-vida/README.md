@@ -1,5 +1,7 @@
 # 153 — Valores laborales y de vida
 
+![Portada de la clase 153](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

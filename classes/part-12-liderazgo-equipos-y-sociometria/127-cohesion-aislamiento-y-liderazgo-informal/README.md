@@ -1,5 +1,7 @@
 # 127 — Cohesión, aislamiento y liderazgo informal
 
+![Portada de la clase 127](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`

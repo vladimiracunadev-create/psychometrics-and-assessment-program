@@ -1,5 +1,7 @@
 # 185 — Evaluación adaptativa: implementación
 
+![Portada de la clase 185](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`

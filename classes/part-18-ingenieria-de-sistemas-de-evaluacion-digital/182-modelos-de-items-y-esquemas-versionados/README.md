@@ -1,5 +1,7 @@
 # 182 — Modelos de ítems y esquemas versionados
 
+![Portada de la clase 182](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`

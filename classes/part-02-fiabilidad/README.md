@@ -1,4 +1,6 @@
-# Parte 02 — Fiabilidad
+# 📶 Parte 02 — Fiabilidad
+
+![Portada de la parte 02](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Sin fiabilidad no hay forma de saber si una diferencia entre dos personas, o ent
 ## Cómo estudiarla
 
 Empieza por la clase 021, que es la base de toda la parte. Luego sigue el orden indicado; las clases 026 a 030 amplían lo anterior con correlación, KR-20, acuerdo entre evaluadores e intervalos.
+
+## Ruta de estudio
+
+![Ruta de la parte 02](ruta.svg)
 
 ## Clases en orden de estudio
 

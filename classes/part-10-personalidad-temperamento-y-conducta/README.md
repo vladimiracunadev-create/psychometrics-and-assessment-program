@@ -1,4 +1,6 @@
-# Parte 10 — Personalidad, temperamento y conducta
+# 🙂 Parte 10 — Personalidad, temperamento y conducta
+
+![Portada de la parte 10](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ La personalidad es el terreno de más mitos y de más instrumentos sin respaldo.
 ## Cómo estudiarla
 
 Aquí están los instrumentos ejecutables del repositorio (IPIP-NEO-120, IPIP-VIA-R, DISC y valores). Pruébalos desde la CLI.
+
+## Ruta de estudio
+
+![Ruta de la parte 10](ruta.svg)
 
 ## Clases en orden de estudio
 

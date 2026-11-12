@@ -1,4 +1,6 @@
-# Parte 16 — Evaluación socioemocional y bienestar
+# ❤️ Parte 16 — Evaluación socioemocional y bienestar
+
+![Portada de la parte 16](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Medir bienestar toca temas sensibles; hay límites claros sobre lo que un cuesti
 ## Cómo estudiarla
 
 Lee primero las clases 167 y 168. Material educativo, no clínico; ante riesgo se acude a un profesional.
+
+## Ruta de estudio
+
+![Ruta de la parte 16](ruta.svg)
 
 ## Clases en orden de estudio
 

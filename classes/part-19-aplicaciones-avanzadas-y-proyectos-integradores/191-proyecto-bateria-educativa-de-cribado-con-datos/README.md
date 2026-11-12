@@ -1,5 +1,7 @@
 # 191 — Proyecto: batería educativa de cribado con datos
 
+![Portada de la clase 191](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

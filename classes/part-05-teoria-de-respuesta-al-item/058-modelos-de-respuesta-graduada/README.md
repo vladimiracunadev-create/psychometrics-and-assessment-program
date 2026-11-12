@@ -1,5 +1,7 @@
 # 058 — Modelos de respuesta graduada
 
+![Portada de la clase 058](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`

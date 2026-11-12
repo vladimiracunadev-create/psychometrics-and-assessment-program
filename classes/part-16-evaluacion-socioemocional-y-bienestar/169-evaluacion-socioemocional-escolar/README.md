@@ -1,5 +1,7 @@
 # 169 — Evaluación socioemocional escolar
 
+![Portada de la clase 169](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`

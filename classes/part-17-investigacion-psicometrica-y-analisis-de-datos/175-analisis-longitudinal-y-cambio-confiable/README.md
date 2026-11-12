@@ -1,5 +1,7 @@
 # 175 — Análisis longitudinal y cambio confiable
 
+![Portada de la clase 175](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`

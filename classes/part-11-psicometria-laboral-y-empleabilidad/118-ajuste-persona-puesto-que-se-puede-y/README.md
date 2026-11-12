@@ -1,5 +1,7 @@
 # 118 — Ajuste persona-puesto: qué se puede y qué no afirmar
 
+![Portada de la clase 118](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

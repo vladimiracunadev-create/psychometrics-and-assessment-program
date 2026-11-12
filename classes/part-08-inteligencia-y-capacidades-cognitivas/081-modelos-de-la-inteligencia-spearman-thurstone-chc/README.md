@@ -1,5 +1,7 @@
 # 081 — Modelos de la inteligencia: Spearman, Thurstone, CHC
 
+![Portada de la clase 081](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`

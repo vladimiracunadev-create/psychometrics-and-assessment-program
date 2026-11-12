@@ -1,5 +1,7 @@
 # 092 — Atención selectiva y dividida
 
+![Portada de la clase 092](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

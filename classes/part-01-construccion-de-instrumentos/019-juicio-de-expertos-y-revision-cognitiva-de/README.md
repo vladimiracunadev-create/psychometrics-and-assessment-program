@@ -1,5 +1,7 @@
 # 019 — Juicio de expertos y revisión cognitiva de ítems
 
+![Portada de la clase 019](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`

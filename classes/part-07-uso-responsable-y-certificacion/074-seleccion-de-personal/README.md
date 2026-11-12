@@ -1,5 +1,7 @@
 # 074 — Uso en selección de personal: qué es defendible
 
+![Portada de la clase 074](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`

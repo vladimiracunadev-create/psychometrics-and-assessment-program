@@ -1,5 +1,7 @@
 # 069 — Acomodaciones y diseño universal de la evaluación
 
+![Portada de la clase 069](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`

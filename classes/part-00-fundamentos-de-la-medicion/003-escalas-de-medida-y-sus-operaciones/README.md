@@ -1,5 +1,7 @@
 # 003 — Escalas de medida y qué operaciones permiten
 
+![Portada de la clase 003](portada.svg)
+
 > [Clase anterior](../002-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../004-*/README.md)
 
 **Parte:** 00 — Fundamentos de la medición psicológica

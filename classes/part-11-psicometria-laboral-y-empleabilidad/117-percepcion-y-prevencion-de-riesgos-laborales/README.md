@@ -1,5 +1,7 @@
 # 117 — Percepción y prevención de riesgos laborales
 
+![Portada de la clase 117](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

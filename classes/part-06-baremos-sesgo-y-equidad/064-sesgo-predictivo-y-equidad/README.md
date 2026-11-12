@@ -1,5 +1,7 @@
 # 064 — Sesgo predictivo y definiciones de equidad
 
+![Portada de la clase 064](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../063-funcionamiento-diferencial-del-item/README.md) · [Siguiente](../065-adaptacion-transcultural/README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`

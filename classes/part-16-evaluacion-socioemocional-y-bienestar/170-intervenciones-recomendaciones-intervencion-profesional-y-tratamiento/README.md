@@ -1,5 +1,7 @@
 # 170 — Intervenciones: recomendaciones, intervención profesional y tratamiento
 
+![Portada de la clase 170](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 5 h · Estado `escrita`

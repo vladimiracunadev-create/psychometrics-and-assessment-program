@@ -1,5 +1,7 @@
 # 083 — Razonamiento abstracto: matrices y series
 
+![Portada de la clase 083](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 5 h · Estado `escrita`

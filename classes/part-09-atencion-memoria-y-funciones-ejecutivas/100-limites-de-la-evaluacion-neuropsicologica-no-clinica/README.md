@@ -1,5 +1,7 @@
 # 100 — Límites de la evaluación neuropsicológica no clínica
 
+![Portada de la clase 100](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

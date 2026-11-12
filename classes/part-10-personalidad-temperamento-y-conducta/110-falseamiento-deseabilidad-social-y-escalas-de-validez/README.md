@@ -1,5 +1,7 @@
 # 110 — Falseamiento, deseabilidad social y escalas de validez
 
+![Portada de la clase 110](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`

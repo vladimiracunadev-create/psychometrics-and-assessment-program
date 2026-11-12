@@ -1,5 +1,7 @@
 # 047 — Ajuste en modelos de ecuaciones estructurales
 
+![Portada de la clase 047](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

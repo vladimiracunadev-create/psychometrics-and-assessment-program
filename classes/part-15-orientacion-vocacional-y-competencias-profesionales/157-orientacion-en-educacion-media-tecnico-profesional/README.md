@@ -1,5 +1,7 @@
 # 157 — Orientación en educación media técnico-profesional
 
+![Portada de la clase 157](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

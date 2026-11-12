@@ -1,5 +1,7 @@
 # 160 — Diseño de un programa de orientación basado en evidencia
 
+![Portada de la clase 160](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 5 h · Estado `escrita`

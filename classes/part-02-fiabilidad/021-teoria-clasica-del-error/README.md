@@ -1,5 +1,7 @@
 # 021 — La teoría clásica: puntaje verdadero y error
 
+![Portada de la clase 021](portada.svg)
+
 > [Índice de la parte](../README.md) · [Siguiente](../022-consistencia-interna-alfa/README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

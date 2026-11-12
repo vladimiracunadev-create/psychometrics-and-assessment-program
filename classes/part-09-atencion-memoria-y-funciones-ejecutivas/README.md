@@ -1,4 +1,6 @@
-# Parte 09 — Atención, memoria y funciones ejecutivas
+# ⏱️ Parte 09 — Atención, memoria y funciones ejecutivas
+
+![Portada de la parte 09](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Muchas decisiones educativas y clínicas se apoyan en estas tareas, con medidas 
 ## Cómo estudiarla
 
 Parte de aplicación; los laboratorios simulan tareas, no las reemplazan.
+
+## Ruta de estudio
+
+![Ruta de la parte 09](ruta.svg)
 
 ## Clases en orden de estudio
 

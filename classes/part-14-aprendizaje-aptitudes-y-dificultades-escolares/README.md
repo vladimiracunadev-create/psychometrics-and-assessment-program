@@ -1,4 +1,6 @@
-# Parte 14 — Aprendizaje, aptitudes y dificultades escolares
+# 📖 Parte 14 — Aprendizaje, aptitudes y dificultades escolares
+
+![Portada de la parte 14](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Detectar a tiempo y apoyar bien cambia trayectorias escolares; etiquetar mal tam
 ## Cómo estudiarla
 
 Después de la parte 13.
+
+## Ruta de estudio
+
+![Ruta de la parte 14](ruta.svg)
 
 ## Clases en orden de estudio
 

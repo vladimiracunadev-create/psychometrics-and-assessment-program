@@ -1,4 +1,6 @@
-# Parte 19 — Aplicaciones avanzadas y proyectos integradores
+# 🏁 Parte 19 — Aplicaciones avanzadas y proyectos integradores
+
+![Portada de la parte 19](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 5-6 semanas · **Clases:** 10
 
@@ -22,6 +24,10 @@ Integrar es donde se ve si se aprendió: cada proyecto obliga a decidir y a decl
 ## Cómo estudiarla
 
 Al final del recorrido. Elige uno o dos proyectos y hazlos con calma.
+
+## Ruta de estudio
+
+![Ruta de la parte 19](ruta.svg)
 
 ## Clases en orden de estudio
 

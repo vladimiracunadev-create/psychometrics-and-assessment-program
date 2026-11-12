@@ -1,5 +1,7 @@
 # 054 — Función de información: dónde mide bien cada ítem
 
+![Portada de la clase 054](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../053-modelos-de-dos-y-tres-parametros/README.md) · [Siguiente](../055-testing-adaptativo/README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`

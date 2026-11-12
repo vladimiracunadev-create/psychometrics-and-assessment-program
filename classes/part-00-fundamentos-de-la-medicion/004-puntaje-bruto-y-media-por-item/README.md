@@ -1,5 +1,7 @@
 # 004 — Puntaje bruto, media por ítem y por qué no son lo mismo
 
+![Portada de la clase 004](portada.svg)
+
 > [Clase anterior](../003-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../005-*/README.md)
 
 **Parte:** 00 — Fundamentos de la medición psicológica

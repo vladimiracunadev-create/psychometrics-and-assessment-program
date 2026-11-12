@@ -1,5 +1,7 @@
 # 152 — Intereses y O*NET Interest Profiler
 
+![Portada de la clase 152](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

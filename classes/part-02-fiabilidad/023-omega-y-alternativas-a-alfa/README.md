@@ -1,5 +1,7 @@
 # 023 — Omega de McDonald y por qué alfa se queda corto
 
+![Portada de la clase 023](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../022-consistencia-interna-alfa/README.md) · [Siguiente](../024-test-retest-y-estabilidad/README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

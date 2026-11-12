@@ -1,5 +1,7 @@
 # 035 — La cara olvidada: consecuencias del uso del test
 
+![Portada de la clase 035](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../034-validez-de-criterio/README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

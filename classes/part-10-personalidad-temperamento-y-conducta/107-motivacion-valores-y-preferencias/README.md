@@ -1,5 +1,7 @@
 # 107 — Motivación, valores y preferencias
 
+![Portada de la clase 107](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`

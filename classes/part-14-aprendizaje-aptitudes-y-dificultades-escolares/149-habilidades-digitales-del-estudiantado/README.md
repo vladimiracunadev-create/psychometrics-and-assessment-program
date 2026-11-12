@@ -1,5 +1,7 @@
 # 149 — Habilidades digitales del estudiantado
 
+![Portada de la clase 149](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`

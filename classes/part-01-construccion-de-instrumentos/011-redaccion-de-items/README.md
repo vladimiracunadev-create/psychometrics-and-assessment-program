@@ -1,5 +1,7 @@
 # 011 — Redacción de ítems: las reglas y por qué existen
 
+![Portada de la clase 011](portada.svg)
+
 > [Clase anterior](../../part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiescencia/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../012-formatos-de-respuesta/README.md)
 
 **Parte:** 01 — Construcción de instrumentos

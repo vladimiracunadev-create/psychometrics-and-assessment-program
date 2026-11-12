@@ -1,5 +1,7 @@
 # 136 — Evaluar con la familia: entrevista y devolución
 
+![Portada de la clase 136](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`

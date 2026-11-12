@@ -1,5 +1,7 @@
 # 177 — Funcionamiento diferencial del ítem en la práctica
 
+![Portada de la clase 177](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 5 h · Estado `escrita`

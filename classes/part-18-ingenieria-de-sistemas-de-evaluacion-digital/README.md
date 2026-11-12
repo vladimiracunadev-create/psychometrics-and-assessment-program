@@ -1,4 +1,6 @@
-# Parte 18 — Ingeniería de sistemas de evaluación digital
+# ⚙️ Parte 18 — Ingeniería de sistemas de evaluación digital
+
+![Portada de la parte 18](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Muchos errores de medición hoy son errores de software, accesibilidad o privaci
 ## Cómo estudiarla
 
 Se apoya en el código de `src/psychometrics`. Las clases 181 a 183 usan el motor real.
+
+## Ruta de estudio
+
+![Ruta de la parte 18](ruta.svg)
 
 ## Clases en orden de estudio
 

@@ -1,5 +1,7 @@
 # 014 — Longitud del test: el intercambio entre precisión y abandono
 
+![Portada de la clase 014](portada.svg)
+
 > [Clase anterior](../013-ipsativo-vs-normativo/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../015-pilotaje-y-analisis-de-items/README.md)
 
 **Parte:** 01 — Construcción de instrumentos

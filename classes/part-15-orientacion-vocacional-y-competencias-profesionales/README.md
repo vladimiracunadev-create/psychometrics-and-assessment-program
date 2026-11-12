@@ -1,4 +1,6 @@
-# Parte 15 — Orientación vocacional y competencias profesionales
+# 🧭 Parte 15 — Orientación vocacional y competencias profesionales
+
+![Portada de la parte 15](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Una orientación basada en evidencia ayuda a decidir; una basada en un test aisl
 ## Cómo estudiarla
 
 Aquí se usa el instrumento O*NET Interest Profiler del repositorio; revisa su aviso de licencia.
+
+## Ruta de estudio
+
+![Ruta de la parte 15](ruta.svg)
 
 ## Clases en orden de estudio
 

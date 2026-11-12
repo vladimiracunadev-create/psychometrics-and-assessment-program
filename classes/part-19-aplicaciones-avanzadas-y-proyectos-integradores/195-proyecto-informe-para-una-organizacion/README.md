@@ -1,5 +1,7 @@
 # 195 — Proyecto: informe para una organización
 
+![Portada de la clase 195](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

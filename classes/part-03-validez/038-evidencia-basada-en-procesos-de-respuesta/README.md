@@ -1,5 +1,7 @@
 # 038 — Evidencia basada en procesos de respuesta
 
+![Portada de la clase 038](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

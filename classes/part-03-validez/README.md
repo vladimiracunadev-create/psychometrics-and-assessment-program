@@ -1,4 +1,6 @@
-# Parte 03 — Validez
+# ✅ Parte 03 — Validez
+
+![Portada de la parte 03](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Un test puede ser muy fiable y medir otra cosa. La validez no es una propiedad d
 ## Cómo estudiarla
 
 Después de la parte 02. Lee la clase 031 primero: reordena la forma de pensar el resto.
+
+## Ruta de estudio
+
+![Ruta de la parte 03](ruta.svg)
 
 ## Clases en orden de estudio
 

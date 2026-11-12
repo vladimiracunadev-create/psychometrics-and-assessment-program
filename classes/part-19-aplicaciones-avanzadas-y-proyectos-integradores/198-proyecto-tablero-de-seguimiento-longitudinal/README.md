@@ -1,5 +1,7 @@
 # 198 — Proyecto: tablero de seguimiento longitudinal
 
+![Portada de la clase 198](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

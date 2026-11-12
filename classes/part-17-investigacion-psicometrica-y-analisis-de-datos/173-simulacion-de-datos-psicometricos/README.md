@@ -1,5 +1,7 @@
 # 173 — Simulación de datos psicométricos
 
+![Portada de la clase 173](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`

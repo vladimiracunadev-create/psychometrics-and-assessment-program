@@ -1,5 +1,7 @@
 # 032 — Validez de contenido y el juicio de expertos
 
+![Portada de la clase 032](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../031-validez-como-argumento/README.md) · [Siguiente](../033-validez-de-constructo/README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 112 — Validez predictiva de los métodos de selección
 
+![Portada de la clase 112](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

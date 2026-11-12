@@ -1,5 +1,7 @@
 # 105 — Temperamento y desarrollo
 
+![Portada de la clase 105](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 10 — Personalidad, temperamento y conducta** · Nivel intermedio · 4 h · Estado `escrita`

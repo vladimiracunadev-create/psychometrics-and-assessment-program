@@ -1,4 +1,6 @@
-# Parte 01 — Construcción de instrumentos
+# 📝 Parte 01 — Construcción de instrumentos
+
+![Portada de la parte 01](portada.svg)
 
 **Nivel:** fundamentos · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -25,6 +27,10 @@ Un instrumento mal construido no se rescata con buena estadística. La mayoría 
 ## Cómo estudiarla
 
 Conviene haber visto la parte 00. Haz los ejercicios de redacción con un instrumento propio; el laboratorio sirve para ver el efecto de cada decisión.
+
+## Ruta de estudio
+
+![Ruta de la parte 01](ruta.svg)
 
 ## Clases en orden de estudio
 

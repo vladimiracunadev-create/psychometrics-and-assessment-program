@@ -1,5 +1,7 @@
 # 122 — Evaluación de la efectividad del liderazgo
 
+![Portada de la clase 122](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`

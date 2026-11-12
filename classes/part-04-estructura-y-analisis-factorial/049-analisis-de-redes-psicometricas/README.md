@@ -1,5 +1,7 @@
 # 049 — Análisis de redes psicométricas
 
+![Portada de la clase 049](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

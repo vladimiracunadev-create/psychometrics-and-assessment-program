@@ -1,4 +1,6 @@
-# Parte 11 — Psicometría laboral y empleabilidad
+# 💼 Parte 11 — Psicometría laboral y empleabilidad
+
+![Portada de la parte 11](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Las decisiones de selección afectan oportunidades de vida; deben ser defendible
 ## Cómo estudiarla
 
 Después de las partes 02, 03 y 06. Los 15 instrumentos laborales del catálogo se tratan como fichas, sin inventar su contenido.
+
+## Ruta de estudio
+
+![Ruta de la parte 11](ruta.svg)
 
 ## Clases en orden de estudio
 

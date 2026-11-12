@@ -1,4 +1,6 @@
-# Parte 05 — Teoría de respuesta al ítem
+# 📈 Parte 05 — Teoría de respuesta al ítem
+
+![Portada de la parte 05](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Permite medir con la misma escala en pruebas distintas y ajustar la prueba a la 
 ## Cómo estudiarla
 
 Requiere haber visto las partes 02 y 04. Ejecuta los laboratorios para ver las curvas.
+
+## Ruta de estudio
+
+![Ruta de la parte 05](ruta.svg)
 
 ## Clases en orden de estudio
 

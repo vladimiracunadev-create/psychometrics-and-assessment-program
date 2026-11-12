@@ -1,5 +1,7 @@
 # 119 — Dominio del inglés laboral: evaluación de idioma
 
+![Portada de la clase 119](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

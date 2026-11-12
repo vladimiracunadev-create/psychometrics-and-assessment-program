@@ -1,5 +1,7 @@
 # 060 — Diseño de bancos para pruebas adaptativas
 
+![Portada de la clase 060](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`

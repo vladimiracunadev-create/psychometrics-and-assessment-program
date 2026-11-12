@@ -1,5 +1,7 @@
 # 166 — Satisfacción académica y laboral
 
+![Portada de la clase 166](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`

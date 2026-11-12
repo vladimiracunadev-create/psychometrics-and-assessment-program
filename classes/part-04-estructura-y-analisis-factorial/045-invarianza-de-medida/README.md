@@ -1,5 +1,7 @@
 # 045 — Invarianza de medida entre grupos
 
+![Portada de la clase 045](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../044-modelos-circumplejos/README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 5 h · Estado `escrita`

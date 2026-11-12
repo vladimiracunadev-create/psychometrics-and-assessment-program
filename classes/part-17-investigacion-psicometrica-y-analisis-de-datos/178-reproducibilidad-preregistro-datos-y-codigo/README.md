@@ -1,5 +1,7 @@
 # 178 — Reproducibilidad: preregistro, datos y código
 
+![Portada de la clase 178](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`

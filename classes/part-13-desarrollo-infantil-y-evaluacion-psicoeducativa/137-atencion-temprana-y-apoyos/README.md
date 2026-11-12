@@ -1,5 +1,7 @@
 # 137 — Atención temprana y apoyos
 
+![Portada de la clase 137](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`

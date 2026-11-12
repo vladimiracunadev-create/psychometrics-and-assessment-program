@@ -1,5 +1,7 @@
 # 174 — Datos faltantes en instrumentos
 
+![Portada de la clase 174](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 17 — Investigación psicométrica y análisis de datos** · Nivel avanzado · 4 h · Estado `escrita`

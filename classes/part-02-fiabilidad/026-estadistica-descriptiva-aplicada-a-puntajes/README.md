@@ -1,5 +1,7 @@
 # 026 — Estadística descriptiva aplicada a puntajes
 
+![Portada de la clase 026](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

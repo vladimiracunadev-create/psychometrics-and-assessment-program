@@ -1,5 +1,7 @@
 # 156 — Portafolios de evidencias
 
+![Portada de la clase 156](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

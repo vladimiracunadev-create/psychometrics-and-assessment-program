@@ -1,5 +1,7 @@
 # 116 — Personalidad de vendedores y evaluación comercial
 
+![Portada de la clase 116](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

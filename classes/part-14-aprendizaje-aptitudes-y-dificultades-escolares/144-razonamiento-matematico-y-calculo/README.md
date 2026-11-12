@@ -1,5 +1,7 @@
 # 144 — Razonamiento matemático y cálculo
 
+![Portada de la clase 144](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`

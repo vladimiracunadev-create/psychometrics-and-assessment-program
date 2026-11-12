@@ -1,5 +1,7 @@
 # 135 — Cribado frente a diagnóstico en la infancia
 
+![Portada de la clase 135](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 5 h · Estado `escrita`

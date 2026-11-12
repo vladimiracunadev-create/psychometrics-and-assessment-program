@@ -1,4 +1,6 @@
-# Parte 17 — Investigación psicométrica y análisis de datos
+# 🔬 Parte 17 — Investigación psicométrica y análisis de datos
+
+![Portada de la parte 17](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Una buena idea de instrumento sólo se vuelve confiable con un estudio bien hech
 ## Cómo estudiarla
 
 Requiere las partes 02 a 06.
+
+## Ruta de estudio
+
+![Ruta de la parte 17](ruta.svg)
 
 ## Clases en orden de estudio
 

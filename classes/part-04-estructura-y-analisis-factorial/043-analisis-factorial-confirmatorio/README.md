@@ -1,5 +1,7 @@
 # 043 — Análisis factorial confirmatorio y ajuste
 
+![Portada de la clase 043](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../042-analisis-factorial-exploratorio/README.md) · [Siguiente](../044-modelos-circumplejos/README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 5 h · Estado `escrita`

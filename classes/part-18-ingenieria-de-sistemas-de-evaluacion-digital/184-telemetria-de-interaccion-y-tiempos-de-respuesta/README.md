@@ -1,5 +1,7 @@
 # 184 — Telemetría de interacción y tiempos de respuesta
 
+![Portada de la clase 184](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 18 — Ingeniería de sistemas de evaluación digital** · Nivel avanzado · 5 h · Estado `escrita`

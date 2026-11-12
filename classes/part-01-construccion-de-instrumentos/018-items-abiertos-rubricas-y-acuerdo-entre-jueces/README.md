@@ -1,5 +1,7 @@
 # 018 — Ítems abiertos, rúbricas y acuerdo entre jueces
 
+![Portada de la clase 018](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`

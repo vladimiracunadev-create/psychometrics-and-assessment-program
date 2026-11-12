@@ -1,5 +1,7 @@
 # 067 — Normas por edad y por curso escolar
 
+![Portada de la clase 067](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 4 h · Estado `escrita`

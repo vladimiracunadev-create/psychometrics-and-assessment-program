@@ -1,5 +1,7 @@
 # 002 — Del constructo al ítem: cómo nace una pregunta
 
+![Portada de la clase 002](portada.svg)
+
 > [Clase anterior](../001-*/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../003-*/README.md)
 
 **Parte:** 00 — Fundamentos de la medición psicológica

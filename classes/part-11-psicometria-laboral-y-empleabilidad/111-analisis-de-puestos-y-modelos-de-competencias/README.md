@@ -1,5 +1,7 @@
 # 111 — Análisis de puestos y modelos de competencias
 
+![Portada de la clase 111](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 059 — Equiparación y vinculación de puntajes
 
+![Portada de la clase 059](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`

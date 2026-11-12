@@ -1,5 +1,7 @@
 # 070 — Estudios de invarianza entre grupos
 
+![Portada de la clase 070](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 06 — Baremos, sesgo y equidad** · Nivel avanzado · 5 h · Estado `escrita`

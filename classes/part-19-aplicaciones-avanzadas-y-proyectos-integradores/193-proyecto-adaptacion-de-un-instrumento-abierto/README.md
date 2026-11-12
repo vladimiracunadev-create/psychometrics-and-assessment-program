@@ -1,5 +1,7 @@
 # 193 — Proyecto: adaptación de un instrumento abierto
 
+![Portada de la clase 193](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

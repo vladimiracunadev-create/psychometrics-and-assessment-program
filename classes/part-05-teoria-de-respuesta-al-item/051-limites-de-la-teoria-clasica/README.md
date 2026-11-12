@@ -1,5 +1,7 @@
 # 051 — Los límites que hay que superar: lo que la teoría clásica no resuelve
 
+![Portada de la clase 051](portada.svg)
+
 > [Índice de la parte](../README.md) · [Siguiente](../052-modelo-de-rasch/README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 4 h · Estado `escrita`

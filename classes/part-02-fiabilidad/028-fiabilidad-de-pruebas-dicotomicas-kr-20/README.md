@@ -1,5 +1,7 @@
 # 028 — Fiabilidad de pruebas dicotómicas: KR-20
 
+![Portada de la clase 028](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 3 h · Estado `escrita`

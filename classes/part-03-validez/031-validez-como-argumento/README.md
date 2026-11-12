@@ -1,5 +1,7 @@
 # 031 — La validez no es una propiedad del test, es un argumento
 
+![Portada de la clase 031](portada.svg)
+
 > [Índice de la parte](../README.md) · [Siguiente](../032-validez-de-contenido/README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

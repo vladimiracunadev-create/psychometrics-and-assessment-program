@@ -1,5 +1,7 @@
 # 017 — Ítems de opción múltiple: distractores y clave
 
+![Portada de la clase 017](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 036 — Validez convergente y discriminante: la matriz multirrasgo-multimétodo
 
+![Portada de la clase 036](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

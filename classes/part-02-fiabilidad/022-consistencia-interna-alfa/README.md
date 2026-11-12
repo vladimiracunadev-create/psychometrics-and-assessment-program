@@ -1,5 +1,7 @@
 # 022 — Consistencia interna: alfa de Cronbach y sus abusos
 
+![Portada de la clase 022](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../021-teoria-clasica-del-error/README.md) · [Siguiente](../023-omega-y-alternativas-a-alfa/README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 5 h · Estado `escrita`

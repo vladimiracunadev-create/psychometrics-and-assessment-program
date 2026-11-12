@@ -1,5 +1,7 @@
 # 146 — Hábitos de estudio y técnicas de estudio
 
+![Portada de la clase 146](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 041 — Correlación, matriz y lo que se puede leer en ella
 
+![Portada de la clase 041](portada.svg)
+
 > [Índice de la parte](../README.md) · [Siguiente](../042-analisis-factorial-exploratorio/README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 4 h · Estado `escrita`

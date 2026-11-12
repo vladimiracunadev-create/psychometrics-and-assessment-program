@@ -1,5 +1,7 @@
 # 016 — Especificaciones de test y tablas de contenido
 
+![Portada de la clase 016](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`

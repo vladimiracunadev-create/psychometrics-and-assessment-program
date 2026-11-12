@@ -1,5 +1,7 @@
 # 076 — Ley 19.628 y Ley 21.719: datos personales en evaluación
 
+![Portada de la clase 076](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 4 h · Estado `escrita`

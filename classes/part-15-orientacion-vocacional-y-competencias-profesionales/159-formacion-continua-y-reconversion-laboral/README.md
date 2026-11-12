@@ -1,5 +1,7 @@
 # 159 — Formación continua y reconversión laboral
 
+![Portada de la clase 159](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

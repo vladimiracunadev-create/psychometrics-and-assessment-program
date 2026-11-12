@@ -1,5 +1,7 @@
 # 199 — Proyecto: instrumento original con protocolo de validación
 
+![Portada de la clase 199](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

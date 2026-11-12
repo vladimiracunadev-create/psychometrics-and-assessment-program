@@ -1,5 +1,7 @@
 # 154 — Madurez y toma de decisiones vocacionales
 
+![Portada de la clase 154](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 15 — Orientación vocacional y competencias profesionales** · Nivel intermedio · 4 h · Estado `escrita`

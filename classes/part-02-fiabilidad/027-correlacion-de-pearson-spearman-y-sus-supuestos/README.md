@@ -1,5 +1,7 @@
 # 027 — Correlación de Pearson, Spearman y sus supuestos
 
+![Portada de la clase 027](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

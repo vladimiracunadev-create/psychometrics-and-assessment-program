@@ -1,5 +1,7 @@
 # 196 — Proyecto: estudio de validación simulado de extremo a extremo
 
+![Portada de la clase 196](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 19 — Aplicaciones avanzadas y proyectos integradores** · Nivel avanzado · 5 h · Estado `escrita`

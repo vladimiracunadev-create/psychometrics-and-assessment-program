@@ -1,4 +1,6 @@
-# Parte 12 — Liderazgo, equipos y sociometría
+# 👥 Parte 12 — Liderazgo, equipos y sociometría
+
+![Portada de la parte 12](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ Estas evaluaciones tienen efectos directos en personas concretas dentro de grupo
 ## Cómo estudiarla
 
 Parte aplicada; los datos de los laboratorios son sintéticos.
+
+## Ruta de estudio
+
+![Ruta de la parte 12](ruta.svg)
 
 ## Clases en orden de estudio
 

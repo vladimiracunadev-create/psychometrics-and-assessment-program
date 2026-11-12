@@ -1,5 +1,7 @@
 # 138 — Evaluación en educación parvularia
 
+![Portada de la clase 138](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 13 — Desarrollo infantil y evaluación psicoeducativa** · Nivel avanzado · 4 h · Estado `escrita`

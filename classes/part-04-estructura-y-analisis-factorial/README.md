@@ -1,4 +1,6 @@
-# Parte 04 — Estructura y análisis factorial
+# 🧩 Parte 04 — Estructura y análisis factorial
+
+![Portada de la parte 04](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Las escalas se interpretan según su estructura. Si los ítems no se agrupan com
 ## Cómo estudiarla
 
 Es la parte más matemática de las primeras. Se puede avanzar sin dominar el álgebra si se trabaja con los laboratorios.
+
+## Ruta de estudio
+
+![Ruta de la parte 04](ruta.svg)
 
 ## Clases en orden de estudio
 

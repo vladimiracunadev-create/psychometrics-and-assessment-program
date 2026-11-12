@@ -1,5 +1,7 @@
 # 094 — Memoria visual y auditiva
 
+![Portada de la clase 094](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,4 +1,6 @@
-# Parte 08 — Inteligencia y capacidades cognitivas
+# 💡 Parte 08 — Inteligencia y capacidades cognitivas
+
+![Portada de la parte 08](portada.svg)
 
 **Nivel:** intermedio · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Las pruebas cognitivas son de las más usadas y de las más malinterpretadas; en
 ## Cómo estudiarla
 
 Después de las partes 02 y 03. Los instrumentos cognitivos comerciales se estudian como fichas documentales, no se reproducen.
+
+## Ruta de estudio
+
+![Ruta de la parte 08](ruta.svg)
 
 ## Clases en orden de estudio
 

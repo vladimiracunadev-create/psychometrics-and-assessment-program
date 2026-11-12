@@ -1,5 +1,7 @@
 # 029 — Fiabilidad entre evaluadores: kappa y CCI
 
+![Portada de la clase 029](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 02 — Fiabilidad** · Nivel intermedio · 4 h · Estado `escrita`

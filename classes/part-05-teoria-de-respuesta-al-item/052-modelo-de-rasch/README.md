@@ -1,5 +1,7 @@
 # 052 — El modelo de Rasch
 
+![Portada de la clase 052](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../051-limites-de-la-teoria-clasica/README.md) · [Siguiente](../053-modelos-de-dos-y-tres-parametros/README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 167 — Escalas de síntomas: qué no se puede hacer sin un profesional
 
+![Portada de la clase 167](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`

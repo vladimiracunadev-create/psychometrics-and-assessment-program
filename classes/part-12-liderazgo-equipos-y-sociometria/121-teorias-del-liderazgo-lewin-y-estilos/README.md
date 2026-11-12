@@ -1,5 +1,7 @@
 # 121 — Teorías del liderazgo: Lewin y estilos
 
+![Portada de la clase 121](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 12 — Liderazgo, equipos y sociometría** · Nivel intermedio · 4 h · Estado `escrita`

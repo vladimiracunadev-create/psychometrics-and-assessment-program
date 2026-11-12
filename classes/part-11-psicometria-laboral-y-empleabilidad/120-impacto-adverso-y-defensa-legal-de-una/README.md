@@ -1,5 +1,7 @@
 # 120 — Impacto adverso y defensa legal de una decisión de selección
 
+![Portada de la clase 120](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 11 — Psicometría laboral y empleabilidad** · Nivel intermedio · 4 h · Estado `escrita`

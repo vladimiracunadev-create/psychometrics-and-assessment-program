@@ -1,5 +1,7 @@
 # 099 — Tareas clásicas: Stroop, Go/No-Go, n-back
 
+![Portada de la clase 099](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

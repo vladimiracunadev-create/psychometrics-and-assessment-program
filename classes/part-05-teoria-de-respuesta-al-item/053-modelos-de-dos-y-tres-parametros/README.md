@@ -1,5 +1,7 @@
 # 053 — Modelos de dos y tres parámetros
 
+![Portada de la clase 053](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../052-modelo-de-rasch/README.md) · [Siguiente](../054-informacion-del-item/README.md)
 
 **Parte 05 — Teoría de respuesta al ítem** · Nivel avanzado · 5 h · Estado `escrita`

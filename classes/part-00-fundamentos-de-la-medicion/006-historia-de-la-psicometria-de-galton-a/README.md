@@ -1,5 +1,7 @@
 # 006 — Historia de la psicometría: de Galton a la medición moderna
 
+![Portada de la clase 006](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`

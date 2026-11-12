@@ -1,5 +1,7 @@
 # 042 — Análisis factorial exploratorio
 
+![Portada de la clase 042](portada.svg)
+
 > [Índice de la parte](../README.md) · [Anterior](../041-correlacion-y-matriz/README.md) · [Siguiente](../043-analisis-factorial-confirmatorio/README.md)
 
 **Parte 04 — Estructura y análisis factorial** · Nivel avanzado · 5 h · Estado `escrita`

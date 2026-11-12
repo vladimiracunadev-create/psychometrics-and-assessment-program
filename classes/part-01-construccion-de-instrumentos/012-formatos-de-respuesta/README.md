@@ -1,5 +1,7 @@
 # 012 — Formatos de respuesta: Likert, dicotómico, continuo
 
+![Portada de la clase 012](portada.svg)
+
 > [Clase anterior](../011-redaccion-de-items/README.md) · [Índice de la parte](../README.md) · [Clase siguiente](../013-ipsativo-vs-normativo/README.md)
 
 **Parte:** 01 — Construcción de instrumentos

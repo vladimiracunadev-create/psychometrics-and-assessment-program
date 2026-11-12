@@ -1,5 +1,7 @@
 # 095 — Memoria de trabajo
 
+![Portada de la clase 095](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 09 — Atención, memoria y funciones ejecutivas** · Nivel intermedio · 4 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 075 — Rutas de certificación profesional
 
+![Portada de la clase 075](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 07 — Uso responsable y certificación** · Nivel profesional · 5 h · Estado `escrita`

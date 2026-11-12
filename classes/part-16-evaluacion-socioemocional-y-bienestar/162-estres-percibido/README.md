@@ -1,5 +1,7 @@
 # 162 — Estrés percibido
 
+![Portada de la clase 162](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 16 — Evaluación socioemocional y bienestar** · Nivel avanzado · 4 h · Estado `escrita`

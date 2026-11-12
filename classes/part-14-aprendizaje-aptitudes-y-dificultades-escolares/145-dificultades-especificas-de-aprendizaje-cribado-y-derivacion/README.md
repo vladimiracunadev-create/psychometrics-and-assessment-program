@@ -1,5 +1,7 @@
 # 145 — Dificultades específicas de aprendizaje: cribado y derivación
 
+![Portada de la clase 145](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 5 h · Estado `escrita`

@@ -1,5 +1,7 @@
 # 082 — Inteligencia fluida y cristalizada
 
+![Portada de la clase 082](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 08 — Inteligencia y capacidades cognitivas** · Nivel intermedio · 4 h · Estado `escrita`

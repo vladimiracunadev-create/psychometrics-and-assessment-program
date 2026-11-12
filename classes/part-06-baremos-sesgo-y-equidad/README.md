@@ -1,4 +1,6 @@
-# Parte 06 — Baremos, sesgo y equidad
+# ⚖️ Parte 06 — Baremos, sesgo y equidad
+
+![Portada de la parte 06](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 3-4 semanas · **Clases:** 10
 
@@ -24,6 +26,10 @@ Un puntaje sin norma no dice si es alto o bajo, y una norma de otro grupo puede 
 ## Cómo estudiarla
 
 Cierra el bloque técnico central. Lee con calma las clases de equidad: no existe una definición única.
+
+## Ruta de estudio
+
+![Ruta de la parte 06](ruta.svg)
 
 ## Clases en orden de estudio
 

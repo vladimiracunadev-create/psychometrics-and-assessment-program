@@ -1,5 +1,7 @@
 # 008 — Tipos de test: rendimiento máximo frente a desempeño típico
 
+![Portada de la clase 008](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`

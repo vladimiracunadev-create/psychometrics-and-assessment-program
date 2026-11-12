@@ -1,5 +1,7 @@
 # 040 — Amenazas a la validez: falseamiento y deseabilidad social
 
+![Portada de la clase 040](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 03 — Validez** · Nivel intermedio · 4 h · Estado `escrita`

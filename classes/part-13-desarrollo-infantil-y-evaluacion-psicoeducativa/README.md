@@ -1,4 +1,6 @@
-# Parte 13 — Desarrollo infantil y evaluación psicoeducativa
+# 🧸 Parte 13 — Desarrollo infantil y evaluación psicoeducativa
+
+![Portada de la parte 13](portada.svg)
 
 **Nivel:** avanzado · **Duración estimada:** 4-5 semanas · **Clases:** 10
 
@@ -23,6 +25,10 @@ En la infancia el error de interpretación tiene consecuencias mayores y los ran
 ## Cómo estudiarla
 
 Material de formación; no reemplaza a un profesional de la salud o la educación.
+
+## Ruta de estudio
+
+![Ruta de la parte 13](ruta.svg)
 
 ## Clases en orden de estudio
 

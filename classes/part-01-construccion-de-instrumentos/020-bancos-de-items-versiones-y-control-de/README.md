@@ -1,5 +1,7 @@
 # 020 — Bancos de ítems, versiones y control de cambios
 
+![Portada de la clase 020](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 01 — Construcción de instrumentos** · Nivel introductorio · 4 h · Estado `escrita`

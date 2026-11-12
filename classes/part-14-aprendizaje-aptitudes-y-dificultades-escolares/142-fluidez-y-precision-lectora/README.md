@@ -1,5 +1,7 @@
 # 142 — Fluidez y precisión lectora
 
+![Portada de la clase 142](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 14 — Aprendizaje, aptitudes y dificultades escolares** · Nivel avanzado · 4 h · Estado `escrita`

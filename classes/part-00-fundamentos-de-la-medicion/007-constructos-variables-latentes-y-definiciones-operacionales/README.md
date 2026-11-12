@@ -1,5 +1,7 @@
 # 007 — Constructos, variables latentes y definiciones operacionales
 
+![Portada de la clase 007](portada.svg)
+
 > [Índice de la parte](../README.md)
 
 **Parte 00 — Fundamentos de la medición psicológica** · Nivel fundamentos · 4 h · Estado `escrita`
