@@ -33,7 +33,7 @@ def main() -> None:
     for m in (12, 14, 16, 18):
         print(f"  a los {m} meses: {sum(e > m for e in edades) / N:6.1%}")
     p95 = cuantil(edades, 0.95)
-    print(f"\nLista de 10 hitos independientes; 'atraso' = por sobre el percentil 95 (p = 5 % cada uno)")
+    print("\nLista de 10 hitos independientes; 'atraso' = por sobre el percentil 95 (p = 5 % cada uno)")
     n_atraso = [sum(rng.random() < 0.05 for _ in range(10)) for _ in range(20000)]
     print(f"  ninos tipicos con al menos un hito 'atrasado': {sum(x >= 1 for x in n_atraso) / 20000:.1%}")
     print(f"  con dos o mas: {sum(x >= 2 for x in n_atraso) / 20000:.1%}")

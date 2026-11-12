@@ -9,7 +9,6 @@ puntaje bruto, y el error de cada metodo respecto de la media verdadera.
 """
 from __future__ import annotations
 
-import math
 import random
 
 SEMILLA = 20260819

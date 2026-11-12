@@ -3,5 +3,5 @@ numero: 171
 titulo: "Diseño de un estudio de validación"
 parte: "17"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

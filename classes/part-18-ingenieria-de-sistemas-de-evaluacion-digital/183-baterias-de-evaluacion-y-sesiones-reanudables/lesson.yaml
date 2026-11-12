@@ -3,5 +3,5 @@ numero: 183
 titulo: "Baterías de evaluación y sesiones reanudables"
 parte: "18"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

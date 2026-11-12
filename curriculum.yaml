@@ -1171,61 +1171,61 @@ temario:
     titulo: Diseño de un estudio de validación
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/171-diseno-de-un-estudio-de-validacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '172'
     numero: 172
     titulo: Tamaño muestral y potencia
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/172-tamano-muestral-y-potencia
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '173'
     numero: 173
     titulo: Simulación de datos psicométricos
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/173-simulacion-de-datos-psicometricos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '174'
     numero: 174
     titulo: Datos faltantes en instrumentos
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/174-datos-faltantes-en-instrumentos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '175'
     numero: 175
     titulo: Análisis longitudinal y cambio confiable
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/175-analisis-longitudinal-y-cambio-confiable
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '176'
     numero: 176
     titulo: Estimación de incertidumbre y bootstrap
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/176-estimacion-de-incertidumbre-y-bootstrap
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '177'
     numero: 177
     titulo: Funcionamiento diferencial del ítem en la práctica
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/177-funcionamiento-diferencial-del-item-en-la-practica
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '178'
     numero: 178
     titulo: 'Reproducibilidad: preregistro, datos y código'
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/178-reproducibilidad-preregistro-datos-y-codigo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '179'
     numero: 179
     titulo: Metaanálisis psicométrico
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/179-metaanalisis-psicometrico
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '180'
     numero: 180
     titulo: Redacción y revisión de un informe de validación
     ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/180-redaccion-y-revision-de-un-informe-de
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '18'
   slug: ingenieria-de-sistemas-de-evaluacion-digital
   titulo: Ingeniería de sistemas de evaluación digital
@@ -1238,61 +1238,61 @@ temario:
     titulo: Arquitectura de un motor de evaluación declarativo
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/181-arquitectura-de-un-motor-de-evaluacion-declarativo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '182'
     numero: 182
     titulo: Modelos de ítems y esquemas versionados
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/182-modelos-de-items-y-esquemas-versionados
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '183'
     numero: 183
     titulo: Baterías de evaluación y sesiones reanudables
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/183-baterias-de-evaluacion-y-sesiones-reanudables
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '184'
     numero: 184
     titulo: Telemetría de interacción y tiempos de respuesta
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/184-telemetria-de-interaccion-y-tiempos-de-respuesta
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '185'
     numero: 185
     titulo: 'Evaluación adaptativa: implementación'
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/185-evaluacion-adaptativa-implementacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '186'
     numero: 186
     titulo: Accesibilidad de evaluaciones digitales
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/186-accesibilidad-de-evaluaciones-digitales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '187'
     numero: 187
     titulo: Auditoría de cálculo y trazabilidad
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/187-auditoria-de-calculo-y-trazabilidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '188'
     numero: 188
     titulo: Seguridad y privacidad por diseño
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/188-seguridad-y-privacidad-por-diseno
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '189'
     numero: 189
     titulo: Interoperabilidad y exportación de resultados
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/189-interoperabilidad-y-exportacion-de-resultados
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '190'
     numero: 190
     titulo: 'Herramientas abiertas: jsPsych, PsychoPy, lab.js, PEBL'
     ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '19'
   slug: aplicaciones-avanzadas-y-proyectos-integradores
   titulo: Aplicaciones avanzadas y proyectos integradores

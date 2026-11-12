@@ -9,7 +9,6 @@ Los pesos son supuestos del laboratorio; muestran el dilema amplitud-fidelidad (
 """
 from __future__ import annotations
 
-import math
 import random
 import statistics
 
@@ -58,7 +57,7 @@ def main() -> None:
     print(f"{'puntaje de DOMINIO (promedio de 6 facetas)':<44} {r_dom:18.3f}")
     print(f"{'faceta 1 sola (la relevante)':<44} {r_f1:18.3f}")
     print(f"{'6 facetas (regresion multiple)':<44} {r_fac:18.3f}")
-    print(f"Pesos estimados de las facetas: " + ", ".join(f"{c:.2f}" for c in b[1:]))
+    print("Pesos estimados de las facetas: " + ", ".join(f"{c:.2f}" for c in b[1:]))
     print()
     print("Lectura: cuando el criterio depende de una faceta especifica, las facetas predicen mas que")
     print("el dominio; cuando el criterio es amplio, el dominio basta. Mas facetas = mas parametros, con")

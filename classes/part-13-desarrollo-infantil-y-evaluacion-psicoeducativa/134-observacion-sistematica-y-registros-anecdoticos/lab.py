@@ -51,7 +51,7 @@ def main() -> None:
         ac += po
         ko += (po - pe) / (1 - pe)
         oc += ambos / alguno if alguno else 1.0
-    print(f"\nAcuerdo entre observadores (30 min, intervalos de 10 s, conducta en 12 % de los intervalos):")
+    print("\nAcuerdo entre observadores (30 min, intervalos de 10 s, conducta en 12 % de los intervalos):")
     print(f"  acuerdo total = {ac / reps:.2f}; kappa = {ko / reps:.2f}; acuerdo en la ocurrencia = {oc / reps:.2f}")
     print()
     print("Lectura: 5 minutos de observacion no bastan para ordenar a los ninos; hace falta mas tiempo o")

@@ -3,5 +3,5 @@ numero: 188
 titulo: "Seguridad y privacidad por diseño"
 parte: "18"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -3,5 +3,5 @@ numero: 177
 titulo: "Funcionamiento diferencial del ítem en la práctica"
 parte: "17"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
