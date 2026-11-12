@@ -43,10 +43,10 @@ Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estu
 | 3 | 003 | [Escalas de medida y qué operaciones permiten](003-escalas-de-medida-y-sus-operaciones/README.md) | Clasificar una variable como nominal, ordinal, de intervalo o de razón. | ✅ pedagógico | 3 |
 | 4 | 004 | [Puntaje bruto, media por ítem y por qué no son lo mismo](004-puntaje-bruto-y-media-por-item/README.md) | Calcular el puntaje bruto y la media por ítem y decir cuándo usar cada uno. | ✅ pedagógico | 3 |
 | 5 | 005 | [Ítems invertidos y sesgo de aquiescencia](005-items-invertidos-y-aquiescencia/README.md) | Definir aquiescencia y describir cómo distorsiona un perfil. | ✅ pedagógico | 4 |
-| 6 | 006 | [Historia de la psicometría: de Galton a la medición moderna](006-historia-de-la-psicometria-de-galton-a/README.md) | Explicar la regresión a la media a partir de Galton. | 🟡 compacto | 4 |
-| 7 | 007 | [Constructos, variables latentes y definiciones operacionales](007-constructos-variables-latentes-y-definiciones-operacionales/README.md) | Distinguir constructo y definición operacional. | 🟡 compacto | 4 |
-| 8 | 008 | [Tipos de test: rendimiento máximo frente a desempeño típico](008-tipos-de-test-rendimiento-maximo-frente-a/README.md) | Distinguir rendimiento máximo y desempeño típico. | 🟡 compacto | 4 |
-| 9 | 009 | [Pruebas de velocidad, de potencia y tareas cronometradas](009-pruebas-de-velocidad-de-potencia-y-tareas/README.md) | Distinguir velocidad y potencia. | 🟡 compacto | 4 |
-| 10 | 010 | [Introducción a la estadística descriptiva para evaluación](010-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md) | Elegir el resumen según la forma de la distribución. | 🟡 compacto | 4 |
+| 6 | 006 | [Historia de la psicometría: de Galton a la medición moderna](006-historia-de-la-psicometria-de-galton-a/README.md) | Explicar con tus palabras qué es la regresión a la media y por qué ocurre. | ✅ pedagógico | 4 |
+| 7 | 007 | [Constructos, variables latentes y definiciones operacionales](007-constructos-variables-latentes-y-definiciones-operacionales/README.md) | Distinguir constructo, variable latente y definición operacional. | ✅ pedagógico | 4 |
+| 8 | 008 | [Tipos de test: rendimiento máximo frente a desempeño típico](008-tipos-de-test-rendimiento-maximo-frente-a/README.md) | Distinguir rendimiento máximo y desempeño típico y dar ejemplos de cada uno. | ✅ pedagógico | 4 |
+| 9 | 009 | [Pruebas de velocidad, de potencia y tareas cronometradas](009-pruebas-de-velocidad-de-potencia-y-tareas/README.md) | Distinguir prueba de potencia, de velocidad y mixta. | ✅ pedagógico | 4 |
+| 10 | 010 | [Introducción a la estadística descriptiva para evaluación](010-introduccion-a-la-estadistica-descriptiva-para-evaluacion/README.md) | Calcular e interpretar media, mediana, desviación típica y rango intercuartil. | ✅ pedagógico | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)
