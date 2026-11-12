@@ -3,5 +3,5 @@ numero: 145
 titulo: "Dificultades específicas de aprendizaje: cribado y derivación"
 parte: "14"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

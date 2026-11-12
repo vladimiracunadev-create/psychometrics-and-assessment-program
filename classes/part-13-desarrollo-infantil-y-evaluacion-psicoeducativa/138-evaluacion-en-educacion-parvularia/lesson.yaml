@@ -3,5 +3,5 @@ numero: 138
 titulo: "Evaluación en educación parvularia"
 parte: "13"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -3,5 +3,5 @@ numero: 146
 titulo: "Hábitos de estudio y técnicas de estudio"
 parte: "14"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

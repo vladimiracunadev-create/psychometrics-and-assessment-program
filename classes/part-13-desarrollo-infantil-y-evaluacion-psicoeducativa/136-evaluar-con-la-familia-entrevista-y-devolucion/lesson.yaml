@@ -3,5 +3,5 @@ numero: 136
 titulo: "Evaluar con la familia: entrevista y devolución"
 parte: "13"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

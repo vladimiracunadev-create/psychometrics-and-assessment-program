@@ -3,5 +3,5 @@ numero: 143
 titulo: "Escritura y producción textual con rúbricas"
 parte: "14"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

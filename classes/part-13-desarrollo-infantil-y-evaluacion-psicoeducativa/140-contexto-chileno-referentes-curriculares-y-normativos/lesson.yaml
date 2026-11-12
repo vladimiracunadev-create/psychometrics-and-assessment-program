@@ -3,5 +3,5 @@ numero: 140
 titulo: "Contexto chileno: referentes curriculares y normativos"
 parte: "13"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

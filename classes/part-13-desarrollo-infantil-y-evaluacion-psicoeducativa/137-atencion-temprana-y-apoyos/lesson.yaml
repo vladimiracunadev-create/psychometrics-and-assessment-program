@@ -3,5 +3,5 @@ numero: 137
 titulo: "Atención temprana y apoyos"
 parte: "13"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
