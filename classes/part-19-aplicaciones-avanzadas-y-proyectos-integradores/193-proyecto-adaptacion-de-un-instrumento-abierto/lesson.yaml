@@ -3,5 +3,5 @@ numero: 193
 titulo: "Proyecto: adaptación de un instrumento abierto"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

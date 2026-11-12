@@ -3,5 +3,5 @@ numero: 49
 titulo: "Juicio de expertos y revisión cognitiva de ítems"
 parte: "01"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

@@ -3,5 +3,5 @@ numero: 191
 titulo: "Proyecto: batería educativa de cribado con datos sintéticos"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

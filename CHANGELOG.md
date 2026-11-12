@@ -21,11 +21,12 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
 - **Clases 006-010 escritas** (parte 01) con README, laboratorio ejecutable y bibliografía.
 - `docs/AUDITORIA_INICIAL.md` y `docs/COBERTURA_CURRICULAR.md`.
 
+- **Clases 041-050 y 191-200 escritas** (partes 00 y 01 ampliadas y parte 19 de proyectos integradores): con ellas las 200 clases del currículo están redactadas.
 - **Clases 131-190 escritas** (partes 13 a 18: desarrollo infantil, aprendizaje y dificultades, orientación vocacional, socioemocional y bienestar con protocolos de seguridad probados, investigación psicométrica e ingeniería de sistemas de evaluación), cada una con README, laboratorio determinista y bibliografía (de memoria, sin contrastar con fuentes primarias).
 - Módulo `psychometrics.baterias` (baterías y sesiones reanudables con huella de integridad) y `tests/test_baterias.py` (8 pruebas).
 
 ### Planificado
-- Redacción de las clases pendientes (ver ROADMAP).
+- Contraste de bibliografías con fuentes primarias y revisión por pares de las 200 clases (ver ROADMAP).
 - Módulo de fiabilidad: alfa de Cronbach, omega de McDonald, error típico.
 - Baremos y percentiles a partir de datos propios.
 

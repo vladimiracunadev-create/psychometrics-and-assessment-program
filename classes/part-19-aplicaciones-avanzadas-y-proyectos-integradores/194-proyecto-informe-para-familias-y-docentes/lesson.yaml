@@ -3,5 +3,5 @@ numero: 194
 titulo: "Proyecto: informe para familias y docentes"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

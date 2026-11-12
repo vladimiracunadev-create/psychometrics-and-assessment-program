@@ -3,5 +3,5 @@ numero: 199
 titulo: "Proyecto: instrumento original con protocolo de validación"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

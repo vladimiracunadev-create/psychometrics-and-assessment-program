@@ -3,5 +3,5 @@ numero: 42
 titulo: "Constructos, variables latentes y definiciones operacionales"
 parte: "00"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

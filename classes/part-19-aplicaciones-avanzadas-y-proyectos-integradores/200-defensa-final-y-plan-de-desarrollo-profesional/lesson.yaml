@@ -3,5 +3,5 @@ numero: 200
 titulo: "Defensa final y plan de desarrollo profesional"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

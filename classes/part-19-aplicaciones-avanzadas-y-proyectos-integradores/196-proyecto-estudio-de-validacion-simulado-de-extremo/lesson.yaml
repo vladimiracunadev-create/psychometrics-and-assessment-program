@@ -3,5 +3,5 @@ numero: 196
 titulo: "Proyecto: estudio de validación simulado de extremo a extremo"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

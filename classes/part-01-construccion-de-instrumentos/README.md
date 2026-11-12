@@ -13,10 +13,10 @@ Del banco de ítems al cuestionario administrable: redacción, formato de respue
 | 008 | [Ipsativo frente a normativo: la trampa de la elección forzada](008-ipsativo-vs-normativo/README.md) | 4 | ✅ escrita |
 | 009 | [Longitud del test: el intercambio entre precisión y abandono](009-longitud-y-costo-de-medida/README.md) | 3 | ✅ escrita |
 | 010 | [Pilotaje y análisis clásico de ítems](010-pilotaje-y-analisis-de-items/README.md) | 5 | ✅ escrita |
-| 046 | Especificaciones de test y tablas de contenido | 4 | ⬜ planificada |
-| 047 | Ítems de opción múltiple: distractores y clave | 4 | ⬜ planificada |
-| 048 | Ítems abiertos, rúbricas y acuerdo entre jueces | 4 | ⬜ planificada |
-| 049 | Juicio de expertos y revisión cognitiva de ítems | 4 | ⬜ planificada |
-| 050 | Bancos de ítems, versiones y control de cambios | 4 | ⬜ planificada |
+| 046 | [Especificaciones de test y tablas de contenido](046-especificaciones-de-test-y-tablas-de-contenido/README.md) | 4 | ✅ escrita |
+| 047 | [Ítems de opción múltiple: distractores y clave](047-items-de-opcion-multiple-distractores-y-clave/README.md) | 4 | ✅ escrita |
+| 048 | [Ítems abiertos, rúbricas y acuerdo entre jueces](048-items-abiertos-rubricas-y-acuerdo-entre-jueces/README.md) | 4 | ✅ escrita |
+| 049 | [Juicio de expertos y revisión cognitiva de ítems](049-juicio-de-expertos-y-revision-cognitiva-de/README.md) | 4 | ✅ escrita |
+| 050 | [Bancos de ítems, versiones y control de cambios](050-bancos-de-items-versiones-y-control-de/README.md) | 4 | ✅ escrita |
 
 [← Volver al índice del programa](../../README.md)

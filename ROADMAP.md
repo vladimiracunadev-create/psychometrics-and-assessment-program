@@ -5,15 +5,17 @@ falta y en qué orden.
 
 ## Expansión integral (en curso)
 
-- [x] Currículo de 20 partes y 200 clases (estructura; 190 clases sin redactar).
+- [x] Currículo de 20 partes y 200 clases, con las 200 redactadas (README, laboratorio y bibliografía).
 - [x] 140 fichas documentales en 8 familias, con estados diferenciados.
 - [x] Clases 006-010 (parte 01) escritas con laboratorio.
 - [x] Partes 02 a 12 completas (ver `docs/COBERTURA_CURRICULAR.md` para el detalle por parte), con laboratorios solo de biblioteca estandar.
-- [ ] Redactar el resto (partes 00 y 01 ampliadas, 13 a 19) con laboratorio reproducible.
+- [x] Redactar las 200 clases con laboratorio reproducible (estado verificable en `curriculum.yaml`).
+- [ ] Contrastar las bibliografías con fuentes primarias y someter las clases a revisión por pares.
 - [ ] Contrastar cada ficha con su fuente primaria y pasar a `verificado: true`.
 - [ ] Extensión del esquema para ítems de rendimiento (clave, tiempo, adaptativo) con tests propios.
 - [ ] Instrumentos ejecutables nuevos con bancos abiertos u originales.
-- [ ] Matriz de evidencia de validación y baterías de demostración con datos sintéticos.
+- [x] Baterías de demostración con datos sintéticos (`psychometrics.baterias`).
+- [ ] Matriz de evidencia de validación por instrumento (hoy: `docs/VALIDACION.md`).
 
 ## v0.2.0 — Fiabilidad medible
 
@@ -50,7 +52,7 @@ falta y en qué orden.
 
 ## v1.0.0 — Programa completo
 
-- [ ] Las 200 clases escritas con laboratorio (hoy 10; ver README).
+- [x] Las 200 clases escritas con laboratorio (ver README).
 - [ ] Partes 03 y 07.
 - [ ] Sitio de estudio en GitHub Pages.
 - [ ] Instrumentos propios (`disc-abierto`, `valores-spranger`) con estudio de

@@ -3,5 +3,5 @@ numero: 197
 titulo: "Proyecto: auditoría ética de un instrumento"
 parte: "19"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

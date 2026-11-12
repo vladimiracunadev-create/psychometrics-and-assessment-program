@@ -55,31 +55,31 @@ temario:
     titulo: 'Historia de la psicometría: de Galton a la medición moderna'
     ruta: classes/part-00-fundamentos-de-la-medicion/041-historia-de-la-psicometria-de-galton-a
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '042'
     numero: 42
     titulo: Constructos, variables latentes y definiciones operacionales
     ruta: classes/part-00-fundamentos-de-la-medicion/042-constructos-variables-latentes-y-definiciones-operacionales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '043'
     numero: 43
     titulo: 'Tipos de test: rendimiento máximo frente a desempeño típico'
     ruta: classes/part-00-fundamentos-de-la-medicion/043-tipos-de-test-rendimiento-maximo-frente-a
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '044'
     numero: 44
     titulo: Pruebas de velocidad, de potencia y tareas cronometradas
     ruta: classes/part-00-fundamentos-de-la-medicion/044-pruebas-de-velocidad-de-potencia-y-tareas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '045'
     numero: 45
     titulo: Introducción a la estadística descriptiva para evaluación
     ruta: classes/part-00-fundamentos-de-la-medicion/045-introduccion-a-la-estadistica-descriptiva-para-evaluacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '01'
   slug: construccion-de-instrumentos
   titulo: Construcción de instrumentos
@@ -123,31 +123,31 @@ temario:
     titulo: Especificaciones de test y tablas de contenido
     ruta: classes/part-01-construccion-de-instrumentos/046-especificaciones-de-test-y-tablas-de-contenido
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '047'
     numero: 47
     titulo: 'Ítems de opción múltiple: distractores y clave'
     ruta: classes/part-01-construccion-de-instrumentos/047-items-de-opcion-multiple-distractores-y-clave
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 048
     numero: 48
     titulo: Ítems abiertos, rúbricas y acuerdo entre jueces
     ruta: classes/part-01-construccion-de-instrumentos/048-items-abiertos-rubricas-y-acuerdo-entre-jueces
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 049
     numero: 49
     titulo: Juicio de expertos y revisión cognitiva de ítems
     ruta: classes/part-01-construccion-de-instrumentos/049-juicio-de-expertos-y-revision-cognitiva-de
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '050'
     numero: 50
     titulo: Bancos de ítems, versiones y control de cambios
     ruta: classes/part-01-construccion-de-instrumentos/050-bancos-de-items-versiones-y-control-de
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '02'
   slug: fiabilidad
   titulo: Fiabilidad
@@ -1305,58 +1305,58 @@ temario:
     titulo: 'Proyecto: batería educativa de cribado con datos sintéticos'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/191-proyecto-bateria-educativa-de-cribado-con-datos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '192'
     numero: 192
     titulo: 'Proyecto: batería laboral con ajuste justificado'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/192-proyecto-bateria-laboral-con-ajuste-justificado
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '193'
     numero: 193
     titulo: 'Proyecto: adaptación de un instrumento abierto'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/193-proyecto-adaptacion-de-un-instrumento-abierto
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '194'
     numero: 194
     titulo: 'Proyecto: informe para familias y docentes'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/194-proyecto-informe-para-familias-y-docentes
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '195'
     numero: 195
     titulo: 'Proyecto: informe para una organización'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/195-proyecto-informe-para-una-organizacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '196'
     numero: 196
     titulo: 'Proyecto: estudio de validación simulado de extremo a extremo'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/196-proyecto-estudio-de-validacion-simulado-de-extremo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '197'
     numero: 197
     titulo: 'Proyecto: auditoría ética de un instrumento'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/197-proyecto-auditoria-etica-de-un-instrumento
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '198'
     numero: 198
     titulo: 'Proyecto: tablero de seguimiento longitudinal'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/198-proyecto-tablero-de-seguimiento-longitudinal
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '199'
     numero: 199
     titulo: 'Proyecto: instrumento original con protocolo de validación'
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/199-proyecto-instrumento-original-con-protocolo-de-validacion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '200'
     numero: 200
     titulo: Defensa final y plan de desarrollo profesional
     ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/200-defensa-final-y-plan-de-desarrollo-profesional
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
