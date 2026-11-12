@@ -3,5 +3,5 @@ numero: 98
 titulo: "Planificación y control ejecutivo"
 parte: "09"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

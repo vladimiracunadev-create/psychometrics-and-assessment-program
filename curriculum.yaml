@@ -635,61 +635,61 @@ temario:
     titulo: Atención sostenida y vigilancia
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/091-atencion-sostenida-y-vigilancia
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 092
     numero: 92
     titulo: Atención selectiva y dividida
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/092-atencion-selectiva-y-dividida
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 093
     numero: 93
     titulo: Tiempo de reacción y su medición digital
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/093-tiempo-de-reaccion-y-su-medicion-digital
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 094
     numero: 94
     titulo: Memoria visual y auditiva
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/094-memoria-visual-y-auditiva
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 095
     numero: 95
     titulo: Memoria de trabajo
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/095-memoria-de-trabajo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 096
     numero: 96
     titulo: Memoria verbal y aprendizaje de listas
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/096-memoria-verbal-y-aprendizaje-de-listas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 097
     numero: 97
     titulo: Flexibilidad cognitiva e inhibición
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/097-flexibilidad-cognitiva-e-inhibicion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 098
     numero: 98
     titulo: Planificación y control ejecutivo
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/098-planificacion-y-control-ejecutivo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 099
     numero: 99
     titulo: 'Tareas clásicas: Stroop, Go/No-Go, n-back'
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/099-tareas-clasicas-stroop-go-no-go-n
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '100'
     numero: 100
     titulo: Límites de la evaluación neuropsicológica no clínica
     ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/100-limites-de-la-evaluacion-neuropsicologica-no-clinica
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '10'
   slug: personalidad-temperamento-y-conducta
   titulo: Personalidad, temperamento y conducta

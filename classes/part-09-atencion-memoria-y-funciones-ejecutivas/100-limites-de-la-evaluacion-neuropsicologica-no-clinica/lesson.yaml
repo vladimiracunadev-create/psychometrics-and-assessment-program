@@ -3,5 +3,5 @@ numero: 100
 titulo: "Límites de la evaluación neuropsicológica no clínica"
 parte: "09"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
