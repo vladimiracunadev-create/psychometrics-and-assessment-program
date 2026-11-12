@@ -2,7 +2,7 @@
 
 # 🧠 Psychometrics and Assessment Program
 
-## **8 partes · 40 clases · 5 instrumentos · 344 ítems · de qué significa medir a cómo se certifica**
+## **20 partes · 200 clases · 5 instrumentos · 344 ítems · de qué significa medir a cómo se certifica**
 
 **Programa de aprendizaje y motor ejecutable de psicometría: cómo se construye,
 se puntúa, se valida y se audita un instrumento de medición psicológica —
@@ -14,8 +14,8 @@ con bancos públicos, material propio y licencias trazables.**
 [![Version](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](CHANGELOG.md)
 [![Instrumentos](https://img.shields.io/badge/instrumentos-5%20·%20344%20ítems-7c5cff?style=for-the-badge)](instruments/)
 [![Dominio público](https://img.shields.io/badge/dominio%20público-216%20de%20344%20ítems-2e8b57?style=for-the-badge)](#-procedencia-y-licencias)
-[![Clases](https://img.shields.io/badge/clases-5%20de%2040%20escritas-c9184a?style=for-the-badge)](classes/)
-[![Tests](https://img.shields.io/badge/tests-57%20en%20verde-3fb950?style=for-the-badge)](tests/)
+[![Clases](https://img.shields.io/badge/clases-5%20de%20200%20escritas-c9184a?style=for-the-badge)](classes/)
+[![Tests](https://img.shields.io/badge/tests-69%20en%20verde-3fb950?style=for-the-badge)](tests/)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=for-the-badge)](classes/)
 [![License](https://img.shields.io/badge/code-MIT-3fb950?style=for-the-badge)](LICENSE)
 [![Content](https://img.shields.io/badge/docs-CC%20BY--NC--SA%204.0-7c5cff?style=for-the-badge)](LICENSE-CONTENT.md)
@@ -36,7 +36,7 @@ con bancos públicos, material propio y licencias trazables.**
 
 | 🧪 Instrumentos | 📝 Ítems | 📐 Escalas | 📘 Clases | 🔬 Laboratorios | ✅ Tests |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **5** | **344** | **81** | **5 / 40** | **5** | **57** |
+| **5** | **344** | **81** | **5 / 200** | **5** | **69** |
 </div>
 
 ---
@@ -58,9 +58,10 @@ con bancos públicos, material propio y licencias trazables.**
 | Bancos de terceros | ⚠️ IPIP-NEO-120 e IPIP-VIA-R son públicos; la adaptación O*NET tiene validación de licencia pendiente |
 | Motor | ✅ carga, valida, refleja clave invertida, agrega jerárquicamente y audita el protocolo |
 | CLI | ✅ `catalogo`, `ficha`, `rendir`, `puntuar`, `validar` |
-| Clases | 🟡 5 de 40 escritas; el temario de las 35 restantes está fijado en `curriculum.yaml` |
+| Clases | 🟡 5 de 200 escritas; las 195 restantes están **planificadas** (carpeta y `lesson.yaml`, sin contenido) en `curriculum.yaml` |
+| Fichas | 🟡 140 fichas documentales en [`catalogo/fichas.yaml`](catalogo/fichas.yaml): 5 implementadas, 0 validadas; el resto solo documentadas y `verificado: false` |
 | Laboratorios | ✅ 5/5 ejecutables, deterministas y sin dependencias externas |
-| Tests | ✅ 57 en verde |
+| Tests | ✅ 69 en verde |
 | CI | ✅ pruebas en 3 versiones de Python, lint, validación del catálogo y comprobación de reproducibilidad |
 | Baremos | ⚪ la estructura existe (`percentil`, `z`, `baremo`); **no hay datos normativos** |
 | TRI / análisis factorial | ⚪ planificados (partes 04 y 05); no implementados |

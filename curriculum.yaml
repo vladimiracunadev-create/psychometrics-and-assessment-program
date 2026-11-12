@@ -1,316 +1,1362 @@
 # Curriculo del programa. Fuente unica de verdad sobre que clases existen
 # y cual es su estado real. scripts/validate_repository.py comprueba que
 # lo declarado aqui coincida con el arbol classes/.
+# Las clases 001-040 conservan su identificador. Las 041+ las agrego
+# scripts/expand_curriculum.py y estan PLANIFICADAS, no escritas.
 nombre: Psychometrics and Assessment Program
 version: 0.1.0
 idioma: es
-partes: 8
-clases: 40
+partes: 20
+clases: 200
 estados:
   escrita: la clase tiene README, laboratorio ejecutable y bibliografia
   planificada: el temario esta fijado, el contenido no esta escrito
 temario:
-  - id: "00"
-    slug: fundamentos-de-la-medicion
-    titulo: "Fundamentos de la medición psicológica"
-    nivel: fundamentos
-    semanas: "2-3"
-    descripcion: >-
-      Qué significa medir un atributo que no se puede observar directamente, y qué compromisos asume cualquiera que lo intente.
-    clases:
-      - id: "001"
-        numero: 1
-        titulo: "Qué significa medir lo que no se ve"
-        ruta: classes/part-00-fundamentos-de-la-medicion/001-que-significa-medir-lo-que-no-se-ve
-        horas_estimadas: 4
-        estado: escrita
-      - id: "002"
-        numero: 2
-        titulo: "Del constructo al ítem: cómo nace una pregunta"
-        ruta: classes/part-00-fundamentos-de-la-medicion/002-del-constructo-al-item
-        horas_estimadas: 4
-        estado: escrita
-      - id: "003"
-        numero: 3
-        titulo: "Escalas de medida y qué operaciones permiten"
-        ruta: classes/part-00-fundamentos-de-la-medicion/003-escalas-de-medida-y-sus-operaciones
-        horas_estimadas: 3
-        estado: escrita
-      - id: "004"
-        numero: 4
-        titulo: "Puntaje bruto, media por ítem y por qué no son lo mismo"
-        ruta: classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-item
-        horas_estimadas: 3
-        estado: escrita
-      - id: "005"
-        numero: 5
-        titulo: "Ítems invertidos y sesgo de aquiescencia"
-        ruta: classes/part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiescencia
-        horas_estimadas: 4
-        estado: escrita
-  - id: "01"
-    slug: construccion-de-instrumentos
-    titulo: "Construcción de instrumentos"
-    nivel: fundamentos
-    semanas: "3-4"
-    descripcion: >-
-      Del banco de ítems al cuestionario administrable: redacción, formato de respuesta, longitud y pilotaje.
-    clases:
-      - id: "006"
-        numero: 6
-        titulo: "Redacción de ítems: las reglas y por qué existen"
-        ruta: classes/part-01-construccion-de-instrumentos/006-redaccion-de-items
-        horas_estimadas: 4
-        estado: planificada
-      - id: "007"
-        numero: 7
-        titulo: "Formatos de respuesta: Likert, dicotómico, continuo"
-        ruta: classes/part-01-construccion-de-instrumentos/007-formatos-de-respuesta
-        horas_estimadas: 3
-        estado: planificada
-      - id: "008"
-        numero: 8
-        titulo: "Ipsativo frente a normativo: la trampa de la elección forzada"
-        ruta: classes/part-01-construccion-de-instrumentos/008-ipsativo-vs-normativo
-        horas_estimadas: 4
-        estado: planificada
-      - id: "009"
-        numero: 9
-        titulo: "Longitud del test: el intercambio entre precisión y abandono"
-        ruta: classes/part-01-construccion-de-instrumentos/009-longitud-y-costo-de-medida
-        horas_estimadas: 3
-        estado: planificada
-      - id: "010"
-        numero: 10
-        titulo: "Pilotaje y análisis clásico de ítems"
-        ruta: classes/part-01-construccion-de-instrumentos/010-pilotaje-y-analisis-de-items
-        horas_estimadas: 5
-        estado: planificada
-  - id: "02"
-    slug: fiabilidad
-    titulo: "Fiabilidad"
-    nivel: intermedio
-    semanas: "3-4"
-    descripcion: >-
-      Cuánto del puntaje es señal y cuánto es ruido, y las distintas formas de estimarlo según qué fuente de error preocupe.
-    clases:
-      - id: "011"
-        numero: 11
-        titulo: "La teoría clásica: puntaje verdadero y error"
-        ruta: classes/part-02-fiabilidad/011-teoria-clasica-del-error
-        horas_estimadas: 4
-        estado: planificada
-      - id: "012"
-        numero: 12
-        titulo: "Consistencia interna: alfa de Cronbach y sus abusos"
-        ruta: classes/part-02-fiabilidad/012-consistencia-interna-alfa
-        horas_estimadas: 5
-        estado: planificada
-      - id: "013"
-        numero: 13
-        titulo: "Omega de McDonald y por qué alfa se queda corto"
-        ruta: classes/part-02-fiabilidad/013-omega-y-alternativas-a-alfa
-        horas_estimadas: 4
-        estado: planificada
-      - id: "014"
-        numero: 14
-        titulo: "Test-retest: estabilidad frente a consistencia"
-        ruta: classes/part-02-fiabilidad/014-test-retest-y-estabilidad
-        horas_estimadas: 3
-        estado: planificada
-      - id: "015"
-        numero: 15
-        titulo: "Error típico de medida e intervalos de confianza del puntaje"
-        ruta: classes/part-02-fiabilidad/015-error-tipico-de-medida
-        horas_estimadas: 4
-        estado: planificada
-  - id: "03"
-    slug: validez
-    titulo: "Validez"
-    nivel: intermedio
-    semanas: "4-5"
-    descripcion: >-
-      La pregunta que de verdad importa: qué autoriza a interpretar un puntaje como aquello que se dice que mide.
-    clases:
-      - id: "016"
-        numero: 16
-        titulo: "La validez no es una propiedad del test, es un argumento"
-        ruta: classes/part-03-validez/016-validez-como-argumento
-        horas_estimadas: 4
-        estado: planificada
-      - id: "017"
-        numero: 17
-        titulo: "Validez de contenido y el juicio de expertos"
-        ruta: classes/part-03-validez/017-validez-de-contenido
-        horas_estimadas: 3
-        estado: planificada
-      - id: "018"
-        numero: 18
-        titulo: "Validez de constructo: convergente y discriminante"
-        ruta: classes/part-03-validez/018-validez-de-constructo
-        horas_estimadas: 5
-        estado: planificada
-      - id: "019"
-        numero: 19
-        titulo: "Validez de criterio y validez predictiva"
-        ruta: classes/part-03-validez/019-validez-de-criterio
-        horas_estimadas: 5
-        estado: planificada
-      - id: "020"
-        numero: 20
-        titulo: "La cara olvidada: consecuencias del uso del test"
-        ruta: classes/part-03-validez/020-consecuencias-del-uso
-        horas_estimadas: 4
-        estado: planificada
-  - id: "04"
-    slug: estructura-y-analisis-factorial
-    titulo: "Estructura y análisis factorial"
-    nivel: avanzado
-    semanas: "4-5"
-    descripcion: >-
-      Cómo se somete a prueba la estructura que un instrumento afirma tener, y qué significa que los datos la contradigan.
-    clases:
-      - id: "021"
-        numero: 21
-        titulo: "Correlación, matriz y lo que se puede leer en ella"
-        ruta: classes/part-04-estructura-y-analisis-factorial/021-correlacion-y-matriz
-        horas_estimadas: 4
-        estado: planificada
-      - id: "022"
-        numero: 22
-        titulo: "Análisis factorial exploratorio"
-        ruta: classes/part-04-estructura-y-analisis-factorial/022-analisis-factorial-exploratorio
-        horas_estimadas: 6
-        estado: planificada
-      - id: "023"
-        numero: 23
-        titulo: "Análisis factorial confirmatorio y ajuste"
-        ruta: classes/part-04-estructura-y-analisis-factorial/023-analisis-factorial-confirmatorio
-        horas_estimadas: 6
-        estado: planificada
-      - id: "024"
-        numero: 24
-        titulo: "Modelos circumplejos: el hexágono de Holland como predicción falsable"
-        ruta: classes/part-04-estructura-y-analisis-factorial/024-modelos-circumplejos
-        horas_estimadas: 5
-        estado: planificada
-      - id: "025"
-        numero: 25
-        titulo: "Invarianza de medida entre grupos"
-        ruta: classes/part-04-estructura-y-analisis-factorial/025-invarianza-de-medida
-        horas_estimadas: 6
-        estado: planificada
-  - id: "05"
-    slug: teoria-de-respuesta-al-item
-    titulo: "Teoría de respuesta al ítem"
-    nivel: avanzado
-    semanas: "4-5"
-    descripcion: >-
-      El cambio de paradigma: del puntaje total a la relación entre la persona, el ítem y el rasgo latente.
-    clases:
-      - id: "026"
-        numero: 26
-        titulo: "Los límites que hacen falta superar"
-        ruta: classes/part-05-teoria-de-respuesta-al-item/026-limites-de-la-teoria-clasica
-        horas_estimadas: 4
-        estado: planificada
-      - id: "027"
-        numero: 27
-        titulo: "El modelo de Rasch"
-        ruta: classes/part-05-teoria-de-respuesta-al-item/027-modelo-de-rasch
-        horas_estimadas: 6
-        estado: planificada
-      - id: "028"
-        numero: 28
-        titulo: "Modelos de dos y tres parámetros"
-        ruta: classes/part-05-teoria-de-respuesta-al-item/028-modelos-de-dos-y-tres-parametros
-        horas_estimadas: 6
-        estado: planificada
-      - id: "029"
-        numero: 29
-        titulo: "Función de información: dónde mide bien cada ítem"
-        ruta: classes/part-05-teoria-de-respuesta-al-item/029-informacion-del-item
-        horas_estimadas: 5
-        estado: planificada
-      - id: "030"
-        numero: 30
-        titulo: "Testing adaptativo informatizado"
-        ruta: classes/part-05-teoria-de-respuesta-al-item/030-testing-adaptativo
-        horas_estimadas: 6
-        estado: planificada
-  - id: "06"
-    slug: baremos-sesgo-y-equidad
-    titulo: "Baremos, sesgo y equidad"
-    nivel: avanzado
-    semanas: "3-4"
-    descripcion: >-
-      Qué convierte un puntaje bruto en un percentil, y cómo se detecta que un instrumento mide distinto según a quién se le aplique.
-    clases:
-      - id: "031"
-        numero: 31
-        titulo: "Baremos, percentiles y puntajes tipificados"
-        ruta: classes/part-06-baremos-sesgo-y-equidad/031-baremos-y-percentiles
-        horas_estimadas: 4
-        estado: planificada
-      - id: "032"
-        numero: 32
-        titulo: "La muestra normativa: a quién se compara la persona"
-        ruta: classes/part-06-baremos-sesgo-y-equidad/032-elegir-la-muestra-normativa
-        horas_estimadas: 4
-        estado: planificada
-      - id: "033"
-        numero: 33
-        titulo: "Funcionamiento diferencial del ítem (DIF)"
-        ruta: classes/part-06-baremos-sesgo-y-equidad/033-funcionamiento-diferencial-del-item
-        horas_estimadas: 6
-        estado: planificada
-      - id: "034"
-        numero: 34
-        titulo: "Sesgo predictivo y definiciones de equidad"
-        ruta: classes/part-06-baremos-sesgo-y-equidad/034-sesgo-predictivo-y-equidad
-        horas_estimadas: 5
-        estado: planificada
-      - id: "035"
-        numero: 35
-        titulo: "Adaptación transcultural y equivalencia"
-        ruta: classes/part-06-baremos-sesgo-y-equidad/035-adaptacion-transcultural
-        horas_estimadas: 5
-        estado: planificada
-  - id: "07"
-    slug: uso-responsable-y-certificacion
-    titulo: "Uso responsable y certificación"
-    nivel: profesional
-    semanas: "3-4"
-    descripcion: >-
-      Los estándares que rigen la práctica, qué exige certificarse y qué no se debe hacer nunca con un puntaje.
-    clases:
-      - id: "036"
-        numero: 36
-        titulo: "Los Standards de AERA, APA y NCME"
-        ruta: classes/part-07-uso-responsable-y-certificacion/036-estandares-aera-apa-ncme
-        horas_estimadas: 4
-        estado: planificada
-      - id: "037"
-        numero: 37
-        titulo: "Directrices de la International Test Commission"
-        ruta: classes/part-07-uso-responsable-y-certificacion/037-itc-y-normas-internacionales
-        horas_estimadas: 4
-        estado: planificada
-      - id: "038"
-        numero: 38
-        titulo: "El informe y la devolución de resultados a la persona"
-        ruta: classes/part-07-uso-responsable-y-certificacion/038-informe-y-devolucion
-        horas_estimadas: 4
-        estado: planificada
-      - id: "039"
-        numero: 39
-        titulo: "Uso en selección de personal: qué es defendible"
-        ruta: classes/part-07-uso-responsable-y-certificacion/039-seleccion-de-personal
-        horas_estimadas: 5
-        estado: planificada
-      - id: "040"
-        numero: 40
-        titulo: "Rutas de certificación profesional"
-        ruta: classes/part-07-uso-responsable-y-certificacion/040-certificacion-profesional
-        horas_estimadas: 3
-        estado: planificada
+- id: '00'
+  slug: fundamentos-de-la-medicion
+  titulo: Fundamentos de la medición psicológica
+  nivel: fundamentos
+  semanas: 2-3
+  descripcion: Qué significa medir un atributo que no se puede observar directamente, y qué compromisos
+    asume cualquiera que lo intente.
+  clases:
+  - id: '001'
+    numero: 1
+    titulo: Qué significa medir lo que no se ve
+    ruta: classes/part-00-fundamentos-de-la-medicion/001-que-significa-medir-lo-que-no-se-ve
+    horas_estimadas: 4
+    estado: escrita
+  - id: '002'
+    numero: 2
+    titulo: 'Del constructo al ítem: cómo nace una pregunta'
+    ruta: classes/part-00-fundamentos-de-la-medicion/002-del-constructo-al-item
+    horas_estimadas: 4
+    estado: escrita
+  - id: '003'
+    numero: 3
+    titulo: Escalas de medida y qué operaciones permiten
+    ruta: classes/part-00-fundamentos-de-la-medicion/003-escalas-de-medida-y-sus-operaciones
+    horas_estimadas: 3
+    estado: escrita
+  - id: '004'
+    numero: 4
+    titulo: Puntaje bruto, media por ítem y por qué no son lo mismo
+    ruta: classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-item
+    horas_estimadas: 3
+    estado: escrita
+  - id: '005'
+    numero: 5
+    titulo: Ítems invertidos y sesgo de aquiescencia
+    ruta: classes/part-00-fundamentos-de-la-medicion/005-items-invertidos-y-aquiescencia
+    horas_estimadas: 4
+    estado: escrita
+  - id: '041'
+    numero: 41
+    titulo: 'Historia de la psicometría: de Galton a la medición moderna'
+    ruta: classes/part-00-fundamentos-de-la-medicion/041-historia-de-la-psicometria-de-galton-a
+    horas_estimadas: 4
+    estado: planificada
+  - id: '042'
+    numero: 42
+    titulo: Constructos, variables latentes y definiciones operacionales
+    ruta: classes/part-00-fundamentos-de-la-medicion/042-constructos-variables-latentes-y-definiciones-operacionales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '043'
+    numero: 43
+    titulo: 'Tipos de test: rendimiento máximo frente a desempeño típico'
+    ruta: classes/part-00-fundamentos-de-la-medicion/043-tipos-de-test-rendimiento-maximo-frente-a
+    horas_estimadas: 4
+    estado: planificada
+  - id: '044'
+    numero: 44
+    titulo: Pruebas de velocidad, de potencia y tareas cronometradas
+    ruta: classes/part-00-fundamentos-de-la-medicion/044-pruebas-de-velocidad-de-potencia-y-tareas
+    horas_estimadas: 4
+    estado: planificada
+  - id: '045'
+    numero: 45
+    titulo: Introducción a la estadística descriptiva para evaluación
+    ruta: classes/part-00-fundamentos-de-la-medicion/045-introduccion-a-la-estadistica-descriptiva-para-evaluacion
+    horas_estimadas: 4
+    estado: planificada
+- id: '01'
+  slug: construccion-de-instrumentos
+  titulo: Construcción de instrumentos
+  nivel: fundamentos
+  semanas: 3-4
+  descripcion: 'Del banco de ítems al cuestionario administrable: redacción, formato de respuesta, longitud
+    y pilotaje.'
+  clases:
+  - id: '006'
+    numero: 6
+    titulo: 'Redacción de ítems: las reglas y por qué existen'
+    ruta: classes/part-01-construccion-de-instrumentos/006-redaccion-de-items
+    horas_estimadas: 4
+    estado: planificada
+  - id: '007'
+    numero: 7
+    titulo: 'Formatos de respuesta: Likert, dicotómico, continuo'
+    ruta: classes/part-01-construccion-de-instrumentos/007-formatos-de-respuesta
+    horas_estimadas: 3
+    estado: planificada
+  - id: 008
+    numero: 8
+    titulo: 'Ipsativo frente a normativo: la trampa de la elección forzada'
+    ruta: classes/part-01-construccion-de-instrumentos/008-ipsativo-vs-normativo
+    horas_estimadas: 4
+    estado: planificada
+  - id: 009
+    numero: 9
+    titulo: 'Longitud del test: el intercambio entre precisión y abandono'
+    ruta: classes/part-01-construccion-de-instrumentos/009-longitud-y-costo-de-medida
+    horas_estimadas: 3
+    estado: planificada
+  - id: '010'
+    numero: 10
+    titulo: Pilotaje y análisis clásico de ítems
+    ruta: classes/part-01-construccion-de-instrumentos/010-pilotaje-y-analisis-de-items
+    horas_estimadas: 5
+    estado: planificada
+  - id: '046'
+    numero: 46
+    titulo: Especificaciones de test y tablas de contenido
+    ruta: classes/part-01-construccion-de-instrumentos/046-especificaciones-de-test-y-tablas-de-contenido
+    horas_estimadas: 4
+    estado: planificada
+  - id: '047'
+    numero: 47
+    titulo: 'Ítems de opción múltiple: distractores y clave'
+    ruta: classes/part-01-construccion-de-instrumentos/047-items-de-opcion-multiple-distractores-y-clave
+    horas_estimadas: 4
+    estado: planificada
+  - id: 048
+    numero: 48
+    titulo: Ítems abiertos, rúbricas y acuerdo entre jueces
+    ruta: classes/part-01-construccion-de-instrumentos/048-items-abiertos-rubricas-y-acuerdo-entre-jueces
+    horas_estimadas: 4
+    estado: planificada
+  - id: 049
+    numero: 49
+    titulo: Juicio de expertos y revisión cognitiva de ítems
+    ruta: classes/part-01-construccion-de-instrumentos/049-juicio-de-expertos-y-revision-cognitiva-de
+    horas_estimadas: 4
+    estado: planificada
+  - id: '050'
+    numero: 50
+    titulo: Bancos de ítems, versiones y control de cambios
+    ruta: classes/part-01-construccion-de-instrumentos/050-bancos-de-items-versiones-y-control-de
+    horas_estimadas: 4
+    estado: planificada
+- id: '02'
+  slug: fiabilidad
+  titulo: Fiabilidad
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Cuánto del puntaje es señal y cuánto es ruido, y las distintas formas de estimarlo según
+    qué fuente de error preocupe.
+  clases:
+  - id: '011'
+    numero: 11
+    titulo: 'La teoría clásica: puntaje verdadero y error'
+    ruta: classes/part-02-fiabilidad/011-teoria-clasica-del-error
+    horas_estimadas: 4
+    estado: planificada
+  - id: '012'
+    numero: 12
+    titulo: 'Consistencia interna: alfa de Cronbach y sus abusos'
+    ruta: classes/part-02-fiabilidad/012-consistencia-interna-alfa
+    horas_estimadas: 5
+    estado: planificada
+  - id: '013'
+    numero: 13
+    titulo: Omega de McDonald y por qué alfa se queda corto
+    ruta: classes/part-02-fiabilidad/013-omega-y-alternativas-a-alfa
+    horas_estimadas: 4
+    estado: planificada
+  - id: '014'
+    numero: 14
+    titulo: 'Test-retest: estabilidad frente a consistencia'
+    ruta: classes/part-02-fiabilidad/014-test-retest-y-estabilidad
+    horas_estimadas: 3
+    estado: planificada
+  - id: '015'
+    numero: 15
+    titulo: Error típico de medida e intervalos de confianza del puntaje
+    ruta: classes/part-02-fiabilidad/015-error-tipico-de-medida
+    horas_estimadas: 4
+    estado: planificada
+  - id: '051'
+    numero: 51
+    titulo: Estadística descriptiva aplicada a puntajes
+    ruta: classes/part-02-fiabilidad/051-estadistica-descriptiva-aplicada-a-puntajes
+    horas_estimadas: 4
+    estado: planificada
+  - id: '052'
+    numero: 52
+    titulo: Correlación de Pearson, Spearman y sus supuestos
+    ruta: classes/part-02-fiabilidad/052-correlacion-de-pearson-spearman-y-sus-supuestos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '053'
+    numero: 53
+    titulo: 'Fiabilidad de pruebas dicotómicas: KR-20'
+    ruta: classes/part-02-fiabilidad/053-fiabilidad-de-pruebas-dicotomicas-kr-20
+    horas_estimadas: 4
+    estado: planificada
+  - id: '054'
+    numero: 54
+    titulo: 'Fiabilidad entre evaluadores: kappa y CCI'
+    ruta: classes/part-02-fiabilidad/054-fiabilidad-entre-evaluadores-kappa-y-cci
+    horas_estimadas: 4
+    estado: planificada
+  - id: '055'
+    numero: 55
+    titulo: Intervalos de confianza para puntajes individuales
+    ruta: classes/part-02-fiabilidad/055-intervalos-de-confianza-para-puntajes-individuales
+    horas_estimadas: 4
+    estado: planificada
+- id: '03'
+  slug: validez
+  titulo: Validez
+  nivel: intermedio
+  semanas: 4-5
+  descripcion: 'La pregunta que de verdad importa: qué autoriza a interpretar un puntaje como aquello
+    que se dice que mide.'
+  clases:
+  - id: '016'
+    numero: 16
+    titulo: La validez no es una propiedad del test, es un argumento
+    ruta: classes/part-03-validez/016-validez-como-argumento
+    horas_estimadas: 4
+    estado: planificada
+  - id: '017'
+    numero: 17
+    titulo: Validez de contenido y el juicio de expertos
+    ruta: classes/part-03-validez/017-validez-de-contenido
+    horas_estimadas: 3
+    estado: planificada
+  - id: 018
+    numero: 18
+    titulo: 'Validez de constructo: convergente y discriminante'
+    ruta: classes/part-03-validez/018-validez-de-constructo
+    horas_estimadas: 5
+    estado: planificada
+  - id: 019
+    numero: 19
+    titulo: Validez de criterio y validez predictiva
+    ruta: classes/part-03-validez/019-validez-de-criterio
+    horas_estimadas: 5
+    estado: planificada
+  - id: '020'
+    numero: 20
+    titulo: 'La cara olvidada: consecuencias del uso del test'
+    ruta: classes/part-03-validez/020-consecuencias-del-uso
+    horas_estimadas: 4
+    estado: planificada
+  - id: '056'
+    numero: 56
+    titulo: 'Validez convergente y discriminante: matriz multirrasgo-multimétodo'
+    ruta: classes/part-03-validez/056-validez-convergente-y-discriminante-matriz-multirrasgo-multimetodo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '057'
+    numero: 57
+    titulo: Validez ecológica y generalización
+    ruta: classes/part-03-validez/057-validez-ecologica-y-generalizacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: 058
+    numero: 58
+    titulo: Evidencia basada en procesos de respuesta
+    ruta: classes/part-03-validez/058-evidencia-basada-en-procesos-de-respuesta
+    horas_estimadas: 4
+    estado: planificada
+  - id: 059
+    numero: 59
+    titulo: Metaanálisis de validez y corrección por atenuación
+    ruta: classes/part-03-validez/059-metaanalisis-de-validez-y-correccion-por-atenuacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '060'
+    numero: 60
+    titulo: 'Amenazas a la validez: falseamiento y deseabilidad social'
+    ruta: classes/part-03-validez/060-amenazas-a-la-validez-falseamiento-y-deseabilidad
+    horas_estimadas: 4
+    estado: planificada
+- id: '04'
+  slug: estructura-y-analisis-factorial
+  titulo: Estructura y análisis factorial
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: Cómo se somete a prueba la estructura que un instrumento afirma tener, y qué significa
+    que los datos la contradigan.
+  clases:
+  - id: '021'
+    numero: 21
+    titulo: Correlación, matriz y lo que se puede leer en ella
+    ruta: classes/part-04-estructura-y-analisis-factorial/021-correlacion-y-matriz
+    horas_estimadas: 4
+    estado: planificada
+  - id: '022'
+    numero: 22
+    titulo: Análisis factorial exploratorio
+    ruta: classes/part-04-estructura-y-analisis-factorial/022-analisis-factorial-exploratorio
+    horas_estimadas: 6
+    estado: planificada
+  - id: '023'
+    numero: 23
+    titulo: Análisis factorial confirmatorio y ajuste
+    ruta: classes/part-04-estructura-y-analisis-factorial/023-analisis-factorial-confirmatorio
+    horas_estimadas: 6
+    estado: planificada
+  - id: '024'
+    numero: 24
+    titulo: 'Modelos circumplejos: el hexágono de Holland como predicción falsable'
+    ruta: classes/part-04-estructura-y-analisis-factorial/024-modelos-circumplejos
+    horas_estimadas: 5
+    estado: planificada
+  - id: '025'
+    numero: 25
+    titulo: Invarianza de medida entre grupos
+    ruta: classes/part-04-estructura-y-analisis-factorial/025-invarianza-de-medida
+    horas_estimadas: 6
+    estado: planificada
+  - id: '061'
+    numero: 61
+    titulo: Rotaciones y criterios de retención de factores
+    ruta: classes/part-04-estructura-y-analisis-factorial/061-rotaciones-y-criterios-de-retencion-de-factores
+    horas_estimadas: 4
+    estado: planificada
+  - id: '062'
+    numero: 62
+    titulo: Ajuste en modelos de ecuaciones estructurales
+    ruta: classes/part-04-estructura-y-analisis-factorial/062-ajuste-en-modelos-de-ecuaciones-estructurales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '063'
+    numero: 63
+    titulo: Modelos bifactor y jerárquicos
+    ruta: classes/part-04-estructura-y-analisis-factorial/063-modelos-bifactor-y-jerarquicos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '064'
+    numero: 64
+    titulo: Análisis de redes psicométricas
+    ruta: classes/part-04-estructura-y-analisis-factorial/064-analisis-de-redes-psicometricas
+    horas_estimadas: 4
+    estado: planificada
+  - id: '065'
+    numero: 65
+    titulo: Datos ordinales y correlaciones policóricas
+    ruta: classes/part-04-estructura-y-analisis-factorial/065-datos-ordinales-y-correlaciones-policoricas
+    horas_estimadas: 4
+    estado: planificada
+- id: '05'
+  slug: teoria-de-respuesta-al-item
+  titulo: Teoría de respuesta al ítem
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: 'El cambio de paradigma: del puntaje total a la relación entre la persona, el ítem y el
+    rasgo latente.'
+  clases:
+  - id: '026'
+    numero: 26
+    titulo: Los límites que hacen falta superar
+    ruta: classes/part-05-teoria-de-respuesta-al-item/026-limites-de-la-teoria-clasica
+    horas_estimadas: 4
+    estado: planificada
+  - id: '027'
+    numero: 27
+    titulo: El modelo de Rasch
+    ruta: classes/part-05-teoria-de-respuesta-al-item/027-modelo-de-rasch
+    horas_estimadas: 6
+    estado: planificada
+  - id: 028
+    numero: 28
+    titulo: Modelos de dos y tres parámetros
+    ruta: classes/part-05-teoria-de-respuesta-al-item/028-modelos-de-dos-y-tres-parametros
+    horas_estimadas: 6
+    estado: planificada
+  - id: 029
+    numero: 29
+    titulo: 'Función de información: dónde mide bien cada ítem'
+    ruta: classes/part-05-teoria-de-respuesta-al-item/029-informacion-del-item
+    horas_estimadas: 5
+    estado: planificada
+  - id: '030'
+    numero: 30
+    titulo: Testing adaptativo informatizado
+    ruta: classes/part-05-teoria-de-respuesta-al-item/030-testing-adaptativo
+    horas_estimadas: 6
+    estado: planificada
+  - id: '066'
+    numero: 66
+    titulo: Estimación de parámetros y de habilidad
+    ruta: classes/part-05-teoria-de-respuesta-al-item/066-estimacion-de-parametros-y-de-habilidad
+    horas_estimadas: 4
+    estado: planificada
+  - id: '067'
+    numero: 67
+    titulo: Curvas características e información del test
+    ruta: classes/part-05-teoria-de-respuesta-al-item/067-curvas-caracteristicas-e-informacion-del-test
+    horas_estimadas: 4
+    estado: planificada
+  - id: 068
+    numero: 68
+    titulo: Modelos de respuesta graduada
+    ruta: classes/part-05-teoria-de-respuesta-al-item/068-modelos-de-respuesta-graduada
+    horas_estimadas: 4
+    estado: planificada
+  - id: 069
+    numero: 69
+    titulo: Equiparación y vinculación de puntajes
+    ruta: classes/part-05-teoria-de-respuesta-al-item/069-equiparacion-y-vinculacion-de-puntajes
+    horas_estimadas: 4
+    estado: planificada
+  - id: '070'
+    numero: 70
+    titulo: Diseño de bancos para pruebas adaptativas
+    ruta: classes/part-05-teoria-de-respuesta-al-item/070-diseno-de-bancos-para-pruebas-adaptativas
+    horas_estimadas: 4
+    estado: planificada
+- id: '06'
+  slug: baremos-sesgo-y-equidad
+  titulo: Baremos, sesgo y equidad
+  nivel: avanzado
+  semanas: 3-4
+  descripcion: Qué convierte un puntaje bruto en un percentil, y cómo se detecta que un instrumento mide
+    distinto según a quién se le aplique.
+  clases:
+  - id: '031'
+    numero: 31
+    titulo: Baremos, percentiles y puntajes tipificados
+    ruta: classes/part-06-baremos-sesgo-y-equidad/031-baremos-y-percentiles
+    horas_estimadas: 4
+    estado: planificada
+  - id: '032'
+    numero: 32
+    titulo: 'La muestra normativa: a quién se compara la persona'
+    ruta: classes/part-06-baremos-sesgo-y-equidad/032-elegir-la-muestra-normativa
+    horas_estimadas: 4
+    estado: planificada
+  - id: '033'
+    numero: 33
+    titulo: Funcionamiento diferencial del ítem (DIF)
+    ruta: classes/part-06-baremos-sesgo-y-equidad/033-funcionamiento-diferencial-del-item
+    horas_estimadas: 6
+    estado: planificada
+  - id: '034'
+    numero: 34
+    titulo: Sesgo predictivo y definiciones de equidad
+    ruta: classes/part-06-baremos-sesgo-y-equidad/034-sesgo-predictivo-y-equidad
+    horas_estimadas: 5
+    estado: planificada
+  - id: '035'
+    numero: 35
+    titulo: Adaptación transcultural y equivalencia
+    ruta: classes/part-06-baremos-sesgo-y-equidad/035-adaptacion-transcultural
+    horas_estimadas: 5
+    estado: planificada
+  - id: '071'
+    numero: 71
+    titulo: 'Puntajes estándar: z, T y estaninos'
+    ruta: classes/part-06-baremos-sesgo-y-equidad/071-puntajes-estandar-z-t-y-estaninos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '072'
+    numero: 72
+    titulo: Normas por edad y por curso escolar
+    ruta: classes/part-06-baremos-sesgo-y-equidad/072-normas-por-edad-y-por-curso-escolar
+    horas_estimadas: 4
+    estado: planificada
+  - id: '073'
+    numero: 73
+    titulo: Equidad en evaluaciones de alto impacto
+    ruta: classes/part-06-baremos-sesgo-y-equidad/073-equidad-en-evaluaciones-de-alto-impacto
+    horas_estimadas: 4
+    estado: planificada
+  - id: '074'
+    numero: 74
+    titulo: Acomodaciones y diseño universal de la evaluación
+    ruta: classes/part-06-baremos-sesgo-y-equidad/074-acomodaciones-y-diseno-universal-de-la-evaluacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '075'
+    numero: 75
+    titulo: Estudios de invarianza entre grupos
+    ruta: classes/part-06-baremos-sesgo-y-equidad/075-estudios-de-invarianza-entre-grupos
+    horas_estimadas: 4
+    estado: planificada
+- id: '07'
+  slug: uso-responsable-y-certificacion
+  titulo: Uso responsable y certificación
+  nivel: profesional
+  semanas: 3-4
+  descripcion: Los estándares que rigen la práctica, qué exige certificarse y qué no se debe hacer nunca
+    con un puntaje.
+  clases:
+  - id: '036'
+    numero: 36
+    titulo: Los Standards de AERA, APA y NCME
+    ruta: classes/part-07-uso-responsable-y-certificacion/036-estandares-aera-apa-ncme
+    horas_estimadas: 4
+    estado: planificada
+  - id: '037'
+    numero: 37
+    titulo: Directrices de la International Test Commission
+    ruta: classes/part-07-uso-responsable-y-certificacion/037-itc-y-normas-internacionales
+    horas_estimadas: 4
+    estado: planificada
+  - id: 038
+    numero: 38
+    titulo: El informe y la devolución de resultados a la persona
+    ruta: classes/part-07-uso-responsable-y-certificacion/038-informe-y-devolucion
+    horas_estimadas: 4
+    estado: planificada
+  - id: 039
+    numero: 39
+    titulo: 'Uso en selección de personal: qué es defendible'
+    ruta: classes/part-07-uso-responsable-y-certificacion/039-seleccion-de-personal
+    horas_estimadas: 5
+    estado: planificada
+  - id: '040'
+    numero: 40
+    titulo: Rutas de certificación profesional
+    ruta: classes/part-07-uso-responsable-y-certificacion/040-certificacion-profesional
+    horas_estimadas: 3
+    estado: planificada
+  - id: '076'
+    numero: 76
+    titulo: 'Ley 19.628 y Ley 21.719: datos personales en evaluación'
+    ruta: classes/part-07-uso-responsable-y-certificacion/076-ley-19-628-y-ley-21-719
+    horas_estimadas: 4
+    estado: planificada
+  - id: '077'
+    numero: 77
+    titulo: Consentimiento informado y confidencialidad
+    ruta: classes/part-07-uso-responsable-y-certificacion/077-consentimiento-informado-y-confidencialidad
+    horas_estimadas: 4
+    estado: planificada
+  - id: 078
+    numero: 78
+    titulo: Retención, anonimización y eliminación de datos
+    ruta: classes/part-07-uso-responsable-y-certificacion/078-retencion-anonimizacion-y-eliminacion-de-datos
+    horas_estimadas: 4
+    estado: planificada
+  - id: 079
+    numero: 79
+    titulo: Decisiones automatizadas y derecho a explicación
+    ruta: classes/part-07-uso-responsable-y-certificacion/079-decisiones-automatizadas-y-derecho-a-explicacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: 080
+    numero: 80
+    titulo: Seguridad de bancos de ítems y de resultados
+    ruta: classes/part-07-uso-responsable-y-certificacion/080-seguridad-de-bancos-de-items-y-de
+    horas_estimadas: 4
+    estado: planificada
+- id: 08
+  slug: inteligencia-y-capacidades-cognitivas
+  titulo: Inteligencia y capacidades cognitivas
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Modelos de la inteligencia y cómo se evalúan las capacidades cognitivas, con sus límites.
+  clases:
+  - id: 081
+    numero: 81
+    titulo: 'Modelos de la inteligencia: Spearman, Thurstone, CHC'
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/081-modelos-de-la-inteligencia-spearman-thurstone-chc
+    horas_estimadas: 4
+    estado: planificada
+  - id: 082
+    numero: 82
+    titulo: Inteligencia fluida y cristalizada
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/082-inteligencia-fluida-y-cristalizada
+    horas_estimadas: 4
+    estado: planificada
+  - id: 083
+    numero: 83
+    titulo: 'Razonamiento abstracto: matrices y series'
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/083-razonamiento-abstracto-matrices-y-series
+    horas_estimadas: 4
+    estado: planificada
+  - id: 084
+    numero: 84
+    titulo: Razonamiento verbal y comprensión de instrucciones
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/084-razonamiento-verbal-y-comprension-de-instrucciones
+    horas_estimadas: 4
+    estado: planificada
+  - id: 085
+    numero: 85
+    titulo: Razonamiento numérico
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/085-razonamiento-numerico
+    horas_estimadas: 4
+    estado: planificada
+  - id: 086
+    numero: 86
+    titulo: Razonamiento espacial
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/086-razonamiento-espacial
+    horas_estimadas: 4
+    estado: planificada
+  - id: 087
+    numero: 87
+    titulo: Resolución de problemas y aprendizaje
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/087-resolucion-de-problemas-y-aprendizaje
+    horas_estimadas: 4
+    estado: planificada
+  - id: 088
+    numero: 88
+    titulo: Aptitudes mentales primarias
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/088-aptitudes-mentales-primarias
+    horas_estimadas: 4
+    estado: planificada
+  - id: 089
+    numero: 89
+    titulo: Velocidad de procesamiento
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/089-velocidad-de-procesamiento
+    horas_estimadas: 4
+    estado: planificada
+  - id: 090
+    numero: 90
+    titulo: 'Familias de evaluación cognitiva individual: uso, restricciones y alternativas abiertas'
+    ruta: classes/part-08-inteligencia-y-capacidades-cognitivas/090-familias-de-evaluacion-cognitiva-individual-uso-restricciones
+    horas_estimadas: 4
+    estado: planificada
+- id: 09
+  slug: atencion-memoria-y-funciones-ejecutivas
+  titulo: Atención, memoria y funciones ejecutivas
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Tareas experimentales de atención, memoria y control ejecutivo y su traducción a pruebas.
+  clases:
+  - id: 091
+    numero: 91
+    titulo: Atención sostenida y vigilancia
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/091-atencion-sostenida-y-vigilancia
+    horas_estimadas: 4
+    estado: planificada
+  - id: 092
+    numero: 92
+    titulo: Atención selectiva y dividida
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/092-atencion-selectiva-y-dividida
+    horas_estimadas: 4
+    estado: planificada
+  - id: 093
+    numero: 93
+    titulo: Tiempo de reacción y su medición digital
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/093-tiempo-de-reaccion-y-su-medicion-digital
+    horas_estimadas: 4
+    estado: planificada
+  - id: 094
+    numero: 94
+    titulo: Memoria visual y auditiva
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/094-memoria-visual-y-auditiva
+    horas_estimadas: 4
+    estado: planificada
+  - id: 095
+    numero: 95
+    titulo: Memoria de trabajo
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/095-memoria-de-trabajo
+    horas_estimadas: 4
+    estado: planificada
+  - id: 096
+    numero: 96
+    titulo: Memoria verbal y aprendizaje de listas
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/096-memoria-verbal-y-aprendizaje-de-listas
+    horas_estimadas: 4
+    estado: planificada
+  - id: 097
+    numero: 97
+    titulo: Flexibilidad cognitiva e inhibición
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/097-flexibilidad-cognitiva-e-inhibicion
+    horas_estimadas: 4
+    estado: planificada
+  - id: 098
+    numero: 98
+    titulo: Planificación y control ejecutivo
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/098-planificacion-y-control-ejecutivo
+    horas_estimadas: 4
+    estado: planificada
+  - id: 099
+    numero: 99
+    titulo: 'Tareas clásicas: Stroop, Go/No-Go, n-back'
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/099-tareas-clasicas-stroop-go-no-go-n
+    horas_estimadas: 4
+    estado: planificada
+  - id: '100'
+    numero: 100
+    titulo: Límites de la evaluación neuropsicológica no clínica
+    ruta: classes/part-09-atencion-memoria-y-funciones-ejecutivas/100-limites-de-la-evaluacion-neuropsicologica-no-clinica
+    horas_estimadas: 4
+    estado: planificada
+- id: '10'
+  slug: personalidad-temperamento-y-conducta
+  titulo: Personalidad, temperamento y conducta
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Modelos de rasgos, tipologías y estilos conductuales, con su evidencia y sus usos indebidos.
+  clases:
+  - id: '101'
+    numero: 101
+    titulo: Modelo de los cinco factores y sus facetas
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/101-modelo-de-los-cinco-factores-y-sus
+    horas_estimadas: 4
+    estado: planificada
+  - id: '102'
+    numero: 102
+    titulo: 'Banco IPIP: historia y uso abierto'
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/102-banco-ipip-historia-y-uso-abierto
+    horas_estimadas: 4
+    estado: planificada
+  - id: '103'
+    numero: 103
+    titulo: 'Tipologías frente a rasgos: crítica a MBTI'
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/103-tipologias-frente-a-rasgos-critica-a-mbti
+    horas_estimadas: 4
+    estado: planificada
+  - id: '104'
+    numero: 104
+    titulo: 'Modelos de estilos conductuales: DISC y sus límites'
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/104-modelos-de-estilos-conductuales-disc-y-sus
+    horas_estimadas: 4
+    estado: planificada
+  - id: '105'
+    numero: 105
+    titulo: Temperamento y desarrollo
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/105-temperamento-y-desarrollo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '106'
+    numero: 106
+    titulo: Autorregulación e impulsividad
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/106-autorregulacion-e-impulsividad
+    horas_estimadas: 4
+    estado: planificada
+  - id: '107'
+    numero: 107
+    titulo: Motivación, valores y preferencias
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/107-motivacion-valores-y-preferencias
+    horas_estimadas: 4
+    estado: planificada
+  - id: '108'
+    numero: 108
+    titulo: Fortalezas personales y carácter
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/108-fortalezas-personales-y-caracter
+    horas_estimadas: 4
+    estado: planificada
+  - id: '109'
+    numero: 109
+    titulo: Estados frente a rasgos de personalidad
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/109-estados-frente-a-rasgos-de-personalidad
+    horas_estimadas: 4
+    estado: planificada
+  - id: '110'
+    numero: 110
+    titulo: Falseamiento, deseabilidad social y escalas de validez
+    ruta: classes/part-10-personalidad-temperamento-y-conducta/110-falseamiento-deseabilidad-social-y-escalas-de-validez
+    horas_estimadas: 4
+    estado: planificada
+- id: '11'
+  slug: psicometria-laboral-y-empleabilidad
+  titulo: Psicometría laboral y empleabilidad
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: 'Evaluación en contextos de trabajo: predicción del desempeño, competencias y ajuste.'
+  clases:
+  - id: '111'
+    numero: 111
+    titulo: Análisis de puestos y modelos de competencias
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/111-analisis-de-puestos-y-modelos-de-competencias
+    horas_estimadas: 4
+    estado: planificada
+  - id: '112'
+    numero: 112
+    titulo: Validez predictiva de los métodos de selección
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/112-validez-predictiva-de-los-metodos-de-seleccion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '113'
+    numero: 113
+    titulo: Pruebas de comprensión de instrucciones escritas
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/113-pruebas-de-comprension-de-instrucciones-escritas
+    horas_estimadas: 4
+    estado: planificada
+  - id: '114'
+    numero: 114
+    titulo: Evaluación de desempeño y criterios
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/114-evaluacion-de-desempeno-y-criterios
+    horas_estimadas: 4
+    estado: planificada
+  - id: '115'
+    numero: 115
+    titulo: Juicio situacional
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/115-juicio-situacional
+    horas_estimadas: 4
+    estado: planificada
+  - id: '116'
+    numero: 116
+    titulo: Personalidad de vendedores y evaluación comercial
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/116-personalidad-de-vendedores-y-evaluacion-comercial
+    horas_estimadas: 4
+    estado: planificada
+  - id: '117'
+    numero: 117
+    titulo: Percepción y prevención de riesgos laborales
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/117-percepcion-y-prevencion-de-riesgos-laborales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '118'
+    numero: 118
+    titulo: 'Ajuste persona-puesto: qué se puede y qué no afirmar'
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/118-ajuste-persona-puesto-que-se-puede-y
+    horas_estimadas: 4
+    estado: planificada
+  - id: '119'
+    numero: 119
+    titulo: 'Dominio del inglés laboral: evaluación de idioma'
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/119-dominio-del-ingles-laboral-evaluacion-de-idioma
+    horas_estimadas: 4
+    estado: planificada
+  - id: '120'
+    numero: 120
+    titulo: Impacto adverso y defensa legal de una decisión de selección
+    ruta: classes/part-11-psicometria-laboral-y-empleabilidad/120-impacto-adverso-y-defensa-legal-de-una
+    horas_estimadas: 4
+    estado: planificada
+- id: '12'
+  slug: liderazgo-equipos-y-sociometria
+  titulo: Liderazgo, equipos y sociometría
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Evaluación del liderazgo, el trabajo en equipo y las relaciones sociales en grupos.
+  clases:
+  - id: '121'
+    numero: 121
+    titulo: 'Teorías del liderazgo: Lewin y estilos'
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/121-teorias-del-liderazgo-lewin-y-estilos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '122'
+    numero: 122
+    titulo: Evaluación de la efectividad del liderazgo
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/122-evaluacion-de-la-efectividad-del-liderazgo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '123'
+    numero: 123
+    titulo: 'Roles en equipos: modelo Belbin y su evidencia'
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/123-roles-en-equipos-modelo-belbin-y-su
+    horas_estimadas: 4
+    estado: planificada
+  - id: '124'
+    numero: 124
+    titulo: Comportamiento en equipos de trabajo
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/124-comportamiento-en-equipos-de-trabajo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '125'
+    numero: 125
+    titulo: 'Sociometría: elecciones y rechazos'
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/125-sociometria-elecciones-y-rechazos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '126'
+    numero: 126
+    titulo: Análisis de redes sociométricas
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/126-analisis-de-redes-sociometricas
+    horas_estimadas: 4
+    estado: planificada
+  - id: '127'
+    numero: 127
+    titulo: Cohesión, aislamiento y liderazgo informal
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/127-cohesion-aislamiento-y-liderazgo-informal
+    horas_estimadas: 4
+    estado: planificada
+  - id: '128'
+    numero: 128
+    titulo: Clima organizacional y escolar
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/128-clima-organizacional-y-escolar
+    horas_estimadas: 4
+    estado: planificada
+  - id: '129'
+    numero: 129
+    titulo: Evaluación 360 y sesgos de los evaluadores
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/129-evaluacion-360-y-sesgos-de-los-evaluadores
+    horas_estimadas: 4
+    estado: planificada
+  - id: '130'
+    numero: 130
+    titulo: Gestión de conflictos y toma de decisiones
+    ruta: classes/part-12-liderazgo-equipos-y-sociometria/130-gestion-de-conflictos-y-toma-de-decisiones
+    horas_estimadas: 4
+    estado: planificada
+- id: '13'
+  slug: desarrollo-infantil-y-evaluacion-psicoeducativa
+  titulo: Desarrollo infantil y evaluación psicoeducativa
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: 'Evaluación en la infancia: desarrollo, lenguaje y señales de alerta, con ética reforzada.'
+  clases:
+  - id: '131'
+    numero: 131
+    titulo: Hitos del desarrollo y sus rangos normales
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/131-hitos-del-desarrollo-y-sus-rangos-normales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '132'
+    numero: 132
+    titulo: 'Desarrollo cognitivo infantil: Piaget y Vygotsky'
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/132-desarrollo-cognitivo-infantil-piaget-y-vygotsky
+    horas_estimadas: 4
+    estado: planificada
+  - id: '133'
+    numero: 133
+    titulo: Desarrollo del lenguaje
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/133-desarrollo-del-lenguaje
+    horas_estimadas: 4
+    estado: planificada
+  - id: '134'
+    numero: 134
+    titulo: Observación sistemática y registros anecdóticos
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/134-observacion-sistematica-y-registros-anecdoticos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '135'
+    numero: 135
+    titulo: Cribado frente a diagnóstico en la infancia
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/135-cribado-frente-a-diagnostico-en-la-infancia
+    horas_estimadas: 4
+    estado: planificada
+  - id: '136'
+    numero: 136
+    titulo: 'Evaluar con la familia: entrevista y devolución'
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/136-evaluar-con-la-familia-entrevista-y-devolucion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '137'
+    numero: 137
+    titulo: Atención temprana y apoyos
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/137-atencion-temprana-y-apoyos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '138'
+    numero: 138
+    titulo: Evaluación en educación parvularia
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/138-evaluacion-en-educacion-parvularia
+    horas_estimadas: 4
+    estado: planificada
+  - id: '139'
+    numero: 139
+    titulo: 'Cribado del neurodesarrollo: alcances y derivación'
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/139-cribado-del-neurodesarrollo-alcances-y-derivacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '140'
+    numero: 140
+    titulo: 'Contexto chileno: referentes curriculares y normativos'
+    ruta: classes/part-13-desarrollo-infantil-y-evaluacion-psicoeducativa/140-contexto-chileno-referentes-curriculares-y-normativos
+    horas_estimadas: 4
+    estado: planificada
+- id: '14'
+  slug: aprendizaje-aptitudes-y-dificultades-escolares
+  titulo: Aprendizaje, aptitudes y dificultades escolares
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: Lectura, escritura, matemática y dificultades de aprendizaje desde una óptica pedagógica.
+  clases:
+  - id: '141'
+    numero: 141
+    titulo: 'Comprensión lectora: niveles y evaluación'
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/141-comprension-lectora-niveles-y-evaluacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '142'
+    numero: 142
+    titulo: Fluidez y precisión lectora
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/142-fluidez-y-precision-lectora
+    horas_estimadas: 4
+    estado: planificada
+  - id: '143'
+    numero: 143
+    titulo: Escritura y producción textual con rúbricas
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/143-escritura-y-produccion-textual-con-rubricas
+    horas_estimadas: 4
+    estado: planificada
+  - id: '144'
+    numero: 144
+    titulo: Razonamiento matemático y cálculo
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/144-razonamiento-matematico-y-calculo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '145'
+    numero: 145
+    titulo: 'Dificultades específicas de aprendizaje: cribado y derivación'
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/145-dificultades-especificas-de-aprendizaje-cribado-y-derivacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '146'
+    numero: 146
+    titulo: Hábitos de estudio y técnicas de estudio
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/146-habitos-de-estudio-y-tecnicas-de-estudio
+    horas_estimadas: 4
+    estado: planificada
+  - id: '147'
+    numero: 147
+    titulo: Estrategias metacognitivas y autorregulación del aprendizaje
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/147-estrategias-metacognitivas-y-autorregulacion-del-aprendizaje
+    horas_estimadas: 4
+    estado: planificada
+  - id: '148'
+    numero: 148
+    titulo: Motivación académica
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/148-motivacion-academica
+    horas_estimadas: 4
+    estado: planificada
+  - id: '149'
+    numero: 149
+    titulo: Habilidades digitales del estudiantado
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/149-habilidades-digitales-del-estudiantado
+    horas_estimadas: 4
+    estado: planificada
+  - id: '150'
+    numero: 150
+    titulo: Evaluación de apoyos educativos y evaluación inclusiva
+    ruta: classes/part-14-aprendizaje-aptitudes-y-dificultades-escolares/150-evaluacion-de-apoyos-educativos-y-evaluacion-inclusiva
+    horas_estimadas: 4
+    estado: planificada
+- id: '15'
+  slug: orientacion-vocacional-y-competencias-profesionales
+  titulo: Orientación vocacional y competencias profesionales
+  nivel: intermedio
+  semanas: 3-4
+  descripcion: Intereses, valores y competencias para la orientación académica y profesional.
+  clases:
+  - id: '151'
+    numero: 151
+    titulo: Teoría de intereses de Holland
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/151-teoria-de-intereses-de-holland
+    horas_estimadas: 4
+    estado: planificada
+  - id: '152'
+    numero: 152
+    titulo: Intereses y O*NET Interest Profiler
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/152-intereses-y-o-net-interest-profiler
+    horas_estimadas: 4
+    estado: planificada
+  - id: '153'
+    numero: 153
+    titulo: Valores laborales y de vida
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/153-valores-laborales-y-de-vida
+    horas_estimadas: 4
+    estado: planificada
+  - id: '154'
+    numero: 154
+    titulo: Madurez y toma de decisiones vocacionales
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/154-madurez-y-toma-de-decisiones-vocacionales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '155'
+    numero: 155
+    titulo: Competencias transversales y empleabilidad
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/155-competencias-transversales-y-empleabilidad
+    horas_estimadas: 4
+    estado: planificada
+  - id: '156'
+    numero: 156
+    titulo: Portafolios de evidencias
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/156-portafolios-de-evidencias
+    horas_estimadas: 4
+    estado: planificada
+  - id: '157'
+    numero: 157
+    titulo: Orientación en educación media técnico-profesional
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/157-orientacion-en-educacion-media-tecnico-profesional
+    horas_estimadas: 4
+    estado: planificada
+  - id: '158'
+    numero: 158
+    titulo: Orientación en educación superior y transición laboral
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/158-orientacion-en-educacion-superior-y-transicion-laboral
+    horas_estimadas: 4
+    estado: planificada
+  - id: '159'
+    numero: 159
+    titulo: Formación continua y reconversión laboral
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/159-formacion-continua-y-reconversion-laboral
+    horas_estimadas: 4
+    estado: planificada
+  - id: '160'
+    numero: 160
+    titulo: Diseño de un programa de orientación basado en evidencia
+    ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/160-diseno-de-un-programa-de-orientacion-basado
+    horas_estimadas: 4
+    estado: planificada
+- id: '16'
+  slug: evaluacion-socioemocional-y-bienestar
+  titulo: Evaluación socioemocional y bienestar
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: Medición de bienestar y habilidades socioemocionales, con protocolos de protección y derivación.
+  clases:
+  - id: '161'
+    numero: 161
+    titulo: Bienestar subjetivo y calidad de vida
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/161-bienestar-subjetivo-y-calidad-de-vida
+    horas_estimadas: 4
+    estado: planificada
+  - id: '162'
+    numero: 162
+    titulo: Estrés percibido
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/162-estres-percibido
+    horas_estimadas: 4
+    estado: planificada
+  - id: '163'
+    numero: 163
+    titulo: Resiliencia y autoeficacia
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/163-resiliencia-y-autoeficacia
+    horas_estimadas: 4
+    estado: planificada
+  - id: '164'
+    numero: 164
+    titulo: Regulación emocional
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/164-regulacion-emocional
+    horas_estimadas: 4
+    estado: planificada
+  - id: '165'
+    numero: 165
+    titulo: Habilidades sociales y empatía
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/165-habilidades-sociales-y-empatia
+    horas_estimadas: 4
+    estado: planificada
+  - id: '166'
+    numero: 166
+    titulo: Satisfacción académica y laboral
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/166-satisfaccion-academica-y-laboral
+    horas_estimadas: 4
+    estado: planificada
+  - id: '167'
+    numero: 167
+    titulo: 'Escalas de síntomas: qué no se puede hacer sin un profesional'
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/167-escalas-de-sintomas-que-no-se-puede
+    horas_estimadas: 4
+    estado: planificada
+  - id: '168'
+    numero: 168
+    titulo: Protocolo de derivación y de riesgo
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/168-protocolo-de-derivacion-y-de-riesgo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '169'
+    numero: 169
+    titulo: Evaluación socioemocional escolar
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/169-evaluacion-socioemocional-escolar
+    horas_estimadas: 4
+    estado: planificada
+  - id: '170'
+    numero: 170
+    titulo: 'Intervenciones: recomendaciones, intervención profesional y tratamiento'
+    ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento
+    horas_estimadas: 4
+    estado: planificada
+- id: '17'
+  slug: investigacion-psicometrica-y-analisis-de-datos
+  titulo: Investigación psicométrica y análisis de datos
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: Diseño de estudios de validación, simulación y análisis reproducible.
+  clases:
+  - id: '171'
+    numero: 171
+    titulo: Diseño de un estudio de validación
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/171-diseno-de-un-estudio-de-validacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '172'
+    numero: 172
+    titulo: Tamaño muestral y potencia
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/172-tamano-muestral-y-potencia
+    horas_estimadas: 4
+    estado: planificada
+  - id: '173'
+    numero: 173
+    titulo: Simulación de datos psicométricos
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/173-simulacion-de-datos-psicometricos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '174'
+    numero: 174
+    titulo: Datos faltantes en instrumentos
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/174-datos-faltantes-en-instrumentos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '175'
+    numero: 175
+    titulo: Análisis longitudinal y cambio confiable
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/175-analisis-longitudinal-y-cambio-confiable
+    horas_estimadas: 4
+    estado: planificada
+  - id: '176'
+    numero: 176
+    titulo: Estimación de incertidumbre y bootstrap
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/176-estimacion-de-incertidumbre-y-bootstrap
+    horas_estimadas: 4
+    estado: planificada
+  - id: '177'
+    numero: 177
+    titulo: Funcionamiento diferencial del ítem en la práctica
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/177-funcionamiento-diferencial-del-item-en-la-practica
+    horas_estimadas: 4
+    estado: planificada
+  - id: '178'
+    numero: 178
+    titulo: 'Reproducibilidad: preregistro, datos y código'
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/178-reproducibilidad-preregistro-datos-y-codigo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '179'
+    numero: 179
+    titulo: Metaanálisis psicométrico
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/179-metaanalisis-psicometrico
+    horas_estimadas: 4
+    estado: planificada
+  - id: '180'
+    numero: 180
+    titulo: Redacción y revisión de un informe de validación
+    ruta: classes/part-17-investigacion-psicometrica-y-analisis-de-datos/180-redaccion-y-revision-de-un-informe-de
+    horas_estimadas: 4
+    estado: planificada
+- id: '18'
+  slug: ingenieria-de-sistemas-de-evaluacion-digital
+  titulo: Ingeniería de sistemas de evaluación digital
+  nivel: avanzado
+  semanas: 4-5
+  descripcion: Arquitectura, accesibilidad y seguridad de plataformas de evaluación.
+  clases:
+  - id: '181'
+    numero: 181
+    titulo: Arquitectura de un motor de evaluación declarativo
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/181-arquitectura-de-un-motor-de-evaluacion-declarativo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '182'
+    numero: 182
+    titulo: Modelos de ítems y esquemas versionados
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/182-modelos-de-items-y-esquemas-versionados
+    horas_estimadas: 4
+    estado: planificada
+  - id: '183'
+    numero: 183
+    titulo: Baterías de evaluación y sesiones reanudables
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/183-baterias-de-evaluacion-y-sesiones-reanudables
+    horas_estimadas: 4
+    estado: planificada
+  - id: '184'
+    numero: 184
+    titulo: Telemetría de interacción y tiempos de respuesta
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/184-telemetria-de-interaccion-y-tiempos-de-respuesta
+    horas_estimadas: 4
+    estado: planificada
+  - id: '185'
+    numero: 185
+    titulo: 'Evaluación adaptativa: implementación'
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/185-evaluacion-adaptativa-implementacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '186'
+    numero: 186
+    titulo: Accesibilidad de evaluaciones digitales
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/186-accesibilidad-de-evaluaciones-digitales
+    horas_estimadas: 4
+    estado: planificada
+  - id: '187'
+    numero: 187
+    titulo: Auditoría de cálculo y trazabilidad
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/187-auditoria-de-calculo-y-trazabilidad
+    horas_estimadas: 4
+    estado: planificada
+  - id: '188'
+    numero: 188
+    titulo: Seguridad y privacidad por diseño
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/188-seguridad-y-privacidad-por-diseno
+    horas_estimadas: 4
+    estado: planificada
+  - id: '189'
+    numero: 189
+    titulo: Interoperabilidad y exportación de resultados
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/189-interoperabilidad-y-exportacion-de-resultados
+    horas_estimadas: 4
+    estado: planificada
+  - id: '190'
+    numero: 190
+    titulo: 'Herramientas abiertas: jsPsych, PsychoPy, lab.js, PEBL'
+    ruta: classes/part-18-ingenieria-de-sistemas-de-evaluacion-digital/190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl
+    horas_estimadas: 4
+    estado: planificada
+- id: '19'
+  slug: aplicaciones-avanzadas-y-proyectos-integradores
+  titulo: Aplicaciones avanzadas y proyectos integradores
+  nivel: avanzado
+  semanas: 5-6
+  descripcion: Proyectos que integran las partes anteriores con datos sintéticos y decisiones responsables.
+  clases:
+  - id: '191'
+    numero: 191
+    titulo: 'Proyecto: batería educativa de cribado con datos sintéticos'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/191-proyecto-bateria-educativa-de-cribado-con-datos
+    horas_estimadas: 4
+    estado: planificada
+  - id: '192'
+    numero: 192
+    titulo: 'Proyecto: batería laboral con ajuste justificado'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/192-proyecto-bateria-laboral-con-ajuste-justificado
+    horas_estimadas: 4
+    estado: planificada
+  - id: '193'
+    numero: 193
+    titulo: 'Proyecto: adaptación de un instrumento abierto'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/193-proyecto-adaptacion-de-un-instrumento-abierto
+    horas_estimadas: 4
+    estado: planificada
+  - id: '194'
+    numero: 194
+    titulo: 'Proyecto: informe para familias y docentes'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/194-proyecto-informe-para-familias-y-docentes
+    horas_estimadas: 4
+    estado: planificada
+  - id: '195'
+    numero: 195
+    titulo: 'Proyecto: informe para una organización'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/195-proyecto-informe-para-una-organizacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '196'
+    numero: 196
+    titulo: 'Proyecto: estudio de validación simulado de extremo a extremo'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/196-proyecto-estudio-de-validacion-simulado-de-extremo
+    horas_estimadas: 4
+    estado: planificada
+  - id: '197'
+    numero: 197
+    titulo: 'Proyecto: auditoría ética de un instrumento'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/197-proyecto-auditoria-etica-de-un-instrumento
+    horas_estimadas: 4
+    estado: planificada
+  - id: '198'
+    numero: 198
+    titulo: 'Proyecto: tablero de seguimiento longitudinal'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/198-proyecto-tablero-de-seguimiento-longitudinal
+    horas_estimadas: 4
+    estado: planificada
+  - id: '199'
+    numero: 199
+    titulo: 'Proyecto: instrumento original con protocolo de validación'
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/199-proyecto-instrumento-original-con-protocolo-de-validacion
+    horas_estimadas: 4
+    estado: planificada
+  - id: '200'
+    numero: 200
+    titulo: Defensa final y plan de desarrollo profesional
+    ruta: classes/part-19-aplicaciones-avanzadas-y-proyectos-integradores/200-defensa-final-y-plan-de-desarrollo-profesional
+    horas_estimadas: 4
+    estado: planificada

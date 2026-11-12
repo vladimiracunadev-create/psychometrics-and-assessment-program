@@ -1,0 +1,174 @@
+# Catalogo ampliado de instrumentos, familias metodologicas y tecnicas de evaluacion.
+#
+# QUE ES: fichas DOCUMENTALES. Una ficha NO es un test ejecutable ni un test validado.
+# El estado de cada ficha esta en `estado`; solo los instrumentos con `implementacion`
+# apuntan a un YAML real de instruments/.
+#
+# HONESTIDAD DE DATOS: esta primera pasada fija nombre, familia, uso y estado. Toda
+# ficha lleva `verificado: false` hasta que alguien contraste titular, licencia,
+# version y evidencia contra la fuente primaria. Los campos ausentes significan
+# "no verificado", nunca "no existe". No se infieren contenidos desde un nombre.
+#
+# VALORES
+#   familia: A inteligencia | B atencion-memoria-ejecutivas | C personalidad |
+#            D laboral | E psicoeducativa | F sociometria | G bienestar | H tecnicas
+#   uso: educativo | laboral | clinico | investigacion | orientacion
+#   estado: documentado | disponible-legalmente | implementado | en-investigacion |
+#           validado-uso-especifico
+#   licencia: propietaria | dominio-publico | abierta | no-aplica | no-verificado
+defaults:
+  verificado: false
+  estado: documentado
+  licencia: no-verificado
+  redistribuible: no-verificado
+fichas:
+  # ---- Instrumentos laborales universales (denominaciones; contenido NO verificado) ----
+  - {id: cie, nombre: "Comprension de Instrucciones Escritas", familia: D, uso: [laboral], nota: "Constructo inferido solo del nombre; items, metodologia y normas no verificados."}
+  - {id: arp, nombre: "Aprendizaje y Resolucion de Problemas", familia: D, uso: [laboral], nota: "Constructo inferido solo del nombre; contenido no verificado."}
+  - {id: amp, nombre: "Aptitudes Mentales Primarias", familia: A, uso: [laboral, educativo], nota: "Remite a la teoria de Thurstone (1938); la version comercial concreta no esta verificada."}
+  - {id: eel, nombre: "Efectividad y Estilos de Liderazgo", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: pdv, nombre: "Personalidad de Vendedores", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: tdl, nombre: "Tipos de Liderazgo", familia: D, uso: [laboral], nota: "Contenido no verificado; contraste con la tipologia de Lewin."}
+  - {id: pdr, nombre: "Percepcion de Riesgos", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: eep, nombre: "Escala de Estado de Personalidad", familia: C, uso: [laboral, investigacion], nota: "Contenido no verificado."}
+  - {id: prp, nombre: "Prevencion de Riesgos Profesionales", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: cet, nombre: "Comportamiento en Equipos de Trabajo", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: ect, nombre: "Estilos de Comportamiento en el Trabajo", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: dct, nombre: "Desempeno y Comportamiento en el Trabajo", familia: D, uso: [laboral], nota: "Contenido no verificado."}
+  - {id: pfp, nombre: "Preferencias de Faceta de Personalidad", familia: C, uso: [laboral], nota: "Contenido no verificado; alternativa abierta: facetas IPIP-NEO."}
+  - {id: pgp, nombre: "Perfil Global de Personalidad", familia: C, uso: [laboral], nota: "Contenido no verificado; alternativa abierta: IPIP-NEO-120."}
+  - {id: mci, nombre: "Manejo y Comprension del Ingles", familia: D, uso: [laboral, educativo], nota: "Contenido no verificado."}
+  # ---- Referentes laborales y de personalidad ----
+  - {id: wonderlic, nombre: "Wonderlic Cognitive Ability Test", familia: A, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: pma, nombre: "Primary Mental Abilities (Thurstone)", familia: A, uso: [educativo, laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: disc-comercial, nombre: "DISC (versiones comerciales)", familia: C, uso: [laboral], nota: "Teoria de Marston (1928); las versiones comerciales difieren entre si y su evidencia es debatida."}
+  - {id: 16pf, nombre: "16PF (Cattell)", familia: C, uso: [laboral, clinico, investigacion], licencia: propietaria, redistribuible: "no"}
+  - {id: mbti, nombre: "Myers-Briggs Type Indicator", familia: C, uso: [laboral, orientacion], licencia: propietaria, redistribuible: "no", nota: "Tipologia; la evidencia de validez predictiva laboral es limitada."}
+  - {id: belbin, nombre: "Belbin Team Roles", familia: D, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: papi-kostick, nombre: "PAPI / Perception and Preference Inventory (Kostick)", familia: C, uso: [laboral], licencia: propietaria, redistribuible: "no", nota: "Formato ipsativo."}
+  - {id: lewin-liderazgo, nombre: "Estilos de liderazgo de Lewin (autocratico, democratico, laissez-faire)", familia: D, uso: [educativo, investigacion], licencia: no-aplica, nota: "Marco teorico de 1939, no un test."}
+  - {id: bis-11, nombre: "Barratt Impulsiveness Scale (BIS-11)", familia: C, uso: [investigacion, clinico], nota: "Patton, Stanford y Barratt (1995)."}
+  - {id: ipv, nombre: "Inventario de Personalidad para Vendedores (IPV)", familia: D, uso: [laboral], nota: "Titular y version no verificados."}
+  - {id: neo-pi-r, nombre: "NEO-PI-R / NEO-PI-3", familia: C, uso: [investigacion, laboral, clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: bfi-2, nombre: "Big Five Inventory-2 (BFI-2)", familia: C, uso: [investigacion], nota: "Soto y John (2017); condiciones de uso por verificar."}
+  - {id: hexaco-pi-r, nombre: "HEXACO-PI-R", familia: C, uso: [investigacion], nota: "Condiciones de uso por verificar."}
+  - {id: tipi, nombre: "Ten-Item Personality Inventory (TIPI)", familia: C, uso: [investigacion], nota: "Gosling, Rentfrow y Swann (2003); 10 items, fiabilidad limitada por diseno."}
+  - {id: epq, nombre: "Eysenck Personality Questionnaire", familia: C, uso: [investigacion, clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: hpi-hogan, nombre: "Hogan Personality Inventory", familia: C, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: opq32, nombre: "Occupational Personality Questionnaire (OPQ32)", familia: C, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: mmpi-2, nombre: "MMPI-2 / MMPI-3", familia: C, uso: [clinico], licencia: propietaria, redistribuible: "no", nota: "Uso restringido a profesionales cualificados; fuera del alcance de uso de este programa."}
+  - {id: via-is, nombre: "VIA Inventory of Strengths", familia: C, uso: [investigacion, educativo], nota: "Ver implementacion abierta ipip-via-r."}
+  - {id: cliftonstrengths, nombre: "CliftonStrengths", familia: C, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: schwartz-pvq, nombre: "Portrait Values Questionnaire (Schwartz)", familia: C, uso: [investigacion, orientacion], nota: "Teoria de valores de Schwartz."}
+  - {id: rokeach, nombre: "Rokeach Value Survey", familia: C, uso: [investigacion], nota: "Formato de ranking."}
+  # ---- Implementados en el motor ----
+  - {id: ipip-neo-120, nombre: "IPIP-NEO-120", familia: C, uso: [investigacion, educativo], estado: implementado, licencia: dominio-publico, redistribuible: "si", implementacion: ipip-neo-120, verificado: true, nota: "Items de dominio publico; implementado, SIN estudio de validacion propio."}
+  - {id: ipip-via-r-ficha, nombre: "IPIP-VIA-R", familia: C, uso: [investigacion, educativo], estado: implementado, licencia: dominio-publico, redistribuible: "si", implementacion: ipip-via-r, verificado: true, nota: "Implementado, sin validar."}
+  - {id: onet-riasec-sf-ficha, nombre: "O*NET Interest Profiler Short Form (adaptacion espanola)", familia: E, uso: [orientacion], estado: implementado, licencia: abierta, implementacion: onet-riasec-sf, verificado: true, nota: "Licencia O-NET-Tools-Developer con validacion pendiente. Ver DISCLAIMER.md."}
+  - {id: disc-abierto-ficha, nombre: "DISC abierto (items propios)", familia: C, uso: [educativo], estado: implementado, licencia: abierta, implementacion: disc-abierto, verificado: true, nota: "Autoria propia, sin validar; NO equivale a ningun DISC comercial."}
+  - {id: valores-spranger-ficha, nombre: "Valores de Spranger (items propios)", familia: C, uso: [educativo, orientacion], estado: implementado, licencia: abierta, implementacion: valores-spranger, verificado: true, nota: "Autoria propia, sin validar."}
+  # ---- Inteligencia y razonamiento ----
+  - {id: wisc, nombre: "Escalas Wechsler para ninos (WISC)", familia: A, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no", nota: "Administracion restringida a psicologos habilitados."}
+  - {id: wais, nombre: "Escalas Wechsler para adultos (WAIS)", familia: A, uso: [clinico], licencia: propietaria, redistribuible: "no", nota: "Administracion restringida a psicologos habilitados."}
+  - {id: wj, nombre: "Woodcock-Johnson (bateria de capacidades y logro)", familia: A, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no"}
+  - {id: kabc, nombre: "Kaufman Assessment Battery for Children (KABC)", familia: A, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no"}
+  - {id: raven-spm, nombre: "Matrices Progresivas de Raven", familia: A, uso: [educativo, investigacion, clinico], licencia: propietaria, redistribuible: "no", nota: "Razonamiento abstracto; los items oficiales no se reproducen aqui."}
+  - {id: cattell-cultura-justa, nombre: "Test de Factor g de Cattell (Culture Fair)", familia: A, uso: [educativo, laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: razonamiento-numerico, nombre: "Razonamiento numerico (familia)", familia: A, uso: [laboral, educativo], licencia: no-aplica, nota: "Familia metodologica; existe prototipo propio posible."}
+  - {id: razonamiento-verbal, nombre: "Razonamiento verbal (familia)", familia: A, uso: [laboral, educativo], licencia: no-aplica}
+  - {id: razonamiento-espacial, nombre: "Razonamiento espacial (familia)", familia: A, uso: [laboral, educativo], licencia: no-aplica}
+  - {id: matrices-series, nombre: "Matrices y series (familia)", familia: A, uso: [educativo, investigacion], licencia: no-aplica, nota: "Generables proceduralmente con semilla y respuesta verificable."}
+  - {id: velocidad-procesamiento, nombre: "Velocidad de procesamiento (familia)", familia: A, uso: [investigacion, educativo], licencia: no-aplica}
+  - {id: comprension-instrucciones, nombre: "Comprension de instrucciones (familia)", familia: A, uso: [laboral], licencia: no-aplica}
+  - {id: resolucion-problemas, nombre: "Resolucion de problemas (familia)", familia: A, uso: [laboral, educativo], licencia: no-aplica}
+  # ---- Atencion, memoria y funciones ejecutivas ----
+  - {id: stroop, nombre: "Tarea Stroop", familia: B, uso: [investigacion, clinico], licencia: no-aplica, nota: "Paradigma experimental (Stroop, 1935); versiones comerciales con normas son aparte."}
+  - {id: trail-making, nombre: "Trail Making Test", familia: B, uso: [clinico, investigacion]}
+  - {id: wcst, nombre: "Wisconsin Card Sorting Test", familia: B, uso: [clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: torre-de-londres, nombre: "Torre de Londres", familia: B, uso: [clinico, investigacion]}
+  - {id: digit-span, nombre: "Amplitud de digitos (directo e inverso)", familia: B, uso: [clinico, investigacion], nota: "Subprueba de baterias Wechsler; el paradigma es de uso general."}
+  - {id: corsi, nombre: "Bloques de Corsi", familia: B, uso: [investigacion, clinico]}
+  - {id: n-back, nombre: "Tarea n-back", familia: B, uso: [investigacion], licencia: no-aplica}
+  - {id: go-no-go, nombre: "Tarea Go/No-Go", familia: B, uso: [investigacion], licencia: no-aplica}
+  - {id: flanker, nombre: "Tarea Flanker", familia: B, uso: [investigacion], licencia: no-aplica}
+  - {id: simon, nombre: "Tarea Simon", familia: B, uso: [investigacion], licencia: no-aplica}
+  - {id: cpt, nombre: "Continuous Performance Test", familia: B, uso: [clinico, investigacion]}
+  - {id: tiempo-reaccion, nombre: "Tiempo de reaccion simple y de eleccion", familia: B, uso: [investigacion], licencia: no-aplica}
+  - {id: rey-ravlt, nombre: "Rey Auditory Verbal Learning Test", familia: B, uso: [clinico, investigacion]}
+  - {id: rey-figura-compleja, nombre: "Figura Compleja de Rey-Osterrieth", familia: B, uso: [clinico]}
+  - {id: igt, nombre: "Iowa Gambling Task", familia: B, uso: [investigacion]}
+  - {id: nepsy, nombre: "NEPSY (evaluacion neuropsicologica infantil)", familia: B, uso: [clinico], licencia: propietaria, redistribuible: "no", nota: "Uso clinico especializado."}
+  - {id: brief, nombre: "BRIEF (funciones ejecutivas, informe de padres y docentes)", familia: B, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no"}
+  # ---- Psicoeducativos ----
+  - {id: basc, nombre: "BASC (sistema de evaluacion de la conducta de ninos y adolescentes)", familia: E, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no"}
+  - {id: conners, nombre: "Escalas Conners", familia: E, uso: [clinico], licencia: propietaria, redistribuible: "no", nota: "Cribado de TDAH; no diagnostica."}
+  - {id: sdq, nombre: "Strengths and Difficulties Questionnaire (SDQ)", familia: E, uso: [educativo, clinico, investigacion], nota: "Goodman (1997); condiciones de uso por verificar."}
+  - {id: prolec, nombre: "PROLEC (bateria de evaluacion de procesos lectores)", familia: E, uso: [educativo, clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: proesc, nombre: "PROESC (evaluacion de procesos de escritura)", familia: E, uso: [educativo, clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: dibels, nombre: "DIBELS (indicadores dinamicos de habilidades basicas de lectura)", familia: E, uso: [educativo], nota: "Cribado y monitoreo de progreso en lectura inicial; condiciones de uso por verificar."}
+  - {id: egra, nombre: "Early Grade Reading Assessment (EGRA)", familia: E, uso: [educativo, investigacion], nota: "Documentacion publica disponible; condiciones por verificar."}
+  - {id: ppvt, nombre: "Peabody Picture Vocabulary Test", familia: E, uso: [educativo, clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: tepsi, nombre: "TEPSI (test de desarrollo psicomotor 2-5 anos, Chile)", familia: E, uso: [educativo, clinico], nota: "Instrumento chileno; version y baremos vigentes por verificar."}
+  - {id: eedp, nombre: "EEDP (escala de evaluacion del desarrollo psicomotor 0-24 meses, Chile)", familia: E, uso: [clinico, educativo], nota: "Instrumento chileno; version y baremos vigentes por verificar."}
+  - {id: asq, nombre: "Ages and Stages Questionnaires (ASQ)", familia: E, uso: [clinico, educativo], licencia: propietaria, redistribuible: "no", nota: "Cribado del desarrollo."}
+  - {id: bayley, nombre: "Escalas Bayley de desarrollo infantil", familia: E, uso: [clinico], licencia: propietaria, redistribuible: "no"}
+  - {id: comprension-lectora, nombre: "Pruebas de comprension lectora (familia)", familia: E, uso: [educativo], licencia: no-aplica, nota: "Se pueden construir con textos de dominio publico y rubrica de niveles."}
+  - {id: fluidez-lectora, nombre: "Fluidez lectora en voz alta (palabras correctas por minuto)", familia: E, uso: [educativo], licencia: no-aplica}
+  - {id: razonamiento-matematico, nombre: "Razonamiento y calculo matematico (familia)", familia: E, uso: [educativo], licencia: no-aplica}
+  - {id: aptitudes-escolares, nombre: "Baterias de aptitudes escolares (familia)", familia: E, uso: [educativo]}
+  - {id: simce, nombre: "SIMCE (sistema nacional de evaluacion de resultados de aprendizaje, Chile)", familia: E, uso: [educativo], nota: "Evaluacion de sistema, no diagnostica a individuos; documentacion oficial de la Agencia de Calidad de la Educacion por verificar."}
+  - {id: pisa, nombre: "PISA (OCDE)", familia: E, uso: [educativo, investigacion], nota: "Evaluacion de sistema; marcos de evaluacion publicos por verificar."}
+  - {id: timss-pirls, nombre: "TIMSS y PIRLS (IEA)", familia: E, uso: [educativo, investigacion], nota: "Evaluaciones de sistema."}
+  - {id: mslq, nombre: "Motivated Strategies for Learning Questionnaire (MSLQ)", familia: E, uso: [educativo, investigacion], nota: "Pintrich et al. (1991)."}
+  - {id: lassi, nombre: "Learning and Study Strategies Inventory (LASSI)", familia: E, uso: [educativo], licencia: propietaria, redistribuible: "no"}
+  - {id: autorregulacion-aprendizaje, nombre: "Escalas de aprendizaje autorregulado (familia)", familia: E, uso: [educativo, investigacion], licencia: no-aplica}
+  - {id: habitos-estudio, nombre: "Inventarios de habitos de estudio (familia)", familia: E, uso: [educativo], licencia: no-aplica}
+  - {id: habilidades-digitales, nombre: "Evaluacion de habilidades digitales (familia, p. ej. DigComp)", familia: E, uso: [educativo], nota: "Marco europeo DigComp como referencia; version por verificar."}
+  - {id: strong, nombre: "Strong Interest Inventory", familia: E, uso: [orientacion], licencia: propietaria, redistribuible: "no"}
+  - {id: sds-holland, nombre: "Self-Directed Search (Holland)", familia: E, uso: [orientacion], licencia: propietaria, redistribuible: "no"}
+  - {id: kuder, nombre: "Kuder Career Assessments", familia: E, uso: [orientacion], licencia: propietaria, redistribuible: "no"}
+  - {id: onet-interest-profiler, nombre: "O*NET Interest Profiler", familia: E, uso: [orientacion], nota: "Del U.S. Department of Labor; condiciones de la herramienta oficial por verificar. Ver implementacion onet-riasec-sf."}
+  - {id: acceso-evaluacion-inclusiva, nombre: "Evaluacion de apoyos y acceso (familia)", familia: E, uso: [educativo], licencia: no-aplica}
+  # ---- Laboral adicional ----
+  - {id: mlq, nombre: "Multifactor Leadership Questionnaire (MLQ)", familia: D, uso: [laboral, investigacion], licencia: propietaria, redistribuible: "no"}
+  - {id: lpi, nombre: "Leadership Practices Inventory", familia: D, uso: [laboral], licencia: propietaria, redistribuible: "no"}
+  - {id: sjt, nombre: "Pruebas de juicio situacional (familia)", familia: D, uso: [laboral, educativo], licencia: no-aplica, nota: "Permiten banco propio con clave por consenso de expertos."}
+  - {id: assessment-center, nombre: "Assessment center (simulaciones)", familia: D, uso: [laboral], licencia: no-aplica}
+  - {id: entrevista-estructurada, nombre: "Entrevista estructurada de seleccion", familia: D, uso: [laboral], licencia: no-aplica, nota: "Entre los metodos con mejor evidencia de validez predictiva reportada en la literatura de seleccion."}
+  - {id: clima-organizacional, nombre: "Encuestas de clima organizacional (familia)", familia: D, uso: [laboral], licencia: no-aplica}
+  - {id: ajuste-persona-puesto, nombre: "Ajuste persona-puesto (marco)", familia: D, uso: [laboral], licencia: no-aplica, nota: "No se publican porcentajes de ajuste sin evidencia de validez."}
+  - {id: evaluacion-360, nombre: "Evaluacion 360 grados", familia: D, uso: [laboral], licencia: no-aplica}
+  - {id: negociacion-conflictos, nombre: "Estilos de gestion de conflictos (familia, p. ej. Thomas-Kilmann)", familia: D, uso: [laboral], nota: "Thomas-Kilmann es propietario; el marco de cinco estilos es citable."}
+  # ---- Sociometria ----
+  - {id: sociometria-moreno, nombre: "Test sociometrico (Moreno)", familia: F, uso: [educativo, laboral, investigacion], licencia: no-aplica, nota: "Elecciones y rechazos; el instrumento se construye con el grupo."}
+  - {id: sociograma-redes, nombre: "Analisis de redes sociometricas", familia: F, uso: [educativo, investigacion], licencia: no-aplica}
+  - {id: cohesion-grupal, nombre: "Escalas de cohesion grupal (familia)", familia: F, uso: [educativo, laboral], licencia: no-aplica}
+  - {id: aislamiento-social, nombre: "Aislamiento y rechazo entre pares (familia)", familia: F, uso: [educativo], licencia: no-aplica}
+  - {id: liderazgo-informal, nombre: "Liderazgo informal por nominacion de pares", familia: F, uso: [educativo, laboral], licencia: no-aplica}
+  # ---- Bienestar y socioemocional (protocolo de derivacion obligatorio) ----
+  - {id: pss-10, nombre: "Perceived Stress Scale (PSS-10)", familia: G, uso: [investigacion], nota: "Cohen et al. (1983); no es instrumento diagnostico."}
+  - {id: who-5, nombre: "WHO-5 Well-Being Index", familia: G, uso: [investigacion, clinico], nota: "Cribado de bienestar; condiciones de uso por verificar."}
+  - {id: swls, nombre: "Satisfaction With Life Scale (SWLS)", familia: G, uso: [investigacion], nota: "Diener et al. (1985); uso libre declarado por el autor, por verificar."}
+  - {id: panas, nombre: "Positive and Negative Affect Schedule (PANAS)", familia: G, uso: [investigacion]}
+  - {id: cd-risc, nombre: "Connor-Davidson Resilience Scale", familia: G, uso: [investigacion], licencia: propietaria, redistribuible: "no"}
+  - {id: gse, nombre: "General Self-Efficacy Scale", familia: G, uso: [investigacion, educativo], nota: "Schwarzer y Jerusalem (1995)."}
+  - {id: rosenberg-ses, nombre: "Escala de autoestima de Rosenberg", familia: G, uso: [investigacion]}
+  - {id: ders, nombre: "Difficulties in Emotion Regulation Scale (DERS)", familia: G, uso: [investigacion, clinico]}
+  - {id: iri, nombre: "Interpersonal Reactivity Index (empatia)", familia: G, uso: [investigacion]}
+  - {id: mbi, nombre: "Maslach Burnout Inventory", familia: G, uso: [laboral, investigacion], licencia: propietaria, redistribuible: "no"}
+  - {id: uwes, nombre: "Utrecht Work Engagement Scale (UWES)", familia: G, uso: [laboral, investigacion]}
+  - {id: phq-9, nombre: "PHQ-9 (cribado de depresion)", familia: G, uso: [clinico], nota: "Escala de sintomas clinicos: solo con protocolo de derivacion profesional. Fuera del alcance de interpretacion de este programa."}
+  - {id: gad-7, nombre: "GAD-7 (cribado de ansiedad)", familia: G, uso: [clinico], nota: "Escala de sintomas clinicos: solo con protocolo de derivacion profesional."}
+  - {id: satisfaccion-academica, nombre: "Satisfaccion academica (familia)", familia: G, uso: [educativo], licencia: no-aplica}
+  - {id: habilidades-sociales, nombre: "Escalas de habilidades sociales (familia)", familia: G, uso: [educativo, clinico], licencia: no-aplica}
+  # ---- Tecnicas digitales ----
+  - {id: cat, nombre: "Testing adaptativo informatizado (CAT)", familia: H, uso: [educativo, investigacion], licencia: no-aplica, nota: "Requiere banco calibrado con IRT; ver clase 030."}
+  - {id: gamificada, nombre: "Evaluaciones gamificadas", familia: H, uso: [laboral, educativo], licencia: no-aplica, nota: "La evidencia de validez es heterogenea; cada juego exige su propio estudio."}
+  - {id: simulaciones, nombre: "Tareas de simulacion", familia: H, uso: [laboral, educativo], licencia: no-aplica}
+  - {id: cuestionario-digital, nombre: "Cuestionarios y escalas informatizadas", familia: H, uso: [educativo, laboral, investigacion], licencia: no-aplica}
+  - {id: rubricas, nombre: "Rubricas analiticas y holisticas", familia: H, uso: [educativo], licencia: no-aplica}
+  - {id: portafolio, nombre: "Portafolios de evidencias", familia: H, uso: [educativo, orientacion], licencia: no-aplica}
+  - {id: ema, nombre: "Evaluacion ecologica momentanea (EMA)", familia: H, uso: [investigacion], licencia: no-aplica}
+  - {id: telemetria, nombre: "Telemetria de interaccion y tiempos de respuesta", familia: H, uso: [investigacion], licencia: no-aplica, nota: "Datos de conducta digital: exigen consentimiento y minimizacion."}
+  - {id: multimodal, nombre: "Medicion multimodal", familia: H, uso: [investigacion], licencia: no-aplica}
+  - {id: analisis-longitudinal, nombre: "Analisis longitudinal de cambio", familia: H, uso: [investigacion, educativo], licencia: no-aplica}

@@ -69,6 +69,16 @@ def main() -> int:
     if fila and len(declaradas) != d_clases:
         fallos.append(f"README declara {d_clases} clases; el curriculo tiene {len(declaradas)}")
 
+    # 2b. Las fichas del catalogo ampliado.
+    from psychometrics.fichas import cargar_fichas, resumen, validar_fichas  # noqa: E402
+    fichas = cargar_fichas()
+    fallos.extend(f"fichas: {e}" for e in validar_fichas(fichas, {i.codigo for i in ins}))
+    res = resumen(fichas)
+    if f"{res['fichas']} fichas documentales" not in readme:
+        fallos.append(f"README no declara '{res['fichas']} fichas documentales'")
+    if f"{res['implementado']} implementadas" not in readme:
+        fallos.append(f"README no declara '{res['implementado']} implementadas'")
+
     # 3. Los items de dominio publico que afirma el badge.
     if f"{n_pub}%20de%20{n_items}%20items" not in readme.replace("í", "i"):
         if not re.search(rf"dominio%20p[^-]*-{n_pub}%20de%20{n_items}", readme):

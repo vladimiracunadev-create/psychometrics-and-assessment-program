@@ -3,6 +3,16 @@
 Estado actual en [`README.md`](README.md#-estado-verificable). Aquí está lo que
 falta y en qué orden.
 
+## Expansión integral (en curso)
+
+- [x] Currículo de 20 partes y 200 clases (estructura; 195 clases sin redactar).
+- [x] 140 fichas documentales en 8 familias, con estados diferenciados.
+- [ ] Redactar clases 006-200 con laboratorio reproducible.
+- [ ] Contrastar cada ficha con su fuente primaria y pasar a `verificado: true`.
+- [ ] Extensión del esquema para ítems de rendimiento (clave, tiempo, adaptativo) con tests propios.
+- [ ] Instrumentos ejecutables nuevos con bancos abiertos u originales.
+- [ ] Matriz de evidencia de validación y baterías de demostración con datos sintéticos.
+
 ## v0.2.0 — Fiabilidad medible
 
 - [ ] Módulo `psychometrics.analisis.fiabilidad`: alfa de Cronbach, omega de

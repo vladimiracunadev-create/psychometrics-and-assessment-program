@@ -6,8 +6,20 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
 
 ## [No publicado]
 
+### Añadido
+- **Currículo ampliado a 20 partes y 200 clases** (`scripts/expand_curriculum.py`,
+  aditivo e idempotente). Las 40 clases originales conservan su identificador;
+  las 160 nuevas (041-200) están **planificadas**, no escritas.
+- **Catálogo ampliado** `catalogo/fichas.yaml`: 140 fichas documentales de
+  instrumentos, familias y técnicas (8 familias A-H), incluidos 15 instrumentos
+  laborales universales y las familias psicoeducativas. Todas `verificado: false`
+  salvo los 5 instrumentos implementados; ninguna validada.
+- Módulo `psychometrics.fichas` con validación de estados, licencias y
+  consistencia con `instruments/`, y pruebas (`test_fichas.py`, `test_curriculo.py`).
+- `docs/AUDITORIA_INICIAL.md` y `docs/COBERTURA_CURRICULAR.md`.
+
 ### Planificado
-- Partes 01 a 07 del programa (35 clases).
+- Redacción de las 195 clases pendientes (ver ROADMAP).
 - Módulo de fiabilidad: alfa de Cronbach, omega de McDonald, error típico.
 - Baremos y percentiles a partir de datos propios.
 
