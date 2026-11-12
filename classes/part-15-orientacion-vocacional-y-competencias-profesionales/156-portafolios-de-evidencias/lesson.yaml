@@ -3,5 +3,5 @@ numero: 156
 titulo: "Portafolios de evidencias"
 parte: "15"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

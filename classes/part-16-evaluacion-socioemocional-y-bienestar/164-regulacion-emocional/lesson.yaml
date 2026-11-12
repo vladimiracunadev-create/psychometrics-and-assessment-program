@@ -3,5 +3,5 @@ numero: 164
 titulo: "Regulación emocional"
 parte: "16"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

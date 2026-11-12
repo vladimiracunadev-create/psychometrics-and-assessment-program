@@ -3,5 +3,5 @@ numero: 167
 titulo: "Escalas de síntomas: qué no se puede hacer sin un profesional"
 parte: "16"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

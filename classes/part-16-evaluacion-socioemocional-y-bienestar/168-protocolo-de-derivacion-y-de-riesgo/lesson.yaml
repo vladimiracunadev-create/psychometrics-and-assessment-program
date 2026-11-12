@@ -3,5 +3,5 @@ numero: 168
 titulo: "Protocolo de derivación y de riesgo"
 parte: "16"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

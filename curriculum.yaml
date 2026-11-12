@@ -1037,61 +1037,61 @@ temario:
     titulo: Teoría de intereses de Holland
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/151-teoria-de-intereses-de-holland
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '152'
     numero: 152
     titulo: Intereses y O*NET Interest Profiler
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/152-intereses-y-o-net-interest-profiler
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '153'
     numero: 153
     titulo: Valores laborales y de vida
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/153-valores-laborales-y-de-vida
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '154'
     numero: 154
     titulo: Madurez y toma de decisiones vocacionales
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/154-madurez-y-toma-de-decisiones-vocacionales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '155'
     numero: 155
     titulo: Competencias transversales y empleabilidad
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/155-competencias-transversales-y-empleabilidad
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '156'
     numero: 156
     titulo: Portafolios de evidencias
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/156-portafolios-de-evidencias
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '157'
     numero: 157
     titulo: Orientación en educación media técnico-profesional
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/157-orientacion-en-educacion-media-tecnico-profesional
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '158'
     numero: 158
     titulo: Orientación en educación superior y transición laboral
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/158-orientacion-en-educacion-superior-y-transicion-laboral
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '159'
     numero: 159
     titulo: Formación continua y reconversión laboral
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/159-formacion-continua-y-reconversion-laboral
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '160'
     numero: 160
     titulo: Diseño de un programa de orientación basado en evidencia
     ruta: classes/part-15-orientacion-vocacional-y-competencias-profesionales/160-diseno-de-un-programa-de-orientacion-basado
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '16'
   slug: evaluacion-socioemocional-y-bienestar
   titulo: Evaluación socioemocional y bienestar
@@ -1104,61 +1104,61 @@ temario:
     titulo: Bienestar subjetivo y calidad de vida
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/161-bienestar-subjetivo-y-calidad-de-vida
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '162'
     numero: 162
     titulo: Estrés percibido
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/162-estres-percibido
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '163'
     numero: 163
     titulo: Resiliencia y autoeficacia
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/163-resiliencia-y-autoeficacia
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '164'
     numero: 164
     titulo: Regulación emocional
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/164-regulacion-emocional
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '165'
     numero: 165
     titulo: Habilidades sociales y empatía
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/165-habilidades-sociales-y-empatia
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '166'
     numero: 166
     titulo: Satisfacción académica y laboral
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/166-satisfaccion-academica-y-laboral
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '167'
     numero: 167
     titulo: 'Escalas de síntomas: qué no se puede hacer sin un profesional'
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/167-escalas-de-sintomas-que-no-se-puede
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '168'
     numero: 168
     titulo: Protocolo de derivación y de riesgo
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/168-protocolo-de-derivacion-y-de-riesgo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '169'
     numero: 169
     titulo: Evaluación socioemocional escolar
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/169-evaluacion-socioemocional-escolar
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '170'
     numero: 170
     titulo: 'Intervenciones: recomendaciones, intervención profesional y tratamiento'
     ruta: classes/part-16-evaluacion-socioemocional-y-bienestar/170-intervenciones-recomendaciones-intervencion-profesional-y-tratamiento
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '17'
   slug: investigacion-psicometrica-y-analisis-de-datos
   titulo: Investigación psicométrica y análisis de datos

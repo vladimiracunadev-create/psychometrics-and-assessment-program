@@ -3,5 +3,5 @@ numero: 166
 titulo: "Satisfacción académica y laboral"
 parte: "16"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

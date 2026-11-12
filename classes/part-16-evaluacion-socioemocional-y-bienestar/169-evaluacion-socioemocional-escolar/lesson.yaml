@@ -3,5 +3,5 @@ numero: 169
 titulo: "Evaluación socioemocional escolar"
 parte: "16"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

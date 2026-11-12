@@ -3,5 +3,5 @@ numero: 154
 titulo: "Madurez y toma de decisiones vocacionales"
 parte: "15"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

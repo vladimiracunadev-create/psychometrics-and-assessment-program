@@ -3,5 +3,5 @@ numero: 151
 titulo: "Teoría de intereses de Holland"
 parte: "15"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py
