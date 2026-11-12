@@ -36,15 +36,15 @@ Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estu
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 151 | [Teoría de intereses de Holland](151-teoria-de-intereses-de-holland/README.md) | Describir los seis tipos RIASEC y el código de tres letras. | 🟡 compacto | 4 |
-| 2 | 152 | [Intereses y O*NET Interest Profiler](152-intereses-y-o-net-interest-profiler/README.md) | Leer la ficha de procedencia y licencia de un instrumento adaptado. | 🟡 compacto | 4 |
-| 3 | 153 | [Valores laborales y de vida](153-valores-laborales-y-de-vida/README.md) | Escalar valores a partir de comparaciones por pares. | 🟡 compacto | 4 |
-| 4 | 154 | [Madurez y toma de decisiones vocacionales](154-madurez-y-toma-de-decisiones-vocacionales/README.md) | Estructurar una decisión con un análisis multicriterio. | 🟡 compacto | 4 |
-| 5 | 155 | [Competencias transversales y empleabilidad](155-competencias-transversales-y-empleabilidad/README.md) | Acumular evidencia sobre una competencia con una actualización bayesiana. | 🟡 compacto | 4 |
-| 6 | 156 | [Portafolios de evidencias](156-portafolios-de-evidencias/README.md) | Calcular las características de operación de una regla «al menos k de n». | 🟡 compacto | 4 |
-| 7 | 157 | [Orientación en educación media técnico-profesional](157-orientacion-en-educacion-media-tecnico-profesional/README.md) | Medir el alineamiento entre perfil de egreso, currículo y evaluación. | 🟡 compacto | 4 |
-| 8 | 158 | [Orientación en educación superior y transición laboral](158-orientacion-en-educacion-superior-y-transicion-laboral/README.md) | Evaluar un sistema de alerta temprana con AUC y calibración. | 🟡 compacto | 4 |
-| 9 | 159 | [Formación continua y reconversión laboral](159-formacion-continua-y-reconversion-laboral/README.md) | Calcular una brecha ponderada de habilidades hacia ocupaciones destino. | 🟡 compacto | 4 |
-| 10 | 160 | [Diseño de un programa de orientación basado en evidencia](160-diseno-de-un-programa-de-orientacion-basado/README.md) | Calcular el tamaño de muestra para detectar un efecto con un diseño pre-post. | 🟡 compacto | 4 |
+| 1 | 151 | [Teoría de intereses de Holland](151-teoria-de-intereses-de-holland/README.md) | Describir los seis tipos RIASEC y el código de tres letras. | ✅ pedagógico | 4 |
+| 2 | 152 | [Intereses y O*NET Interest Profiler](152-intereses-y-o-net-interest-profiler/README.md) | Leer la ficha de procedencia y licencia de un instrumento adaptado. | ✅ pedagógico | 4 |
+| 3 | 153 | [Valores laborales y de vida](153-valores-laborales-y-de-vida/README.md) | Escalar valores a partir de comparaciones por pares. | ✅ pedagógico | 4 |
+| 4 | 154 | [Madurez y toma de decisiones vocacionales](154-madurez-y-toma-de-decisiones-vocacionales/README.md) | Estructurar una decisión con un análisis multicriterio. | ✅ pedagógico | 4 |
+| 5 | 155 | [Competencias transversales y empleabilidad](155-competencias-transversales-y-empleabilidad/README.md) | Acumular evidencia sobre una competencia con una actualización bayesiana. | ✅ pedagógico | 4 |
+| 6 | 156 | [Portafolios de evidencias](156-portafolios-de-evidencias/README.md) | Calcular las características de operación de una regla «al menos k de n». | ✅ pedagógico | 4 |
+| 7 | 157 | [Orientación en educación media técnico-profesional](157-orientacion-en-educacion-media-tecnico-profesional/README.md) | Medir el alineamiento entre perfil de egreso, currículo y evaluación. | ✅ pedagógico | 4 |
+| 8 | 158 | [Orientación en educación superior y transición laboral](158-orientacion-en-educacion-superior-y-transicion-laboral/README.md) | Evaluar un sistema de alerta temprana con AUC y calibración. | ✅ pedagógico | 4 |
+| 9 | 159 | [Formación continua y reconversión laboral](159-formacion-continua-y-reconversion-laboral/README.md) | Calcular una brecha ponderada de habilidades hacia ocupaciones destino. | ✅ pedagógico | 4 |
+| 10 | 160 | [Diseño de un programa de orientación basado en evidencia](160-diseno-de-un-programa-de-orientacion-basado/README.md) | Calcular el tamaño de muestra para detectar un efecto con un diseño pre-post. | ✅ pedagógico | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)
