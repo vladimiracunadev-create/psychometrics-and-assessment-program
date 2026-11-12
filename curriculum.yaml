@@ -769,61 +769,61 @@ temario:
     titulo: Análisis de puestos y modelos de competencias
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/111-analisis-de-puestos-y-modelos-de-competencias
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '112'
     numero: 112
     titulo: Validez predictiva de los métodos de selección
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/112-validez-predictiva-de-los-metodos-de-seleccion
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '113'
     numero: 113
     titulo: Pruebas de comprensión de instrucciones escritas
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/113-pruebas-de-comprension-de-instrucciones-escritas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '114'
     numero: 114
     titulo: Evaluación de desempeño y criterios
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/114-evaluacion-de-desempeno-y-criterios
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '115'
     numero: 115
     titulo: Juicio situacional
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/115-juicio-situacional
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '116'
     numero: 116
     titulo: Personalidad de vendedores y evaluación comercial
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/116-personalidad-de-vendedores-y-evaluacion-comercial
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '117'
     numero: 117
     titulo: Percepción y prevención de riesgos laborales
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/117-percepcion-y-prevencion-de-riesgos-laborales
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '118'
     numero: 118
     titulo: 'Ajuste persona-puesto: qué se puede y qué no afirmar'
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/118-ajuste-persona-puesto-que-se-puede-y
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '119'
     numero: 119
     titulo: 'Dominio del inglés laboral: evaluación de idioma'
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/119-dominio-del-ingles-laboral-evaluacion-de-idioma
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '120'
     numero: 120
     titulo: Impacto adverso y defensa legal de una decisión de selección
     ruta: classes/part-11-psicometria-laboral-y-empleabilidad/120-impacto-adverso-y-defensa-legal-de-una
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '12'
   slug: liderazgo-equipos-y-sociometria
   titulo: Liderazgo, equipos y sociometría
@@ -836,61 +836,61 @@ temario:
     titulo: 'Teorías del liderazgo: Lewin y estilos'
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/121-teorias-del-liderazgo-lewin-y-estilos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '122'
     numero: 122
     titulo: Evaluación de la efectividad del liderazgo
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/122-evaluacion-de-la-efectividad-del-liderazgo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '123'
     numero: 123
     titulo: 'Roles en equipos: modelo Belbin y su evidencia'
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/123-roles-en-equipos-modelo-belbin-y-su
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '124'
     numero: 124
     titulo: Comportamiento en equipos de trabajo
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/124-comportamiento-en-equipos-de-trabajo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '125'
     numero: 125
     titulo: 'Sociometría: elecciones y rechazos'
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/125-sociometria-elecciones-y-rechazos
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '126'
     numero: 126
     titulo: Análisis de redes sociométricas
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/126-analisis-de-redes-sociometricas
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '127'
     numero: 127
     titulo: Cohesión, aislamiento y liderazgo informal
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/127-cohesion-aislamiento-y-liderazgo-informal
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '128'
     numero: 128
     titulo: Clima organizacional y escolar
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/128-clima-organizacional-y-escolar
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '129'
     numero: 129
     titulo: Evaluación 360 y sesgos de los evaluadores
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/129-evaluacion-360-y-sesgos-de-los-evaluadores
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '130'
     numero: 130
     titulo: Gestión de conflictos y toma de decisiones
     ruta: classes/part-12-liderazgo-equipos-y-sociometria/130-gestion-de-conflictos-y-toma-de-decisiones
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
 - id: '13'
   slug: desarrollo-infantil-y-evaluacion-psicoeducativa
   titulo: Desarrollo infantil y evaluación psicoeducativa

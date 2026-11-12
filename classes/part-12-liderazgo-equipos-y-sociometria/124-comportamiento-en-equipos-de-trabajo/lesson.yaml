@@ -3,5 +3,5 @@ numero: 124
 titulo: "Comportamiento en equipos de trabajo"
 parte: "12"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

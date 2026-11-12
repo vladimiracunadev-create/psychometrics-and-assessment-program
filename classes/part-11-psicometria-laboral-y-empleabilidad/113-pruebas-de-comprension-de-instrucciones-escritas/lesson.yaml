@@ -3,5 +3,5 @@ numero: 113
 titulo: "Pruebas de comprensión de instrucciones escritas"
 parte: "11"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

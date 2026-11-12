@@ -16,6 +16,7 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
   salvo los 5 instrumentos implementados; ninguna validada.
 - Módulo `psychometrics.fichas` con validación de estados, licencias y
   consistencia con `instruments/`, y pruebas (`test_fichas.py`, `test_curriculo.py`).
+- **Clases 036-040, 076-130 escritas** (partes 07 a 12: uso responsable y certificacion con la vigencia de la Ley 21.719 verificada el 2026-11-12, inteligencia, atencion-memoria-funciones ejecutivas, personalidad, psicometria laboral y liderazgo-equipos-sociometria), con README, laboratorio determinista y bibliografia. Dato corregido por la ejecucion: la clave del IPIP-NEO-120 no esta equilibrada por faceta.
 - **Clases 011-035 y 051-075 escritas** (partes 02 a 06 completas: fiabilidad, validez, estructura factorial, TRI, baremos y equidad), cada una con README, laboratorio determinista solo con biblioteca estandar y bibliografia.
 - **Clases 006-010 escritas** (parte 01) con README, laboratorio ejecutable y bibliografía.
 - `docs/AUDITORIA_INICIAL.md` y `docs/COBERTURA_CURRICULAR.md`.
