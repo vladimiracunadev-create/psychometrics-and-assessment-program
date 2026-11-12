@@ -36,15 +36,15 @@ Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estu
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 101 | [Modelo de los cinco factores y sus facetas](101-modelo-de-los-cinco-factores-y-sus/README.md) | Describir los cinco dominios y sus facetas. | 🟡 compacto | 4 |
-| 2 | 102 | [Banco IPIP: historia y uso abierto](102-banco-ipip-historia-y-uso-abierto/README.md) | Explicar qué es el International Personality Item Pool (IPIP) y por qué es de dominio público. | 🟡 compacto | 4 |
-| 3 | 103 | [Tipologías frente a rasgos: crítica a MBTI](103-tipologias-frente-a-rasgos-critica-a-mbti/README.md) | Distinguir tipos (categorías) de rasgos (dimensiones). | 🟡 compacto | 4 |
-| 4 | 104 | [Modelos de estilos conductuales: DISC y sus límites](104-modelos-de-estilos-conductuales-disc-y-sus/README.md) | Describir el modelo de cuatro estilos y su origen. | 🟡 compacto | 4 |
-| 5 | 105 | [Temperamento y desarrollo](105-temperamento-y-desarrollo/README.md) | Distinguir estabilidad de rango y estabilidad absoluta. | 🟡 compacto | 4 |
-| 6 | 106 | [Autorregulación e impulsividad](106-autorregulacion-e-impulsividad/README.md) | Estimar un parámetro conductual (descuento temporal). | 🟡 compacto | 4 |
-| 7 | 107 | [Motivación, valores y preferencias](107-motivacion-valores-y-preferencias/README.md) | Describir modelos de valores (Spranger, Schwartz). | 🟡 compacto | 4 |
-| 8 | 108 | [Fortalezas personales y carácter](108-fortalezas-personales-y-caracter/README.md) | Describir la clasificación de virtudes y fortalezas del carácter. | 🟡 compacto | 4 |
-| 9 | 109 | [Estados frente a rasgos de personalidad](109-estados-frente-a-rasgos-de-personalidad/README.md) | Distinguir estados de rasgos con datos de mediciones repetidas. | 🟡 compacto | 4 |
-| 10 | 110 | [Falseamiento, deseabilidad social y escalas de validez](110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md) | Evaluar una escala de validez con sensibilidad, especificidad, VPP y AUC. | 🟡 compacto | 4 |
+| 1 | 101 | [Modelo de los cinco factores y sus facetas](101-modelo-de-los-cinco-factores-y-sus/README.md) | Describir los cinco dominios y sus facetas. | ✅ pedagógico | 4 |
+| 2 | 102 | [Banco IPIP: historia y uso abierto](102-banco-ipip-historia-y-uso-abierto/README.md) | Explicar qué es el IPIP y por qué es de dominio público. | ✅ pedagógico | 4 |
+| 3 | 103 | [Tipologías frente a rasgos: crítica a MBTI](103-tipologias-frente-a-rasgos-critica-a-mbti/README.md) | Distinguir tipos (categorías) de rasgos (dimensiones). | ✅ pedagógico | 4 |
+| 4 | 104 | [Modelos de estilos conductuales: DISC y sus límites](104-modelos-de-estilos-conductuales-disc-y-sus/README.md) | Describir el modelo de cuatro estilos y su origen. | ✅ pedagógico | 4 |
+| 5 | 105 | [Temperamento y desarrollo](105-temperamento-y-desarrollo/README.md) | Distinguir estabilidad de rango y estabilidad absoluta. | ✅ pedagógico | 4 |
+| 6 | 106 | [Autorregulación e impulsividad](106-autorregulacion-e-impulsividad/README.md) | Estimar un parámetro conductual (descuento temporal). | ✅ pedagógico | 4 |
+| 7 | 107 | [Motivación, valores y preferencias](107-motivacion-valores-y-preferencias/README.md) | Describir modelos de valores (Spranger, Schwartz). | ✅ pedagógico | 4 |
+| 8 | 108 | [Fortalezas personales y carácter](108-fortalezas-personales-y-caracter/README.md) | Describir la clasificación de virtudes y fortalezas del carácter. | ✅ pedagógico | 4 |
+| 9 | 109 | [Estados frente a rasgos de personalidad](109-estados-frente-a-rasgos-de-personalidad/README.md) | Distinguir estados de rasgos con datos de mediciones repetidas. | ✅ pedagógico | 4 |
+| 10 | 110 | [Falseamiento, deseabilidad social y escalas de validez](110-falseamiento-deseabilidad-social-y-escalas-de-validez/README.md) | Evaluar una escala de validez con sensibilidad, especificidad, VPP y AUC. | ✅ pedagógico | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)
