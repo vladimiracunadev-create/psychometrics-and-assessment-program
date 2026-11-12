@@ -16,10 +16,11 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
   salvo los 5 instrumentos implementados; ninguna validada.
 - Módulo `psychometrics.fichas` con validación de estados, licencias y
   consistencia con `instruments/`, y pruebas (`test_fichas.py`, `test_curriculo.py`).
+- **Clases 006-010 escritas** (parte 01) con README, laboratorio ejecutable y bibliografía.
 - `docs/AUDITORIA_INICIAL.md` y `docs/COBERTURA_CURRICULAR.md`.
 
 ### Planificado
-- Redacción de las 195 clases pendientes (ver ROADMAP).
+- Redacción de las 195 clases pendientes (190 restantes; ver ROADMAP).
 - Módulo de fiabilidad: alfa de Cronbach, omega de McDonald, error típico.
 - Baremos y percentiles a partir de datos propios.
 

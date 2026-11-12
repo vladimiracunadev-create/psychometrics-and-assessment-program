@@ -23,7 +23,7 @@ def test_identificadores_unicos_y_consecutivos():
 def test_las_cuarenta_originales_se_conservan():
     originales = [c for c in CLASES if c["numero"] <= 40]
     assert len(originales) == 40
-    assert sum(c["estado"] == "escrita" for c in originales) == 5
+    assert {c["numero"] for c in originales if c["estado"] == "escrita"} == set(range(1, 11))
 
 
 def test_las_nuevas_no_se_declaran_escritas():

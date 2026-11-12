@@ -5,9 +5,10 @@ falta y en qué orden.
 
 ## Expansión integral (en curso)
 
-- [x] Currículo de 20 partes y 200 clases (estructura; 195 clases sin redactar).
+- [x] Currículo de 20 partes y 200 clases (estructura; 190 clases sin redactar).
 - [x] 140 fichas documentales en 8 familias, con estados diferenciados.
-- [ ] Redactar clases 006-200 con laboratorio reproducible.
+- [x] Clases 006-010 (parte 01) escritas con laboratorio.
+- [ ] Redactar clases 011-200 con laboratorio reproducible.
 - [ ] Contrastar cada ficha con su fuente primaria y pasar a `verificado: true`.
 - [ ] Extensión del esquema para ítems de rendimiento (clave, tiempo, adaptativo) con tests propios.
 - [ ] Instrumentos ejecutables nuevos con bancos abiertos u originales.

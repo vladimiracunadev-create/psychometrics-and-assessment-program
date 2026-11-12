@@ -3,5 +3,5 @@ numero: 6
 titulo: "Redacción de ítems: las reglas y por qué existen"
 parte: "01"
 horas_estimadas: 4
-estado: planificada
-laboratorio: null
+estado: escrita
+laboratorio: lab.py

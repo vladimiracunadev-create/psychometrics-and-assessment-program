@@ -5,7 +5,7 @@ Generada desde `curriculum.yaml`. «Escritas» = README + laboratorio + bibliogr
 | Parte | Título | Nivel | Clases | Escritas | Planificadas |
 |---|---|---|---:|---:|---:|
 | 00 | Fundamentos de la medición psicológica | fundamentos | 10 | 5 | 5 |
-| 01 | Construcción de instrumentos | fundamentos | 10 | 0 | 10 |
+| 01 | Construcción de instrumentos | fundamentos | 10 | 5 | 5 |
 | 02 | Fiabilidad | intermedio | 10 | 0 | 10 |
 | 03 | Validez | intermedio | 10 | 0 | 10 |
 | 04 | Estructura y análisis factorial | avanzado | 10 | 0 | 10 |
@@ -24,6 +24,6 @@ Generada desde `curriculum.yaml`. «Escritas» = README + laboratorio + bibliogr
 | 17 | Investigación psicométrica y análisis de datos | avanzado | 10 | 0 | 10 |
 | 18 | Ingeniería de sistemas de evaluación digital | avanzado | 10 | 0 | 10 |
 | 19 | Aplicaciones avanzadas y proyectos integradores | avanzado | 10 | 0 | 10 |
-| | **Total** | | **200** | **5** | **195** |
+| | **Total** | | **200** | **10** | **190** |
 
 Regenerar tras editar el currículo con el fragmento de `scripts/expand_curriculum.py` o a mano; el CI valida el recuento contra `curriculum.yaml`.

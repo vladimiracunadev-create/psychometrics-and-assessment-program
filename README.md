@@ -14,7 +14,7 @@ con bancos públicos, material propio y licencias trazables.**
 [![Version](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](CHANGELOG.md)
 [![Instrumentos](https://img.shields.io/badge/instrumentos-5%20·%20344%20ítems-7c5cff?style=for-the-badge)](instruments/)
 [![Dominio público](https://img.shields.io/badge/dominio%20público-216%20de%20344%20ítems-2e8b57?style=for-the-badge)](#-procedencia-y-licencias)
-[![Clases](https://img.shields.io/badge/clases-5%20de%20200%20escritas-c9184a?style=for-the-badge)](classes/)
+[![Clases](https://img.shields.io/badge/clases-10%20de%20200%20escritas-c9184a?style=for-the-badge)](classes/)
 [![Tests](https://img.shields.io/badge/tests-69%20en%20verde-3fb950?style=for-the-badge)](tests/)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=for-the-badge)](classes/)
 [![License](https://img.shields.io/badge/code-MIT-3fb950?style=for-the-badge)](LICENSE)
@@ -36,7 +36,7 @@ con bancos públicos, material propio y licencias trazables.**
 
 | 🧪 Instrumentos | 📝 Ítems | 📐 Escalas | 📘 Clases | 🔬 Laboratorios | ✅ Tests |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **5** | **344** | **81** | **5 / 200** | **5** | **69** |
+| **5** | **344** | **81** | **10 / 200** | **10** | **69** |
 </div>
 
 ---
@@ -58,7 +58,7 @@ con bancos públicos, material propio y licencias trazables.**
 | Bancos de terceros | ⚠️ IPIP-NEO-120 e IPIP-VIA-R son públicos; la adaptación O*NET tiene validación de licencia pendiente |
 | Motor | ✅ carga, valida, refleja clave invertida, agrega jerárquicamente y audita el protocolo |
 | CLI | ✅ `catalogo`, `ficha`, `rendir`, `puntuar`, `validar` |
-| Clases | 🟡 5 de 200 escritas; las 195 restantes están **planificadas** (carpeta y `lesson.yaml`, sin contenido) en `curriculum.yaml` |
+| Clases | 🟡 10 de 200 escritas; las 190 restantes están **planificadas** (carpeta y `lesson.yaml`, sin contenido) en `curriculum.yaml` |
 | Fichas | 🟡 140 fichas documentales en [`catalogo/fichas.yaml`](catalogo/fichas.yaml): 5 implementadas, 0 validadas; el resto solo documentadas y `verificado: false` |
 | Laboratorios | ✅ 5/5 ejecutables, deterministas y sin dependencias externas |
 | Tests | ✅ 69 en verde |

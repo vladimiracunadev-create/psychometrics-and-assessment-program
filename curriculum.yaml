@@ -93,31 +93,31 @@ temario:
     titulo: 'Redacción de ítems: las reglas y por qué existen'
     ruta: classes/part-01-construccion-de-instrumentos/006-redaccion-de-items
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: '007'
     numero: 7
     titulo: 'Formatos de respuesta: Likert, dicotómico, continuo'
     ruta: classes/part-01-construccion-de-instrumentos/007-formatos-de-respuesta
     horas_estimadas: 3
-    estado: planificada
+    estado: escrita
   - id: 008
     numero: 8
     titulo: 'Ipsativo frente a normativo: la trampa de la elección forzada'
     ruta: classes/part-01-construccion-de-instrumentos/008-ipsativo-vs-normativo
     horas_estimadas: 4
-    estado: planificada
+    estado: escrita
   - id: 009
     numero: 9
     titulo: 'Longitud del test: el intercambio entre precisión y abandono'
     ruta: classes/part-01-construccion-de-instrumentos/009-longitud-y-costo-de-medida
     horas_estimadas: 3
-    estado: planificada
+    estado: escrita
   - id: '010'
     numero: 10
     titulo: Pilotaje y análisis clásico de ítems
     ruta: classes/part-01-construccion-de-instrumentos/010-pilotaje-y-analisis-de-items
     horas_estimadas: 5
-    estado: planificada
+    estado: escrita
   - id: '046'
     numero: 46
     titulo: Especificaciones de test y tablas de contenido
