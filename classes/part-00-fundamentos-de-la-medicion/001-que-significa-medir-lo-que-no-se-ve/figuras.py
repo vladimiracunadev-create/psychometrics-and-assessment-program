@@ -16,6 +16,12 @@ from psychometrics.figuras import AZUL, ROJO, Lienzo, cadena, guardar  # noqa: E
     ["Rasgo (no observable)", "Conducta que lo manifiesta", "Item que la pregunta", "Respuesta marcada", "Puntaje total", "Interpretacion"],
     ["se postula", "se supone", "se redacta", "se observa", "se calcula", "se infiere"]), encoding="utf-8")
 
+(AQUI / "figura-3.svg").write_text(cadena(
+    "Las piezas de un cuestionario",
+    "Un instrumento contiene escalas; cada escala agrupa items; la persona da respuestas y de ellas sale un puntaje por escala.",
+    ["Instrumento (el cuestionario)", "Escalas (cada rasgo)", "Ítems (las preguntas)", "Respuestas (lo que marcas)", "Puntaje (un número por escala)"],
+    ["ej.: IPIP-NEO-120", "ej.: Responsabilidad", "ej.: «Termino lo que empiezo»", "ej.: 1 a 5", "ej.: media 3,8"]), encoding="utf-8")
+
 # Valores medidos por lab.py (semilla 20260819, 500 personas) y curva teorica sqrt(k / (k + sd^2)).
 ks = [1, 2, 4, 8, 16, 32, 64, 120]
 r_lab = [0.677, 0.795, 0.881, 0.940, 0.967, 0.982, 0.992, 0.995]

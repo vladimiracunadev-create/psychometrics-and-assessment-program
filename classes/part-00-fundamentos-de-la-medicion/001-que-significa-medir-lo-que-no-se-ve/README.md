@@ -31,6 +31,42 @@ Piensa en un médico que no puede ver la fiebre, pero ve el termómetro, la piel
 
 *Figura 1.* La cadena completa. Cada flecha es un supuesto que puede fallar; la psicometría se ocupa de ponerlos a prueba.
 
+## Las palabras que vas a ver en todo el programa
+
+Antes de seguir conviene fijar el vocabulario, porque casi todo lo que viene se apoya en estas palabras. Un cuestionario se organiza así:
+
+![Cinco piezas: instrumento, escalas, ítems, respuestas y puntaje](figura-3.svg)
+
+*Figura 2.* De izquierda a derecha, lo que contiene un cuestionario y lo que produce.
+
+- **Instrumento** (también «test» o «cuestionario»): el conjunto completo de preguntas más las reglas para calcular resultados. Ejemplo: el IPIP-NEO-120, que tiene 120 preguntas.
+- **Ítem:** una sola pregunta o afirmación del instrumento. Ejemplo: «Termino lo que empiezo».
+- **Escala:** un grupo de ítems que apuntan al mismo rasgo. De cada escala sale un puntaje. Ejemplo: la escala «Responsabilidad».
+- **Constructo:** la idea abstracta que cada escala intenta captar (la responsabilidad en sí, que no se ve).
+- **Puntaje:** el número que resume las respuestas de una escala.
+
+**Dos aclaraciones que evitan confusiones.**
+
+1. **«Dominio público» no es el «dominio» de un constructo.** «Dominio público» es un estado legal: significa que nadie tiene los derechos de esas preguntas y cualquiera puede usarlas. Es lo que se dice, por ejemplo, de los ítems del IPIP-NEO-120. Que unas preguntas sean de dominio público **no prueba que midan bien**; solo prueba que se pueden usar libremente. El «dominio» de un constructo (clase 002) es otra cosa: el conjunto de contenidos que el rasgo abarca.
+2. **Instrumento disponible no es lo mismo que instrumento validado.** Un instrumento puede estar disponible (se puede usar) y no estar validado (no hay estudios que muestren que mide lo que dice). Este programa te enseña a distinguir ambas cosas, y los instrumentos que incluye declaran su estado. Hay un glosario completo en la [guía de conceptos](../../../docs/GUIA_DE_CONCEPTOS.md).
+
+## Un ejemplo completo, de principio a fin
+
+Una orientadora de un colegio quiere saber cuán **perseverante** es Ana, de 15 años. No puede «ver» la perseverancia, así que usa una escala de cuatro ítems, con respuestas de 1 («nada de acuerdo») a 5 («totalmente de acuerdo»):
+
+| Ítem | Tipo | Respuesta de Ana |
+|---|---|---:|
+| «Termino lo que empiezo.» | directo | 4 |
+| «Me rindo con facilidad.» | invertido | 2 |
+| «Sigo intentándolo aunque me cueste.» | directo | 5 |
+| «Dejo las tareas a medias.» | invertido | 1 |
+
+**Paso 1: reflejar los ítems invertidos.** En «Me rindo con facilidad» una respuesta alta significa *poca* perseverancia, así que se refleja: 6 − 2 = 4. Igual con el último: 6 − 1 = 5.
+**Paso 2: promediar.** (4 + 4 + 5 + 5) / 4 = **4,5**.
+**Paso 3: interpretar.** ¿4,5 es mucho? *No se puede saber todavía.* Faltan tres cosas: (a) con quién se compara Ana (un baremo, parte 06), (b) cuánto error tiene el puntaje (parte 02) y (c) si esas cuatro preguntas realmente captan perseverancia y no, por ejemplo, ganas de quedar bien (parte 03).
+
+**Moraleja.** Entre la hoja de respuestas y la frase «Ana es muy perseverante» hay varios pasos que se pueden hacer bien o mal. Todo este programa trata de cómo hacerlos bien.
+
 ## Cómo funciona, paso a paso
 
 **1. Constructo.** Es una abstracción que se postula para explicar regularidades. Nadie ha visto la extraversión; se postula porque quien va a muchas fiestas también tiende a hablar con desconocidos, y esas conductas covarían.
@@ -82,6 +118,18 @@ De la tabla se sigue la consecuencia más importante: **un puntaje psicológico 
 | 120 | 0,995 | 0,990 |
 
 **Análisis.** (1) Con un solo ítem, el puntaje comparte menos de la mitad de su varianza con el rasgo (r² = 0,46): más de la mitad es ruido. (2) Cada duplicación de ítems ayuda menos que la anterior (rendimientos decrecientes): de 1 a 4 ítems se gana 0,20; de 16 a 120, solo 0,03. (3) Por eso el IPIP-NEO-120 tiene 120 ítems, pero también por eso no tiene 1.000: el costo es el tiempo y el cansancio de la persona (clase 014). (4) Es una simulación con ruido independiente; en la vida real, ítems mal redactados pueden compartir un error que no se cancela por más que se agreguen.
+
+## Preguntas que suelen surgir
+
+**¿Por qué no preguntar directamente «¿qué tan responsable eres?».** Se puede, pero esa única pregunta mezcla lo que la persona cree de sí misma, lo que quiere mostrar y lo que entendió por «responsable». Varias preguntas concretas, cada una con una pequeña desviación distinta, se compensan entre sí.
+
+**¿Medir una persona no es reducirla a un número?** El número no es la persona: es una estimación de una característica en un momento, con un margen de error. Usado con cuidado, ayuda a decidir apoyos o a conocerse mejor; usado sin cuidado, etiqueta. Por eso el programa dedica una parte entera al uso responsable (parte 07).
+
+**¿Sirve cualquier cuestionario que encuentre en internet?** No. Un cuestionario publicado en una revista o en una web puede estar bien o mal construido; para saberlo hay que mirar de dónde sale, quién lo estudió y para qué se probó. Esa revisión es la que se aprende aquí.
+
+**Soy docente, psicóloga o gestor de personas: ¿esto me sirve si no hago estadística?** Sí. Las ideas centrales de esta clase (inferencia, ruido, referencia) se entienden sin fórmulas y te permiten leer con criterio cualquier informe que recibas o produzcas.
+
+**Si me van a evaluar, ¿qué cambia saber todo esto?** Te permite hacer preguntas útiles: ¿para qué se usará el resultado?, ¿con quién me comparan?, ¿qué margen de error tiene?, ¿puedo ver mi informe completo?
 
 ## Errores frecuentes
 

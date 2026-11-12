@@ -59,14 +59,17 @@ Es un **programa de enseñanza, construcción y apoyo** para cualquier profesion
 
 ## 🧭 Empieza aquí
 
+- **¿Algo te confunde?** Lee primero la [guía de conceptos: qué es cada cosa](docs/GUIA_DE_CONCEPTOS.md) (instrumento, ítem, escala, ficha, catálogo, dominio público, validado).
 - **Si es tu primera vez:** lee la [guía de la parte 00](classes/part-00-fundamentos-de-la-medicion/README.md) y sigue el orden de estudio de cada parte.
 - **Para ver una clase por su número:** el [índice numérico 001–200](PROGRAMA.md) enlaza cada una (por ejemplo, la [clase 021](classes/part-02-fiabilidad/021-teoria-clasica-del-error/README.md), el modelo del formato pedagógico).
 - **Numeración:** las clases son consecutivas (001 a 200) y el número indica el orden de estudio. Los identificadores originales se conservan en `curriculum.yaml` (campo `id_original`).
 - **Instrumentos:** hay **5 ejecutables** (carpeta [`instruments/`](instruments/)) y **140 fichas documentales** ([`catalogo/fichas.yaml`](catalogo/fichas.yaml)); las fichas describen instrumentos, no los reproducen.
 
-## ✅ Estado verificable
+## ✅ Estado verificable: qué está hecho hoy y qué no
 
-| Superficie | Estado |
+Esta tabla es el «semáforo» honesto del proyecto: cada fila dice qué existe de verdad, comprobado con cifras reales, y qué falta. Si algún término no te suena (instrumento, ítem, ficha, catálogo, dominio público), mira la [guía de conceptos](docs/GUIA_DE_CONCEPTOS.md).
+
+| Qué | Estado |
 |---|---|
 | Catálogo | ✅ 5/5 instrumentos cargan y validan (`make validar`) |
 | Ítems | ✅ 344 ítems: 216 IPIP de dominio público, 60 O*NET bajo licencia específica y 68 de autoría propia |
@@ -94,7 +97,14 @@ Es un **programa de enseñanza, construcción y apoyo** para cualquier profesion
 - **Los laboratorios demuestran, no ilustran.** Cada uno produce números y el
   texto de la clase se corrige si no coinciden — [ya ocurrió una vez](classes/part-00-fundamentos-de-la-medicion/004-puntaje-bruto-y-media-por-item/lab.py).
 
-## 🧪 El catálogo
+## 🧪 El catálogo: los instrumentos de este proyecto
+
+Un **instrumento** es un cuestionario o prueba completo (por ejemplo, un inventario de personalidad); cada pregunta es un **ítem** y cada rasgo que se mide es una **escala**. El **catálogo** es la lista de instrumentos que el proyecto conoce, en dos niveles:
+
+1. **Cinco instrumentos ejecutables** (la tabla de abajo): sus preguntas están en archivos de [`instruments/`](instruments/) y el programa puede mostrarlos, puntuarlos y generar un informe.
+2. **140 fichas documentales** ([`catalogo/fichas.yaml`](catalogo/fichas.yaml)): descripciones informativas de instrumentos y técnicas (qué son, para qué se usan, qué estado tienen). **No incluyen las preguntas** y no sirven para aplicar el instrumento.
+
+«**Dominio público**» significa que nadie es dueño de los derechos de esas preguntas y se pueden usar libremente; **no** significa que el instrumento esté validado. Detalle en la [guía de conceptos](docs/GUIA_DE_CONCEPTOS.md).
 
 | Código | Instrumento | Ítems | Escalas | Licencia | ¿Validado? |
 |---|---|---:|---:|---|---|

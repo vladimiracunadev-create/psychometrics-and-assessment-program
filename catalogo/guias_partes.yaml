@@ -11,7 +11,7 @@
     - "Distinguir los cuatro niveles de medida y las operaciones que permite cada uno."
     - "Calcular e interpretar un puntaje bruto, una media por ítem y un ítem invertido."
     - "Reconocer cuándo una prueba mide velocidad y cuándo potencia."
-  como_estudiarla: "Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente."
+  como_estudiarla: "Si alguna palabra no te suena (instrumento, ítem, escala, dominio público), consulta primero la guía de conceptos del repositorio (docs/GUIA_DE_CONCEPTOS.md). Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente."
 '01':
   de_que_trata: "Cómo se pasa de una idea a un cuestionario o prueba administrable. Redacción de ítems, formatos de respuesta, longitud del test, ítems de opción múltiple y abiertos, juicio de expertos, pilotaje y bancos de ítems."
   por_que_importa: "Un instrumento mal construido no se rescata con buena estadística. La mayoría de los problemas de medición nacen en la redacción del ítem y en el formato, mucho antes de calcular nada."

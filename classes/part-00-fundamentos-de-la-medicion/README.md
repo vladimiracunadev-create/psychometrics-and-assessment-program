@@ -26,7 +26,7 @@ Todo el resto del programa se apoya en estas ideas. Quien no distingue un constr
 
 ## Cómo estudiarla
 
-Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente.
+Si alguna palabra no te suena (instrumento, ítem, escala, dominio público), consulta primero la guía de conceptos del repositorio (docs/GUIA_DE_CONCEPTOS.md). Léela completa y en orden. No exige conocimientos previos de estadística. Ejecuta cada laboratorio y lee la sección «Qué muestra el laboratorio» antes de pasar a la clase siguiente.
 
 ## Ruta de estudio
 

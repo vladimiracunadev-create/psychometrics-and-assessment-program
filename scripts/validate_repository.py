@@ -86,6 +86,12 @@ def main() -> int:
         fallos.append("indices desfasados: ejecuta python scripts/sync_indices.py ("
                       + r.stdout.strip() + ")")
 
+    # 2d. Toda imagen local referenciada en un README debe existir (evita figuras rotas en GitHub).
+    for md in list((RAIZ / "classes").rglob("README.md")) + [RAIZ / "README.md"]:
+        for ref in re.findall(r"!\[[^\]]*\]\(([^)#]+)\)", md.read_text(encoding="utf-8")):
+            if not ref.startswith("http") and not (md.parent / ref).is_file():
+                fallos.append(f"{md.relative_to(RAIZ)}: imagen inexistente {ref}")
+
     # 3. Los items de dominio publico que afirma el badge.
     if f"{n_pub}%20de%20{n_items}%20items" not in readme.replace("í", "i"):
         if not re.search(rf"dominio%20p[^-]*-{n_pub}%20de%20{n_items}", readme):
