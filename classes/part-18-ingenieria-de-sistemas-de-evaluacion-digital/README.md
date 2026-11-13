@@ -36,15 +36,15 @@ Las clases están numeradas de forma consecutiva (001 a 200) en el orden de estu
 
 | Orden | ID | Clase | Qué aprenderás | Formato | Horas |
 |---:|---|---|---|---|---:|
-| 1 | 181 | [Arquitectura de un motor de evaluación declarativo](181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md) | Separar catálogo, administración, puntuación y datos normativos. | 🟡 compacto | 4 |
-| 2 | 182 | [Modelos de ítems y esquemas versionados](182-modelos-de-items-y-esquemas-versionados/README.md) | Validar estrictamente la definición de un instrumento. | 🟡 compacto | 4 |
-| 3 | 183 | [Baterías de evaluación y sesiones reanudables](183-baterias-de-evaluacion-y-sesiones-reanudables/README.md) | Agrupar instrumentos en una batería. | 🟡 compacto | 4 |
-| 4 | 184 | [Telemetría de interacción y tiempos de respuesta](184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md) | Calcular indicadores simples de respuesta descuidada. | 🟡 compacto | 4 |
-| 5 | 185 | [Evaluación adaptativa: implementación](185-evaluacion-adaptativa-implementacion/README.md) | Implementar un CAT con restricciones de contenido. | 🟡 compacto | 4 |
-| 6 | 186 | [Accesibilidad de evaluaciones digitales](186-accesibilidad-de-evaluaciones-digitales/README.md) | Calcular la relación de contraste WCAG. | 🟡 compacto | 4 |
-| 7 | 187 | [Auditoría de cálculo y trazabilidad](187-auditoria-de-calculo-y-trazabilidad/README.md) | Verificar el motor con una segunda implementación. | 🟡 compacto | 4 |
-| 8 | 188 | [Seguridad y privacidad por diseño](188-seguridad-y-privacidad-por-diseno/README.md) | Seudonimizar con HMAC en lugar de un hash simple. | 🟡 compacto | 4 |
-| 9 | 189 | [Interoperabilidad y exportación de resultados](189-interoperabilidad-y-exportacion-de-resultados/README.md) | Exportar en formato largo con metadatos. | 🟡 compacto | 4 |
-| 10 | 190 | [Herramientas abiertas: jsPsych, PsychoPy, lab.js, PEBL](190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md) | Detectar la familia de una licencia a partir de su texto. | 🟡 compacto | 4 |
+| 1 | 181 | [Arquitectura de un motor de evaluación declarativo](181-arquitectura-de-un-motor-de-evaluacion-declarativo/README.md) | Separar catálogo, administración, puntuación y datos normativos. | ✅ pedagógico | 4 |
+| 2 | 182 | [Modelos de ítems y esquemas versionados](182-modelos-de-items-y-esquemas-versionados/README.md) | Validar estrictamente la definición de un instrumento. | ✅ pedagógico | 4 |
+| 3 | 183 | [Baterías de evaluación y sesiones reanudables](183-baterias-de-evaluacion-y-sesiones-reanudables/README.md) | Agrupar instrumentos en una batería. | ✅ pedagógico | 4 |
+| 4 | 184 | [Telemetría de interacción y tiempos de respuesta](184-telemetria-de-interaccion-y-tiempos-de-respuesta/README.md) | Calcular indicadores simples de respuesta descuidada. | ✅ pedagógico | 4 |
+| 5 | 185 | [Evaluación adaptativa: implementación](185-evaluacion-adaptativa-implementacion/README.md) | Implementar un CAT con restricciones de contenido. | ✅ pedagógico | 4 |
+| 6 | 186 | [Accesibilidad de evaluaciones digitales](186-accesibilidad-de-evaluaciones-digitales/README.md) | Calcular la relación de contraste WCAG. | ✅ pedagógico | 4 |
+| 7 | 187 | [Auditoría de cálculo y trazabilidad](187-auditoria-de-calculo-y-trazabilidad/README.md) | Verificar el motor con una segunda implementación. | ✅ pedagógico | 4 |
+| 8 | 188 | [Seguridad y privacidad por diseño](188-seguridad-y-privacidad-por-diseno/README.md) | Seudonimizar con HMAC en lugar de un hash simple. | ✅ pedagógico | 4 |
+| 9 | 189 | [Interoperabilidad y exportación de resultados](189-interoperabilidad-y-exportacion-de-resultados/README.md) | Exportar en formato largo con metadatos. | ✅ pedagógico | 4 |
+| 10 | 190 | [Herramientas abiertas: jsPsych, PsychoPy, lab.js, PEBL](190-herramientas-abiertas-jspsych-psychopy-lab-js-pebl/README.md) | Detectar la familia de una licencia a partir de su texto. | ✅ pedagógico | 4 |
 
 [← Volver al índice del programa](../../README.md) · [Índice numérico de las 200 clases](../../PROGRAMA.md)
