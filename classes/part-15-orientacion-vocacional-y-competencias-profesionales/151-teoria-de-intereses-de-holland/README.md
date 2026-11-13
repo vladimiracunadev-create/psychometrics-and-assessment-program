@@ -109,9 +109,11 @@ Se logra la clase si usas el motor, cuantificas la estabilidad y matizas el uso.
 
 ## Bibliografía
 
-- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources.
-- Rounds, J., & Tracey, T. J. (1993). Prediger's dimensional representation of Holland's RIASEC circumplex. *Journal of Applied Psychology*, 78(6), 875-890. [DOI](https://doi.org/10.1037//0021-9010.78.6.875)
-- Nauta, M. M. (2010). The development, evolution, and status of Holland's theory of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22. [DOI](https://doi.org/10.1037/a0018213)
+- Holland, J. L. (1997). *Making Vocational Choices* (3.ª ed.). Psychological Assessment Resources. ⚠️ hay una obra de título parecido en Crossref con otro año (1975): comprobar la edición a mano
+- Rounds, J., & Tracey, T. J. (1993). Prediger's dimensional representation of Holland's RIASEC circumplex. *Journal of Applied Psychology*, 78(6), 875-890. ✅ [DOI](https://doi.org/10.1037//0021-9010.78.6.875)
+- Nauta, M. M. (2010). The development, evolution, and status of Holland's theory of vocational personalities. *Journal of Counseling Psychology*, 57(1), 11-22. ✅ [DOI](https://doi.org/10.1037/a0018213)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

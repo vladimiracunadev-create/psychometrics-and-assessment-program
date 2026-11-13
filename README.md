@@ -76,7 +76,7 @@ Esta tabla es el «semáforo» honesto del proyecto: cada fila dice qué existe 
 | Bancos de terceros | ⚠️ IPIP-NEO-120 e IPIP-VIA-R son públicos; la adaptación O*NET tiene validación de licencia pendiente |
 | Motor | ✅ carga, valida, refleja clave invertida, agrega jerárquicamente y audita el protocolo |
 | CLI | ✅ `catalogo`, `ficha`, `rendir`, `puntuar`, `validar` |
-| Clases | ✅ 200 de 200 escritas (README, laboratorio determinista y bibliografía); ⚠️ sin revisión por pares y con bibliografías redactadas de memoria, pendientes de contraste con fuentes primarias |
+| Clases | ✅ 200 de 200 en formato pedagógico (explicación para quien construye y para quien es evaluado, figura SVG, ejercicios, glosario, laboratorio determinista y bibliografía); ⚠️ sin revisión por pares; bibliografías contrastadas con Crossref (288 verificadas, 33 con otro año, 91 por comprobar a mano; ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](docs/VERIFICACION_BIBLIOGRAFIA.md)) |
 | Fichas | 🟡 140 fichas documentales en [`catalogo/fichas.yaml`](catalogo/fichas.yaml): 5 implementadas, 0 validadas; el resto solo documentadas y `verificado: false` |
 | Laboratorios | ✅ 200/200 ejecutables, deterministas, con datos sintéticos y sin dependencias externas; los ejecuta `make validar` |
 | Tests | ✅ 78 en verde |

@@ -116,8 +116,10 @@ Se logra la clase si modelas un protocolo y pruebas sus invariantes.
 
 ## Bibliografía y fuentes
 
-- Reason, J. (1990). *Human Error*. Cambridge University Press. [DOI](https://doi.org/10.1017/cbo9781139062367)
-- Ministerio de Salud de Chile: orientaciones y canales de ayuda vigentes (verificar en minsal.cl).
+- Reason, J. (1990). *Human Error*. Cambridge University Press. ✅ [DOI](https://doi.org/10.1017/cbo9781139062367)
+- Ministerio de Salud de Chile: orientaciones y canales de ayuda vigentes (verificar en minsal.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

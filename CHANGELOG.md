@@ -10,6 +10,8 @@ y el versionado sigue [SemVer](https://semver.org/lang/es/).
 - **Numeración consecutiva 001-200 en el orden de estudio.** Las clases 001-080 cambiaron de número (las partes 02 a 19 ya coincidían); el número anterior queda en `curriculum.yaml` (`id_original`). Se renombraron carpetas y se actualizaron las referencias cruzadas. Las entradas históricas de este archivo usan la numeración anterior. Se retiró `scripts/expand_curriculum.py` (habría regenerado la numeración antigua).
 
 ### Añadido
+- **Las 200 clases reescritas en formato pedagógico**: para qué sirve, objetivos, idea en palabras simples, paso a paso con figura SVG generada desde el laboratorio, secciones «si construyes el instrumento» y «si eres evaluado», análisis de resultados con límites, errores frecuentes, ejercicios con solución, glosario y autoevaluación. Un `figuras.py` por parte; portadas, mapas de ruta, guías por parte, índice `PROGRAMA.md` y navegación entre clases.
+- **Verificación bibliográfica con Crossref** (`docs/VERIFICACION_BIBLIOGRAFIA.md`, `catalogo/bibliografia.yaml`): las referencias con otro año ya no enlazan un DOI que podría ser de otra obra.
 - **Currículo ampliado a 20 partes y 200 clases** (`scripts/expand_curriculum.py`,
   aditivo e idempotente). Las 40 clases originales conservan su identificador;
   las 160 nuevas (041-200) están **planificadas**, no escritas.

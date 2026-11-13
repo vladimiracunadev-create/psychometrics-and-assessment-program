@@ -114,9 +114,11 @@ Se logra la clase si diseñas una evaluación de escritura con un G objetivo.
 
 ## Bibliografía
 
-- Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review*, 2(2), 130-144. [DOI](https://doi.org/10.1016/j.edurev.2007.05.002)
-- Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage.
-- Brennan, R. L. (2001). *Generalizability Theory*. Springer. [DOI](https://doi.org/10.1007/978-1-4757-3456-0)
+- Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review*, 2(2), 130-144. ✅ [DOI](https://doi.org/10.1016/j.edurev.2007.05.002)
+- Shavelson, R. J., & Webb, N. M. (1991). *Generalizability Theory: A Primer*. Sage. ⚠️ hay una obra de título parecido en Crossref con otro año (2004): comprobar la edición a mano
+- Brennan, R. L. (2001). *Generalizability Theory*. Springer. ✅ [DOI](https://doi.org/10.1007/978-1-4757-3456-0)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

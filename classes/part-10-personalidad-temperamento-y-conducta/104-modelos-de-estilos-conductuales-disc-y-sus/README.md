@@ -111,9 +111,11 @@ Se logra la clase si puedes cuantificar la estabilidad y limitar las conclusione
 
 ## Bibliografía
 
-- Marston, W. M. (1928). *Emotions of Normal People*. Kegan Paul, Trench, Trubner.
-- Hicks, L. E. (1970). Some properties of ipsative, normative, and forced-choice normative measures. *Psychological Bulletin*, 74(3), 167-184.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Marston, W. M. (1928). *Emotions of Normal People*. Kegan Paul, Trench, Trubner. ✅ [DOI](https://doi.org/10.1037/13390-000)
+- Hicks, L. E. (1970). Some properties of ipsative, normative, and forced-choice normative measures. *Psychological Bulletin*, 74(3), 167-184. ✅ [DOI](https://doi.org/10.1037/h0029780)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

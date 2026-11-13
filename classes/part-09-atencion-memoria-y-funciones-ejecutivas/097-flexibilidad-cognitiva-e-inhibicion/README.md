@@ -110,8 +110,10 @@ Se logra la clase si puedes estimar la fiabilidad de un efecto y decidir el núm
 
 ## Bibliografía
 
-- Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences. *Behavior Research Methods*, 50(3), 1166-1186.
-- Miyake, A., et al. (2000). The unity and diversity of executive functions and their contributions to complex «frontal lobe» tasks: A latent variable analysis. *Cognitive Psychology*, 41(1), 49-100.
+- Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences. *Behavior Research Methods*, 50(3), 1166-1186. ✅ [DOI](https://doi.org/10.3758/s13428-017-0935-1)
+- Miyake, A., et al. (2000). The unity and diversity of executive functions and their contributions to complex «frontal lobe» tasks: A latent variable analysis. *Cognitive Psychology*, 41(1), 49-100. ✅ [DOI](https://doi.org/10.1006/cogp.1999.0734)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

@@ -105,9 +105,11 @@ Se logra la clase si cuantificas la estabilidad de una clasificación y la inter
 
 ## Bibliografía
 
-- Lewin, K., Lippitt, R., & White, R. K. (1939). Patterns of aggressive behavior in experimentally created "social climates". *Journal of Social Psychology*, 10(2), 271-299. [DOI](https://doi.org/10.1080/00224545.1939.9713366)
-- Stogdill, R. M. (1948). Personal factors associated with leadership: A survey of the literature. *Journal of Psychology*, 25, 35-71. [DOI](https://doi.org/10.1080/00223980.1948.9917362)
-- Judge, T. A., Piccolo, R. F., & Ilies, R. (2004). The forgotten ones? The validity of consideration and initiating structure in leadership research. *Journal of Applied Psychology*, 89(1), 36-51. [DOI](https://doi.org/10.1037/0021-9010.89.1.36)
+- Lewin, K., Lippitt, R., & White, R. K. (1939). Patterns of aggressive behavior in experimentally created "social climates". *Journal of Social Psychology*, 10(2), 271-299. ✅ [DOI](https://doi.org/10.1080/00224545.1939.9713366)
+- Stogdill, R. M. (1948). Personal factors associated with leadership: A survey of the literature. *Journal of Psychology*, 25, 35-71. ✅ [DOI](https://doi.org/10.1080/00223980.1948.9917362)
+- Judge, T. A., Piccolo, R. F., & Ilies, R. (2004). The forgotten ones? The validity of consideration and initiating structure in leadership research. *Journal of Applied Psychology*, 89(1), 36-51. ✅ [DOI](https://doi.org/10.1037/0021-9010.89.1.36)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

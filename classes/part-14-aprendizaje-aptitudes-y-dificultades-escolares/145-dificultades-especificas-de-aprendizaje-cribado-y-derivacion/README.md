@@ -106,8 +106,10 @@ Se logra la clase si diseñas un cribado escalonado y justificas la duración de
 
 ## Bibliografía
 
-- Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention: What, why, and how valid is it? *Reading Research Quarterly*, 41(1), 93-99. [DOI](https://doi.org/10.1598/rrq.41.1.4)
-- Christ, T. J. (2006). Short-term estimates of growth using curriculum-based measurement of oral reading fluency. *School Psychology Review*, 35(1), 128-133. [DOI](https://doi.org/10.1080/02796015.2006.12088006)
+- Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention: What, why, and how valid is it? *Reading Research Quarterly*, 41(1), 93-99. ✅ [DOI](https://doi.org/10.1598/rrq.41.1.4)
+- Christ, T. J. (2006). Short-term estimates of growth using curriculum-based measurement of oral reading fluency. *School Psychology Review*, 35(1), 128-133. ✅ [DOI](https://doi.org/10.1080/02796015.2006.12088006)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

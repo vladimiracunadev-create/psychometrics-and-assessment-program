@@ -39,7 +39,8 @@ def etiqueta(ref: str, v: dict) -> str:
     if e == "verificada":
         return f"{ref} ✅ [DOI](https://doi.org/{v['doi']})"
     if e == "edicion-difiere":
-        return f"{ref} ⚠️ existe, pero Crossref registra {v['anio_cr']} (¿otra edición?; [DOI](https://doi.org/{v['doi']}))"
+        # No se enlaza el DOI: apunta a otra edicion u otra obra y induciria a error.
+        return f"{ref} ⚠️ hay una obra de título parecido en Crossref con otro año ({v['anio_cr']}): comprobar la edición a mano"
     return f"{ref} 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)"
 
 
@@ -47,23 +48,40 @@ def main(ruta: str) -> None:
     res = json.loads(pathlib.Path(ruta).read_text(encoding="utf-8"))
     for p in R.glob("classes/*/*/README.md"):
         s = p.read_text(encoding="utf-8")
-        if ENC not in s:
-            continue
+        if ENC not in s or "Leyenda: ✅ verificada con DOI" in s:
+            continue  # sin bibliografia, o bibliografia curada a mano
         cab, cola = s.split(ENC, 1)
+        # El bloque de navegacion (al final) no forma parte de la bibliografia.
+        marca = "\n---\n\n<!-- NAV -->"
+        pie = ""
+        if marca in cola:
+            cola, pie = cola.split(marca, 1)
+            pie = marca + pie
         lineas = []
         for ln in cola.splitlines():
+            if ln.startswith("Leyenda:"):
+                continue
             if ln.startswith("- "):
                 ref = re.split(r" (?:✅|⚠️|🔎) ", ln[2:].strip())[0]
                 v = res.get(ref)
                 ln = "- " + (etiqueta(ref, v) if v else ref)
             lineas.append(ln)
-        nota = ("\n\nLeyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ el título existe "
-                "pero con otro año (reedición); 🔎 no verificada automáticamente. Crossref confirma la existencia de la "
-                "fuente, no que respalde cada afirmación de la clase.")
-        cola2 = "\n".join(lineas).rstrip() + "\n"
-        if "Leyenda: ✅" not in cola2:
-            cola2 = cola2.rstrip() + nota + "\n"
-        p.write_text(cab + ENC + cola2, encoding="utf-8")
+        nota = ("Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título "
+                "parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, "
+                "normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. "
+                "Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).")
+        cuerpo = "\n".join(lineas).rstrip() + "\n\n" + nota + "\n"
+        p.write_text(cab + ENC + cuerpo + pie, encoding="utf-8")
+    # Solo cuentan las referencias que hoy aparecen en algun README (el cache puede traer textos antiguos).
+    vigentes: set[str] = set()
+    for p in R.glob("classes/*/*/README.md"):
+        s = p.read_text(encoding="utf-8")
+        if ENC not in s:
+            continue
+        for ln in s.split(ENC, 1)[1].splitlines():
+            if ln.startswith("- "):
+                vigentes.add(re.split(r" (?:✅|⚠️|🔎) ", ln[2:].strip())[0])
+    res = {k: v for k, v in res.items() if k in vigentes}
     c = collections.Counter(estado(v) for v in res.values())
     reg = {k: {"estado": estado(v), "doi": v.get("doi"), "anio_crossref": v.get("anio_cr"), "clases": v["clases"]} for k, v in res.items()}
     (R / "catalogo" / "bibliografia.yaml").write_text(

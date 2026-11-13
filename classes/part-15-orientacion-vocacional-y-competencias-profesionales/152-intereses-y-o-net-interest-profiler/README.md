@@ -106,9 +106,11 @@ Se logra la clase si auditas la licencia y presentas resultados como opciones a 
 
 ## Bibliografía y fuentes
 
-- O\*NET Resource Center. *O\*NET Interest Profiler* (onetcenter.org). U.S. Department of Labor/ETA.
-- Armstrong, P. I., Day, S. X., McVay, J. P., & Rounds, J. (2008). Holland's RIASEC model as an integrative framework for individual differences. *Journal of Counseling Psychology*, 55(1), 1-18. [DOI](https://doi.org/10.1037/0022-0167.55.1.1)
-- `instruments/onet-riasec-sf.yaml` y `DISCLAIMER.md` del repositorio.
+- O\*NET Resource Center. *O\*NET Interest Profiler* (onetcenter.org). U.S. Department of Labor/ETA. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Armstrong, P. I., Day, S. X., McVay, J. P., & Rounds, J. (2008). Holland's RIASEC model as an integrative framework for individual differences. *Journal of Counseling Psychology*, 55(1), 1-18. ✅ [DOI](https://doi.org/10.1037/0022-0167.55.1.1)
+- `instruments/onet-riasec-sf.yaml` y `DISCLAIMER.md` del repositorio. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

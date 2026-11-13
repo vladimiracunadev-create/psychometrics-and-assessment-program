@@ -114,8 +114,10 @@ Se logra la clase si puedes diseñar un test para un propósito y justificarlo c
 
 ## Bibliografía
 
-- Samejima, F. (1977). A use of the information function in tailored testing. *Applied Psychological Measurement*, 1(3), 233-247.
-- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum.
+- Samejima, F. (1977). A use of the information function in tailored testing. *Applied Psychological Measurement*, 1(3), 233-247. ✅ [DOI](https://doi.org/10.1177/014662167700100209)
+- Embretson, S. E., & Reise, S. P. (2000). *Item Response Theory for Psychologists*. Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

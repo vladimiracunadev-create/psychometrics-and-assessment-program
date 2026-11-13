@@ -107,9 +107,11 @@ Se logra la clase si generas ítems con dificultad explicada y usas errores con 
 
 ## Bibliografía
 
-- Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic mathematical skills. *Cognitive Science*, 2(2), 155-192. [DOI](https://doi.org/10.1016/s0364-0213(78)80004-4)
-- VanLehn, K. (1990). *Mind Bugs: The Origins of Procedural Misconceptions*. MIT Press.
-- Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15. [DOI](https://doi.org/10.1177/00222194040370010201)
+- Brown, J. S., & Burton, R. R. (1978). Diagnostic models for procedural bugs in basic mathematical skills. *Cognitive Science*, 2(2), 155-192.80004-4) ✅ [DOI](https://doi.org/10.1016/s0364-0213(78)80004-4)
+- VanLehn, K. (1990). *Mind Bugs: The Origins of Procedural Misconceptions*. MIT Press. ⚠️ hay una obra de título parecido en Crossref con otro año (1991): comprobar la edición a mano
+- Geary, D. C. (2004). Mathematics and learning disabilities. *Journal of Learning Disabilities*, 37(1), 4-15. ✅ [DOI](https://doi.org/10.1177/00222194040370010201)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

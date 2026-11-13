@@ -106,8 +106,10 @@ Se logra la clase si contrastas ambas medidas y evitas atribuir brechas a la per
 
 ## Bibliografía
 
-- Carretero, S., Vuorikari, R., & Punie, Y. (2017). *DigComp 2.1: The Digital Competence Framework for Citizens*. Joint Research Centre, European Commission.
-- Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social Science Computer Review*, 23(3), 371-379. [DOI](https://doi.org/10.1177/0894439305275911)
+- Carretero, S., Vuorikari, R., & Punie, Y. (2017). *DigComp 2.1: The Digital Competence Framework for Citizens*. Joint Research Centre, European Commission. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Hargittai, E. (2005). Survey measures of web-oriented digital literacy. *Social Science Computer Review*, 23(3), 371-379. ✅ [DOI](https://doi.org/10.1177/0894439305275911)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

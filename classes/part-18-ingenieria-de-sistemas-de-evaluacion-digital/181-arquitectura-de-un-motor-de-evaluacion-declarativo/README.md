@@ -110,8 +110,10 @@ Se logra la clase si implementas la idea, la pruebas con datos sintéticos y dec
 
 ## Bibliografía
 
-- Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. AERA.
+- Fowler, M. (2010). *Domain-Specific Languages*. Addison-Wesley. ✅ [DOI](https://doi.org/10.1109/ms.2009.85)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. AERA. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

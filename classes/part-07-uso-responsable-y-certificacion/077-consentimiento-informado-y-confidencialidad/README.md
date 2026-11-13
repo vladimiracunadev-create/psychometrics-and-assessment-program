@@ -113,9 +113,11 @@ Se logra la clase si puedes diseñar un consentimiento específico y un registro
 
 ## Bibliografía
 
-- World Medical Association (2013). Declaration of Helsinki: Ethical principles for medical research involving human subjects. *JAMA*, 310(20), 2191-2194.
-- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- World Medical Association (2013). Declaration of Helsinki: Ethical principles for medical research involving human subjects. *JAMA*, 310(20), 2191-2194. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. ⚠️ hay una obra de título parecido en Crossref con otro año (2002): comprobar la edición a mano
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

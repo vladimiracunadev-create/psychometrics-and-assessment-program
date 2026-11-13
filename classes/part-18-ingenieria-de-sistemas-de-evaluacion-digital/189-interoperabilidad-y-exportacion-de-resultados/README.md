@@ -115,8 +115,10 @@ Se logra la clase si implementas la idea, la pruebas con datos sintéticos y dec
 
 ## Bibliografía
 
-- OWASP. *CSV Injection*. owasp.org.
-- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018.
+- OWASP. *CSV Injection*. owasp.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018. ⚠️ hay una obra de título parecido en Crossref con otro año (2018): comprobar la edición a mano
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

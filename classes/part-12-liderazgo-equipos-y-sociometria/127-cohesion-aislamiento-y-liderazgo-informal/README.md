@@ -105,9 +105,11 @@ Se logra la clase si diseñas un protocolo de confirmación y apoyo respetuoso.
 
 ## Bibliografía
 
-- Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross-age perspective. *Developmental Psychology*, 18(4), 557-570. [DOI](https://doi.org/10.1037/0012-1649.18.4.557)
-- Asher, S. R., & Coie, J. D. (Eds.) (1990). *Peer Rejection in Childhood*. Cambridge University Press.
-- Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin et al. (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*. Guilford.
+- Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross-age perspective. *Developmental Psychology*, 18(4), 557-570. ✅ [DOI](https://doi.org/10.1037/0012-1649.18.4.557)
+- Asher, S. R., & Coie, J. D. (Eds.) (1990). *Peer Rejection in Childhood*. Cambridge University Press. ✅ [DOI](https://doi.org/10.2307/2071877)
+- Cillessen, A. H. N. (2009). Sociometric methods. En K. H. Rubin et al. (Eds.), *Handbook of Peer Interactions, Relationships, and Groups*. Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

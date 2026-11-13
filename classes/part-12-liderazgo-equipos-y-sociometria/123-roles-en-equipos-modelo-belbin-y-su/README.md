@@ -106,10 +106,12 @@ Se logra la clase si cuantificas y corriges los falsos positivos y desaconsejas 
 
 ## Bibliografía
 
-- Belbin, R. M. (1981). *Management Teams: Why They Succeed or Fail*. Heinemann.
-- Furnham, A., Steele, H., & Pendleton, D. (1993). A psychometric assessment of the Belbin Team-Role Self-Perception Inventory. *Journal of Occupational and Organizational Psychology*, 66(3), 245-257. [DOI](https://doi.org/10.1111/j.2044-8325.1993.tb00535.x)
-- Aritzeta, A., Swailes, S., & Senior, B. (2007). Belbin's team role model: Development, validity and applications for team building. *Journal of Management Studies*, 44(1), 96-118. [DOI](https://doi.org/10.1111/j.1467-6486.2007.00666.x)
-- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology. *Psychological Science*, 22(11), 1359-1366. [DOI](https://doi.org/10.1177/0956797611417632)
+- Belbin, R. M. (1981). *Management Teams: Why They Succeed or Fail*. Heinemann. ✅ [DOI](https://doi.org/10.2307/2581652)
+- Furnham, A., Steele, H., & Pendleton, D. (1993). A psychometric assessment of the Belbin Team-Role Self-Perception Inventory. *Journal of Occupational and Organizational Psychology*, 66(3), 245-257. ✅ [DOI](https://doi.org/10.1111/j.2044-8325.1993.tb00535.x)
+- Aritzeta, A., Swailes, S., & Senior, B. (2007). Belbin's team role model: Development, validity and applications for team building. *Journal of Management Studies*, 44(1), 96-118. ✅ [DOI](https://doi.org/10.1111/j.1467-6486.2007.00666.x)
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology. *Psychological Science*, 22(11), 1359-1366. ✅ [DOI](https://doi.org/10.1177/0956797611417632)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

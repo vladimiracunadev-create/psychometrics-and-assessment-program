@@ -29,8 +29,8 @@ Cifras calculadas del repositorio al momento de generar este informe (no estimad
 
 - **Ningún instrumento nuevo ejecutable**: el catálogo sigue con 5 instrumentos, 344 ítems y 81 escalas. El instrumento original de la clase 199 es un borrador dentro del laboratorio, sin validar y fuera del catálogo.
 - **Ninguna ficha contrastada con fuente primaria** (135 de 140 siguen `verificado: false`): titulares, licencias y versiones de los 135 instrumentos documentados no están verificados. Los 15 instrumentos laborales se documentan solo por su denominación.
-- **Bibliografías redactadas de memoria**: no se contrastaron con las fuentes primarias; hay que verificarlas antes de citarlas.
-- **Sin revisión por pares**: las clases usan un formato compacto (sin glosario por clase ni casos de investigación) y no han sido revisadas por especialistas.
+- **Bibliografías solo contrastadas con Crossref**: de 412 referencias únicas, 288 existen con título y año coincidentes, 33 aparecen con otro año (se comprueba la edición) y 91 (libros sin DOI, normas, sitios web) quedan por comprobar a mano. Crossref confirma que la obra existe, no que respalde lo que dice la clase (`docs/VERIFICACION_BIBLIOGRAFIA.md`).
+- **Sin revisión por pares**: las 200 clases tienen formato pedagógico (explicación, figura, ejercicios y glosario), pero no han sido revisadas por especialistas; las cifras de los laboratorios son de simulación.
 - **Sin baremos ni estudios de validación propios**: todos los datos de los laboratorios son simulados; no se inventaron normas ni estudios.
 - **Motor sin ítems de rendimiento** (clave correcta, tiempos, adaptativo): los laboratorios enseñan las técnicas, pero no hay módulo reutilizable en `src/` para fiabilidad, TRI ni análisis factorial.
 - Las referencias legales chilenas (Ley 19.628 y Ley 21.719) se verificaron en fuentes públicas el 2026-11-12 y no constituyen asesoría jurídica.

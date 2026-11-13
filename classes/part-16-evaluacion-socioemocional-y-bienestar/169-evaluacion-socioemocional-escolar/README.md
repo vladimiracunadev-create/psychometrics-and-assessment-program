@@ -112,8 +112,10 @@ Se logra la clase si comparas reglas y propones un uso de apoyo con confidencial
 
 ## Bibliografía
 
-- Goodman, R. (1997). The Strengths and Difficulties Questionnaire: A research note. *Journal of Child Psychology and Psychiatry*, 38(5), 581-586. [DOI](https://doi.org/10.1111/j.1469-7610.1997.tb01545.x)
-- Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42. [DOI](https://doi.org/10.1080/13632752.2015.1120051)
+- Goodman, R. (1997). The Strengths and Difficulties Questionnaire: A research note. *Journal of Child Psychology and Psychiatry*, 38(5), 581-586. ✅ [DOI](https://doi.org/10.1111/j.1469-7610.1997.tb01545.x)
+- Humphrey, N., & Wigelsworth, M. (2016). Making the case for universal school-based mental health screening. *Emotional and Behavioural Difficulties*, 21(1), 22-42. ✅ [DOI](https://doi.org/10.1080/13632752.2015.1120051)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

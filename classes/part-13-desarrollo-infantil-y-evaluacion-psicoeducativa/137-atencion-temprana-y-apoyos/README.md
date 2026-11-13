@@ -107,8 +107,10 @@ Se logra la clase si analizas un caso único y declaras la debilidad del diseño
 
 ## Bibliografía
 
-- Parker, R. I., & Vannest, K. J. (2009). An improved effect size for single-case research: Nonoverlap of all pairs. *Behavior Therapy*, 40(4), 357-367. [DOI](https://doi.org/10.1016/j.beth.2008.10.006)
-- Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*. What Works Clearinghouse.
+- Parker, R. I., & Vannest, K. J. (2009). An improved effect size for single-case research: Nonoverlap of all pairs. *Behavior Therapy*, 40(4), 357-367. ✅ [DOI](https://doi.org/10.1016/j.beth.2008.10.006)
+- Kratochwill, T. R., et al. (2010). *Single-Case Designs Technical Documentation*. What Works Clearinghouse. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

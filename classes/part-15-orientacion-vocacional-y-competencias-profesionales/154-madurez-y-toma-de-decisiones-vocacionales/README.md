@@ -108,9 +108,11 @@ Se logra la clase si modelas una decisión y explicas su sensibilidad.
 
 ## Bibliografía
 
-- Gati, I., Krausz, M., & Osipow, S. H. (1996). A taxonomy of difficulties in career decision making. *Journal of Counseling Psychology*, 43(4), 510-526. [DOI](https://doi.org/10.1037/0022-0167.43.4.510)
-- Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley.
-- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley.
+- Gati, I., Krausz, M., & Osipow, S. H. (1996). A taxonomy of difficulties in career decision making. *Journal of Counseling Psychology*, 43(4), 510-526. ✅ [DOI](https://doi.org/10.1037/0022-0167.43.4.510)
+- Keeney, R. L., & Raiffa, H. (1976). *Decisions with Multiple Objectives*. Wiley. ⚠️ hay una obra de título parecido en Crossref con otro año (1993): comprobar la edición a mano
+- Savickas, M. L. (2005). The theory and practice of career construction. En S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling*. Wiley. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

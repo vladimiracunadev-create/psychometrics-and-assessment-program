@@ -106,9 +106,11 @@ Se logra la clase si verificas reproducibilidad y documentas el entorno.
 
 ## Bibliografía
 
-- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606. [DOI](https://doi.org/10.1073/pnas.1708274114)
-- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018.
-- Peng, R. D. (2011). Reproducible research in computational science. *Science*, 334, 1226-1227. [DOI](https://doi.org/10.1126/science.1213847)
+- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606. ✅ [DOI](https://doi.org/10.1073/pnas.1708274114)
+- Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, 3, 160018. ⚠️ hay una obra de título parecido en Crossref con otro año (2018): comprobar la edición a mano
+- Peng, R. D. (2011). Reproducible research in computational science. *Science*, 334, 1226-1227. ✅ [DOI](https://doi.org/10.1126/science.1213847)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

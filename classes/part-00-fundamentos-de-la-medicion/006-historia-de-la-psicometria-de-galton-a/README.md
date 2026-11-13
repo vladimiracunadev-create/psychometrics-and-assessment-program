@@ -118,8 +118,10 @@ Se logra la clase si puedes explicar el fenómeno sin fórmulas y detectar una s
 
 ## Bibliografía
 
-- Galton, F. (1886). Regression towards mediocrity in hereditary stature. *Journal of the Anthropological Institute*, 15, 246-263.
-- Spearman, C. (1904). «General intelligence» objectively determined and measured. *American Journal of Psychology*, 15(2), 201-292.
+- Galton, F. (1886). Regression towards mediocrity in hereditary stature. *Journal of the Anthropological Institute*, 15, 246-263. ✅ [DOI](https://doi.org/10.2307/2841583)
+- Spearman, C. (1904). «General intelligence» objectively determined and measured. *American Journal of Psychology*, 15(2), 201-292. ✅ [DOI](https://doi.org/10.2307/1412107)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

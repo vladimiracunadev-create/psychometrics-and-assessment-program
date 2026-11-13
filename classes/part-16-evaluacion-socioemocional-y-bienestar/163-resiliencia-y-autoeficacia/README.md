@@ -108,9 +108,11 @@ Se logra la clase si distingues resultado de rasgo y evitas etiquetas.
 
 ## Bibliografía
 
-- Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist*, 59(1), 20-28.
-- Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. *Child Development*, 71(3), 543-562. [DOI](https://doi.org/10.1111/1467-8624.00164)
-- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.
+- Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist*, 59(1), 20-28. ✅ [DOI](https://doi.org/10.1037/0003-066x.59.1.20)
+- Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. *Child Development*, 71(3), 543-562. ✅ [DOI](https://doi.org/10.1111/1467-8624.00164)
+- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman. ⚠️ hay una obra de título parecido en Crossref con otro año (1999): comprobar la edición a mano
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

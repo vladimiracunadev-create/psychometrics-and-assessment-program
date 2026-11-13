@@ -116,9 +116,11 @@ Se logra la clase si puedes estimar k y discutir la multidimensionalidad de la i
 
 ## Bibliografía
 
-- Mazur, J. E. (1987). An adjusting procedure for studying delayed reinforcement. En M. L. Commons et al. (Eds.), *Quantitative Analyses of Behavior* (Vol. 5). Lawrence Erlbaum.
-- Patton, J. H., Stanford, M. S., & Barratt, E. S. (1995). Factor structure of the Barratt Impulsiveness Scale. *Journal of Clinical Psychology*, 51(6), 768-774.
-- Sharma, L., Markon, K. E., & Clark, L. A. (2014). Toward a theory of distinct types of «impulsive» behaviors: A meta-analysis of self-report and behavioral measures. *Psychological Bulletin*, 140(2), 374-408.
+- Mazur, J. E. (1987). An adjusting procedure for studying delayed reinforcement. En M. L. Commons et al. (Eds.), *Quantitative Analyses of Behavior* (Vol. 5). Lawrence Erlbaum. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Patton, J. H., Stanford, M. S., & Barratt, E. S. (1995). Factor structure of the Barratt Impulsiveness Scale. *Journal of Clinical Psychology*, 51(6), 768-774. ✅ [DOI](https://doi.org/10.1002/1097-4679(199511)51:6<768::aid-jclp2270510607>3.0.co;2-1)
+- Sharma, L., Markon, K. E., & Clark, L. A. (2014). Toward a theory of distinct types of «impulsive» behaviors: A meta-analysis of self-report and behavioral measures. *Psychological Bulletin*, 140(2), 374-408. ✅ [DOI](https://doi.org/10.1037/a0034418)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

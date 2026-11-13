@@ -114,9 +114,11 @@ Se logra la clase si puedes detectar anomalías y proponer un plan de seguridad 
 
 ## Bibliografía
 
-- Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods for Detecting Cheating on Tests*. Routledge.
-- Impara, J. C., & Foster, D. (2006). Item and test development strategies to minimize test fraud. En S. M. Downing & T. M. Haladyna (Eds.), *Handbook of Test Development*. Lawrence Erlbaum.
-- Way, W. D. (1998). Protecting the integrity of computerized testing item pools. *Educational Measurement: Issues and Practice*, 17(4), 17-27.
+- Cizek, G. J., & Wollack, J. A. (Eds.) (2017). *Handbook of Quantitative Methods for Detecting Cheating on Tests*. Routledge. ✅ [DOI](https://doi.org/10.4324/9781315743097)
+- Impara, J. C., & Foster, D. (2006). Item and test development strategies to minimize test fraud. En S. M. Downing & T. M. Haladyna (Eds.), *Handbook of Test Development*. Lawrence Erlbaum. ⚠️ hay una obra de título parecido en Crossref con otro año (None): comprobar la edición a mano
+- Way, W. D. (1998). Protecting the integrity of computerized testing item pools. *Educational Measurement: Issues and Practice*, 17(4), 17-27. ✅ [DOI](https://doi.org/10.1111/j.1745-3992.1998.tb00632.x)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

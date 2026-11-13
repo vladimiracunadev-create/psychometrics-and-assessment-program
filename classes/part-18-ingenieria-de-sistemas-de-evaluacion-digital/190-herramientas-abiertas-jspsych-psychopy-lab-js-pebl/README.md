@@ -112,8 +112,10 @@ Se logra la clase si implementas la idea, la pruebas con datos sintéticos y dec
 
 ## Bibliografía
 
-- Open Source Initiative. *Open Source Definition*. opensource.org.
-- Choose a License. choosealicense.com.
+- Open Source Initiative. *Open Source Definition*. opensource.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Choose a License. choosealicense.com. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

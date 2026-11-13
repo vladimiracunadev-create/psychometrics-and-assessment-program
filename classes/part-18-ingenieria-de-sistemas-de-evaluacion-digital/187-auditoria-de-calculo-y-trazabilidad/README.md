@@ -108,8 +108,10 @@ Se logra la clase si implementas la idea, la pruebas con datos sintéticos y dec
 
 ## Bibliografía
 
-- McKeeman, W. M. (1998). Differential testing for software. *Digital Technical Journal*, 10(1), 100-107.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. AERA.
+- McKeeman, W. M. (1998). Differential testing for software. *Digital Technical Journal*, 10(1), 100-107. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. AERA. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

@@ -108,8 +108,10 @@ Se logra la clase si puedes calcular los tres indicadores, interpretarlos y prop
 
 ## Bibliografía
 
-- Fleiss, J. L., & Cohen, J. (1973). The equivalence of weighted kappa and the intraclass correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619.
-- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*.
+- Fleiss, J. L., & Cohen, J. (1973). The equivalence of weighted kappa and the intraclass correlation coefficient. *Educational and Psychological Measurement*, 33, 613-619. ✅ [DOI](https://doi.org/10.1177/001316447303300309)
+- AERA, APA, & NCME (2014). *Standards for Educational and Psychological Testing*. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

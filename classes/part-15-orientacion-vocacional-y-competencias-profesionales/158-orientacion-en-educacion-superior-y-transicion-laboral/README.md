@@ -109,9 +109,11 @@ Se logra la clase si evalúas un modelo de alerta, lo auditas por grupo y define
 
 ## Bibliografía
 
-- Tinto, V. (1993). *Leaving College: Rethinking the Causes and Cures of Student Attrition* (2.ª ed.). University of Chicago Press.
-- Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? A review of the predictors of dropping out of high school. *The High School Journal*, 96(2), 77-100.
-- Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org.
+- Tinto, V. (1993). *Leaving College: Rethinking the Causes and Cures of Student Attrition* (2.ª ed.). University of Chicago Press. ⚠️ hay una obra de título parecido en Crossref con otro año (1987): comprobar la edición a mano
+- Bowers, A. J., Sprott, R., & Taff, S. A. (2013). Do we know who will drop out? A review of the predictors of dropping out of high school. *The High School Journal*, 96(2), 77-100. ✅ [DOI](https://doi.org/10.1353/hsj.2013.0000)
+- Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning*. fairmlbook.org. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

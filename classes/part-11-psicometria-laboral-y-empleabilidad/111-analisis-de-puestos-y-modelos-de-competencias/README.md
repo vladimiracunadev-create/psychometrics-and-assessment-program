@@ -111,8 +111,10 @@ Se logra la clase si puedes construir y justificar un modelo desde un análisis 
 
 ## Bibliografía
 
-- Brannick, M. T., Levine, E. L., & Morgeson, F. P. (2007). *Job and Work Analysis* (2.ª ed.). Sage.
-- Sanchez, J. I., & Levine, E. L. (2012). The rise and fall of job analysis and the future of work analysis. *Annual Review of Psychology*, 63, 397-425. [DOI](https://doi.org/10.1146/annurev-psych-120710-100401)
+- Brannick, M. T., Levine, E. L., & Morgeson, F. P. (2007). *Job and Work Analysis* (2.ª ed.). Sage. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Sanchez, J. I., & Levine, E. L. (2012). The rise and fall of job analysis and the future of work analysis. *Annual Review of Psychology*, 63, 397-425. ✅ [DOI](https://doi.org/10.1146/annurev-psych-120710-100401)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

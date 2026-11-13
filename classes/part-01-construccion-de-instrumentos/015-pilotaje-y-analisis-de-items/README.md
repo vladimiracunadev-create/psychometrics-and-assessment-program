@@ -127,8 +127,10 @@ Se logra la clase si puedes calcular los indicadores, justificar la decisión so
 
 ## Bibliografía
 
-- Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart and Winston.
-- DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4.ª ed.). SAGE.
+- Crocker, L., & Algina, J. (1986). *Introduction to Classical and Modern Test Theory*. Holt, Rinehart and Winston. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4.ª ed.). SAGE. ⚠️ hay una obra de título parecido en Crossref con otro año (1992): comprobar la edición a mano
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

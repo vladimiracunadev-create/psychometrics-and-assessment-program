@@ -118,8 +118,10 @@ Se logra la clase si eliges un tratamiento según el mecanismo y declaras tus su
 
 ## Bibliografía
 
-- Rubin, D. B. (1976). Inference and missing data. *Biometrika*, 63(3), 581-592. [DOI](https://doi.org/10.1093/biomet/63.3.581)
-- Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art. *Psychological Methods*, 7(2), 147-177. [DOI](https://doi.org/10.1037/1082-989x.7.2.147)
+- Rubin, D. B. (1976). Inference and missing data. *Biometrika*, 63(3), 581-592. ✅ [DOI](https://doi.org/10.1093/biomet/63.3.581)
+- Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art. *Psychological Methods*, 7(2), 147-177. ✅ [DOI](https://doi.org/10.1037/1082-989x.7.2.147)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

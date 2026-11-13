@@ -110,9 +110,11 @@ Se logra la clase si puedes elegir el nivel de medida según el criterio.
 
 ## Bibliografía
 
-- Costa, P. T., & McCrae, R. R. (1992). *Professional Manual: Revised NEO Personality Inventory (NEO PI-R)*. Psychological Assessment Resources.
-- John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy: History, measurement, and theoretical perspectives. En L. A. Pervin & O. P. John (Eds.), *Handbook of Personality* (2.ª ed.). Guilford.
-- Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539.
+- Costa, P. T., & McCrae, R. R. (1992). *Professional Manual: Revised NEO Personality Inventory (NEO PI-R)*. Psychological Assessment Resources. ⚠️ hay una obra de título parecido en Crossref con otro año (2008): comprobar la edición a mano
+- John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy: History, measurement, and theoretical perspectives. En L. A. Pervin & O. P. John (Eds.), *Handbook of Personality* (2.ª ed.). Guilford. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. *Journal of Personality and Social Psychology*, 81(3), 524-539. ✅ [DOI](https://doi.org/10.1037/0022-3514.81.3.524)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

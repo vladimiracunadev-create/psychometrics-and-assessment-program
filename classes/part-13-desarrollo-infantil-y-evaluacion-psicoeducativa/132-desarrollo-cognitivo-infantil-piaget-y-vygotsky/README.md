@@ -107,9 +107,11 @@ Se logra la clase si describes el desempeño con y sin apoyo sin asignar etiquet
 
 ## Bibliografía
 
-- Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. [DOI](https://doi.org/10.1037/11494-000)
-- Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.
-- Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press.
+- Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. ✅ [DOI](https://doi.org/10.1037/11494-000)
+- Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+- Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

@@ -10,7 +10,9 @@ falta y en qué orden.
 - [x] Clases 011-015 (parte 01) escritas con laboratorio.
 - [x] Partes 02 a 12 completas (ver `docs/COBERTURA_CURRICULAR.md` para el detalle por parte), con laboratorios solo de biblioteca estandar.
 - [x] Redactar las 200 clases con laboratorio reproducible (estado verificable en `curriculum.yaml`).
-- [ ] Contrastar las bibliografías con fuentes primarias y someter las clases a revisión por pares.
+- [x] Las 200 clases en formato pedagógico con figura SVG, ejercicios, glosario y navegación.
+- [x] Bibliografías contrastadas con Crossref (`docs/VERIFICACION_BIBLIOGRAFIA.md`).
+- [ ] Comprobar a mano las referencias sin DOI (libros, normas, sitios) y someter las clases a revisión por pares.
 - [ ] Contrastar cada ficha con su fuente primaria y pasar a `verificado: true`.
 - [ ] Extensión del esquema para ítems de rendimiento (clave, tiempo, adaptativo) con tests propios.
 - [ ] Instrumentos ejecutables nuevos con bancos abiertos u originales.

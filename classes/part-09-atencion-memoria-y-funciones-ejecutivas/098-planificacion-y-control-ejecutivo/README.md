@@ -109,9 +109,11 @@ Se logra la clase si puedes calcular dificultades objetivas y usarlas para dise�
 
 ## Bibliografía
 
-- Shallice, T. (1982). Specific impairments of planning. *Philosophical Transactions of the Royal Society of London B*, 298, 199-209.
-- Miyake, A., et al. (2000). The unity and diversity of executive functions and their contributions to complex «frontal lobe» tasks: A latent variable analysis. *Cognitive Psychology*, 41(1), 49-100.
-- Hinz, A., & Klavžar, S. (2013). *The Tower of Hanoi — Myths and Maths*. Birkhäuser.
+- Shallice, T. (1982). Specific impairments of planning. *Philosophical Transactions of the Royal Society of London B*, 298, 199-209. ✅ [DOI](https://doi.org/10.1098/rstb.1982.0082)
+- Miyake, A., et al. (2000). The unity and diversity of executive functions and their contributions to complex «frontal lobe» tasks: A latent variable analysis. *Cognitive Psychology*, 41(1), 49-100. ✅ [DOI](https://doi.org/10.1006/cogp.1999.0734)
+- Hinz, A., & Klavžar, S. (2013). *The Tower of Hanoi — Myths and Maths*. Birkhäuser. ✅ [DOI](https://doi.org/10.1007/978-3-0348-0237-6)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

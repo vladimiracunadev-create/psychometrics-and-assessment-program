@@ -105,8 +105,10 @@ Se logra la clase si mejoras una rúbrica y mides el acuerdo.
 
 ## Bibliografía
 
-- Cohen, J. (1968). Weighted kappa: Nominal scale agreement with provision for scaled disagreement or partial credit. *Psychological Bulletin*, 70(4), 213-220. [DOI](https://doi.org/10.1037/h0026256)
-- Ministerio de Educación de Chile. *Bases Curriculares de la Educación Parvularia* (versión vigente: verificar en mineduc.cl).
+- Cohen, J. (1968). Weighted kappa: Nominal scale agreement with provision for scaled disagreement or partial credit. *Psychological Bulletin*, 70(4), 213-220. ✅ [DOI](https://doi.org/10.1037/h0026256)
+- Ministerio de Educación de Chile. *Bases Curriculares de la Educación Parvularia* (versión vigente: verificar en mineduc.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

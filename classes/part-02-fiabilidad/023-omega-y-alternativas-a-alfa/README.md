@@ -112,9 +112,11 @@ Se logra la clase si puedes calcular omega, anticipar la brecha con alfa y decla
 
 ## Bibliografía
 
-- McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum.
-- Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation. *British Journal of Psychology*, 105(3), 399-412.
-- Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. But… *Communication Methods and Measures*, 14(1), 1-24.
+- McDonald, R. P. (1999). *Test Theory: A Unified Treatment*. Lawrence Erlbaum. ✅ [DOI](https://doi.org/10.2307/2669496)
+- Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation. *British Journal of Psychology*, 105(3), 399-412. ✅ [DOI](https://doi.org/10.1111/bjop.12046)
+- Hayes, A. F., & Coutts, J. J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. But… *Communication Methods and Measures*, 14(1), 1-24. ✅ [DOI](https://doi.org/10.1080/19312458.2020.1718629)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

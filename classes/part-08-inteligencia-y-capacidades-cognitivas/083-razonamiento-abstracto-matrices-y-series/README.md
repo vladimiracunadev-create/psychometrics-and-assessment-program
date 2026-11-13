@@ -118,9 +118,11 @@ Se logra la clase si puedes generar ítems originales y verificarlos.
 
 ## Bibliografía
 
-- Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404-431.
-- Embretson, S. E. (1998). A cognitive design system approach to generating valid tests: Application to abstract reasoning. *Psychological Methods*, 3(3), 380-396.
-- Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation: Theory and Practice*. Routledge.
+- Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404-431. ✅ [DOI](https://doi.org/10.1037/0033-295x.97.3.404)
+- Embretson, S. E. (1998). A cognitive design system approach to generating valid tests: Application to abstract reasoning. *Psychological Methods*, 3(3), 380-396. ✅ [DOI](https://doi.org/10.1037/1082-989x.3.3.380)
+- Gierl, M. J., & Haladyna, T. M. (Eds.) (2013). *Automatic Item Generation: Theory and Practice*. Routledge. ✅ [DOI](https://doi.org/10.4324/9780203803912)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

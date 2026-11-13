@@ -112,9 +112,11 @@ Se logra la clase si redactas metas medibles y calculas e interpretas el T con c
 
 ## Bibliografía
 
-- Kiresuk, T. J., & Sherman, R. E. (1968). Goal attainment scaling: A general method for evaluating comprehensive community mental health programs. *Community Mental Health Journal*, 4(6), 443-453. [DOI](https://doi.org/10.1007/bf01530764)
-- Turner-Stokes, L. (2009). Goal attainment scaling (GAS) in rehabilitation: A practical guide. *Clinical Rehabilitation*, 23(4), 362-370. [DOI](https://doi.org/10.1177/0269215508101742)
-- CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST.
+- Kiresuk, T. J., & Sherman, R. E. (1968). Goal attainment scaling: A general method for evaluating comprehensive community mental health programs. *Community Mental Health Journal*, 4(6), 443-453. ✅ [DOI](https://doi.org/10.1007/bf01530764)
+- Turner-Stokes, L. (2009). Goal attainment scaling (GAS) in rehabilitation: A practical guide. *Clinical Rehabilitation*, 23(4), 362-370. ✅ [DOI](https://doi.org/10.1177/0269215508101742)
+- CAST (2018). *Universal Design for Learning Guidelines* (versión 2.2). CAST. 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 

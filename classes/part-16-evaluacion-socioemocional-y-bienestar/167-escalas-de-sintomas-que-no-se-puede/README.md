@@ -108,9 +108,11 @@ Se logra la clase si calculas el VPP y diseñas una regla de seguridad verificad
 
 ## Bibliografía y fuentes
 
-- Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. *Journal of General Internal Medicine*, 16(9), 606-613. [DOI](https://doi.org/10.1046/j.1525-1497.2001.016009606.x)
-- Streiner, D. L., & Norman, G. R. (2008). *Health Measurement Scales* (4.ª ed.). Oxford University Press. [DOI](https://doi.org/10.1093/acprof:oso/9780199231881.001.0001)
-- Ministerio de Salud de Chile: orientaciones de prevención del suicidio y canales de ayuda (versión vigente: verificar en minsal.cl).
+- Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. *Journal of General Internal Medicine*, 16(9), 606-613. ✅ [DOI](https://doi.org/10.1097/00006842-200203000-00008)
+- Streiner, D. L., & Norman, G. R. (2008). *Health Measurement Scales* (4.ª ed.). Oxford University Press. ✅ [DOI](https://doi.org/10.1093/acprof:oso/9780199231881.001.0001)
+- Ministerio de Salud de Chile: orientaciones de prevención del suicidio y canales de ayuda (versión vigente: verificar en minsal.cl). 🔎 sin verificar (libro, norma o sitio no hallado en Crossref: comprobar a mano)
+
+Leyenda: ✅ existe en Crossref con título y año coincidentes (enlace al DOI); ⚠️ hay una obra de título parecido con otro año (no se enlaza: comprobar la edición); 🔎 no verificada automáticamente (libros sin DOI, normas y sitios web). Crossref confirma la existencia de la fuente, no que respalde cada afirmación de la clase. Ver [`docs/VERIFICACION_BIBLIOGRAFIA.md`](../../../docs/VERIFICACION_BIBLIOGRAFIA.md).
 
 ---
 
